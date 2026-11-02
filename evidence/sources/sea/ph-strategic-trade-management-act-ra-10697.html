@@ -1,0 +1,609 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Republic Act No. 10697 - AN ACT PREVENTING THE PROLIFERATION OF WEAPONS OF MASS DESTRUCTION BY MANAGING THE TRADE IN STRATEGIC GOODS, THE PROVISION OF RELATED SERVICES, AND FOR OTHER PURPOSES - Supreme Court E-Library</title>
+    <link rel="stylesheet" href="https://elibrary.judiciary.gov.ph/assets/css/style.css" type="text/css" media="screen" />
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="feed/" />
+    <link rel="pingback" href="xmlrpc.php" />
+    <link rel="shortcut icon" href="https://elibrary.judiciary.gov.ph/assets/images/favicon.ico"/>
+    <script type="text/javascript" src="https://elibrary.judiciary.gov.ph/assets/js/jquery.js"></script>
+    <script type="text/javascript" src="https://elibrary.judiciary.gov.ph/assets/js/superfish.min.js"></script>
+    <script type="text/javascript" src="https://elibrary.judiciary.gov.ph/assets/js/supersubs.js"></script>
+    <script type="text/javascript" src="https://elibrary.judiciary.gov.ph/assets/js/cookies.js"></script>
+    <script type="text/javascript" src="https://elibrary.judiciary.gov.ph/assets/js/fontResizer.js"></script>
+    <script type="text/javascript" src="https://elibrary.judiciary.gov.ph/assets/js/theme.js"></script>
+    <script type="text/javascript" src="https://elibrary.judiciary.gov.ph/assets/js/section_menu.js"></script>
+
+    <!-- START DataTable -->
+
+        <!-- START LOAD SCRIPTS -->
+        
+        <!-- ✅ load jQuery ✅ -->
+        <!-- <script type="text/javascript" src="https://elibrary.judiciary.gov.ph/assets/js/jquery-3.7.1.min.js"></script> -->
+        <link rel="stylesheet" href="https://elibrary.judiciary.gov.ph/assets/DataTables/datatables.css" type="text/css" media="screen" />
+        <!-- ✅ load DataTables ✅ -->
+        <script type="text/javascript" src="https://elibrary.judiciary.gov.ph/assets/DataTables/datatables.js"></script>
+
+        <!-- END LOAD SCRIPTS -->
+    
+        <!-- START RA -->
+        <script>
+            jQuery( function ($) {
+                $('#ra').DataTable({
+                    // Options go here
+                    "processing": true,
+                    //"stateSave": true,
+                    "serverSide": true,
+                    "order":[],
+                    "pagingType": "full_numbers",
+                    "ajax": {
+                        url: "https://elibrary.judiciary.gov.ph/republic_acts/fetch_ra",
+                        type: "POST",
+                        data:{  'csrf_test_name' : 'bf564feec257b321988e7d3d800e79c9' },
+                    },
+                    "columnDefs":[{
+                        "targets":[0, 2],
+                        "orderable":false,
+                        /*'targets': [2,],    // this will invoke the below function on all cells
+                        'createdCell': function(td, cellData, rowData, row, col) {
+                            // this will give each cell an ID
+                            $(td).attr('id', 'cms_default_document_title');
+                        },*/
+                    },],
+                });
+            });
+        </script>
+        <!-- END RA -->
+
+             <!-- START PHILREP -->
+        <script>
+            jQuery( function ($) {
+                $('#volumes').DataTable({
+                    "pagingType": "full_numbers",
+                    "order":[[0], "desc"],
+                    "columnDefs":[
+                        {
+							//Targets column 2 (Files column) and prevents from being
+							//orderable
+                            "targets":[2],
+                            "orderable":false,
+                        },
+                        {
+                            // Target column 1 and tells DataTables to order column 1
+							//using data from Column0
+                            "targets": [1],
+                            "orderData": [0],
+                        },
+						
+						{
+							//Hides column 0 and prevents it from being searchable.
+							target: [0],
+							visible: false,
+							searchable: false,
+						},
+                    ],
+                });
+            });
+        </script>
+
+        <!-- START CASE INDEX -->
+        <script>
+            jQuery( function ($) {
+                $('#caseindex').DataTable({
+                    "pagingType": "full_numbers",
+                    "order":[],
+                    "columnDefs":[{
+                        "targets":[0,1],
+                        "orderable":false,
+                    },],
+                });
+            });
+        </script>
+        <!-- END CASEINDEX -->
+
+        <!-- START LAWYERS LIST -->
+        <script>
+            jQuery( function ($) {
+                $('#lawlist').DataTable({
+                    // INITIALIZATION OPTIONS GO HERE.
+                    "processing": true,
+                    //"stateSave": true,
+                    "serverSide": true,
+                    // ORDERING IS ENABLED BUT THERE IS NO DEFAULT ORDER.
+                    "order":[],
+                    "pagingType": "full_numbers",
+                    "ajax": {
+                        url: "https://elibrary.judiciary.gov.ph/lawyers_list/fetch_lawlist",
+                        type: "POST",
+                        data:{  'csrf_test_name' : 'bf564feec257b321988e7d3d800e79c9' },
+                    },
+                    "columnDefs":[{
+                        // "targets" ARE THE TABLE COLUMNS THAT ARE TO BE INITIALIZED.
+                        // STARTING WITH 0 AS THE FIRST COLUMN. HERE, TARGETED COLUMNS ARE
+                        // 2, 3, 4.
+                        "targets":[2, 3, 4],
+                        // TARGETED COLUMNS ARE NOT ORDERABLE.
+                        "orderable":false,
+                        /*'targets': [2,],    // this will invoke the below function on all cells
+                        'createdCell': function(td, cellData, rowData, row, col) {
+                            // this will give each cell an ID
+                            $(td).attr('id', 'cms_default_document_title');
+                        },*/
+                    },],
+                });
+            });
+        </script>
+        <!-- END LAWYERS LIST -->
+
+        <!-- START DataTables STYLES -->
+    
+        <!-- START REPUBLIC ACTS STYLES-->
+        <style>
+            table#ra {
+                font-family: calibri, candara, segoe, segoe ui, optima, arial;
+                font-size: 1.25em;
+                font-weight: bold;
+            }
+            td#cms_default_document_title {
+                text-align: justify;
+            }
+        
+            td#cms_default_document_title:after {
+                content: "";
+                display: inline-block;
+                width: 100%;
+            }
+        </style>
+        <!-- END REPUBLIC ACTS START STYLES -->
+
+        <!-- START PHILREP STYLES -->
+        <style>
+            table#volumes {
+                font-family: calibri, candara, segoe, segoe ui, optima, arial;
+                font-size: 1.25em;
+                font-weight: bold;
+            }
+        </style>
+        <!-- END PHILREP STYLES -->
+
+        <!-- START CASEINDEX STYLES -->
+        <style>
+            table#caseindex {
+                font-family: calibri, candara, segoe, segoe ui, optima, arial;
+                font-size: 1.25em;
+                font-weight: bold;
+            }
+        </style>
+        <!-- END CASEINDEX STYLES -->
+
+        <!-- START LAWYERS LIST STYLES -->
+        <style>
+            table#lawlist {
+                font-family: calibri, candara, segoe, segoe ui, optima, arial;
+                font-size: 1.2em;
+            }
+            
+        </style>
+        <!-- END LAWYERS LIST STYLES -->
+
+        <!-- END DataTables STYLES -->
+    
+    <!-- END DataTable -->
+
+    <link rel="stylesheet" href="https://elibrary.judiciary.gov.ph/assets/css/mystyle.css" type="text/css" media="screen" />
+
+    
+    
+    <!-- remove 04.29.19 for console search-->
+    <!-- <meta name='robots' content='noindex,nofollow' /> -->
+
+    <link rel='stylesheet' id='wp_sidebarlogin_css_styles-css'  href='https://elibrary.judiciary.gov.ph/assets/css/style_login.css?ver=3.3.1' type='text/css' media='all' />
+
+    <!-- Font Awesome CSS -->
+    <link rel="stylesheet" href="https://elibrary.judiciary.gov.ph/assets/css/all.css">
+    <!-- jquery confirm -->
+    <link rel="stylesheet" href="https://elibrary.judiciary.gov.ph/assets/css/jquery-confirm.min.css">
+    <!-- jconfirm modal custom theme -->
+    <style>
+        .jconfirm.jconfirm-custom .jconfirm-bg{
+            background-color: rgba(13,0,45,0.95);
+        }
+        .jconfirm.jconfirm-custom .jconfirm-box{
+            color: #ccc;
+            text-align: center;
+            background-color: transparent;
+        }
+
+        /* Exclamation animation start */
+        .jconfirm.jconfirm-custom.jconfirm-open .jconfirm-box .jconfirm-title-c .jconfirm-icon-c {
+            -webkit-transform: scale(1);
+            transform: scale(1);
+        }
+        .jconfirm.jconfirm-custom .jconfirm-box div.jconfirm-title-c .jconfirm-icon-c {
+            -webkit-transition: -webkit-transform .5s;
+            transition: -webkit-transform .5s;
+            transition: transform .5s;
+            transition: transform .5s,-webkit-transform .5s;
+            -webkit-transform: scale(0);
+            transform: scale(0);
+            display: block;
+            margin-right: 0;
+            margin-left: 0;
+            margin-bottom: 10px;
+            font-size: 69px;
+            color: #ccc;
+        }
+        /* Exclamation animation end */
+
+        .jconfirm.jconfirm-custom .jconfirm-box .jconfirm-buttons button{
+            font-size: 16px;
+            border-radius: 2px;
+            background: rgb(13,0,45);
+            text-shadow: none;
+            border: none;
+            color: #ccc;
+            padding: 10px;
+            min-width: 100px;
+        }
+        .jconfirm.jconfirm-custom .jconfirm-box .jconfirm-buttons button:hover{
+            background: #ccc;
+            color: rgb(13,0,45);
+        }
+        .jconfirm.jconfirm-custom .jconfirm-box .jconfirm-title-c{
+            font-family: Tahoma, Verdana, serif;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .jconfirm.jconfirm-custom .jconfirm-box .jconfirm-content{
+            font-family: Tahoma, Verdana, serif;
+            text-align: justify;
+            font-size: 18px;
+        }
+        /* Targets content list item */
+        .jconfirm.jconfirm-custom .jconfirm-box .jconfirm-content li{
+            margin: 20px;
+        }
+        .jconfirm.jconfirm-my-theme .jconfirm-box .jconfirm-content-pane{
+        }
+    </style>
+
+<!-- FOR DTSEARCH -->
+<!-- START -->
+    <META NAME="AddedReference" CONTENT="InsertedForFormBuilder" HREF="https://elibrary.judiciary.gov.ph/assets/searchform/dtSearch_help.html">
+    <META NAME="AddedReference" CONTENT="InsertedForFormBuilder" HREF="https://elibrary.judiciary.gov.ph/assets/searchform/dtSearch_pdfhelp.pdf">
+    <META NAME="AddedReference" CONTENT="InsertedForFormBuilder" HREF="https://elibrary.judiciary.gov.ph/assets/searchform/dtSearch_WebSearchForm.css">
+    <META NAME="AddedReference" CONTENT="InsertedForFormBuilder" HREF="https://elibrary.judiciary.gov.ph/assets/searchform/dtSearch_SearchResults.css">
+    <META NAME="AddedReference" CONTENT="InsertedForFormBuilder" HREF="https://elibrary.judiciary.gov.ph/assets/searchform/dtSearch_Utilities.js">
+    <META NAME="AddedReference" CONTENT="InsertedForFormBuilder" HREF="https://elibrary.judiciary.gov.ph/assets/searchform/dtSearch_SearchResults.js">
+    <META NAME="AddedReference" CONTENT="InsertedForFormBuilder" HREF="https://elibrary.judiciary.gov.ph/assets/searchform/dtSearch_WebSearchForm.js">
+<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <!-- <link rel="stylesheet" href="https://elibrary.judiciary.gov.ph/searchforms/custom.css"> -->
+
+    <style type='text/css'>
+        body{
+            /*background-image:url(searchforms/images/bg-blue.jpg);*/
+            /*background-size: 100% auto;*/
+            background-position:center top;
+            background-color: #193C74;
+            background-repeat:no-repeat;
+            background-position:fixed;
+            /*font-family: "Trebuchet MS";*/
+            font-size:10px;
+            /*color:#FFFFFF;*/
+            margin:0px 0px 0px 0px;
+        }
+        .forms{
+            font-size:10px;
+            border:1px solid #000000;
+        }
+        #cont_left{
+            width: 250px;
+            height: 400px;
+            background-color: #fff;
+            margin-left: 3%;
+            margin-top: 12%;
+            position: relative;
+        }
+        #cont_main{
+            width: 900px;
+            height: 400px;
+            background-color: #fff;
+            top:153px;
+            left: 300px;
+            position: absolute;
+        }
+        table{
+            position: relative;
+            top: 3px;
+        }
+        #copyright{
+            position: fixed;
+            bottom:-1%;
+            right: 1%;
+            z-index: -10;
+        }
+        #bared{
+            position: fixed;
+            bottom:0px;
+            right: 0px;
+            z-index: -9;
+            background-color: #000;
+            width: 2000px;
+            height: 20px;
+            padding-bottom: 2px;
+            padding-right: 2px;
+        }
+        iframe{
+            display:block;
+        }
+        /*change font size from 60px to 40px*/
+        div#blog-line h1 a {font-family: Georgia, serif; font-size:40px;  color:#fff;} 
+
+        /*change font size from 40px to 14px, letter spacing from -2px to 1px*/
+        div#blog-line h1 {font:14px Arial, serif; padding:20px 0; margin:0; color:#fff; letter-spacing:1px;}
+    </style>
+    <script>
+        // this deletes the cookie when called
+        function Delete_Cookie( name, path, domain ) {
+        if ( Get_Cookie( name ) ) document.cookie = name + "=" +
+        ( ( path ) ? ";path=" + path : "") +
+        ( ( domain ) ? ";domain=" + domain : "" ) +
+        ";expires=Thu, 01-Jan-1970 00:00:01 GMT";
+        }
+    </script>
+<!-- FOR DTSEARCH -->
+<!-- END -->
+<script>
+
+</script>
+
+</head>
+<!-- <body onLoad="Delete_Cookie( name, path, domain )"> -->
+<body>
+
+<div id="outline">
+<div id="blog-line">
+    <!-- blog title and tag line -->
+    <h1><a href="https://elibrary.judiciary.gov.ph/">Supreme Court E-Library</a> <br /> Information At Your Fingertips</h1> 
+</div>
+
+<!-- page navigation -->
+<div id="nav" class="clearfix">
+    <ul class="sf-menu">
+        <!--Comment out to remove Home in the header
+        <li class="page_item "><a href="http://10.10.100.51">Home</a></li>-->
+        <li class="page_item page-item-11 current_page_item"><a href="https://elibrary.judiciary.gov.ph/">HOME</a></li>
+        <!-- <li class=""><a href="https://elibrary.judiciary.gov.ph/assets/images/memorabilia/2023 Bar Passers.pdf">2023 Bar Passers</a></li> -->
+        <!-- <li class="page_item page-item-92"><a href="https://elibrary.judiciary.gov.ph/secquestion/secquestion_main">REGISTER HERE</a></li> -->
+        <li class="page_item page-item-202"><a href="https://elibrary.judiciary.gov.ph/philippinereports">PHILIPPINE REPORTS E-BOOKS</a>
+        <li class="page_item page-item-202"><a href="https://elibrary.judiciary.gov.ph/republic_acts">REPUBLIC ACTS</a>
+        <li class="page_item page-item-202"><a href="https://elibrary.judiciary.gov.ph/supremecourtjustices/chiefjusticelist/">CHIEF JUSTICES</a> 
+   <!-- <li class="page_item page-item-202"><a href="https://elibrary.judiciary.gov.ph/supremecourtjustices/scjmain">JUDICIARY MEMORABILIA HALL</a> -->
+            <ul class="children">
+				 <!--<li class="page_item page-item-202"><a href="https://elibrary.judiciary.gov.ph/supremecourtjustices/incumbentjusticelist/">Incumbent Justices</a></li>-->
+				 <!--<li class="page_item page-item-202"><a href="https://elibrary.judiciary.gov.ph/supremecourtjustices/chiefjusticelist/">Chief Justices</a></li>-->
+                <!-- <li class="page_item page-item-202"><a href="https://elibrary.judiciary.gov.ph/supremecourtjustices/associatejusticelist">Associate Justices</a></li> -->
+            </ul> 
+        </li>
+        <li class="page_item page-item-94"><a href="https://elibrary.judiciary.gov.ph/advisory/newsandadvisories/">NEWS & ADVISORIES</a></li>
+        <!--<li class="page_item page-item-544"><a href="links/">Links</a></li>-->
+        <li class="page_item page-item-546"><a href="https://elibrary.judiciary.gov.ph/sitemap/sitemap_main">SITE MAP</a></li>
+        <!--<li class="page_item page-item-548"><a href="feedback/">Feedback</a></li>-->
+        <li class="page_item page-item-84"><a href="https://elibrary.judiciary.gov.ph/aboutus/aboutus_main">ABOUT US</a>
+            <ul class='children'>
+                <li class="page_item page-item-86"><a href="https://elibrary.judiciary.gov.ph/aboutus/scelibrary">The Supreme Court E-Library</a></li>
+            <!-- <li class="page_item page-item-88"><a href="https://elibrary.judiciary.gov.ph/aboutus/elib_history">History of the E-Library</a></li> -->
+                <li class="page_item page-item-90"><a href="https://elibrary.judiciary.gov.ph/aboutus/elibrary_team">The E-Library Development Team</a></li>
+            </ul>
+        </li>
+        <!-- <li class="page_item page-item-548"><a href="https://elibrary.judiciary.gov.ph/contactus/contactus_main">CONTACT US</a></li> -->
+         
+    </ul>
+    <ul id="mail_rss">
+    <!--<li><a href="feed/">RSS</a></li>-->
+    </ul>           
+    <!-- ending header template -->
+</div>
+
+<div id="content" class="clearfix">
+<div id="right">
+<!-- FOR Toggle posts-->
+<p id="toggle-all"><a href="#" id="toggle" class="hide-all">Toggle posts</a></p>
+<!-- For FONT-SIZE changer  -->
+<p id="font-resize">
+<a id="default" href="#">A </a><a id="larger" href="#">A+ </a><a id="largest" href="#">A++</a>
+</p>
+<!-- widget -->
+
+<!---02/28/2022--->
+<!-- Search button only appears when not in the search page. -->
+<div id="wp_sidebarlogin-3" class="widget">
+    <p>
+        <!-- <STRONG>TO START</STRONG> click <STRONG>E-Library Search</STRONG>. -->
+        <center>
+            <b>CLICK THE IMAGE TO SEARCH</b>
+            <a href="https://elibrary.judiciary.gov.ph/search" target="_self">
+                <img src="https://elibrary.judiciary.gov.ph/assets/images/memorabilia/search_button.png"  alt="Elibrary Search"  title="E-Library Search" />
+            </a>
+        </center>
+  </p>
+</div>
+
+<!-- For Advisory
+<div id="container_faq">
+
+    <table border='0'>
+    <tr valign='center'>
+        <td>ADVISORY:</td>
+    </tr>
+    <tr valign='center'>
+        <td><div align='justify'>The Supreme Court E-Library will undergo a system
+		maintenance on March 28-31, 2024 and will be inaccessible during this period.<br><br>
+		Thank you for your understanding!<br><br></div></td>
+		
+    </tr>   
+</table>
+</div>
+<br>
+-->
+
+
+<div id="container_faq">
+    <center>
+        <!--[<A HREF="https://elibrary.judiciary.gov.ph/secquestion/secquestion_main"><b>REGISTER</b></A>]  | [<A HREF="https://elibrary.judiciary.gov.ph/aboutus/faq"><b>FAQs</b></A>]
+        <b>CONTACT US</b><br>
+        <STRONG>(02)8524-2706</STRONG>-->
+    </center>
+    <table border='0'>
+    <tr valign='center'>
+        <td>CONTACT:</td>
+    </tr>
+    <tr valign='center'>
+        <td>Supreme Court of the Philippines <br>
+		    Library Services,<br> 
+			Padre Faura, Ermita, Manila, Philippines 1000</td>
+    </tr>
+    <tr valign='center'>
+        <td>(632) 8524-2706</td>
+    </tr>
+    <tr valign='center'>
+        <td>libraryservices.sc@judiciary.gov.ph<br></td>
+    </tr>
+</table>
+</div>
+
+<br>
+<div id="container_seal">
+
+<center><a href="https://npcregistration.privacy.gov.ph/certificate/organizationRegistration/64a7c5e47c2074390ec3ccb5" target="_blank"><img src="https://elibrary.judiciary.gov.ph/assets/images/memorabilia/CORSeal.jpg"/></a></center>
+   
+</div>
+
+<div class="widget_quick">
+    
+<img src="https://elibrary.judiciary.gov.ph/assets/images/memorabilia
+/quick_links/header.png"/></a>
+    
+<a href="http://sc.judiciary.gov.ph/" title="Supreme Court of the Philippines" target="_blank"><img src="https://elibrary.judiciary.gov.ph/assets/images/memorabilia
+/quick_links/sc.png"  alt="Supreme Court of the Philippines"  title="Supreme Court of the Philippines" /></a>
+
+<a href="http://ca.judiciary.gov.ph/" title="Cour of Appeals" target="_blank"><img src="https://elibrary.judiciary.gov.ph/assets/images/memorabilia
+/quick_links/ca.png"  alt="Cour of Appeals"  title="Cour of Appeals" /></a>
+
+<a href="http://sb.judiciary.gov.ph/" title="Sandiganbayan" target="_blank"><img src="https://elibrary.judiciary.gov.ph/assets/images/memorabilia
+/quick_links/sb.png"  alt="Sandiganbayan"  title="Sandiganbayan" /></a>
+
+<a href="http://cta.judiciary.gov.ph/" title="Court of Tax Appeals" target="_blank"><img src="https://elibrary.judiciary.gov.ph/assets/images/memorabilia
+/quick_links/cta.png"  alt="Court of Tax Appeals"  title="Court of Tax Appeals" /></a></li>
+
+<a href="http://jbc.judiciary.gov.ph/" title="Judicial and Bar Council" target="_blank"><img src="https://elibrary.judiciary.gov.ph/assets/images/memorabilia
+/quick_links/jbc.png"  alt="Judicial and Bar Council"  title="Judicial and Bar Council" /></a>
+
+<a href="http://oca.judiciary.gov.ph/" title="Office of the Court Administrator" target="_blank"><img src="https://elibrary.judiciary.gov.ph/assets/images/memorabilia
+/quick_links/oca.png"  alt="Office of the Court Administrator"  title="Office of the Court Administrator" /></a>
+
+<a href="http://philja.judiciary.gov.ph/" title="Philippine Judicial Academy" target="_blank"><img src="https://elibrary.judiciary.gov.ph/assets/images/memorabilia
+/quick_links/philja.png"  alt="Philippine Judicial Academy"  title="Philippine Judicial Academy" /></a>
+
+<!--
+<a href="http://pmc.judiciary.gov.ph/" title="Philippine Meditation Center" target="_blank"><img src="https://elibrary.judiciary.gov.ph/assets/images/memorabilia
+/quick_links/pmc.png"  alt="Philippine Meditation Center"  title="Philippine Meditation Center" /></a>
+-->
+
+</div>
+
+<div id="linkcat-5" class="widget"><h4>Foreign Supreme Courts</h4>
+    <ul class='xoxo blogroll'>
+<li><a href="http://www.scourt.go.kr" target="_blank">Korea, South</a></li>
+<li><a href="http://www.kehakiman.gov.my/jugdment/fc/latest.shtml" target="_blank">Malaysia</a></li>
+<li><a href="http://www.supcourt.gov.sg/" target="_blank">Singapore</a></li>
+<li><a href="http://www.supremecourtus.gov/" target="_blank">United States of America</a></li>
+
+    </ul>
+</div>
+</div>
+<div id="left">
+<div class="single_content">
+<br>    
+<div align='right'><img src='https://elibrary.judiciary.gov.ph/assets/images/printer.png'>&nbsp;&nbsp;<a href='https://elibrary.judiciary.gov.ph/thebookshelf/showdocsfriendly/2/65637' target='_blank'>View printer friendly version</a></div>
+<br>
+   
+				H. No. 5822; Manila Bulletin, November 17, 2015; 111 OG No. 52, 7689 (December 28, 2015)
+				<BR><BR>
+				<CENTER>				
+				<H2 style='background-color:#cccccc;padding-top:10px;padding-bottom:10px;'>
+				[ Republic Act No. 10697, November 13, 2015 ]</H2>
+				<H3>AN ACT PREVENTING THE PROLIFERATION OF WEAPONS OF MASS DESTRUCTION BY MANAGING THE TRADE IN STRATEGIC GOODS, THE PROVISION OF RELATED SERVICES, AND FOR OTHER PURPOSES</H3>
+				</CENTER>
+				<BR><BR><div align="justify"><em>Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:</em><p></p> <p align="center"> CHAPTER I <br> GENERAL PROVISIONS </p> <p> SECTION 1. <em>Title.</em> – This Act shall be known as the “Strategic Trade Management Act (STMA)”. </p> <p> SEC. 2. <em>Declaration of Policy</em>. – It is declared a policy of the State to be free from Weapons of Mass Destruction (WMD) in its territory, consistent with the national interest, to fulfill its international commitments and obligations, including United Nations Security Council Resolution (UNSCR) 1540, to take and enforce effective measures to establish domestic controls to prevent the proliferation of WMDs and their means of delivery; and to maintain international peace and security, and promote economic growth by facilitating trade and investment through the responsible management of strategic goods and the provision of related services. </p> <p> Towards this end and consistent with its foreign policy and national security interests, and in support of efforts to counter terrorism, control crime, and safeguard public safety, the State shall manage the trade of strategic goods and provision of related services in accordance with international standards and best practices. </p> <p> SEC. 3. <em>Scope and Coverage</em>. – This Act shall apply to: </p> <p> a. Any natural or juridical person operating within the Philippines who engages or intends to engage in the export of strategic goods from the Philippines, including designated special economic and freeport zones, the import of strategic goods into the Philippines; or the transit or transshipment of strategic goods through the territory of the Philippines and the provision of related services; and all Filipino persons providing these services wherever located; and </p> <p> b. The re-export of strategic goods that have been imported from tne Philippines to a foreign country, and the reassignment of strategic goods imported from the Philippines to a new end-user in the country of import subject to authorization under this Act. </p> <p> SEC. 4. <em>The National Strategic Goods List</em>. – There shall be a National Strategic Goods List (NSGL) to describe with specificity the strategic goods subject to authorization. The NSGL shall be in conformity with international commitments and nonproliferation obligations pursuant to bilateral and multilateral treaties, international conventions and international non-proliferation regimes. </p> <p> Upon its establishment, the NSGL shall be published in the <em>Official Gazette</em> and in at least two (2) newspapers of general circulation. The NSGL shall be reviewed and updated on a regular basis. </p> <p> Updates and revisions to the NSGL shall also be published in the <em>Official Gazette</em> and in at least two (2) newspapers of general circulation. </p> <p> The NSGL shall comprise three (3) annexes: Military Goods (Annex 1), Dual Use Goods (Annex 2), and Nationally Controlled Goods (Annex 3). </p> <p> SEC. 5. <em>Definition of Terms</em>. – As used in this Act: </p> <p> a<em>. Authorization</em> refers to an individual, global or general license issued by the Strategic Trade Management Office (STMO) for the export, import, re-export, reassignment, transit, transshipment of strategic goods and provision of related services; </p> <p> b.<em> Carrier</em> refers to any vessel, train, vehicle, aircraft or other modes of transportation; </p> <p> c.<em> Document</em> refers to any record on paper, in electronic form, kept on any magnetic, optical, chemical or other medium; photograph map, plan, graph, picture or drawing or device; </p> <p> d.<em> Dual-use goods</em> refer to items, software, and technology which can be used for both civil and military end-use or in connection with development, production, handling, operation, maintenance, storage, detection, identification, or dissemination of WMD or their means of delivery. These goods are listed in Annex 2 of the NSGL; </p> <p> e.<em> End-usecontrols</em> refer to a specific procedure authorizing the establishment of controls over any item, software, and technology not listed in the NSGL (unlisted goods) based on concerns related to WMD, their means of delivery, or military end-use in destinations subject to embargoes decided by the United Nation (UN) Security Council, or to prohibited/restricted end-users; </p> <p> f.<em> End-user</em> refers to a person who is outside or inside the Philippines and is the recipient and ultimate user of the strategic goods and related services that are exported from or imported to the Philippines; </p> <p> g<em>. End-user certificate</em> refers to a document which contains confirmation of the following: (a) that the end-user has undertaken to import the goods with specific value and amount; (b) the purpose of the use of the goods; and (c) that the end-user shall not re-export or re-assign the goods without prior written authorization. The certificate likewise refers to a document that verifies the end-use and end-user of military and dual-use items as defined by this Act; </p> <p> h.<em> Export</em> refers to an actual shipment of strategic goods out of the Philippines, or to a transmission of software and technology by electronic media, including by fax, telephone, electronic mail or any other electronic means to an ultimate destination outside the Philippines. The term includes making available in electronic form such software and technology to persons outside the Philippines. It also applies to non-electronic reassignments of software or technology through face-to-face communication, personal demonstration, or handing over material or information to a foreign person wherever located; </p> <p> i.<em> Financing</em> refers to making available or providing funds to facilitate the movement/flow of (a) strategic goods and/or related service if this contributes to WMD or their means of delivery; or (b) military goods if destined for a destination subject to a UN Security Council embargo or to prohibited/restricted end- users; </p> <p> j.<em> Import</em> refers to the shipment of strategic goods or transmission of software or technology by any means from a foreign country into the Philippines; </p> <p> k.<em> Juridical person</em> refers to either: (a) a partnership, a cooperative, and a private corporation, to which the law grants a juridical personality, separate and distinct from that of each shareholder, partner, or member, or (b) a government-owned and controlled corporation created by law that engages or intends to engage in the trade of strategic goods or provision of related services; </p> <p> l.<em> Knowledge</em> refers to awareness or cognizance that a circumstance exists or is substantially certain to occur. It is also an awareness or cognizance of facts and circumstances that would lead a reasonable person to believe its existence or factual occurrence. It also refers to the willful disregard of facts known to a person or willful avoidance of facts; </p> <p> m<em>. Military goods</em> refer to items, software, and technology that are specifically designed, developed, configured, adapted, or modified for military end-use. These goods are fisted at Annex 1 of the NSGL; </p> <p> n.<em> Military end-use</em> refers to: (a) incorporation into “military goods” listed in the NSGL; (b) use of production, test or analytical equipment and its components for the development, production or maintenance of “military goods” listed in the NSGL; and (c) use of any unfinished products in a plant for the production of “military goods” listed in the NSGL; </p> <p> o.<em> Nationally controlled goods</em> refer to strategic goods placed under unilateral controls for reasons of national security, foreign policy, anti-terrorism, crime control, and public safety; </p> <p> p<em>. Premises</em> refer to any land, place or building, whether open or enclosed, and whether built on or not, including any free trade zones within the territory of the Philippines; </p> <p> q<em>. Reassignment</em> refers to the reallocation of strategic goods previously exported from the Philippines from one person to another within a single foreign country by any means, including the electronic transmission of software and technology; </p> <p> r.<em> Re-export</em> refers to the export to a foreign country of strategic goods either previously imported to or exported from the Philippines; </p> <p> s.<em> Registration</em> refers to the act of entering the exporters, importers and brokers of strategic goods and providers of services into the registry established by the STMO; </p> <p> t.<em> Related services</em> refer to brokering, financing, and transporting in relation to the movement of strategic goods between two (2) foreign countries and providing technical assistance. For this purpose, brokering refers to activities such as: (a) negotiating or arranging transactions that involve the shipment of strategic goods from a foreign country to any other foreign country; or (b) selling or buying with the intent to move strategic goods that are in a broker’s possession or control from a foreign country to any other foreign country; </p> <p> u.<em> Software</em> refers to a collection of one or more programs or micro programs fixed in any tangible medium of expression; </p> <p> v.<em> Strategic goods</em> refer to products that, for security reasons or due to international agreements, are considered to be of such military importance that their export is either prohibited altogether or subject to specific conditions. Such goods are generally suitable to be used for military purposes or for the production of WMD, and for the purposes of this Act, Are goods listed in the NSGL under Annex 1 (Military Goods); Annex 2 (Dual Use Goods); Annex 3 (Nationally Controlled Goods); and any unlisted goods as provided for in Section 11; </p> <p> w<em>. Technical assistance</em> refers to any support provided in relation to strategic goods such as repair, development, manufacture, assembly, testing, maintenance, or any other technical service, and may take such forms as instruction, training, transmission of working knowledge or skills, or consulting services. Technical assistance can be provided by<em> inter alia</em> verbal, written or electronic means; </p> <p> x<em>. Technology</em> refers to specific information and processes necessary for the development, production, or use of strategic goods, and may take such forms as blueprints, plans, diagrams, models, formulae, tables, engineering designs and specifications, manuals, and instructions written or recorded on other media or devices such as disk, tape, read-only memories; </p> <p> y<em>. Transporting</em> refers to the act of moving the strategic goods, agreeing to move them, any supporting services being provided to the transport provider, and any act calculated to promote their supply or delivery if this contributes to WMD, or means of their delivery, or military goods if destined to an embargoed destination subject to a UN Security Council embargo, or to prohibited/ restricted end-users; </p> <p> z<em>. Transit</em> refers to shipment of strategic goods within the Philippines and those entering and passing through the territory of the Philippines with an ultimate destination outside the Philippines in such a manner that the strategic goods remain at all times in or on the same carrier; </p> <p> aa.<em> Transshipment</em> refers to a mode of shipping a good on a carrier which enters the territory of the Philippines, wherein the good is unloaded from the carrier and reloaded in the same or on another carrier that is bound for an ultimate destination outside the Philippines; </p> <p> bb<em>. Unlisted goods</em> refer to goods that are not in the NSGL and may be subject to an authorization requirement under this Act; and </p> <p> cc<em>. WMD</em> refers to any destructive device or weapon that is designed or intended to cause death or serious bodily injury through the release, dissemination, or impact of toxic or poisonous chemicals, or their precursors, any weapon involving a biological agent, toxin, or vector, or any weapon that is designed to release radiation or radioactivity at a level dangerous to human life. This includes, but not limited to: (a) nuclear and radiological explosive devices and their major sub-systems; (b) chemicals covered by Schedule I, II and III of the Chemical Weapons Convention; and (c) biological agents and biologically derived substances specifically developed, configured, adapted, or modified for the purpose of increasing their capability to produce casualties in humans or livestock, degrade equipment, or damage crops. </p> <p align="center"> CHAPTER II <br> IMPLEMENTING STRUCTURE AND MECHANISM </p> <p> SEC. 6. <em>Central Authority</em>. – A permanent committee under the National Security Council (NSC), to be known as the NSC-Strategic Trade Management Committee (NSC-STMCom), is hereby constituted and deemed the central authority on any and all matters relating to strategic trade management with the following composition: (1) the Executive Secretary, as Chairperson; (1) the Executive Secretary, as Chairperson; (2) the Secretary of Trade and Industry, as Vice Chairperson; and (3) the Secretary of Foreign Affairs; (4) the Secretary of Justice; (5) the Secretary of National Defense; (6) the Secretary of the Interior and Local Government; (7) the Secretary of Finance; (8) the Secretary of Transportation and Communications; (9) the National Security Advisor; (10) the Secretary of Environment and Natural Resources; (11) the Secretary of Science and Technology; (12) the Secretary of Agriculture; and (13) the Secretary of Health; as Members. The Anti-Terrorism Council (ATC) – Program Management Center (PMC) shall serve as the Secretariat. </p> <p> The members may designate a representative to the NSC-STM Com, who shall have a rank not lower than an Undersecretary. Five (5) members of the NSC-STMCom shall constitute a quorum for the transaction of business. </p> <p> For purposes of this Act, the NSC-STMCom shall be complemented by the following support agencies and bureaus: </p> <p> a. Bureau of Customs (DOF-BOC); </p> <p> b. Bureau of Animal Industry (DA-BAI); </p> <p> c. Food and Drug Administration (DOH-FDA); </p> <p> d. Bureau of Quarantine (DOH-BOQ); </p> <p> e. Philippine Nuclear Research Institute (DOST-PNRI); </p> <p> f. Information and Communication Technology Office (DOST-ICTO); </p> <p> g. Armed Forces of the Philippines (AFP); </p> <p> h. Philippine National Police (PNP); </p> <p> i. Philippine Coast Guard (PCG); </p> <p> j. Office of Transport Security (DOTC-OTS); </p> <p> k. National Bureau of Investigation (DOJ-NBI); </p> <p> l. Presidential Legislative Liaison Office (OP-PLLO); </p> <p> m. Office of the Special Envoy on Transnational Crime (OSETC): and </p> <p> n. Such other offices, agencies or units as necessary. </p> <p> SEC. 7. <em>Powers and Functions of the NSC-STMCom</em>. – As the central authority focused on the country’s international commitment towards the promotion of a secured and safe environment for trade in strategic goods consistent with the objectives of this Act, the NSC-STMCom shall have the following powers and functions: </p> <p> a. Formulate and adopt strategies, policies and guidelines for the effective implementation of this Act; </p> <p> b. Establish, publish, review and update the NSGL; </p> <p> c. Develop a standard end-users’ certification; </p> <p> d. Monitor and evaluate the implementation of plans, programs and activities of the STMO; </p> <p> e. Review and decide appeals on decisions made by the STMO; </p> <p> f. Establish exemptions from an authorization requirement as provided for in Section 15, and taking into consideration national security, foreign policy and law enforcement concerns. These exemptions shall be published, reviewed arid updated; </p> <p> g. Create working groups on specific issues by enlisting the assistance and support of government agencies, the academe, as well as private institutions, or persons to carry out its functions; </p> <p> h. Establish and maintain coordination, cooperation, assistance and information sharing with government agencies in the implementation of this Act; </p> <p> i. Establish and maintain coordination, cooperation, assistance and information sharing with other nations in the regulation of strategic goods; and </p> <p> j. Perform such other tasks and functions it may deem necessary to effectively carry out the provisions of this Act. </p> <p> SEC. 8. <em>Executive and Technical Arm</em>. – The STMO is hereby created as a bureau under the administrative supervision of the Department of Trade and Industry (DTI) to serve as the executive and technical agency of the national government for the establishment of the management systems for the trade in strategic goods pursuant to this Act. The STMO shall be headed by a Director who shall be responsible for the pursuit of the office mandate, the discharge of its duties and functions and the exercise of supervision and control over the STMO and its constituent units. The STMO, through the Secretary of Trade and Industry, shall submit periodic updates to the NSC-STMCom. </p> <p> The organizational structure and staffing pattern of the STMO shall be formulated by the DTI Secretary in coordination with the NSC-STMCom, subject to the approval by the Department of Budget and Management (DBM) in accordance with Executive Order No. 292 (Administrative Code of 1987). </p> <p> SEC. 9. <em>Powers and Functions of the STMO</em>. – The STMO shall have the following powers and functions: </p> <p> a. Implement strategies, policies and guidelines formulated by the NSC-STMCom and develop, evaluate, and monitor corresponding programs and activities; </p> <p> b. Develop and maintain the register and carry out registration activities to include registration, registration with conditions, denial of registration, modification, suspension, revelation or annulment of registration; </p> <p> c. Establish and maintain a comprehensive database information system on strategic goods and on persons engaged in the trade of strategic goods and the provision of related services; </p> <p> d. Issue or deny issuance of authorizations for the trade of strategic goods and the provision of related services; </p> <p> e. Modify, condition, limit, suspend, revoke, or annul authorizations that have been issued as circumstances warrant in consultation with the NSC-STMCom; </p> <p> f. Issue, modify, suspend and revoke governmental end-use assurances in consultation with the NSC-STMCom; </p> <p> g. Ensure and operate end-use/end-user controls and establish compliance checks and exercise authority to enter premises for such purposes; </p> <p> h. Issue warning letters and orders for corrective action; </p> <p> i. Conduct investigation into violations committed under this Act; </p> <p> j. Undertake the enforcement of the provisions of this Act in cooperation with other agencies; </p> <p> k. Coordinate, cooperate, provide assistance and share information with the ATC and other departments/agencies in the implementation of this Act; </p> <p> l. Conduct capacity building and training of personnel for the effective implementation of this Act; </p> <p> m. Coordinate with the industry and the public regarding their obligations under this Act; </p> <p> n. Encourage and facilitate international cooperation, including the exchange of assistance such as information on matters regarding the implementation and application of this Act or its implementing rules and regulations (IRR); and </p> <p> o. Perform such other tasks and functions necessary to effectively cany out the provisions of this Act. </p> <p align="center"> CHAPTER III <br> RESPONSIBILITIES OF PERSONS IN STRATEGIC TRADE TRANSACTIONS </p> <p> SEC. 10. <em>Responsibilities of Persons</em>. – It shall be the responsibility of any person, subject to this Act; who intends to engage in the export, import, transit, and transshipment of strategic goods, under the NSGL, or the provision of related services to obtain an authorization from the STMO as provided in this Act and its implementing rules and regulations. In addition, any person who intends to engage in the re-export or reassignment of strategic goods is required to obtain an authorization when this has been made a condition for the authorization of the exports from the Philippines. </p> <p> No person shall be allowed to place .any strategic goods in or on any carrier located within the territorial and economic jurisdiction of the Philippines without the consent of the owner or operator of the carrier. Such owners and operators shall be prohibited from allowing the placement of strategic goods in or on any carrier unless the person presents an authorization issued by the STMO to export, import, transit or transship strategic goods. </p> <p> All persons engaged in the business involving strategic goods are required to keep at their principal place of business, in the manner prescribed by the IRR to be issued by the NSC-STMCom for a period often (10) years from the date of the completion of the transaction, all records of the transaction and/or books of accounts, business and computer systems and all commercial and technical data related to the transaction including: </p> <p> a. The description of the strategic goods or related services; </p> <p> b. The quantity and the value of the strategic goods or value of the related service provided; </p> <p> c. The name and address of the parties in the transaction or activity; </p> <p> d. The end-use and end-user of the strategic goods or related services; and </p> <p> e. The date of the transaction or activity. </p> <p> The customs broker shall submit to the BOC, a copy of the authorization and a copy of the extract of the manifest of the carrier, in or on which the strategic goods were loaded prior to its departure or arrival. </p> <p> SEC. 11. <em>End-Use Controls</em>. – End-use controls may be imposed on strategic goods that are not in the NSGL (unlisted goods) and related services, and shall apply as follows: </p> <p> a. An individual license shall be required for the export, re-export, reassignment, transit and transshipment of unlisted goods, or the provision of technical assistance or related services if the exporter or principal party has been informed by the STMO that the goods or services are or may be used, partly or entirely, in-connection with the acquisition, development, production, handling, operation, maintenance, storage, detection, identification or dissemination of WMDs or their means of delivery; </p> <p> b. An individual license shall also be required for the export, re-export, reassignment, transit and transshipment of unlisted goods, or the provision of technical assistance or related services if the purchasing country or country of destination or juridical or natural person receiving the goods is subject to an international sanction or an arms embargo imposed by a binding resolution of the UN Security Council and if the exporter or principal party has been informed by the STMO in close consultation with the NSC-STMCom that the goods in question are or may be used, partly or entirely, for a military end-use; </p> <p> c. An individual license shall also be required for the export of unlisted goods, or the provision of related services if the exporter has been informed by the STMO that the goods in question are or may be used, partly or entirely, as parts or components of military items listed in the NSGL, that have been exported from the territory of the Philippines without license or in violation of a license; and </p> <p> d. If an exporter or principal party has knowledge or has grounds for suspecting that unlisted goods proposed for export are or may be used, partly or entirely, for any of the uses referred to in paragraphs (a) and (b), or for suspecting that the provision of related services will facilitate that use, the exporter or principal party must notify the STMO. The STMO shall decide whether or not such goods are subject to a license. </p> <p> SEC. 12. <em>Control Over End-Use of Strategic Goods in the Philippines Under Governmental End-Use Assurances</em>. – The STMO, in consultation with the NSC-STMCom as may be necessary, is authorized to certify the end-use of strategic goods in the Philippines based on the International Import Certificate, End-Use Certificate and Delivery Verification Certificate. </p> <p> The STMO, within the limits of its competence on the basis of end-use licensing documents, shall exercise the function of certification of the end-use of strategic goods. In addition to the standard end-use certification assurances contained in the end- use documents, the STMO, in consultation with the NSC- STMCom, may add other terms and conditions in order to meet the requirements of the exporting country of the goods and the security interest of the Philippines. </p> <p> The STMO shall be responsible for informing the competent authority of the end-use country and all countries through which the goods will be transshipped or transited. In fulfilling this responsibility, the STMO may request additional documents such as declarations of the shippers or refer to other relevant information obtained in the course of performing their functions under this Act. </p> <p> The application, issuance, modification, suspension, or revocation procedures of end-use certification documentation shall be in accordance with the IRR and in consultation with the NSC-STMCom as may be necessary. </p> <p> SEC. 13. <em>Registration.</em> – Any person who engages or intends to engage in the export, import, and re-export of strategic goods or provide related services shall register directly with the STMO. </p> <p> SEC. 14. <em>Issuance of Authorization</em>.- Any person, prior to engaging in the export, import, re-export, reassignment, transit, transshipment of strategic goods, or the provision of technical assistance or related services shall apply for an authorization from the STMO. The application shall be in the manner and form prescribed under the IRR of this Act. The STMO is authorized to collect fees to cover the cost to be incurred in the processing of applications for authorization. </p> <p> The STMO may issue an authorization to an applicant subject to conditions it may deem fit. It may renew an authorization with or without conditions. </p> <p> The STMO may deny, issue with or without conditions, modify, limit, suspend, revoke, or annul the authorization based on its discretionary powers as specified in the IRR. </p> <p> SEC. 15. <em>Exemption from Authorization Requirement</em>. – An authorization is not required under the following circumstances: </p> <p> a. Import of strategic goods by the government for the use of the Philippine military or police forces; </p> <p> b. Temporary export of strategic goods by the government for the use of the Philippine military or police forces assigned outside of Philippine jurisdiction; </p> <p> c. Export, transit, and transshipment of strategic goods •which are provided in connection with a military, peacekeeping, or government humanitarian mission; </p> <p> d. Export, import, transit and transshipment of strategic goods by the government in connection with law enforcement activities; and </p> <p> e. Any other circumstances as provided by the NSC-STMCom pursuant to Section 7(f) of this Act. </p> <p> SEC. 16. <em>Administrative Appeals</em>. – Any person whose .registration or authorization has been denied, suspended, modified, limited, revoked, or annulled, and any person upon whom administrative penalties have been imposed shall have the right =to appeal in accordance with the IRR. The decision on the appeal is final and executory. </p> <p> SEC. 17. <em>Liability Limitation</em>. – If the STMO denies, suspends, limits, revokes or annuls an authorization or registration, it shall not be liable for damages that may be caused by such acts. </p> <p> SEC. 18. <em>Confidentiality of Business Proprietary Information</em>. – Any information obtained under this Act that are marked as confidential business information shall not be disclosed to any other party except in the furtherance of justice and law enforcement, national security or foreign policy interest, as determined by the STMO, unless the party providing such information has consented to its disclosure. </p> <p align="center"> CHAPTER IV <br> LIABILITIES, VIOLATIONS, PENALTIES AND SANCTIONS </p> <p> SEC. 19. <em>Unlawful Act and Penalties.</em> – </p> <p> a. Any person who willfully and intentionally engages in any of the following activities shall be imprisoned for a period from six (6) years and one (1) day to twelve (12) years imprisonment, and a fine from one million pesos (P1,000,000.00) to five million pesos (P5,000,000.00): </p> <p> 1. To engage in any of the regulated activity prohibited by, or in contravention of, this Act, including: failure to register; acts without an authorization; or acts in breach of the conditions and terms of an authorization or governmental end-use assurances; </p> <p> 2. To make false or misleading representations or conceal any material fact, including in the submission of any document, to the NSC-STMCom or the STMO or any other Philippine government agency; </p> <p> 3. To engage in any activity prohibited by, or in contravention of, any orders or regulations issued by the NSC-STMCom to implement the provisions of this Act; </p> <p> 4. To conspire or act in concert with one or more persons in any manner or for any purpose to bring about or to do any act that constitutes a violation of this Act, or any order, regulation, or authorization issued thereunder; </p> <p> 5. To forge or alter any authorization, registration, certificate or any or other document issued under the provisions of this Act; </p> <p> 6. To obstruct or hinder the NSC-STMCom or any government agency in the execution of its powers conferred under this Act; or </p> <p> 7. To induce a violation of this Act or any order, regulation, or authorization issued thereunder. </p> <p> a. Any person found guilty of committing any of the following shall be imprisoned for a period from six (6) months and one (1) day to six (6) years imprisonment, and a fine from one hundred thousand pesos (P 100,000.00) to one million pesos (P1,000,000.00): </p> <p> 1. To fail to report or notify the STMO as required by this Act; </p> <p> 2. To fail to comply with record keeping requirements as provided in this Act; or </p> <p> 3. To engage in any activity with intent to evade the provisions of this Act, or any order, regulation, or authorization issued thereunder. </p> <p> SEC. 20. <em>Attempt to Commit Violations of this Act.</em> — Any attempt to commit any crime under Section 19(a) of this Act shall be penalized by imprisonment for a period from six (6) months and one (1) day to six (6) years, and a fine from one hundred thousand pesos (P100,000.00) to one million pesos (P1,000,000.00). </p> <p> SEC. 21. <em>Investigation.</em> – If in the course of conducting an investigation for violations committed under this Act, the STMO comes across evidence of possible criminal violations, it shall refer the matter and turn over all available evidence to the following agencies: </p> <p> a. BOC on matters involving violations of import and export provisions of this Act as well as the Tariff and Customs Code; </p> <p> b. PCG on matters involving violations that pertainto physical or outright smuggling on border security; or </p> <p> c. PNP/NBI on acts involving violations outside the jurisdiction of the BOC and PCG. </p> <p> After a finding that a <em>prima facie</em> case exists, the aforementioned agencies shall refer such case to the Department of Justice for preliminary investigation. </p> <p> Appropriate forfeiture proceedings for materials and goods confiscated shall be filed in accordance with existing laws, rules and regulations. </p> <p> SEC. 22<em>. Administrative Penalties</em>. – The STMO shall impose on any person found to have committed violations under this Act the following administrative penalties: </p> <p> 1. Limitation, revocation or annulment of any authorization and/or registration; </p> <p> 2. Imposition of fines of up to two hundred fifty thousand pesos (P250,000.00) or twice the value of the strategic good or related service under the contract or as assessed by the STMO; and </p> <p> 3. Upon request by the Securities and Exchange Commission and/or the Department of Trade and Industry or any other relevant agencies, order the cancellation or suspension of the registration and authorization/license to operate of the partnership, corporation, association and other juridical entity. </p> <p> The imposition of the penalty shall be without prejudice to the filing of appropriate criminal charges against the persons responsible for the violation. </p> <p> SEC. 23. <em>Criminal Liability of Officers of Partnerships, Corporations, and Other Juridical Entities.-</em> In case any of the violations of this Act is committed by a partnership, corporation, association, or any other juridical persons, the partner, president, director, manager, trustee, administrator, or officer who willfully and intentionally consents to, or tolerates such violation shall be held criminally liable as co-principal. The penalty provided for the offense shall be imposed upon the responsible officers who participated in the commission of the crime or who have willfully and intentionally permitted its commission. </p> <p> SEC. 24. <em>Administrative Liability of Government Officials and Employees</em>. – Any government official or employee who commits, or facilitates the commission of, any violation of this Act shall be administratively liable under Civil Service rules, without prejudice to criminal liability under this Act. The concerned government official or employee shall, upon conviction, be dismissed from the service. </p> <p> SEC. 25<em>. Additional Penalty if Offender is an Alien/ Foreign National</em>. – In addition to the penalties prescribed in this Act, any alien/foreign national who violates any provision of this Act shall, after service of sentence, be deported immediately without further proceedings, and be barred permanently from entering the country. </p> <p> SEC. 26. <em>Forfeiture.</em> – In addition to imprisonment and fine, the strategic goods subject of the offense, including the proceeds derived therefrom, shall be forfeited in favor of the government. </p> <p> After conviction, the Regional Trial Court shall enter a judgment of forfeiture of the goods, including its proceeds, in favor of the Government of the Philippines and shall authorize the forfeiture of the seized goods. </p> <p> Following the seizure of the strategic goods, the relevant government agency shall direct the disposition of the property by sale or other commercially feasible means. The offender or any&nbsp; person acting on behalf of the offender shall not be eligible to purchase the forfeited property. The proceeds of any sale or disposition of any property confiscated or forfeited under this section shall be paid directly to the National Treasury. All proper expenses .incurred in the proceedings for the confiscation, forfeiture, custody and maintenance of the property pending disposition, as well as expenses for publication and court costs shall be taken from the General Appropriations Act (GAA). </p> <p> If the strategic goods are located outside of the Philippines, the court may order the convicted offender to pay to the National Treasury the amount equal to the value of the strategic goods or related services under the contract or as assessed by the STMO, whichever is greater. </p> <p> SEC. 27. <em>Protection of Officers</em>. – No action or prosecution shall be brought, instituted or maintained against the NSC-STMCom or the STMO or an authorized officer for or on account of or in respect of any act ordered or done for the purpose of carrying into effect this Act or IRR if the act was done in good faith and under a reasonable belief that it was necessary for the purpose intended to be served thereby. </p> <p> SEC. 28. <em>Jurisdiction.-</em> The Regional Trial Court shall have jurisdiction over criminal prosecutions for violation of any provision of this Act, as well as over applications for the issuance and grant of applicable provisional remedies under the Rules of Court. </p> <p> SEC. 29. <em>International Legal. Cooperation</em>. – For the purposes of this section, the Department of Justice (DOJ) shall make and receive requests for assistance and to execute or arrange for the execution of such requests. </p> <p> a. Types of assistance – the DOJ may execute or make a request for assistance from a foreign state to: (1) take evidence or obtaining voluntary statements from persons; (2) make arrangements for persons to give evidence or to assist in criminal matters; (3) effect service of judicial documents; (4) execute searches and seizures; (5) examine objects and sites; (6) provide or obtain original or certified true copies of relevant documents, records and items of evidence; (7) identify or trace property derived from the commission of an offense and instrumentalities of crime; restrain dealings in property or freeze property derived from the commission of an offense that may be recovered, forfeited or confiscated; (9) recover, forfeit or confiscate property derived from the commission of an offense; and (10) locate and identifying witnesses and suspects. </p> <p> b. Request for legal assistance from a foreign State – where a’ foreign State makes a request for assistance in the investigation or prosecution for violation of any of the regulated activities under this Act, or in related criminal proceedings, the DOJ may execute the request or refuse to execute the request, and inform the foreign State of valid reason for not executing the request or for delaying its execution. The DOJ may refuse a request for assistance where the action sought by the request contravenes any provision of the Constitution or the execution of a request is likely to prejudice the national interest of the Philippines, unless there is an existing treaty on mutual legal assistance between the Philippines and the requesting State. </p> <p> c. Requirements for requests for mutual assistance from foreign States – a request for mutual assistance from foreign States must contain the following: (1) name of the authority conducting the investigation, prosecution or judicial proceeding to which the request relates, including contact details of the person capable of responding to inquiries concerning the request; (2) specific purpose of the request and the nature of the assistance sought; (3) confirmation that an investigation or prosecution is being conducted in respect to the person named therein or that the person has been convicted for violation of any of the regulated particulars, if known; (4) specify the manner in which and to whom said information, document, material or object obtained pursuant to the request, is to be produced; (5) all the particulars necessary for the issuance by the court in the requested State of the writs, orders or processes needed by the requesting State; and (6) such other information as may assist in the execution of the request. </p> <p> d. Authentication of documents – any document submitted by the foreign state pursuant to this section, shall be admissible as evidence in any proceeding, without need for further authentication. </p> <p> Subject to the provisions of the extradition law and the applicable extradition treaty, the offenses defined in this Act shall be deemed included as extraditable offenses in an extradition treaty in which the Philippines is a party. </p> <p align="center"> CHAPTER V <br> FINAL PROVISIONS </p> <p> SEC. 30. <em>Implementing Rules and Regulations (IRR).</em> – Within six (6) months from the effectivity of this Act, the Implementing Rules and Regulations Committee to be composed of the member-agencies of the NSC-STMCom shall draft and issue the IRR for its effective implementation, after public consultations with stakeholders: Provided, That the non-issuance of the IRR shall not prevent the coming into force of this Act: Provided, further, That any administrative proceedings under this Act shall be suspended pending the issuance of the IRR. </p> <p> SEC. 31. <em>Appropriations.</em> – The amount needed for the initial implementation of this Act shall be charged against the current year’s appropriations of the DTI. Thereafter, such sums as may be necessary for the implementation of this Act shaffbe included in the annual General Appropriations Act. </p> <p> SEC. 32. <em>Separability Clause</em>. – If any provision of this Act is held to be invalid or unconstitutional, the provisions not otherwise affected shall remain valid and subsisting. </p> <p> SEC. 33. <em>Suppletory Application</em>. – For purposes of this Act, the Revised Penal Code and other applicable laws shall have suppletory application. </p> <p> SEC. 34. <em>Repealing Clause</em>. – All laws, decrees, executive orders, rules and regulations and other issuances or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly. </p> <p> SEC. 35. <em>Effectivity Clause</em>. – This Act shall take effect after fifteen (15) days from its publication in the <em>Official Gazette</em> or in a newspaper of general circulation. </p> <p> Approved, </p> <table width="100%" cellspacing="0" cellpadding="3" border="0"> <tbody><tr> <td width="441"><p align="center"> (SGD.) FELICIANO BELMONTE JR.<br> <em>Speaker of the House of<br> Representative</em></p></td> <td width="443"><p align="center"> (SGD.) FRANKLIN M. DRILON<br> <em>President of the Senate</em></p></td> </tr> </tbody></table> <p> Senate Bill No. 2762, which was approved by the Senate on August 17, 2015, was adopted as an amendment to House Bill No. 5822 by the House of Representatives on August 25, 2015. </p> <table width="100%" cellspacing="0" cellpadding="3" border="0"> <tbody><tr> <td width="443"><p align="center"> (SGD.) MARILYN B. BARUA-YAP<br> <em>Secretary General<br> House of Representative</em></p></td> <td width="441"><p align="center"> (SGD.) OSCAR G. YABES<br> <em>Secretary of the Senate</em></p></td> </tr> </tbody></table> <p> Approved: NOV 13 2015</p> <p align="center"> (SGD.) BENIGNO S. AQUINO III<br> <em>President of the Philippines</em></p> </div>
+				  
+
+
+  
+</div>
+</div>
+</div>
+<!-- footer template -->
+<div id="appendix" class="clearfix">
+<div class="app_widget">
+<!-- sidebar_bottom_left -->
+</div>
+
+<!-- Comment out to remove Find Widget in sidebar bottom left-->
+<!--
+<div class="widget">
+<h4>Find it!</h4>
+-->
+
+<div id="credits"><center>&copy; Supreme Court E-Library 2019<br />
+This website was designed and developed, and is maintained, by the E-Library Technical Staff in collaboration with the Management Information Systems Office.</center></div>
+</div>
+
+</div>
+
+<!-- <script src="https://elibrary.judiciary.gov.ph/assets/js/jquery-3.3.1.js"></script> -->
+<!-- <script src="https://elibrary.judiciary.gov.ph/assets/js/jquery-confirm.min.js"></script> -->
+
+<!-- <script>
+var jq = jQuery.noConflict();
+    // Checks if first time to visit the site and displays a popup if it is.
+    if(sessionStorage.getItem('firstVisit')){
+        sessionStorage.setItem('firstVisit','1');
+    }else{
+        sessionStorage.setItem('firstVisit','0');
+    }
+    jq(document).ready(function(){
+        if(sessionStorage.getItem('firstVisit') === "0")
+        {
+            jq.alert({
+                icon: 'fas fa-exclamation-triangle',
+                title: 'NOTICE',
+                animation: 'scale',
+                closeAnimation: 'zoom',
+                animationBounce: 2.5,
+                animationSpeed: 500,
+                buttons:{
+                    gotIt: {
+                        text: '<b>Click Here!</b>',
+                    }
+                },
+                boxWidth: '40%',
+                useBootstrap: false,
+                content: ''+
+                '<ol>'+
+                '<li><i>(05-02-2019)</i> Registration for a new E-library account is currently unavailable. However, existing accounts may still be used and accessed. We apologize for any inconvenience.</li>'+						
+                '</ol>',
+                theme: 'custom',
+            });
+        }
+    });
+</script>-->
+
+</body>
+</html>

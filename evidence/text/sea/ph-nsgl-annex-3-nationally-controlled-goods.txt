@@ -1,0 +1,1121 @@
+〔Strategic Trade Management Office, Department of Trade and Industry, Philippines｜Philippine National Strategic Goods List: Annex 3 (Nationally-Controlled Goods)｜抓取 2026-11-02｜https://dtiwebfiles.s3.ap-southeast-1.amazonaws.com/STMO/Policies/Annex+III.pdf〕
+
+24.08.2020   Philippine National Strategic Goods List              27 | 1
+                                Annex 3
+
+                          NATIONAL STRATEGIC GOODS LIST
+                                            ANNEX 3
+
+                                  LIST OF NATIONALLY CONTROLLED GOODS
+This list of goods is placed under unilateral controls for reasons of national security, foreign policy, anti-terrorism,
+crime control, and public safety. This implements sanctioned items for export, import, transit and transshipment to and
+from specific countries identified by the United Nations Security Council (UNSC) set out in the lists of UNSC
+documents.
+
+Notes                                          CONTENTS
+Definitions
+Annex 3.1    Export, Transit and Transshipment of Goods to DPRK
+Annex 3.2    Import, Transit and Transshipment of Goods from DPRK
+Annex 3.3    Export, Transit and Transshipment of Goods to Iran
+Annex 3.4    Import, Transit and Transshipment of Goods from Iran
+
+                                           GENERAL NOTES TO ANNEX III
+
+1. The object of the prohibitions contained in this Annex should not be defeated by the export of any non-prohibited
+    goods (including plant) containing one or more prohibited components when the prohibited component or
+    components are the principal element of the goods and can feasibly be removed or used for other purposes.
+
+     N.B.: in judging whether the prohibited component or components are to be considered principal element, it is necessary to weigh the factors
+     of quantity, value, and technological know-how involved and other special circumstances which might establish the prohibited component or
+     components as the principal element of the goods being procured.
+
+2. Goods specified in this Annex include both new and used goods.
+
+3. In some instances, chemicals are listed by name and CAS number. The list applies to chemicals of the same
+    structural formula (including hydrates) regardless of name or CAS number. CAS numbers are shown to assist in
+    identifying a particular chemical or mixture, irrespective of nomenclature. CAS numbers cannot be used as unique
+    identifiers because some forms of the listed chemical have different CAS numbers, and mixtures containing a listed
+    chemical may also have different CAS numbers.
+
+4. All export, transit, transshipment, and import of items in this list that falls under exemption provisions shall require
+    an authorization from the Strategic Trade Management Office (STMO) prior to its actual export, transit,
+    transshipment, and import.
+
+                                       NUCLEAR TECHNOLOGY NOTE (NTN)
+
+(To be read in conjunction with section E of Category 0.)
+
+The "technology" directly associated with any goods controlled in Category 0 is controlled according to the provisions
+of Category 0.
+
+"Technology" for the "development", "production" or "use" of goods under control remains under control even when
+applicable to non controlled goods.
+24.08.2020  Philippine National Strategic Goods List                                     27 | 2
+                               Annex 3
+
+The approval of goods for export also authorizes the export to the same end user of the minimum "technology" required
+for the installation, operation, maintenance and repair of the goods.
+
+Controls on "technology" transfer do not apply to information "in the public domain" or to "basic scientific research".
+
+                                       GENERAL TECHNOLOGY NOTE (GTN)
+
+(To be read in conjunction with section E of Categories 1 to 9.)
+
+The export of "technology" which is "required" for the "development", "production" or "use" of goods controlled in
+Categories 1 to 9, is controlled according to the provisions of Categories 1 to 9.
+
+"Technology" "required" for the "development", "production" or "use" of goods under control remains under control
+even when applicable to non controlled goods.
+
+Controls do not apply to that "technology" which is the minimum necessary for the installation, operation, maintenance
+(checking) or repair of those goods which are not controlled or whose export has been authorized.
+
+Note: This does not release such "technology" specified in 1E002.e., 1E002.f., 8E002.a. and 8E002.b.
+
+Controls on "technology" transfers do not apply to information "in the public domain", to "basic scientific research" or
+to the minimum necessary information for patent applications.
+
+                                         NUCLEAR SOFTWARE NOTE (NSN)
+
+(This note overrides any control within section D of Category 0)
+
+Section D of Category 0 of this list does not control "software" which is the minimum necessary "object code" for the
+installation, operation, maintenance (checking) or repair of those items whose export has been authorized.
+
+The approval of goods for export also authorizes the export to the same end user of the minimum necessary "object
+code" for the installation, operation, maintenance (checking) or repair of the goods
+
+                                         GENERAL SOFTWARE NOTE (GSN)
+(This note overrides any control within section D of Categories 1 to 9.)
+Categories 1 to 9 of this list do not control "software" which is any of the following:
+a. Generally available to the public by being:
+
+   1. Sold from stock at retail selling points, without restriction, by means of:
+      a. Over the counter transactions;
+      b. Mail order transactions;
+      c. Electronic transactions; or
+      d. Telephone call transactions; and
+24.08.2020  Philippine National Strategic Goods List  27 | 3
+                               Annex 3
+
+   2. Designed for installation by the user without further substantial support by the supplier;
+
+b. "In the public domain"; or
+
+c. The minimum necessary "object code" for the installation, operation, maintenance (checking) or repair of those
+  items whose export has been authorized.
+
+                                     EDITORIAL PRACTICES IN THIS ANNEX
+
+— a comma is used to separate the whole number from decimals,
+
+— whole numbers are presented in series of three, each series being separated by a thin space. The text reproduced in
+  this annex follows the above described practice.
+
+                                 DEFINITIONS OF TERMS USED IN THIS ANNEX
+"Basic scientific research" (GTN NTN) means experimental or theoretical work undertaken principally to acquire new
+knowledge of the fundamental principles of phenomena or observable facts, not primarily directed towards a specific
+practical aim or objective.
+"Development" (GTN NTN All) is related to all phases prior to serial production, such as: design, design research,
+design analyses, design concepts, assembly and testing of prototypes, pilot production schemes, design data, process of
+transforming design data into a product, configuration design, integration design, layouts.
+"Fibrous or filamentary materials" include:
+
+  a. Continuous "monofilaments";
+  b. Continuous "yarns" and "rovings";
+  c. "Tapes", fabrics, random mats and braids;
+  d. Chopped fibers, staple fibers and coherent fiber blankets;
+  e. Whiskers, either monocrystalline or polycrystalline, of any length;
+  f. Aromatic polyamide pulp.
+"In the public domain" (GTN NTN GSN), as it applies herein, means "technology" or "software" which has been made
+available without restrictions upon its further dissemination (copyright restrictions do not remove "technology" or
+"software" from being "in the public domain").
+"Monofilament" or filament is the smallest increment of fiber, usually several micrometers in diameter.
+"Object code" (GSN) means an equipment executable form of a convenient expression of one or more processes
+("source code" (source language)) which has been compiled by programming system.
+"Production" (GTN NTN All) means all production phases, such as: construction, production engineering, manufacture,
+integration, assembly (mounting), inspection, testing, and quality assurance.
+"Program" means a sequence of instructions to carry out a process in, or convertible into, a form executable by an
+electronic computer.
+"Roving" is a bundle (typically 12-120) of approximately parallel 'strands'.
+24.08.2020  Philippine National Strategic Goods List  27 | 4
+                               Annex 3
+
+N.B. 'Strand' is a bundle of "monofilaments" (typically over 200) arranged approximately parallel.
+
+"Yarn" is a bundle of twisted ‘strands'.
+
+N.B. 'Strand' is a bundle of "monofilaments" (typically over 200) arranged approximately parallel.
+
+"Software" (GSN All) means a collection of one or more "programs" or 'microprograms' fixed in any tangible medium
+of expression.
+
+N.B. 'Microprogram' means a sequence of elementary instructions, maintained in a special storage, the execution of which is initiated by the
+introduction of its reference instruction into an instruction register.
+
+"Specific modulus" is Young's modulus in pascals, equivalent to N/m2 divided by specific weight in N/m3, measured at
+a temperature of (296 ± 2) K ((23 ± 2) °C) and a relative humidity of (50 ± 5)%.
+
+"Specific tensile strength" is ultimate tensile strength in pascals, equivalent to N/m2 divided by specific weight in N/m3,
+measured at a temperature of (296 ± 2) K ((23 ± 2) °C) and a relative humidity of (50 ± 5)%.
+
+"Tape" is a material constructed of interlaced or unidirectional "monofilaments", 'strands', "rovings", "tows", or "yarns",
+etc., usually pre impregnated with resin.
+
+N.B. 'Strand' is a bundle of "monofilaments" (typically over 200) arranged approximately parallel.
+
+"Technology" (GTN NTN All) means specific information necessary for the "development", "production" or "use" of
+goods. This information takes the form of 'technical data' or 'technical assistance'.
+
+N.B.1. 'Technical assistance' may take forms such as instructions, skills, training, working knowledge and consulting services and may involve the
+transfer of 'technical data'.
+
+N.B.2. 'Technical data' may take forms such as blueprints, plans, diagrams, models, formulae, tables, engineering designs and specifications,
+manuals and instructions written or recorded on other media or devices such as disk, tape, read only memories.
+
+"Tow" is a bundle of "monofilaments", usually approximately parallel.
+
+"Use" (GTN NTN All) means operation, installation (including on site installation), maintenance (checking), repair,
+overhaul and refurbishing.
+24.08.2020       Philippine National Strategic Goods List                 27 | 5
+                                    Annex 3
+
+ANNEX 3.1 —EXPORT, TRANSIT, AND TRANSHIPMENT OF GOODS AND TECHNOLOGY TO DPRK
+
+Items, materials, equipment, goods, and technology listed herein are prohibited items for export to the Democratic
+People’s Republic of Korea (DPRK) set out in the lists of United Nations Security Council Resolution (UNSCR)
+1718(2006) and its subsequent resolutions which could contribute to DPRK’s nuclear, other weapons of mass
+destruction or ballistic missile-related programs.
+
+DUAL-USE ITEMS
+
+            CATEGORY 0 – NUCLEAR MATERIALS, FACILITIES, AND EQUIPMENT
+
+0A901 Hot cells
+
+0B901 Test, Inspection and Production Equipment
+
+            a. Ring magnets (except those designed for consumer electronics or automobile applications)
+
+            b. UF6 Corrosion Resistant Bellow-sealed Valves
+
+            c. Particle accelerators
+
+            d. Freon and chilled-water cooling systems capable of continuous cooling capacity of 100 000
+                Btu/hr (29,3 kW) or greater
+
+            e. Vacuum valves, piping, flanges, gaskets and related equipment specially designed for use in
+                high-vacuum service (0,1 Pa or lower pressure)
+
+0D901       "Software" specially designed or modified for the "development", "production" or "use" of goods
+            specified in this Category.
+
+            a. Software for neutronic calculations/modelling
+
+            b. Software for radiation transport calculations/modelling
+
+            c. Software for hydrodynamic calculations/modelling (except those used strictly for civilian
+                purposes, such as but not limited to communal heating utilities)
+
+            CATEGORY 1- SPECIAL MATERIALS AND RELATED EQUIPMENT
+
+1A904 Protective and detection equipment and components
+
+            a. Glove boxes suitable for use with radioactive materials
+
+            b. Radiation detection, monitoring and measurement equipment
+
+            c. Radiographic detection equipment such as X-ray converters, and storage phosphor image plates
+                (except X-ray equipment specially designed for medical use)
+
+1B901 Production equipment and machines
+
+            a. Equipment for carbon fibre production
+
+            b. Filament winding machines or fibre/ tow-placement machines and related equipment, of which
+                the motions for positioning, wrapping and winding fibres can be coordinated and programmed
+24.08.2020  Philippine National Strategic Goods List  27 | 6
+                               Annex 3
+
+1B925                in two or more axes and which are designed to fabricate composite structures or laminates from
+1C902                fibrous or filamentary materials, coordinating and programming controls and precision mandrels
+1C903                for such equipment
+1C906           c. Filament winding machines having all of the following characteristics:
+1C907                1. Having motions for positioning, wrapping and winding fibres coordinated and programmed
+
+1C908                     in two or more axes;
+                     2. Specially designed to fabricate composite structures or laminates from “fibrous or
+
+                          filamentary materials”; and
+                     3. Capable of winding cylindrical tubes of diameter of 75 mm or greater.
+                d. Coordinating and programming controls for filament winding machines specified in 1B901.c.
+                e. Mandrels for filament winding machines specified in 1B901.c.
+            Electrolytic cells for fluorine production
+            High strength aluminium alloy having both of the following characteristics:
+                a. ‘Capable of’ an ultimate tensile of strength of 415 MPa or more at 293 K (20ºC);
+                b. In bar or tube form, with an outer diameter of 75 mm or greater.
+
+            Technical Note: The phrase “capable of” encompasses aluminium alloy before or after heat treatment.
+
+            Magnetic alloy materials in sheet or thin strip form having both of the following characteristics:
+                a. Thickness of 0.05 mm or less; or height of 25 mm or less;
+                b. Made of any of the following magnetic alloy materials: iron-chromium-cobalt, iron-cobalt-
+                     vanadium, iron-chromium-cobalt-vanadium or iron-chromium.
+
+            Perfluorinated Lubricants
+            Graphite, ceramic, ceramic-matrix composite materials, and precursor materials
+
+                a. Ultra high-temperature ceramic composite materials in solid form (i.e. blocks, cylinders, tubes
+                     or ingots) in any of the following form factors:
+                     1. Cylinders having a diameter of 120 mm or greater and a length of 50 mm or greater;
+                     2. Tubes having an inner diameter of 65 mm or greater and a wall thickness of 25 mm or greater
+                          and a length of 50 mm or greater; or
+                     3. Blocks having a size of 120 mm x 120 mm x 50 mm or greater.
+
+                b. Graphite designed or specified for use in Electrical Discharge Machining (EDM) machines
+            Polymeric substances
+
+                a. Hydroxyl Terminated Poly-Ether (HTPE)
+24.08.2020  Philippine National Strategic Goods List  27 | 7
+                               Annex 3
+
+1C910           b. Hydroxyl Terminated Caprolactone Ether (HTCE)
+1C911           c. Polypropylene glycol (PPG)
+                d. Polydiethyleneglycol adipate (PGA)
+                e. Polyethylene Glycol (PEG)
+            Fibrous or filamentary materials and prepegs, as follows:
+                a. Polyacrylonitrile (PAN) fibre usable as a precursor for carbon fibre production
+                b. Para-aramid fiber (Kevlar and other Kevlar-like), filament and tape
+                c. Carbon, aramid or glass “fibrous or filamentary materials” having both of the following
+
+                     characteristics:
+                          1. A “specific modulus” exceeding 3.18 × 106 m;
+                          2. A “specific tensile strength” exceeding 76.2 × 103 m;
+
+                d. Prepregs: thermoset resin impregnated continuous “yarns”, “rovings”, “tows” or “tapes” with a
+                     width of 30 mm or less, made from carbon, aramid or glass “fibrous or filamentary materials”
+                     controlled in 1C910.c.
+
+            Metals, compounds, propellants and constituent chemicals for propellants
+                a. Sodium Perchlorate
+                b. Aviation fuel (aviation gasoline, naptha-type jet fuel, kerosene-type jet fuel, kerosene-type rocket
+                     fuel)
+                c. Isocyanates
+                          1. Toluene di-isocyanate (TDI)
+                          2. Methylene bis (phenyl isocyanate) (MDI)
+                          3. Isophorone diiosocyanate (IPDI)
+                          4. Hexamethylene diisocyanate (HNMDI or HDI)
+                          5. Dimeryl diisocyanate (DDI)
+                d. Nitric acid in concentrations of 20 per cent of weight or greater
+                e. Fluorine (except that used for strictly civilian purposes, such as refrigerants, including freon
+                     and fluoride for toothpaste production)
+
+                f. Metal hydrides such as zirconium hydride, beryllium hydride, aluminium hydride, lithium
+                     aluminium hydride and titanium hydride
+
+                g. Plasticizers usable in composite propellants, such as dioctyl adipate (DOA), dioctyl sebacate
+                     (DOS) and dioctyl azelate (DOZ)
+24.08.2020  Philippine National Strategic Goods List  27 | 8
+                               Annex 3
+
+1C916       Steels, as follows:
+                a. Grade 304, 316 and austenitic stainless steel plates, valves, piping, tanks and vessels (pipes and
+1C918                valves greater than 8-in diameter and rated for 500 psi and tanks greater than 500 L)
+1C936           b. Maraging steel having both of the following characteristics:
+1C950                     1. Capable of an ultimate tensile strength of 1,500 MPa or more at 293 K (20ºC);
+                          2. In bar or tube form, with an outer diameter of 75 mm or greater.
+                c. Maraging steel capable of an ultimate tensile strength of 1,950 MPa or more at 293 K (20°C)
+                     and in any of the following forms:
+                          1. Sheet, plate or tubing with a wall or plate thickness equal to or less than 5.0 mm;
+                          2. Tubular forms with a wall thickness of 50 mm or less and having an inner diameter of
+                               270 mm or more.
+
+            Special corrosion resistant steels — limited to steels resistant to Inhibited Red Fuming Nitric Acid
+            (IRFNA) or nitric acid, such as nitrogen stabilized duplex stainless steel (N-DSS)
+            Alpha-emitting radionuclides
+            Toxic chemicals, toxic chemical agent precursors, and chemicals for decontamination of chemical warfare
+            agents, as follows:
+
+                a. Diethylenetriamine (111-40-0)
+                b. Butyrylcholinesterase (BCHE)
+                c. Pyridostigmine bromide (101-26-8)
+                d. Obidoxime chloride (114-90-9)
+                e. Aluminium chloride (7446-70-0)
+                f. Dichloromethane (75-09-2)
+                g. N,N Dimethylaniline (121-69-7)
+                h. Isopropyl bromide (75-26-3)
+                i. Isopropyl ether (108-20-3)
+                j. Monoisopropylamine (75-31-0)
+                k. Potassium bromide (7758-02-3)
+                l. Pyridine (110-86-1)
+                m. Sodium bromide (7647-15-6)
+                n. Sodium metal (7440-23-5)
+24.08.2020  Philippine National Strategic Goods List  27 | 9
+                               Annex 3
+
+1C997           o. Sulfur trioxide (7446-11-9)
+1C998           p. Tributylamine (102-82-9)
+1C999           q. Triethylamine (121-44-8)
+                r. Trimethylamine (75-50-3)
+2A926       Metal inert gas welders (greater than 180 A DC)
+2A901       Manganese metal Brazing Foils
+2B901       Ammonium Nitrate, chemically pure or in phase stabilized version (PSAN)
+
+2B904                             CATEGORY 2 – MATERIALS PROCESSING
+2B905       Bellows-sealed valves
+2B909       Hardened steel and tungsten carbide precision ball bearings (3-mm diameter or greater)
+            Machine tools and any combination thereof, as follows:
+2B916
+2B919           a. Electrical Discharge Machines (EDMs)
+2B926           b. 4- and 5- axis CNC machine tools
+            Isostatic presses
+1B931       Electroplating equipment designed for coating parts with nickel or aluminium
+2B950       Manufacturing machine and equipment
+                a. Hydroforming machines
+                b. Bellows manufacturing equipment, including hydraulic forming equipment and bellows forming
+
+                     dies
+            Seismic detection equipment or seismic intrusion-detection systems that detect, classify and determine
+            the bearing of the source of a detected signal
+            Centrifugal multiplane balancing machines
+            Thermal treatment furnaces having all of the following characteristics:
+
+                a. Capable of operating above 850°C; and
+                b. Dimension of greater than 1m
+            Metal hydrides, such as zirconium hydride
+            Chemical manufacturing facilities, equipment and components, as follows:
+                a. Monel equipment, including valves, piping, tanks and vessels (pipes and valves greater than 8-
+
+                     in diameter and rated for 500 psi and tanks greater than 500 L)
+24.08.2020  Philippine National Strategic Goods List  2 7 | 10
+                               Annex 3
+
+            b. Vacuum pumps with a manufacturer’s specified maximum flow-rate greater than 1 m3/h (under
+                standard temperature and pressure conditions), casings (pump bodies), preformed casing-liners,
+                impellers, rotors, and jet pump nozzles designed for such pumps, in which all surfaces that come
+                into direct contact with the chemicals being processed are made from any of the following
+                materials:
+                     1. Nickel or alloys with more than 40% nickel by weight;
+                     2. Alloys with more than 25% nickel and 20% chromium by weight;
+                     3. Fluoropolymers;
+                     4. Glass or glass-lined (including vitrified or enamelled coating);
+                     5. Graphite;
+                     6. Tantalum or tantalum alloys;
+                     7. Titanium or titanium alloys;
+                     8. Zirconium or zirconium alloys;
+                     9. Ceramics; or
+                     10. Ferrosilicon.
+
+            c. Single-seal pumps with manufacturer’s specified maximum flow rate greater than 0.6 m3/h and
+                casings (pump bodies), preformed casing liners, impellers, rotors or jet pump nozzles designed
+                for such pumps, in which all surfaces that come into direct contact with the chemical(s) being
+                processed are made from any of the following materials:
+                     1. Nickel or alloys with more than 40% nickel by weight;
+                     2. Alloys with more than 25% nickel and 20% chromium by weight;
+                     3. Fluoropolymers (polymeric or elastomeric materials with more than 35% fluorine by
+                          weight);
+                     4. Glass or glass-lined (including vitrified or enamelled coating);
+                     5. Graphite or carbon-graphite;
+                     6. Tantalum or tantalum alloys;
+                     7. Titanium or titanium alloys;
+                     8. Zirconium or zirconium alloys;
+                     9. Ceramics;
+                     10. Ferrosilicon (high silicon iron alloys); or
+                     11. Niobium (columbium) or niobium alloys.
+24.08.2020  Philippine National Strategic Goods List  2 7 | 11
+                               Annex 3
+
+2B952       Biological manufacturing, handling, protective and containment equipment, as follows:
+                a. Floor-mounted fume hoods (walk-in style) with a minimum nominal width of 2.5 meters
+2B995           b. Batch centrifuges with a rotor capacity of 4 L or greater, usable with biological materials
+2B996           c. Fermenters with an internal volume of 10-20 L (.01-.02 cubic meters), usable with biological
+2B997                materials
+2B998
+2B999           d. Full face-mask air-purifying and air-supplying respirators except those used in breathing
+3A901                apparatus for firefighters
+
+3A902           e. Conventional or turbulent airflow clean-air rooms and self-contained fan-HEPA filter units that
+3A925                could be used for P3 or P4 (BSL 3, BSL 4, L3, L4) containment facilities.
+
+            Plasma cutting equipment
+            Laser welding equipment
+            Friction stirs welding machines
+            Isocyanates production equipment
+
+            Note: Isocyanates specified in entry 1C911.c.
+
+            Non-destructive test chambers with a 1m or more critical internal dimension.
+                                         CATEGORY 3 – ELECTRONICS
+
+            Ring magnets: permanent magnet materials having both of the following characteristics:
+                a. Ring-shaped magnet with a relation between outer and inner diameter smaller or equal to 1.6:1;
+                b. Made of any of the following magnetic materials: aluminium-nickel-cobalt, ferrites, samarium-
+                     cobalt or neodymium-iron-boron.
+
+            All flash X-ray machines and parts or components of pulsed power systems designed therefrom, including
+            Marx generators, high-power pulse-shaping networks, high-voltage capacitors and triggers
+            Frequency changers
+
+                a. Frequency changers capable of operating in the frequency range of 300-600 Hz
+                b. Frequency changers (also known as converters or inverters) having all of the following
+
+                     characteristics, and specially designed software therefor:
+                          1. Multiphase frequency output;
+                          2. Capable of providing power of 40 W or greater; and
+                          3. Capable of operating anywhere (at any one point or more) within the frequency range
+                               between 600 Hz and 2,000 Hz.
+
+                   Technical notes:
+24.08.2020  Philippine National Strategic Goods List  2 7 | 12
+                               Annex 3
+
+3A933               1. Frequency changers are also known as converters or inverters.
+                    2. The functionality specified above may be met by certain equipment described or marketed as electronic test
+3B902
+                         equipment, AC power supplies, variable speed motor drives or variable frequency drives.
+5A999
+6A903       Analytical instruments
+                a. Mass spectrometers
+7A901
+7A916           b. Chromatography and other spectrometry
+9A906       Electronic equipment of synthesized frequencies within the range of 31.8 GHz or greater and power output
+9A917       of 100 mW or greater for time-delay generation or time-interval measurement, as follows:
+9A915
+9B001           a. Digital time delay generators with a resolution of 50 nanoseconds or less over time intervals of
+9B905                1 microsecond or greater; or
+
+                b. Multichannel (i.e., with 3 or more channels) or modular time interval meters and chronometry
+                     equipment with resolution of 50 nanoseconds or less over time intervals of 1 microsecond or
+                     greater
+
+            CATEGORY 5 – TELECOMMUNICATIONS AND "INFORMATION SECURITY"
+            Countermeasure Subsystems and Penetration Aids (e.g. jammers, chaff, decoys) designed to saturate,
+            confuse, or evade missile defenses.
+
+                                    CATEGORY 6 – SENSORS AND LASERS
+
+            Cameras, systems or equipment, and components therefor, as follows:
+                a. High-speed imaging cameras except those used in medical imaging systems
+
+                b. Radiation-hardened television cameras
+
+                                CATEGORY 7 – NAVIGATION AND AVIONICS
+
+            Inertial equipment for any application, particularly for civilian aircraft, satellite, geophysical survey
+            applications and their associated test equipment
+
+            Pyrotechnically Actuated Valves.
+
+                              CATEGORY 9 – AEROSPACE AND PROPULSION
+
+            Turbo-pumps for liquid or hybrid rocket engines
+            Explosive bolts, nuts and shackles, flexible linear-shaped charges, ball locks, compression springs,
+            circular cutting devices and acceleration rockets usable for staging mechanisms
+            Truck chassis with 6 or more axles
+
+            Rapid prototyping, including additive manufacturing equipment
+            Measurement and control equipment usable for wind tunnels (balance, thermal stream measurement, flow
+            control)
+24.08.2020   Philippine National Strategic Goods List                                                                     2 7 | 13
+                                Annex 3
+
+9B906       All environmental test chambers capable of simulating flight conditions (temperature, pressure, shock and
+9D105       vibration) except those used for civilian aircraft safety purposes
+
+            Modeling and design software related to the modeling of aerodynamic and thermodynamic analysis of
+            rocket or unmanned aerial vehicle systems
+
+OTHER ITEMS
+
+             BASE METALS AND ARTICLES OF BASE METAL
+
+M9000 HS Code 72 – Iron and Steel
+
+M9001 HS Code 73 – Articles of Iron or Steel
+
+M9002 HS Code 74 – Copper and Articles Thereof
+
+M9003 HS Code 75 – Nickel and Articles Thereof
+
+M9004 HS Code 76 – Aluminum and Articles Thereof
+
+M9005 HS Code 78 – Lead and Articles Thereof
+
+M9006 HS Code 79 – Zinc and Articles Thereof
+
+M9007 HS Code 80 – Tin and Articles Thereof
+
+M9008 HS Code 81 – Other base metals; cermets; articles thereof
+
+M9009 HS Code 82 – Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal
+
+M9010 HS Code 83 – Miscellaneous articles of base metal
+
+MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL EQUIPMENT; PARTS THEREOF;
+  SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS
+             AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES
+
+I9000       HS Code 84 – Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof
+
+I9001       HS Code 85 – Electrical machinery and equipment and parts thereof; sound recorders and reproducers,
+            television image and sound recorders and reproducers and parts and accessories of such articles
+
+            Note: I9000 and I9001 does not prohibit the export of spare parts needed to maintain the safe operation of DPRK commercial
+            civilian passenger aircraft (currently consisting of the following aircraft models and types: An-24R/RV, An-148-100B, Il-18D, Il-
+            62M, Tu-134B-3, Tu-154B, Tu-204-100B, and Tu-204-300)
+
+                                   PETROLEUM ITEMS
+
+P9000       Refined petroleum products including diesel
+
+            Note: Prohibition on the export of refined petroleum products does not apply under the following conditions:
+                 1. Amount of up to 500,000 barrels during a period of 12 months;
+24.08.2020  Philippine National Strategic Goods List  2 7 | 14
+                               Annex 3
+
+P9001              2. Transfer of refined petroleum products involve no individuals or entities that are associated with the DPRK’s nuclear
+P9002                   or ballistic missile programmes or other activities prohibited by the relevant resolutions, including designated
+                        individuals or entities, or individuals or entities acting on their behalf or at their direction, or entities owned or
+P9003                   controlled by them, directly or indirectly, or individuals or entities assisting in the evasion of sanctions; and
+P9004
+V9000              3. Transfer of refined petroleum products are exclusively for livelihood purposes of DPRK nationals and unrelated to
+V9001                   generating revenue for the DPRK’s nuclear or ballistic missile programmes or other activities prohibited by the
+V9002                   relevant resolutions.
+V9003
+X9000        Kerosene
+
+X9001        Crude oil
+
+             Note: Prohibition on the export of refined petroleum products does not apply under the following conditions:
+                   1. If the export if exclusively for livelihood purposes of DPRK nationals and unrelated to the DPRK’s nuclear or ballistic
+                        missile programs or other activities prohibited by UNSC 1718 resolution and its subsequent resolutions; and
+                   2. Total export does not exceed 4 million barrels or 525,000 tons in the aggregate per twelve month period.
+
+             Natural gas liquids
+
+             Condensates
+
+            VEHICLES, AIRCRAFT, VESSELS AND ASSOCIATED TRANSPORT EQUIPMENT
+
+             HS Code 86 – Railway or tramway locomotives, rolling-stock and parts thereof; railway or tramway track
+             fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling
+             equipment of all kinds
+
+             HS Code 87 – Vehicles other than railway or tramway rolling-stock, and parts and accessories thereof
+
+             HS Code 88 – Aircraft, spacecraft, and parts thereof
+
+             HS Code 89 – Ships, boats and floating structures
+
+                                                    LUXURY ITEMS
+
+             Jewelry
+
+                  a. Jewelry with pearls
+
+                  b. Gems
+
+                  c. Precious and semi-precious stones (including diamonds, sapphire, rubies, and emeralds)
+
+                  d. Precious and semi-precious stones (including diamonds, sapphires, rubies, and emeralds)
+
+                  e. Jewelry of precious metal or of metal clad with precious metal
+
+             Transportation items, as follows:
+
+                  a. Yachts
+
+                  b. Luxury automobiles (and motor vehicles): automobiles and other motor vehicles to transport
+                       people (other than public transport), including station wagons
+
+                  c. Racing cars
+24.08.2020  Philippine National Strategic Goods List                                                      2 7 | 15
+                               Annex 3
+
+X9002           d. Aquatic recreational vehicles such as personal watercraft
+                e. Snowmobiles valued greater than $2,000
+X9003       Luxury Watch
+X9004           a. Wristwatch with a case of precious metal or of metal clad with precious metal
+X9005           b. Pocket watch with a case of precious metal or of metal clad with precious metal
+X9006           c. Other luxury watch with a case of precious metal or of metal clad with precious metal
+            Items of lead crystal
+            Recreational sports equipment
+            Rugs and tapestries (valued greater than $500)
+            Tableware of porcelain or bone china (valued greater than $100)
+24.08.2020       Philippine National Strategic Goods List                 2 7 | 16
+                                    Annex 3
+
+ANNEX 3.2 —IMPORT, TRANSIT, AND TRANSHIPMENT OF GOODS AND TECHNOLOGY FROM
+                                                        DPRK
+
+Items, materials, equipment, goods, and technology listed herein are prohibited items for import from the Democratic
+People’s Republic of Korea (DPRK) set out in the lists of United Nations Security Council Resolution (UNSCR)
+1718(2006) and its subsequent resolutions which could contribute to DPRK’s nuclear-related, other weapons of mass
+destruction-related or ballistic missile-related programs.
+
+DUAL-USE ITEMS
+
+            CATEGORY 0 – NUCLEAR MATERIALS, FACILITIES, AND EQUIPMENT
+
+0A901 Hot cells
+
+0B901 Test, Inspection and Production Equipment
+
+            a. Ring magnets (except those designed for consumer electronics or automobile applications)
+
+            b. UF6 Corrosion Resistant Bellow-sealed Valves
+
+            c. Particle accelerators
+
+            d. Freon and chilled-water cooling systems capable of continuous cooling capacity of 100 000
+                Btu/hr (29,3 kW) or greater
+
+            e. Vacuum valves, piping, flanges, gaskets and related equipment specially designed for use in
+                high-vacuum service (0,1 Pa or lower pressure)
+
+0D901       "Software" specially designed or modified for the "development", "production" or "use" of goods
+            specified in this Category.
+
+            a. Software for neutronic calculations/modelling
+
+            b. Software for radiation transport calculations/modelling
+
+            c. Software for hydrodynamic calculations/modelling (except those used strictly for civilian
+                purposes, such as but not limited to communal heating utilities)
+
+            CATEGORY 1- SPECIAL MATERIALS AND RELATED EQUIPMENT
+
+1A904 Protective and detection equipment and components
+
+            a. Glove boxes suitable for use with radioactive materials
+
+            b. Radiation detection, monitoring and measurement equipment
+
+            c. Radiographic detection equipment such as X-ray converters, and storage phosphor image plates
+                (except X-ray equipment specially designed for medical use)
+
+1B901 Production equipment and machines
+
+            a. Equipment for carbon fibre production
+24.08.2020  Philippine National Strategic Goods List  2 7 | 17
+                               Annex 3
+
+1B925           b. Filament winding machines or fibre/ tow-placement machines and related equipment, of which
+1C902                the motions for positioning, wrapping and winding fibres can be coordinated and programmed
+1C903                in two or more axes and which are designed to fabricate composite structures or laminates from
+1C906                fibrous or filamentary materials, coordinating and programming controls and precision mandrels
+1C907                for such equipment
+
+1C908           c. Filament winding machines having all of the following characteristics:
+                     1. Having motions for positioning, wrapping and winding fibres coordinated and programmed
+                          in two or more axes;
+                     2. Specially designed to fabricate composite structures or laminates from “fibrous or
+                          filamentary materials”; and
+
+                     3. Capable of winding cylindrical tubes of diameter of 75 mm or greater.
+                d. Coordinating and programming controls for filament winding machines specified in 1B901.c.
+
+                e. Mandrels for filament winding machines specified in 1B901.c.
+
+            Electrolytic cells for fluorine production
+            High strength aluminium alloy having both of the following characteristics:
+
+                a. ‘Capable of’ an ultimate tensile of strength of 415 MPa or more at 293 K (20ºC);
+                b. In bar or tube form, with an outer diameter of 75 mm or greater.
+
+            Technical Note: The phrase “capable of” encompasses aluminium alloy before or after heat treatment.
+
+            Magnetic alloy materials in sheet or thin strip form having both of the following characteristics:
+
+                a. Thickness of 0.05 mm or less; or height of 25 mm or less;
+                b. Made of any of the following magnetic alloy materials: iron-chromium-cobalt, iron-cobalt-
+
+                     vanadium, iron-chromium-cobalt-vanadium or iron-chromium.
+            Perfluorinated Lubricants
+
+            Graphite, ceramic, ceramic-matrix composite materials, and precursor materials
+                a. Ultra high-temperature ceramic composite materials in solid form (i.e. blocks, cylinders, tubes
+                     or ingots) in any of the following form factors:
+                     1. Cylinders having a diameter of 120 mm or greater and a length of 50 mm or greater;
+
+                     2. Tubes having an inner diameter of 65 mm or greater and a wall thickness of 25 mm or greater
+                          and a length of 50 mm or greater; or
+
+                     3. Blocks having a size of 120 mm x 120 mm x 50 mm or greater.
+
+                b. Graphite designed or specified for use in Electrical Discharge Machining (EDM) machines
+            Polymeric substances
+24.08.2020  Philippine National Strategic Goods List  2 7 | 18
+                               Annex 3
+
+1C910           a. Hydroxyl Terminated Poly-Ether (HTPE)
+1C911           b. Hydroxyl Terminated Caprolactone Ether (HTCE)
+                c. Polypropylene glycol (PPG)
+                d. Polydiethyleneglycol adipate (PGA)
+                e. Polyethylene Glycol (PEG)
+            Fibrous or filamentary materials and prepegs, as follows:
+                a. Polyacrylonitrile (PAN) fibre usable as a precursor for carbon fibre production
+                b. Para-aramid fiber (Kevlar and other Kevlar-like), filament and tape
+                c. Carbon, aramid or glass “fibrous or filamentary materials” having both of the following
+
+                     characteristics:
+                          1. A “specific modulus” exceeding 3.18 × 106 m;
+                          2. A “specific tensile strength” exceeding 76.2 × 103 m;
+
+                d. Prepregs: thermoset resin impregnated continuous “yarns”, “rovings”, “tows” or “tapes” with a
+                     width of 30 mm or less, made from carbon, aramid or glass “fibrous or filamentary materials”
+                     controlled in 1C910.c.
+
+            Metals, compounds, propellants and constituent chemicals for propellants
+                a. Sodium Perchlorate
+                b. Aviation fuel (aviation gasoline, naptha-type jet fuel, kerosene-type jet fuel, kerosene-type rocket
+                     fuel)
+                c. Isocyanates
+                          1. Toluene di-isocyanate (TDI)
+                          2. Methylene bis (phenyl isocyanate) (MDI)
+                          3. Isophorone diiosocyanate (IPDI)
+                          4. Hexamethylene diisocyanate (HNMDI or HDI)
+                          5. Dimeryl diisocyanate (DDI)
+                d. Nitric acid in concentrations of 20 per cent of weight or greater
+                e. Fluorine (except that used for strictly civilian purposes, such as refrigerants, including freon
+                     and fluoride for toothpaste production)
+                f. Metal hydrides such as zirconium hydride, beryllium hydride, aluminium hydride, lithium
+                     aluminium hydride and titanium hydride
+                g. Plasticizers usable in composite propellants, such as dioctyl adipate (DOA), dioctyl sebacate
+24.08.2020  Philippine National Strategic Goods List  2 7 | 19
+                               Annex 3
+
+1C916                (DOS) and dioctyl azelate (DOZ)
+            Steels, as follows:
+1C918
+1C936           a. Grade 304, 316 and austenitic stainless steel plates, valves, piping, tanks and vessels (pipes and
+1C950                valves greater than 8-in diameter and rated for 500 psi and tanks greater than 500 L)
+
+                b. Maraging steel having both of the following characteristics:
+                          1. Capable of an ultimate tensile strength of 1,500 MPa or more at 293 K (20ºC);
+                          2. In bar or tube form, with an outer diameter of 75 mm or greater.
+
+                c. Maraging steel capable of an ultimate tensile strength of 1,950 MPa or more at 293 K (20°C)
+                     and in any of the following forms:
+                          1. Sheet, plate or tubing with a wall or plate thickness equal to or less than 5.0 mm;
+                          2. Tubular forms with a wall thickness of 50 mm or less and having an inner diameter of
+                               270 mm or more.
+
+            Special corrosion resistant steels — limited to steels resistant to Inhibited Red Fuming Nitric Acid
+            (IRFNA) or nitric acid, such as nitrogen stabilized duplex stainless steel (N-DSS)
+            Alpha-emitting radionuclides
+            Toxic chemicals, toxic chemical agent precursors, and chemicals for decontamination of chemical warfare
+            agents, as follows:
+
+                a. Diethylenetriamine (111-40-0)
+                b. Butyrylcholinesterase (BCHE)
+                c. Pyridostigmine bromide (101-26-8)
+                d. Obidoxime chloride (114-90-9)
+                e. Aluminium chloride (7446-70-0)
+                f. Dichloromethane (75-09-2)
+                g. N,N Dimethylaniline (121-69-7)
+                h. Isopropyl bromide (75-26-3)
+                i. Isopropyl ether (108-20-3)
+                j. Monoisopropylamine (75-31-0)
+                k. Potassium bromide (7758-02-3)
+                l. Pyridine (110-86-1)
+                m. Sodium bromide (7647-15-6)
+24.08.2020  Philippine National Strategic Goods List  2 7 | 20
+                               Annex 3
+
+1C997           n. Sodium metal (7440-23-5)
+1C998           o. Sulfur trioxide (7446-11-9)
+1C999           p. Tributylamine (102-82-9)
+                q. Triethylamine (121-44-8)
+2A926           r. Trimethylamine (75-50-3)
+2A901       Metal inert gas welders (greater than 180 A DC)
+2B901       Manganese metal Brazing Foils
+            Ammonium Nitrate, chemically pure or in phase stabilized version (PSAN)
+2B904
+2B905                             CATEGORY 2 – MATERIALS PROCESSING
+2B909       Bellows-sealed valves
+            Hardened steel and tungsten carbide precision ball bearings (3-mm diameter or greater)
+2B916       Machine tools and any combination thereof, as follows:
+2B919
+2B926           a. Electrical Discharge Machines (EDMs)
+                b. 4- and 5- axis CNC machine tools
+1B931       Isostatic presses
+2B950       Electroplating equipment designed for coating parts with nickel or aluminium
+            Manufacturing machine and equipment
+                a. Hydroforming machines
+                b. Bellows manufacturing equipment, including hydraulic forming equipment and bellows forming
+
+                     dies
+            Seismic detection equipment or seismic intrusion-detection systems that detect, classify and determine
+            the bearing of the source of a detected signal
+            Centrifugal multiplane balancing machines
+            Thermal treatment furnaces having all of the following characteristics:
+
+                a. Capable of operating above 850°C; and
+                b. Dimension of greater than 1m
+            Metal hydrides, such as zirconium hydride
+            Chemical manufacturing facilities, equipment and components, as follows:
+24.08.2020  Philippine National Strategic Goods List  2 7 | 21
+                               Annex 3
+
+            a. Monel equipment, including valves, piping, tanks and vessels (pipes and valves greater than 8-
+                in diameter and rated for 500 psi and tanks greater than 500 L)
+
+            b. Vacuum pumps with a manufacturer’s specified maximum flow-rate greater than 1 m3/h (under
+                standard temperature and pressure conditions), casings (pump bodies), preformed casing-liners,
+                impellers, rotors, and jet pump nozzles designed for such pumps, in which all surfaces that come
+                into direct contact with the chemicals being processed are made from any of the following
+                materials:
+
+                     1. Nickel or alloys with more than 40% nickel by weight;
+                     2. Alloys with more than 25% nickel and 20% chromium by weight;
+
+                     3. Fluoropolymers;
+                     4. Glass or glass-lined (including vitrified or enamelled coating);
+
+                     5. Graphite;
+                     6. Tantalum or tantalum alloys;
+
+                     7. Titanium or titanium alloys;
+                     8. Zirconium or zirconium alloys;
+
+                     9. Ceramics; or
+
+                     10. Ferrosilicon.
+            c. Single-seal pumps with manufacturer’s specified maximum flow rate greater than 0.6 m3/h and
+
+                casings (pump bodies), preformed casing liners, impellers, rotors or jet pump nozzles designed
+                for such pumps, in which all surfaces that come into direct contact with the chemical(s) being
+                processed are made from any of the following materials:
+
+                     1. Nickel or alloys with more than 40% nickel by weight;
+
+                     2. Alloys with more than 25% nickel and 20% chromium by weight;
+                     3. Fluoropolymers (polymeric or elastomeric materials with more than 35% fluorine by
+
+                          weight);
+                     4. Glass or glass-lined (including vitrified or enamelled coating);
+
+                     5. Graphite or carbon-graphite;
+                     6. Tantalum or tantalum alloys;
+
+                     7. Titanium or titanium alloys;
+                     8. Zirconium or zirconium alloys;
+
+                     9. Ceramics;
+
+                     10. Ferrosilicon (high silicon iron alloys); or
+24.08.2020  Philippine National Strategic Goods List  2 7 | 22
+                               Annex 3
+
+2B952                     11. Niobium (columbium) or niobium alloys.
+            Biological manufacturing, handling, protective and containment equipment, as follows:
+2B995
+2B996           a. Floor-mounted fume hoods (walk-in style) with a minimum nominal width of 2.5 meters
+2B997           b. Batch centrifuges with a rotor capacity of 4 L or greater, usable with biological materials
+2B998           c. Fermenters with an internal volume of 10-20 L (.01-.02 cubic meters), usable with biological
+2B999
+3A901                materials
+
+3A902           d. Full face-mask air-purifying and air-supplying respirators except those used in breathing
+3A925                apparatus for firefighters
+
+                e. Conventional or turbulent airflow clean-air rooms and self-contained fan-HEPA filter units that
+                     could be used for P3 or P4 (BSL 3, BSL 4, L3, L4) containment facilities.
+
+            Plasma cutting equipment
+            Laser welding equipment
+            Friction stirs welding machines
+            Isocyanates production equipment
+
+            Note: Isocyanates specified in entry 1C911.c.
+
+            Non-destructive test chambers with a 1m or more critical internal dimension.
+                                         CATEGORY 3 – ELECTRONICS
+
+            Ring magnets: permanent magnet materials having both of the following characteristics:
+                a. Ring-shaped magnet with a relation between outer and inner diameter smaller or equal to 1.6:1;
+                b. Made of any of the following magnetic materials: aluminium-nickel-cobalt, ferrites, samarium-
+                     cobalt or neodymium-iron-boron.
+
+            All flash X-ray machines and parts or components of pulsed power systems designed therefrom, including
+            Marx generators, high-power pulse-shaping networks, high-voltage capacitors and triggers
+            Frequency changers
+
+                a. Frequency changers capable of operating in the frequency range of 300-600 Hz
+                b. Frequency changers (also known as converters or inverters) having all of the following
+
+                     characteristics, and specially designed software therefor:
+                          1. Multiphase frequency output;
+                          2. Capable of providing power of 40 W or greater; and
+                          3. Capable of operating anywhere (at any one point or more) within the frequency range
+                               between 600 Hz and 2,000 Hz.
+24.08.2020  Philippine National Strategic Goods List  2 7 | 23
+                               Annex 3
+
+3A933              Technical notes:
+3B902             1. Frequency changers are also known as converters or inverters.
+                  2. The functionality specified above may be met by certain equipment described or marketed as electronic test equipment,
+5A999
+6A903                   AC power supplies, variable speed motor drives or variable frequency drives.
+
+7A901       Analytical instruments
+7A916           a. Mass spectrometers
+9A906           b. Chromatography and other spectrometry
+9A917
+9A915       Electronic equipment of synthesized frequencies within the range of 31.8 GHz or greater and power output
+9B001       of 100 mW or greater for time-delay generation or time-interval measurement, as follows:
+
+                a. Digital time delay generators with a resolution of 50 nanoseconds or less over time intervals of
+                     1 microsecond or greater; or
+
+                b. Multichannel (i.e., with 3 or more channels) or modular time interval meters and chronometry
+                     equipment with resolution of 50 nanoseconds or less over time intervals of 1 microsecond or
+                     greater
+
+            CATEGORY 5 – TELECOMMUNICATIONS AND "INFORMATION SECURITY"
+            Countermeasure Subsystems and Penetration Aids (e.g. jammers, chaff, decoys) designed to saturate,
+            confuse, or evade missile defenses.
+
+                                    CATEGORY 6 – SENSORS AND LASERS
+            Cameras, systems or equipment, and components therefor, as follows:
+
+                a. High-speed imaging cameras except those used in medical imaging systems
+                b. Radiation-hardened television cameras
+
+                                CATEGORY 7 – NAVIGATION AND AVIONICS
+            Inertial equipment for any application, particularly for civilian aircraft, satellite, geophysical survey
+            applications and their associated test equipment
+            Pyrotechnically Actuated Valves.
+
+                              CATEGORY 9 – AEROSPACE AND PROPULSION
+            Turbo-pumps for liquid or hybrid rocket engines
+            Explosive bolts, nuts and shackles, flexible linear-shaped charges, ball locks, compression springs,
+            circular cutting devices and acceleration rockets usable for staging mechanisms
+            Truck chassis with 6 or more axles
+            Rapid prototyping, including additive manufacturing equipment
+24.08.2020   Philippine National Strategic Goods List                                                             2 7 | 24
+                                Annex 3
+
+9B905       Measurement and control equipment usable for wind tunnels (balance, thermal stream measurement, flow
+9B906       control)
+9D105
+            All environmental test chambers capable of simulating flight conditions (temperature, pressure, shock and
+            vibration) except those used for civilian aircraft safety purposes
+
+            Modeling and design software related to the modeling of aerodynamic and thermodynamic analysis of
+            rocket or unmanned aerial vehicle systems
+
+OTHER ITEMS
+
+             COAL
+
+C9000 Coal
+
+            Note: Import of coal from DPRK is not prohibited provided that the total exports to all Member States of coal originating from the
+            DPRK shall not exceed the aggregate of 400,870,018 US dollars or 7,500,000 metric tons and authorization is acquired from the
+            STMO.
+
+             EARTH AND STONE INCLUDING MAGNESITE AND MAGNESIA
+
+E9000 HS Code 25 – Salt, sulphur; earths and stone; plastering materials, lime and cement
+
+F9000                              FOOD AND AGRICULTURAL PRODUCTS
+            HS Code 07 – Edible vegetables and certain roots and tubers
+
+F9001       HS Code 08 – Edible fruit and nuts; peel of citrus fruit or melons
+
+F9002       HS Code 12 – Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or
+            medicinal plants; straw and fodder
+
+F9003       Seafood (including fish, crustaceans, mollusks, and other aquatic invertebrates in all forms)
+
+MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL EQUIPMENT; PARTS THEREOF;
+  SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS
+             AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES
+
+I9000       HS Code 84 – Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof
+
+I9001       HS Code 85 – Electrical machinery and equipment and parts thereof; sound recorders and reproducers,
+            television image and sound recorders and reproducers and parts and accessories of such articles
+
+             METALS AND METAL ORES
+
+M9012       Iron except transactions intended exclusively for livelihood purposes
+
+M9013       Note: Iron for export covered under the exception shall require and authorization from the STMO.
+
+            Iron ore except transactions intended exclusively for livelihood purposes
+
+            Note: Iron ore for export covered under the exception shall require and authorization from the STMO.
+24.08.2020  Philippine National Strategic Goods List                                                            2 7 | 25
+                               Annex 3
+
+M9014        Gold
+M9015        Titanium Ore
+M9016        Vanadium Ore
+M9017        Rare earth minerals
+M9018        Copper
+M9019        Nickel
+M9020        Zinc
+M9021        Silver
+M9022        Lead
+M9023        Lead ore
+
+S9001                                                  STATUES
+             Statues
+T9000
+                                                      TEXTILES
+V9003        Textiles (including but not limited to fabrics and partially or fully completed apparel products)
+
+W9000                                    TRANSPORTATION VEHICLES
+            HS Code 89 – Ships, boats, and floating structures
+
+                                                         WOOD
+            HS Code 44 – Wood and articles of wood; wood charcoal
+24.08.2020  Philippine National Strategic Goods List  2 7 | 26
+                               Annex 3
+
+ ANNEX 3.3 – EXPORT, TRANSIT, AND TRANSSHIPMENT OF GOODS AND TECHNOLOGY TO IRAN
+
+Items, materials, equipment, goods, and technology listed herein are items prohibited for export to Iran set out in the
+lists of United Nations Security Council Resolution (UNSCR) 2231 (2015) and its subsequent resolutions which could
+contribute to Iran’s nuclear-related program.
+
+These items, materials, equipment, goods, and technology are enumerated under the UNSC-related documents
+INFCIRC/254/Rev.13/Part1, INFCIRC/254/ Rev.10/Part 2, and S/2015/546. It includes arms and related material that
+could contribute to the development of nuclear weapon delivery systems. These items are also listed in Annex 1 and 2
+of the National Strategic Goods List (NSGL).
+
+EXCEPTION
+
+The following criteria provide the exception prohibition for the export, transit, and transshipment of goods to Iran listed
+in the abovementioned UNSC-related documents. The export, transit, and transshipment shall require an authorization
+from the Strategic Trade Management Office (STMO) prior to its actual export, transit, or transshipment.
+
+    1. Any item which could contribute to reprocessing or enrichment-related or heavy water-related activities
+         inconsistent with the Joint Comprehensive Plan of Action, which has been approved in advance by the UNSC;
+
+    2. Equipment covered by B.1 of INFCIRC/254/Rev.12/Part 1 when such equipment is for light water reactors;
+
+    3. Low-enriched uranium covered by A.1.2 of INFCIRC/254/Rev.12/Part 1 when it is incorporated in assembled
+         nuclear fuel elements for such reactors;
+
+    4. Items, materials, equipment, goods, and technology that are directly related to the necessary modification of
+         two cascades at the Fordow facility for stable isotope production, the export of Iran’s enriched uranium in
+         excess of 300 kilograms in return for natural uranium, and the modernization of the Arak reactor based on the
+         agreed conceptual design and, subsequently, on the agreed final design of such reactor; or
+
+    5. Items, materials, equipment, goods, and technology covered by INFCIRC/254/Rev.12/ Part 1 and
+         INFCIRC/254/Rev.9/Part 2, which have been approved in advance by the UNSC.
+24.08.2020  Philippine National Strategic Goods List  2 7 | 27
+                               Annex 3
+
+   ANNEX 3.4 – IMPORT, TRANSIT, AND TRANSSHIPMENT OF GOODS AND TECHNOLOGY FROM
+                                                            IRAN
+
+The import, transit, and transshipment of arms and related materials from Iran are prohibited pursuant to United Nations
+Council Resolution (UNSCR) 2231 (2015) and its subsequent resolutions. These items are also listed in Annex 1 of the
+National Strategic Goods List (NSGL).
+

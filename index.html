@@ -28,6 +28,7 @@
       <a href="cat5p2.html">加密 5P2</a>
       <a href="cat3.html">半導體 Cat 3</a>
       <a href="taiwan.html">台灣制度</a>
+      <a href="offshore.html">海外生產</a>
       <a href="cases.html">產品演練</a>
       <a href="tech.html">技術與視同出口</a>
       <a href="evidence.html">方法與證據</a>
@@ -50,12 +51,12 @@
 
 <div class="grid c4" style="margin:20px 0">
   <div class="card stat"><b>638</b><span>EAR ECCN 切成獨立檔（eCFR 2026-10-29）</span></div>
-  <div class="card stat"><b>83</b><span>官方來源，全部記錄網址與 SHA-256</span></div>
+  <div class="card stat"><b>147</b><span>官方來源（美、台、中、歐盟、東南亞五國），全部記錄網址與 SHA-256</span></div>
   <div class="card stat"><b>5</b><span>產品原型逐步演練</span></div>
   <div class="card stat"><b>0</b><span>找不到原文的引文（每次發布前程式核對）</span></div>
 </div>
 
-<h2 id="takeaways">先記住的十一件事</h2>
+<h2 id="takeaways">先記住的十二件事</h2>
 <ol class="take">
   <li><b>分類從「受不受 EAR 管」開始，台灣義務另外算。</b><span>台灣自行設計製造、沒有美國成分的晶片，EAR 可能根本管不到；但台灣清單照樣適用。<a href="method.html#step0">分類方法</a></span></li>
   <li><b>AT-only 不是 EAR99。</b><span>含時脈超過 25 MHz 處理器的 SoC 多半是 3A991.a.2；而超級電腦最終用途規則明文點名 3A991 的 IC。<a href="cat3.html#3a991">半導體 Cat 3</a></span></li>
@@ -67,6 +68,7 @@
   <li><b>晶片 AT，技術可能 NS。</b><span>DSP 核心的設計技術（3E002.c）、4096‑QAM 的開發技術（5E001.c.4.a）、跳頻技術（5E001.b.4）都可能比晶片本身管得嚴。<a href="cases.html#rf">產品演練</a></span></li>
   <li><b>商用 GNSS 接收器是 7A994。</b><span>政府用解密走 ITAR，自適應天線是 7A005.b，飛彈或高速機載用途看 7A105。<a href="cases.html#gnss">GNSS 演練</a></span></li>
   <li><b>台灣：清單內貨品不分目的地都要輸出許可。</b><span>輸往美、日有條件免證；「管制地區」的大陸地區只限 12 類晶圓製造設備，其他戰略性高科技貨品輸往大陸仍需許可，但適用非管制地區的規定。<a href="taiwan.html">台灣制度</a></span></li>
+  <li><b>在中國或東南亞生產，四個節點的規則是疊加的。</b><span>台灣出貨、工廠所在國的出口管制、目的地的進口准入、交易對象篩選，加上全程跟著物品走的 EAR；進口端的強迫勞動與聯網車規則，會依「在哪裡做、誰做的」擋貨。<a href="offshore.html">海外生產</a></span></li>
   <li><b>台灣 115 年版的 5A002 結構已和 EAR 不同。</b><span>WPAN、銀行交易移進 5A002 技術註解 1；2026 年新增的 9xx 碼則與 EAR 2024 年起的同號條文一致。<a href="cat5p2.html#tw">加密 5P2</a></span></li>
 </ol>
 
@@ -81,6 +83,9 @@
     <tr><td>「公開原始碼要寄 email 給 BIS」</td><td>2021 年起只限 non-standard cryptography</td><td><a href="evidence.html#warnings">品質警語 3</a></td></tr>
     <tr><td>「那件 EDA 工具案是視同出口案」</td><td>不是；核心是實體清單、別名、子公司境內移轉與下載入口</td><td><a href="tech.html#cadence">技術與視同出口</a></td></tr>
     <tr><td>「台灣出口到中國大陸的高科技貨品都屬管制地區」</td><td>管制地區的大陸地區只限 12 類晶圓製造設備；其他仍需許可，適用非管制地區規定</td><td><a href="taiwan.html#areas">台灣制度</a></td></tr>
+    <tr><td>「工廠在海外，就不用管台灣出口管制」</td><td>成品從當地出貨這段對；運到工廠的設備、零件、技術仍受台灣管，EAR 也跟著物品走</td><td><a href="offshore.html">海外生產</a></td></tr>
+    <tr><td>「中國清單的 5A002 就是美國的 5A002」</td><td>不是；中國版只列安全晶片、10 Gbps 以上加密機等特定產品</td><td><a href="cn-us.html#cn">中國 → 美國</a></td></tr>
+    <tr><td>「用了衝突礦產，貨會在美國海關被擋」</td><td>不會；那是 SEC 上市公司的申報義務。依加工地擋貨的是強迫勞動規則</td><td><a href="cn-us.html#us">美國進口端</a></td></tr>
     <tr><td>「ECCN 和 HS 稅則號列可以互相換算」</td><td>不行；BIS 明說兩者完全無關</td><td><a href="method.html#routes">分類方法</a></td></tr>
   </tbody>
 </table></div>

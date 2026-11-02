@@ -1,0 +1,973 @@
+〔Ministry of Industry and Trade of Vietnam (Official Gazette / Cong bao)｜Circular No. 42/2026/TT-BCT prescribing the detailed list of dual-use goods under the management authority of the Ministry of Industry and Trade｜抓取 2026-11-02｜https://congbaocdn.chinhphu.vn/180507251028987904/2026/8/10/470193-1786009656_v1_1786329006_signed.pdf〕
+
+Ký bởi: CÔNG BÁO NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Cơ quan: VĂN PHÒNG CHÍNH PHỦ
+
+Ngày ký: 2026-08-10 09:30:06 +07:00  CÔNG BÁO/Số 467/Ngày 10-08-2026  2
+
+BỘ CÔNG THƯƠNG                       CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+                                                  Độc lập - Tự do - Hạnh phúc
+                 ________
+                                                             ___________________________________
+Số: 42/2026/TT-BCT
+                                               Hà Nội, ngày 29 tháng 7 năm 2026
+
+                                       THÔNG TƯ
+
+Quy định Danh mục chi tiết hàng hóa lưỡng dụng thuộc thẩm quyền quản
+                                lý của Bộ Công Thương
+
+       Căn cứ Nghị định số 40/2025/NĐ-CP của Chính phủ quy định chức năng,
+nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương, được sửa đổi, bổ
+sung bởi Nghị định số 109/2025/NĐ-CP và Nghị định số 193/2025/NĐ-CP;
+
+       Căn cứ Nghị định số 259/2025/NĐ-CP của Chính phủ về kiểm soát thương
+mại chiến lược;
+
+       Theo đề nghị của Cục trưởng Cục Xuất nhập khẩu;
+       Bộ trưởng Bộ Công Thương ban hành Thông tư quy định Danh mục chi tiết
+hàng hóa lưỡng dụng thuộc thẩm quyền quản lý của Bộ Công Thương.
+
+       Điều 1. Danh mục chi tiết hàng hóa lưỡng dụng thuộc thẩm quyền quản
+lý của Bộ Công Thương
+
+       Ban hành Danh mục chi tiết hàng hóa lưỡng dụng thuộc thẩm quyền quản
+lý của Bộ Công Thương thực hiện khoản 2 Điều 7 Nghị định số 259/2025/NĐ-CP
+tại Phụ lục kèm theo Thông tư này.
+
+       Điều 2. Hiệu lực thi hành
+       1. Thông tư này có hiệu lực thi hành kể từ ngày 12 tháng 9 năm 2026.
+       2. Trong quá trình thực hiện Thông tư này, nếu phát sinh vướng mắc,
+thương nhân, các cơ quan, tổ chức có liên quan phản ánh bằng văn bản về Bộ
+CÔNG BÁO/Số 467/Ngày 10-08-2026                                     3
+
+Công Thương (Cục Xuất nhập khẩu) để xử lý./.
+
+                                                 KT. BỘ TRƯỞNG
+                                                   THỨ TRƯỞNG
+
+                                              Nguyễn Sinh Nhật Tân
+           CÔNG BÁO/Số 467/Ngày 10-08-2026                              4
+
+                                        PHỤ LỤC
+ Danh mục chi tiết hàng hóa lưỡng dụng thuộc thẩm quyền quản lý của
+
+                                   Bộ Công Thương
+(Ban hành kèm theo Thông tư số 42/2026/TT-BCT ngày 29 tháng 7 năm 2026
+
+                          của Bộ trưởng Bộ Công Thương)
+
+NGUYÊN TẮC ÁP DỤNG
+
+1. Trường hợp chỉ liệt kê mã 4 số thì toàn bộ các mã 8 số thuộc nhóm 4 số này
+đều nằm trong Danh mục.
+
+2. Trường hợp chỉ liệt kê mã 6 số thì toàn bộ các mã 8 số thuộc phân nhóm 6 số
+này đều nằm trong Danh mục.
+
+3. Trường hợp liệt kê chi tiết đến mã 8 số thì chỉ những mã 8 số đó mới nằm trong
+Danh mục.
+
+4. Mã số phân loại kiểm soát xuất khẩu của Danh mục hàng hóa lưỡng dụng của Liên
+minh châu Âu (Mã số ECCN): được sử dụng cho mục đích tham chiếu.
+
+STT Mã HS  Mô tả hàng hóa  Đặc điểm kỹ thuật,           Mã số
+                                công nghệ              ECCN
+                                                     tham chiếu
+
+I Điện tử
+
+                           - Là máy biến đổi tĩnh
+                           điện có cả hai đặc điểm
+                           sau:
+
+                           (i) Có khả năng sản
+
+                           xuất liên tục trong
+
+                           khoảng thời gian 8 giờ,
+
+                           điện áp 100 V trở lên
+
+           Nguồn cung cấp với dòng điện đầu ra
+
+1 85044090 điện một chiều 500 A trở lên;            3A226
+
+           công suất cao   (ii) Độ ổn định dòng
+
+                           điện hoặc điện áp tốt
+
+                           hơn 0,1% trong khoảng
+
+                           thời gian 8 giờ.
+
+                           - Không bao gồm: Bộ
+                           nguồn nam châm điện
+                           (loại công suất cao,
+                           dòng điện một chiều)
+             CÔNG BÁO/Số 467/Ngày 10-08-2026                           5
+
+                                    có tất cả các đặc tính:
+                                    có khả năng vận hành
+                                    liên tục với dòng điện
+                                    đầu ra từ 500 A trở lên
+                                    ở điện áp từ 100 V trở
+                                    lên; và có khả năng
+                                    điều chỉnh dòng điện
+                                    hoặc điện áp tốt hơn
+                                    0,01% trong khoảng
+                                    thời gian 8 giờ.
+
+                                    - Không phải loại dùng
+                                    cho các máy xử lý dữ
+                                    liệu tự động và các khối
+                                    chức năng của chúng
+                                    và thiết bị viễn thông;
+                                    không phải máy nạp ắc
+                                    quy, pin có công suất
+                                    danh định trên 100
+                                    kVA; không phải bộ
+                                    chỉnh lưu; không phải
+                                    bộ nghịch lưu.
+
+                                    - Là máy biến đổi tĩnh
+                                    điện có cả hai đặc điểm
+                                    sau:
+
+                                    (i) Có khả năng sản
+
+                                    xuất liên tục trong
+
+                                    khoảng thời gian 8 giờ,
+
+                                    với điện áp 20 kV trở
+
+                                    lên và dòng điện đầu ra
+
+                                    1 A trở lên;
+
+2  85044090  Nguồn cung cấp         (ii) Độ ổn định dòng       3A227
+             điện một chiều điện  điện hoặc điện áp tốt
+             áp cao                 hơn 0,1% trong khoảng
+
+                                    thời gian 8 giờ.
+
+                                    - Không bao gồm: Bộ
+                                    nguồn cao áp dùng cho
+                                    nguồn ion, có đồng
+                                    thời các đặc tính sau:
+                                    có khả năng vận hành
+                                    liên tục; điện áp đầu ra
+                                    không nhỏ hơn 20.000
+             CÔNG BÁO/Số 467/Ngày 10-08-2026                          6
+
+                                   V; dòng điện đầu ra từ
+                                   1A trở lên; và độ ổn
+                                   định điện áp tốt hơn
+                                   0,01% trong thời gian 8
+                                   giờ.
+
+                                   - Không phải loại dùng
+                                   cho các máy xử lý dữ
+                                   liệu tự động và các khối
+                                   chức năng của chúng
+                                   và thiết bị viễn thông;
+                                   không phải máy nạp ắc
+                                   quy, pin có công suất
+                                   danh định trên 100
+                                   kVA; không phải bộ
+                                   chỉnh lưu; không phải
+                                   bộ nghịch lưu.
+
+                                   - Là máy biến đổi tĩnh
+                                   điện có thể sử dụng làm
+                                   bộ điều khiển động cơ
+                                   tần số biến đổi hoặc tần
+                                   số cố định và có tất cả
+                                   các đặc tính sau:
+
+                                   (i) Đầu ra đa pha cung
+                                   cấp công suất 40VA trở
+                                   lên.
+
+                                   (ii) Hoạt động ở tần số
+
+                                   600 Hz trở lên.
+
+3  85044040  Bộ biến đổi tần số    (iii) Bước điều khiển       3A225
+   85044090  (bộ chuyển đổi        (hay độ chính xác tần
+             hoặc bộ nghịch lưu)  số) nhỏ hơn 0,2%.
+
+                                   - Không bao gồm: Các
+                                   bộ biến đổi tần số, bao
+                                   gồm bộ chuyển đổi
+                                   hoặc bộ nghịch lưu,
+                                   được thiết kế hoặc
+                                   chuẩn bị đặc biệt để
+                                   cấp điện cho stato động
+                                   cơ của máy ly tâm khí
+                                   dùng trong quá trình
+                                   làm giàu, có đồng
+             CÔNG BÁO/Số 467/Ngày 10-08-2026                               7
+
+                             thời các đặc tính sau:
+                             đầu ra tần số đa pha từ
+                             600 Hz trở lên; độ ổn
+                             định cao, bước điều
+                             khiển (hay độ chính
+                             xác tần số) nhỏ hơn
+                             0,2%.
+
+                             - Lưu ý:
+
+                             Không kiểm soát các
+                             bộ biến đổi tần số hoặc
+                             máy phát điện nếu
+                             chúng có các giới hạn
+                             về phần cứng, phần
+                             mềm hoặc công nghệ
+                             làm hạn chế hiệu năng
+                             xuống dưới mức quy
+                             định nêu trên.
+
+II Hoá chất
+
+                                                 - Trừ hàng an ninh
+                       Chất nổ mạnh hoặc quốc phòng.
+                       các chất hoặc hỗn
+4 36020000 hợp chứa hơn 2% - Mật độ tinh thể lớn 1C239
+                       theo trọng lượng hơn 1,8 g/cm³ và có tốc
+                       của chất nổ mạnh độ nổ lớn hơn 8.000
+
+                                                 m/s.
+
+                                                 'Thuốc nổ định hình' có
+                                                 tất cả các đặc điểm sau:
+
+                                                 (i) Lượng thuốc nổ
+5 36020000 Thuốc nổ định hình ròng (NEQ) lớn hơn 90 1A008.a
+
+                                                 g; và
+
+                                                 (ii) Đường kính vỏ
+                                                 ngoài từ 75 mm trở lên.
+
+                             Thuốc nổ định hình cắt
+
+                             tuyến tính có tất cả các
+
+6  36020000  Thuốc nổ định hình đặc điểm sau:         1A008.b
+
+             cắt tuyến tính  (i) Lượng thuốc nổ trên
+
+                             mỗi mét (g/m) lớn hơn
+
+                             40 g/m; và
+             CÔNG BÁO/Số 467/Ngày 10-08-2026                      8
+
+                               (ii) Chiều rộng từ 10
+                               mm trở lên.
+
+7  36031000  Dây nổ, dây cháy  Dây nổ có lõi thuốc nổ    1A008.c
+   36032000  chậm              trên mỗi mét lớn hơn
+                               64 g/m
+
+8 36036000 Kíp nổ điện        - Bao gồm các loại:       1A007.b
+
+                               (i) Kíp nổ cầu nổ (EB);
+
+                               (ii) Kíp nổ dây cầu nổ
+                               (EBW);
+
+                               (iii) Kíp nổ kiểu va đập
+                               (slapper);
+
+                               (iv) Kíp nổ lá nổ (EFI).
+
+                               Lưu ý:
+
+                               - Các loại kíp nổ thuộc
+                               diện kiểm soát đều sử
+                               dụng một dây dẫn điện
+                               nhỏ như cầu dẫn, dây
+                               cầu hoặc lá dẫn, có khả
+                               năng hóa hơi theo cơ
+                               chế nổ khi một xung
+                               điện nhanh, cường độ
+                               dòng cao được truyền
+                               qua.
+
+                               - Ở các loại không phải
+                               kíp nổ kiểu slapper, dây
+                               dẫn bị nổ sẽ khởi phát
+                               quá trình kích nổ hóa
+                               học trong vật liệu nổ
+                               mạnh tiếp xúc trực tiếp
+                               với nó, chẳng hạn như
+                               PETN (pentaerythritol
+                               tetranitrate).
+
+                               - Đối với kíp nổ kiểu
+                               slapper, sự hóa hơi
+                               mang tính nổ của dây
+                               dẫn điện sẽ đẩy một
+                               tấm bay/tấm va đập
+                               vượt qua một khoảng
+                               hở; khi tấm va đập này
+              CÔNG BÁO/Số 467/Ngày 10-08-2026                        9
+
+                                  tác động vào vật liệu
+                                  nổ, nó sẽ khởi phát quá
+                                  trình kích nổ hóa học.
+                                  Trong một số thiết kế,
+                                  tấm va đập được dẫn
+                                  động bằng lực từ.
+
+                                  - Thuật ngữ kíp nổ lá nổ
+                                  có thể được dùng để chỉ
+                                  cả kíp nổ cầu nổ hoặc
+                                  kíp nổ kiểu slapper.
+
+                       2-         CAS 119-75-5              1C111.c
+9 29214400 Nitrodiphenylamin
+
+                       e
+
+10  29209000  Triethylene glycol  CAS 111-22-8              1C111.c
+              dinitrate
+
+11  29209000  Trimethylolethane   CAS 3032-55-1             1C111.c
+              trinitrate
+
+12  29209000  Diethylene glycol   CAS 693-21-0              1C111.c
+              dinitrate
+
+                                  Có độ tinh khiết cao
+
+                                  hơn 99,999%, ngay cả
+
+                                  khi được pha loãng
+              Các hydride của trong khí trơ hoặc
+              phốt pho, asen hoặc hydro.
+13  28500000  antimon, có độ tinh                           3C004
+
+              khiết cao           Ngoại trừ các hợp chất
+
+                                  hydride chứa 20% mol
+
+                                  trở lên các khí trơ hoặc
+
+                                  hydro.
+
+              Hợp chất hữu cơ- Hợp chất hữu cơ kim
+
+              kim loại của nhôm, loại của nhôm, gallium
+
+14 29319090 gallium      hoặc hoặc indium, có độ tinh 3C003.a
+
+              indium, có độ tinh khiết (theo cơ sở kim
+
+              khiết cao           loại) cao hơn 99,999%.
+
+        29314400 Hợp chất hữu cơ- Các hợp chất hữu cơ
+15 29314800 asen, hợp chất hữu chứa asen, antimon và 3C003.b
+
+                        cơ-antimon và hợp phốt pho, có độ tinh
+         293149 chất hữu cơ-phốt khiết (dựa trên nguyên
+              CÔNG BÁO/Số 467/Ngày 10-08-2026              10
+
+    29315200  pho có độ tinh khiết tố vô cơ) cao hơn
+    29315300
+    29315400  cao                 99,999%.
+     293159
+    29319049
+
+                                  Bọt tổng hợp bao gồm
+
+                                  các hạt rỗng làm từ
+
+              Bọt tổng hợp nhựa hoặc thủy tinh
+
+              (syntactic foam) được nhúng trong một
+
+              được thiết kế cho vật liệu nền bằng nhựa.
+
+16  39269099  việc sử dụng dưới  (i) Được thiết kế cho     8C001
+              nước độ sâu không   việc sử dụng dưới nước  1C002.b
+              quá 1.000 m và có   độ sâu không quá 1.000
+              mật độ dưới 561     m; và
+              kg/m3
+
+                                  (ii) Mật độ dưới 561
+
+                                  kg/m³.
+
+III Kim loại, hợp kim
+
+                                  - Có cả hai đặc điểm
+                                  sau:
+
+                                  (i) Độ bền kéo từ 345
+                                  MPa trở lên; và
+
+                                  (ii) Tốc độ ăn mòn dưới
+
+                                  1 mm/năm trong dung
+
+                                  dịch nước muối natri
+
+                                  clorua 3%, được đo
+
+                                  theo tiêu chuẩn ASTM
+
+17  81041900 Hợp kim magie có G-31 hoặc các tiêu
+
+    81049000 độ bền cao           chuẩn quốc gia tương
+
+                                  đương.
+
+                                  - Không phải loại dùng
+                                  cho mạ phủ chất nền.
+
+                                  - Kim loại magie chiếm
+                                  tỷ lệ phần trăm theo
+                                  khối lượng lớn hơn so
+                                  với từng nguyên tố bất
+                                  kỳ khác có trong hợp
+                                  kim.
+              CÔNG BÁO/Số 467/Ngày 10-08-2026        11
+
+                         - Được chế tạo từ bột
+                         hợp kim kim loại hoặc
+                         vật liệu dạng hạt, từ hệ
+                         thống thành phần: Mg-
+                         Al-X hoặc Mg-X-Al;
+                         trong đó X là một hoặc
+                         nhiều phụ tùng hợp
+                         kim.
+
+                         - Có bất kỳ đặc tính nào
+                         sau đây:
+
+                         (i) Tuổi thọ đứt do ứng
+                         suất (stress-rupture
+                         life) là 10.000 giờ hoặc
+                         lâu hơn ở nhiệt độ 923
+                         K (650°C) với ứng suất
+                         676 MPa; hoặc
+
+    75022000             (ii) Tuổi thọ độ bền mỏi
+    75051200             chu kỳ thấp (low cycle
+                         fatigue life) là 10.000
+                         chu kỳ hoặc nhiều hơn
+                         ở nhiệt độ 823 K
+                         (550°C) với ứng suất
+                         tối đa 1.095 MPa;
+
+18  75052200 Hợp kim niken có - Trong đó: “Tuổi thọ  1C002.b
+                         đứt do ứng suất” đo
+    75062000 độ bền cao  theo tiêu chuẩn ASTM
+
+    75071200             E-139 hoặc các tiêu
+
+    7508                 chuẩn quốc gia tương
+                         đương; “Tuổi thọ độ
+
+                         bền mỏi chu kỳ thấp”
+
+                         được đo theo tiêu
+
+                         chuẩn ASTM E-606
+
+                         hoặc các tiêu chuẩn
+
+                         quốc gia tương đương.
+
+                         - Không phải loại dùng
+                         cho mạ phủ chất nền.
+
+                         - Kim loại niken chiếm
+                         tỷ lệ phần trăm theo khối
+                         lượng lớn hơn so với
+                         từng nguyên tố bất kỳ
+                         khác có trong hợp kim.
+              CÔNG BÁO/Số 467/Ngày 10-08-2026        12
+
+                       - Được chế tạo từ bột
+                       hợp kim kim loại hoặc
+                       vật liệu dạng hạt, từ hệ
+                       thống thành phần: Hợp
+                       kim niken (Ni-Al-X,
+                       Ni-X-Al) đủ tiêu chuẩn
+                       dùng cho các chi tiết
+                       hoặc bộ phận của động
+                       cơ tuabin, có ít hơn 3
+                       hạt phi kim loại (được
+                       đưa vào trong quá trình
+                       sản xuất) có kích thước
+                       lớn hơn 100 μm trong
+                       10⁹ hạt hợp kim; trong
+                       đó X là một hoặc nhiều
+                       phụ tùng hợp kim.
+
+                       - Có bất kỳ đặc tính nào
+                       sau đây:
+
+                       (i) Tuổi thọ đứt do ứng
+                       suất (stress-rupture
+                       life) là 10.000 giờ hoặc
+                       lâu hơn ở nhiệt độ 723
+                       K (450°C) với ứng suất
+                       200 MPa; hoặc
+
+                       (ii) Tuổi thọ độ bền mỏi
+
+                       chu kỳ thấp (low cycle
+
+                       fatigue life) là 10.000
+
+    81082000           chu kỳ hoặc nhiều hơn
+
+19  81089000  Hợp kim titan có độ ở nhiệt độ 723 K  1C002.b
+              bền cao
+                       (450°C) với ứng suất
+
+                       tối đa 400 MPa.
+
+                       - Trong đó: “Tuổi thọ
+                       đứt do ứng suất” đo
+                       theo tiêu chuẩn ASTM
+                       E-139 hoặc các tiêu
+                       chuẩn quốc gia tương
+                       đương; “Tuổi thọ độ
+                       bền mỏi chu kỳ thấp”
+                       được đo theo tiêu
+                       chuẩn ASTM E-606
+                       hoặc các tiêu chuẩn
+                       quốc gia tương đương.
+              CÔNG BÁO/Số 467/Ngày 10-08-2026        13
+
+                         - Không phải loại dùng
+                         cho mạ phủ chất nền.
+
+                         - Kim loại titan chiếm
+                         tỷ lệ phần trăm theo
+                         khối lượng lớn hơn so
+                         với từng nguyên tố bất
+                         kỳ khác có trong hợp
+                         kim.
+
+                         - Được chế tạo từ bột
+                         hợp kim kim loại hoặc
+                         vật liệu dạng hạt, từ hệ
+                         thống thành phần: Ti-
+                         Al-X hoặc Ti-X-Al;
+                         trong đó X là một hoặc
+                         nhiều phụ tùng hợp
+                         kim.
+
+                         - Có bất kỳ đặc tính nào
+                         sau đây:
+
+                         (i) Độ bền kéo từ 240
+                         MPa trở lên ở 473 K
+                         (200°C); hoặc
+
+    76012000             (ii) Độ bền kéo từ 415
+     760429              MPa trở lên ở 298 K
+    76052100             (25°C).
+    76052910
+                         - Không phải loại dùng
+                         cho mạ phủ chất nền.
+
+20  76052990 Hợp kim nhôm có - Kim loại nhôm chiếm   1C002.b
+                         tỷ lệ phần trăm theo
+    76061290 độ bền cao  khối lượng lớn hơn so
+
+    76069200             với từng nguyên tố bất
+
+    76082000             kỳ khác có trong hợp
+    76169990             kim.
+
+                         - Được chế tạo từ bột
+
+                         hợp kim kim loại hoặc
+
+                         vật liệu dạng hạt, từ hệ
+
+                         thống thành phần: Al-
+
+                         Mg-X hay Al-X-Mg,
+
+                         Al-Zn-X hay Al-X-Zn,
+
+                         Al-Fe-X hay Al-X-Fe;
+
+                         trong đó X là một hoặc
+                  CÔNG BÁO/Số 467/Ngày 10-08-2026           14
+
+        72253090  Thép siêu bền  nhiều phụ tùng hợp         1C116
+        72254090    maraging     kim.
+        72255090
+        72259190                 - Thép siêu bền
+        72259990                 maraging là hợp kim
+        72269190                 nền sắt, thường có hàm
+        72269290                 lượng niken cao, hàm
+21 72269999                      lượng carbon không
+        73041900                 quá 0,03% khối lượng,
+         730451                  đồng thời sử dụng các
+         730459                  nguyên tố thay thế hoặc
+        73049090                 các pha kết tủa để tăng
+        73065099                 bền và tạo khả năng
+        73069097                 hóa già cho hợp kim.
+        73069099                 Thép này được xử lý
+                                 qua các chu trình nhiệt
+                                 nhằm thúc đẩy quá
+                                 trình chuyển biến
+                                 mactenxit (giai đoạn
+                                 ủ), sau đó tiếp tục được
+                                 hóa già (giai đoạn nhiệt
+                                 luyện hoá bền).
+
+                                 - Thép siêu bền
+                                 maraging, có thể sử
+                                 dụng trong “tên lửa”
+                                 (các hệ thống tên lửa
+                                 hoàn chỉnh và các hệ
+                                 thống phương tiện bay
+                                 không người lái có khả
+                                 năng đạt tầm bay trên
+                                 300 km), có tất cả đặc
+                                 tính sau:
+
+                                 (i) Có độ bền kéo tối
+                                 đa, đo ở 293K (20°C),
+                                 bằng hoặc lớn hơn 0,9
+                                 GPa ở trạng thái ủ;
+                                 hoặc 1,5 GPa ở trạng
+                                 thái nhiệt luyện hoá
+                                 bền (tôi và hoá già);
+
+                                 (ii) Ở các dạng sau:
+
+                                 - Tấm, phiến hoặc ống
+                                 có độ dày thành hoặc
+              CÔNG BÁO/Số 467/Ngày 10-08-2026            15
+
+                        độ dày tấm từ 5,0 mm
+                        trở xuống; hoặc
+
+                        - Các dạng ống có độ
+                        dày thành từ 50 mm trở
+                        xuống và có đường
+                        kính trong từ 270 mm
+                        trở lên.
+
+    72181000            Thép không gỉ duplex
+                        ổn định bằng titan (Ti-
+                        DSS) có tất cả các đặc
+                        điểm sau:
+
+    72191400            (i) Chứa 17,0 - 23,0%
+
+    72192400            theo trọng lượng crôm
+    72193300            và 4,5 - 7,0% theo
+                        trọng lượng niken;
+
+    72193400            (ii) Có hàm lượng titan
+
+    72193500            trên 0,1% theo trọng
+
+    72199000            lượng; và
+
+    72210000            (iii) Cấu trúc vi mô
+    72221100            ferritic-austenitic (còn
+                        được gọi là cấu trúc vi
+
+    72221900 Thép không gỉ có mô hai pha), trong đó ít
+
+22  722220    hàm lượng titan nhất 10% theo thể tích     1C118
+              trên 0,1%, từ 4,5 - (theo tiêu chuẩn ASTM
+    722230 7% niken và 17 - E-1181-87 hoặc các
+
+    73041100 23% crom.  tiêu chuẩn quốc gia
+
+    730422              tương đương) là sắt
+                        gamma (austenite); và
+
+    730424              (iv) Có bất kỳ hình thức
+
+    73044100            nào sau đây:
+
+    73044900            - Thỏi hoặc thanh có
+    73053110            kích thước 100 mm trở
+     730611             lên ở mỗi chiều;
+    73062100
+    73064019            - Tấm có chiều rộng 600
+                        mm trở lên và độ dày 3
+                        mm trở xuống; hoặc
+
+    73064020            - Ống có đường kính
+                        ngoài 600 mm trở lên
+                        và độ dày thành 3 mm
+                        trở xuống.
+CÔNG BÁO/Số 467/Ngày 10-08-2026                      16
+
+       - Có cả 2 đặc điểm sau:
+
+       (i) Có dạng đối xứng
+       hình trụ rỗng (bao gồm
+       các đoạn hình trụ) với
+       đường kính trong từ
+       100 đến 300 mm; và
+
+       (ii) Khối lượng lớn hơn
+       20 kg.
+
+       - Không áp dụng với
+       các sản phẩm chế tạo
+       được thiết kế chuyên
+       dụng để làm quả cân
+       hoặc bộ chuẩn trực tia
+       gamma
+
+       - Không bao gồm vật
+
+       liệu dùng để chế tạo các
+
+       bộ phận của “tên lửa”
+
+       (các hệ thống tên lửa
+Vonfram, cacbua hoàn chỉnh và các hệ
+vonfram và hợp thống phương tiện bay
+23 81019990 kim chứa hơn 90% không người lái có khả  1C226
+
+vonfram theo trọng năng đạt tầm bay trên
+lượng
+       300 km), như sau:
+
+       (i) Vonfram và hợp kim
+       vonfram ở dạng hạt, có
+       hàm lượng vonfram
+       không dưới 97% tính
+       theo khối lượng và kích
+       thước hạt không quá 50
+       × 10⁻⁶ m (50 μm).
+
+       (ii) Vật liệu vonfram ở
+       dạng rắn đáp ứng đồng
+       thời:
+
+       + Có một trong các
+       thành phần vật liệu sau:
+       Vonfram và hợp kim
+       chứa không dưới 97%
+       vonfram tính theo khối
+       lượng; Vonfram thấm
+       đồng chứa không dưới
+       80% vonfram tính theo
+              CÔNG BÁO/Số 467/Ngày 10-08-2026             17
+
+                                khối lượng; hoặc
+                                Vonfram thấm bạc
+                                chứa không dưới 80%
+                                vonfram tính theo khối
+                                lượng; và
+
+                                + Có khả năng gia công
+                                thành một trong các sản
+                                phẩm sau: Hình trụ có
+                                đường kính 120 mm trở
+                                lên và chiều dài 50 mm
+                                trở lên; Ống có đường
+                                kính từ 65 mm trở lên,
+                                chiều dày thành ống từ
+                                25 mm trở lên và chiều
+                                dài từ 50 mm trở lên;
+                                hoặc Khối có kích
+                                thước từ 120 mm × 120
+                                mm × 50 mm trở lên
+
+                                Molypden và hợp kim
+
+                                ở dạng bột có hàm
+
+24  81021000  Molypden và hợp   lượng molypden từ         1C117.b
+    81029900  kim có hàm lượng  97% trọng lượng trở
+              molypden cao      lên và kích thước hạt
+                                không quá 50 x 10⁻⁶ m
+
+                                (50 μm)
+
+                                Có cả 2 đặc điểm sau:
+
+                                (i) Độ tinh khiết từ
+
+                                99,99% trở lên theo
+
+25  810610    Bismuth có độ tinh trọng lượng; và          1C229
+
+              khiết cao         (ii) Chứa ít hơn 10 phần
+
+                                triệu (ppm) theo trọng
+
+                                lượng bạc.
+
+    81041100                    Có cả 2 đặc điểm sau:
+
+26  81041900 Magie có độ tinh (i) Chứa ít hơn 200         1C228
+
+    81043000 khiết cao          phần triệu (ppm) theo
+
+    81049000                    trọng lượng các tạp
+              CÔNG BÁO/Số 467/Ngày 10-08-2026                18
+
+                                   chất kim loại khác
+                                   ngoài canxi; và
+
+                                   (ii) Chứa ít hơn 10 phần
+                                   triệu (ppm) theo trọng
+                                   lượng boron.
+
+                                   Có cả 2 đặc điểm sau:
+
+                                   (i) Chứa ít hơn 1.000
+
+                                   phần triệu (ppm) theo
+
+27  28051200  Canxi có độ    tinh  trọng lượng các tạp       1C227
+              khiết cao            chất kim loại khác        1C231
+                                   ngoài magiê; và
+                                                             1C230
+                                   (ii) Chứa ít hơn 10 phần
+                                   triệu (ppm) theo trọng
+                                   lượng boron
+
+                                   Kim loại hafnium, hợp
+
+28  81123100  Hafnium và hợp       kim hafnium và các
+    81123900  kim của Hafnium      hợp chất chứa hơn 60%
+                                   hafnium theo trọng
+
+                                   lượng
+
+                                   Kim loại berili; hợp
+
+                                   kim có hàm lượng
+
+                                   berili lớn hơn 50% tính
+
+                                   theo khối lượng; hợp
+
+                                   chất berili; các sản
+
+                                   phẩm chế tạo từ các
+
+                                   loại nêu trên; và phế
+
+                                   liệu hoặc phế thải của
+
+                                   bất kỳ loại nào trong số
+
+    81121200                       các loại nêu trên.
+
+29  81121300  Beri và   hợp  kim   Ngoại trừ các mặt hàng
+    81121900  của Beri             sau:
+
+                                   (i) Cửa sổ kim loại cho
+
+                                   máy X-quang hoặc cho
+
+                                   thiết bị đo lường giếng
+
+                                   khoan;
+
+                                   (ii) Ở dạng oxit đã gia
+                                   công hoặc bán gia
+                                   công “được thiết kế
+                                   đặc biệt” cho các bộ
+                                   phận linh kiện điện tử
+              CÔNG BÁO/Số 467/Ngày 10-08-2026                   19
+
+                                    hoặc làm vật liệu nền
+                                    cho mạch điện tử
+
+                                    (iii) Beri (muối silicat
+                                    của beri và nhôm) dưới
+                                    dạng ngọc lục bảo hoặc
+                                    ngọc lam.
+
+                                    Rheni và hợp kim chứa
+                                    rheni, có cả hai đặc tính
+                                    sau:
+
+                                    (i) Hợp kim chứa từ
+
+                                    90% trở lên rheni theo
+
+                                    trọng lượng; hoặc từ
+
+30  81124100  Rheni và hợp kim      90% trở lên của rheni       1C241
+    81124900  của Rheni             và vonfram theo trọng       9A012
+                                    lượng.
+
+                                    (ii) Khối lượng lớn hơn
+                                    20 kg và có hình dạng
+                                    đối xứng hình trụ rỗng
+                                    (bao gồm các đoạn trụ)
+                                    có đường kính trong từ
+                                    100 mm đến 300 mm.
+
+IV Phương tiện bay không người lái
+
+                                    Được thiết kế để bay có
+                                    kiểm soát ngoài “thị lực
+                                    tự nhiên” trực tiếp của
+                                    “người vận hành” và có
+                                    đặc điểm sau:
+
+                                    (i) Có thời gian duy trì
+
+                                    hoạt động từ 1 giờ trở
+
+              Phương tiện bay lên; hoặc
+
+31  8806 không người lái (ii) Có thời gian duy trì
+
+              (UAV)                 hoạt động từ 30 phút
+
+                                    trở lên và được thiết kế
+
+                                    để cất cánh và duy trì
+
+                                    chuyến bay ổn định
+
+                                    trong điều kiện gió giật
+
+                                    có tốc độ từ 46,3 km/h
+
+                                    (25 knot) trở lên.
+CÔNG BÁO/Số 467/Ngày 10-08-2026  20
+
+Trong đó:
+
+- “Người vận hành” là
+người khởi động hoặc
+điều khiển chuyến bay
+của UAV.
+
+- “Thị lực tự nhiên” là
+khả năng nhìn của con
+người bằng mắt
+thường, có hoặc không
+sử dụng kính điều
+chỉnh thị lực
+
+- Thời gian hoạt động
+được tính toán trong
+điều kiện ISA (ISO
+2533:1975) ở mực
+nước biển với sức gió
+bằng 0.
+

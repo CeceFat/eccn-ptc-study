@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>海外生產 · 出口管制產品分類 自學站</title>
+<meta name="description" content="台灣公司在中國或東南亞生產、賣進美國與歐盟時，合規要沿著貨物路徑配對：台灣出貨、工廠所在國、目的地進口准入、交易對象篩選，以及跟著物品走的美國 EAR。">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>">
+<style>
+  .nodes { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 10px; margin: 16px 0; counter-reset: n; }
+  .nodes .card { position: relative; padding-top: 30px; }
+  .nodes .card::before { counter-increment: n; content: "節點 " counter(n); position: absolute; top: 10px; left: 20px; font-size: 12px; font-weight: 700; color: var(--accent-ink); letter-spacing: .06em; }
+  .nodes h3 { margin: 0 0 6px; font-size: 15.5px; }
+  .nodes p { margin: 0; font-size: 14px; color: var(--ink-soft); }
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-in">
+    <a class="brand" href="index.html">出口管制產品分類<small>EAR ECCN × 台灣軍商兩用清單 · 自學站</small></a>
+    <nav class="main">
+      <a href="about.html">About</a>
+      <a href="start.html">入門</a>
+      <a href="index.html">總覽</a>
+      <a href="method.html">分類方法</a>
+      <a href="cat5p2.html">加密 5P2</a>
+      <a href="cat3.html">半導體 Cat 3</a>
+      <a href="taiwan.html">台灣制度</a>
+      <a href="offshore.html">海外生產</a>
+      <a href="cases.html">產品演練</a>
+      <a href="tech.html">技術與視同出口</a>
+      <a href="evidence.html">方法與證據</a>
+      <a href="quiz.html">自我檢測</a>
+    </nav>
+    <button class="theme-btn" data-theme-toggle aria-label="切換深淺色">☾</button>
+  </div>
+</header>
+
+<div class="wrap"><main class="page">
+
+<p class="kicker" style="margin-top:34px">海外生產</p>
+<h1>在中國或東南亞生產：合規要沿著貨物路徑配對</h1>
+<p class="lede">
+台灣公司的產品如果在中國或東南亞生產、再賣進美國與歐盟，合規不是「把台灣法換成當地法」這麼簡單。
+貨物經過的每個節點各有一套規則，而且美國的 EAR 會跟著物品一路走，不因為工廠不在美國就停止。
+</p>
+
+<div class="goal">
+  <p class="kicker">讀完這頁你會</p>
+  <ul>
+    <li>用四個節點檢查一條海外生產路線：台灣出貨、工廠所在國、目的地進口、交易對象。</li>
+    <li>說明為什麼海外製造的 EAR99 產品，也可能因為外國直接產品規則需要美國許可。</li>
+    <li>知道 2026 年 11 月 10 日起恢復的「50% 關聯企業規則」對交易對象篩選的影響。</li>
+    <li>找到兩條路線的細部配對：<a href="cn-us.html">中國 → 美國</a>、<a href="sea.html">東南亞 → 美國／歐盟</a>。</li>
+  </ul>
+</div>
+
+<h2 id="nodes">四個節點</h2>
+<div class="nodes">
+  <div class="card"><h3>台灣 → 海外工廠</h3><p>運過去的設備、零組件、技術資料。台灣戰略性高科技貨品管制；若物品受 EAR 管，這一段同時是美國法上的再出口。</p></div>
+  <div class="card"><h3>工廠所在國</h3><p>當地的出口管制（中國的出口管制法、東南亞各國的戰略物資法）；EAR 的境內移轉、對當地人員的視同再出口、外國直接產品規則。</p></div>
+  <div class="card"><h3>目的地進口</h3><p>美國與歐盟的進口准入：原產地與關稅、強迫勞動、產品法規。這一段由進口規則決定，不是出口管制。</p></div>
+  <div class="card"><h3>交易對象（全程）</h3><p>美國實體清單（含 50% 規則）、中國的不可靠實體清單與反外國制裁法；兩邊衝突時要事先設計流程。</p></div>
+</div>
+<div class="infer">
+  <b>推論：哪一個節點最重，要看你在供應鏈的角色</b>　把成品運進美歐的品牌或 ODM，平常卡貨的多半是節點三（進口端）；IC 設計公司與零組件供應商的主戰場則是節點二與節點四（ECCN、實體清單、外國直接產品規則）。
+  四個節點是疊加的，不是擇一：進口端合規不能取代出口端，反之亦然。
+</div>
+
+<h2 id="follows">EAR 跟著物品走，不跟著工廠走</h2>
+<p>美國原產品在哪裡都受 EAR 管；從一個外國運到另一個外國是「再出口」，同一國內換了用途或使用人是「境內移轉」：</p>
+<div class="q" data-file="ear/734.3.txt" data-cite="15 CFR § 734.3(a)(2)">All U.S. origin items wherever located;</div>
+<div class="q" data-file="ear/734.14.txt" data-cite="15 CFR § 734.14(a)(1)">An actual shipment or transmission of an item subject to the EAR from one foreign country to another foreign country, including the sending or taking of an item to or from such countries in any manner;</div>
+<div class="q" data-file="ear/734.16.txt" data-cite="15 CFR § 734.16">a Transfer (in-country) is a change in end use or end user of an item within the same foreign country.</div>
+<p>最容易被忽略的是外國直接產品規則：產品本身是 EAR99、也不含美國零件，仍可能因為「用美國技術做出來的設備」生產而受管。BIS 歷來最大的單一行政罰款就是這個情形：</p>
+<div class="q" data-file="bis/dont-let-this-happen-to-you-2024.txt" data-cite="BIS, Don't Let This Happen To You（2024 年 11 月版），Seagate 案">The HDDs are designated EAR99, but were manufactured using ECCN 3B992 tools that were the “direct product” of U.S.-origin ECCN 3E991 technology, thus subjecting them to the Huawei FDPR, meaning a license was required for the export, reexport, or transfer (in-country) of the HDDs to Huawei.</div>
+<div class="q" data-file="bis/dont-let-this-happen-to-you-2024.txt" data-cite="同上">On April 19, 2023, BIS imposed a $300 million civil penalty as part of a settlement agreement with Seagate Technology LLC and Seagate Singapore to resolve the alleged violations.</div>
+<p>另一個案子提醒，篩選對象不只是買方，還包括客戶指定的封測廠：</p>
+<div class="q" data-file="bis/dont-let-this-happen-to-you-2024.txt" data-cite="同上，GlobalFoundries 案">While SJS itself was not a GlobalFoundries customer, SJS was the third-party outsource assembly and test service provider (“OSAT”) designated by a GlobalFoundries customer and, as a result, should have been screened by GlobalFoundries’ transaction screening system.</div>
+<div class="infer">
+  <b>推論：海外工廠的 EAR 盤點清單</b>
+  <ol style="margin:6px 0 0">
+    <li>工廠用到哪些美國原產的晶片、軟體、技術（含 EDA、韌體 SDK、加密 IP）？它們的 ECCN 是什麼？</li>
+    <li>產線設備與製程技術是否源自美國管制技術？產品可能因此落入哪一條外國直接產品規則？</li>
+    <li>當地工程師接觸哪些受 EAR 管的技術？國籍是否觸發視同再出口？</li>
+    <li>成品的美國成分比例是否超過 de minimis 門檻？</li>
+    <li>交易對象、指定封測廠、貨代與最終使用人是否在實體清單上，或被清單實體持股過半？</li>
+  </ol>
+</div>
+
+<h2 id="affiliates">50% 關聯企業規則：2026 年 11 月 10 日恢復</h2>
+<div class="q" data-file="fr/2025-19001.txt" data-cite="90 FR 47201（2025-09-30），SUMMARY">any entity that is at least 50 percent owned by one or more entities on the Entity List will itself automatically be subject to Entity List restrictions.</div>
+<div class="q" data-file="fr/2025-19846.txt" data-cite="90 FR 50857（2025-11-10），SUMMARY">The suspension is set to end November 9, 2026, absent a future extension.</div>
+<div class="infer">
+  <b>推論</b>　恢復之後，「對方不在清單上」不再足夠，還要看它的股東結構。對在中國設廠、向當地採購與銷售的台灣公司，供應商與客戶的持股資料要納入篩選；若 BIS 在期限前再延長暫停，以新的 Federal Register 公告為準。
+</div>
+
+<h2 id="taiwan">台灣這一端不會消失</h2>
+<p>成品從海外工廠直接出貨時，台灣法管不到；但從台灣運到工廠的東西，照樣適用台灣的規定：</p>
+<div class="q" data-file="tw/trade-act-J0090004.txt" data-cite="貿易法第13條第1項第1款">一、非經許可，不得輸出。</div>
+<div class="q" data-file="tw/shtc-types-and-controlled-areas-1130116.txt" data-cite="戰略性高科技貨品種類、特定戰略性高科技貨品種類及輸出管制地區，三、">前項大陸地區之輸出管制，限化學機械研磨機、光阻剝除機、光阻顯影機、快速高溫熱處理機、沉積設備、洗淨設備、乾燥機、電子顯微鏡、蝕刻機、離子植入機、光阻塗佈機、微影設備等十二類半導體晶圓製造設備；</div>
+
+<h2 id="lanes">兩條路線的細部配對</h2>
+<div class="grid c2">
+  <div class="card"><p class="kicker">路線一</p><h3 style="margin-top:0"><a href="cn-us.html">中國 → 美國</a></h3><p style="margin:0;font-size:14.5px">中國的出口管制法、兩用物項條例與清單、專項物項管制、不可靠實體清單與反外國制裁法；美國的強迫勞動、FCC、聯網車規則等進口端規定。</p></div>
+  <div class="card"><p class="kicker">路線二</p><h3 style="margin-top:0"><a href="sea.html">東南亞 → 美國／歐盟</a></h3><p style="margin:0;font-size:14.5px">新加坡、馬來西亞、泰國、越南、菲律賓的戰略物資管制；美國的轉運與原產地、強迫勞動追溯；歐盟的強迫勞動規則與產品法規。</p></div>
+</div>
+
+<footer class="site">
+  <p>法規版本：美國 EAR 取自 eCFR（版本日 2026-10-29）；台灣軍商兩用清單為 115-02-11 經貿字第11550200140號公告附件。全部來源、抓取日與雜湊值見 <a href="evidence.html#sources">來源總表</a>。</p>
+  <p>個人自學整理，不是法律意見。美國聯邦政府著作屬公共領域；我國法令與公文依著作權法第 9 條不得為著作權之標的。</p>
+</footer>
+
+</main></div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

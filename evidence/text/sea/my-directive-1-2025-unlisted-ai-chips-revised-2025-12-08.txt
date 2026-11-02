@@ -1,0 +1,299 @@
+〔MITI, Malaysia (Strategic Trade Secretariat)｜Directive of the Strategic Trade Controller No. 1/2025: Declaration of Unlisted Items under Section 12 of the Strategic Trade Act 2010 [Act 708] (Advanced AI Chips)｜抓取 2026-11-02｜https://www.miti.gov.my/miti/resources/STA%20Folder/PDF%20file/[FINAL]_updated_8_Dec_2025_Directive_Unlisted_Category_AI_Chips_as_of_14_July_2025.pdf〕
+
+           DIRECTIVE OF THE STRATEGIC TRADE CONTROLLER NO. 1/2025
+               DECLARATION OF UNLISTED ITEMS UNDER SECTION 12 OF
+                          THE STRATEGIC TRADE ACT 2010 [ACT 708]
+
+PURPOSE
+
+1. The purpose of this Directive is to notify all exporters including intermediary
+         companies, freight forwarders and other relevant stakeholders of the export,
+         transit and transhipment control over Advanced Artificial Intelligence (AI) Chips
+         that may be used in a restricted activity but are not prescribed as strategic items
+         under section 7 of the Strategic Trade Act 2010 [Act 708].
+
+UNLISTED ITEMS (CATCH-ALL CONTROL)
+
+2. In exercising the powers conferred by paragraphs 6(1)(a), (d) and (g) of Act
+         708, the Strategic Trade Controller issues the Directive of the Strategic Trade
+         Controller No. 1/2025: Declaration of Unlisted Items under Section 12 of
+         the Strategic Trade Act 2010 [Act 708] for Advanced AI Chips.
+
+3. Pursuant to subsection 12(1) of Act 708, any person who intends to export,
+         tranship or bring in transit the Advanced AI Chips under the category codes and
+         parameters as specified in paragraph 6 and Annex I of this Directives shall
+         notify the Strategic Trade Secretariat (STS), Ministry of Investment, Trade
+         and Industry (MITI), at least 30 days in advance, if:
+
+         (a) he knows that such Advanced AI Chips are intended to be used, wholly or
+                in part, for or in connection with a restricted activity; or
+
+         (b) he has reasonable grounds to suspect that such Advanced AI Chips are
+                intended or likely to be used, wholly or in part, for or in connection with a
+                restricted activity.
+
+4. For the purpose of this Directive, “restricted activity” as defined in section 2 of
+Act 708 means —
+
+        (a) any activity that supports the development, production, handling, usage,
+                maintenance, storage, inventory or proliferation of any weapon of mass
+                destruction and its delivery systems; or
+
+        (b) participation in transactions with persons engaged in such activities.
+
+                                                             1
+5. With this imposition, any person who intends to undertake activities of export,
+transhipment or bring in transit of such Advanced AI Chips is required to apply for STA
+permit after the relevant Authority decided whether to allow those activities to proceed.
+The application to be accompanied with re-export license from originating countries
+and export control product classification from manufacturer.
+
+UNLISTED ITEMS CATEGORY CODES AND TECHNICAL PARAMETERS
+6. This Directive applies specifically to Advanced AI Chips that fall under the
+following unlisted items category codes:
+
+         (i) Category 3: 3U090; 3A001.u;
+         (ii) Category 4: 4U090; 4A003.u; 4A004.u; 4A005.u
+         (iii) Category 5: 5U992; 5A002.u; 5A004.u.
+         Note:
+         Comprehensive descriptions and parameters of products covered under this
+         Directive is as Annex I.
+7. Any entity that falsely declares such items or circumvents permit requirements
+         may be subjected to enforcement under the Act 708 and other applicable
+         domestic laws.
+
+EFFECTIVE DATE
+8. This Directive takes effect immediately until further notice.
+
+(VIMALA MURUGAN)
+Strategic Trade Controller
+Strategic Trade Secretariat
+Ministry of Investment, Trade and Industry, Malaysia
+Date : 14 July 2025
+File : MITI.S.600-1/1/2 Jld.4 (31)
+
+                                                             2
+                                                                      ANNEX I
+
+LIST OF ADVANCED AI CHIPS (UNLISTED ITEMS) UNDER SECTION 12 OF
+                    THE STRATEGIC TRADE ACT 2010 [ACT 708]
+
+     DIRECTIVE OF THE STRATEGIC TRADE CONTROLLER NO. 1/2025
+
+CATEGORY  DESCRIPTIONS                                      NOTE
+    CODE                         CATEGORY 3
+
+3U090     a. Integrated circuits (IC)     Note 1: Integrated circuits specified by 3U090
+          having one or more digital
+          processing units having         include graphical processing units (GPUs),
+          either of the following:
+                                          tensor processing units (TPUs), neural
+             a.1 A ‘total processing
+                  performance’ of         processors, in-memory processors, vision
+                  4800 or more, or
+                                          processors,       text      processors,
+             a.2 A ‘total processing
+                  performance’ of         coprocessors/accelerators,  adaptive
+                  1600 or more and
+                  a ‘performance          processors, field-programmable logic devices
+                  density’ of 5.92 or
+                  more.                   (FPLDs), and application-specific integrated
+
+          b. Integrated circuits          circuits (ASICs). Examples of integrated
+          having one or more digital
+          processing units having         circuits are in the Note to 3A001.a of the
+          either of the following:
+                                          Strategic Trade (Strategic Items) List 2025.
+
+                                          Note 2: 3U090 does not apply/control to items
+                                          that are not designed or marketed for use in
+                                          datacenters and do not have a ‘total
+                                          processing performance’ of 4800 or more.
+
+          b.1 A ‘total processing         Technical Notes:
+               performance’ of
+               2400 or more and           1. ‘Total processing performance’ (‘TPP’) is
+               less than 4800 and         2x ‘MacTOPS’ x ‘bit length of the operation’,
+               a ‘performance             aggregated over all processing units on the
+               density’ of 1.6 or         integrated circuit.
+               more and less than
+               5.92, or                   a. For purposes of 3U090, ‘MacTOPS’ is
+
+          b.2 A ‘total processing         the theoretical peak number of Tera
+               performance’ of
+               1600 or more and           (1012) operations per second for
+               a ‘performance
+               density’ of 3.2 or         multiply-accumulate         computation
+               more and less than
+                                          (D=AxB+C).
+
+                                          b. The 2 in the ‘TPP’ formula is based on
+                                              industry convention of counting one
+                                              multiply accumulate computation,
+
+                                       3
+CATEGORY  DESCRIPTIONS     NOTE
+    CODE
+
+          5.92.                    D=AxB+C, as 2 operations for purpose
+                                   of datasheets. Therefore, 2 x
+                                   MacTOPS may correspond to the
+                                   reported TOPS or FLOPS on a
+                                   datasheet.
+
+                               c. For purposes of 3U090, ‘bit length of the
+                                   operation’ for a multiply-accumulate
+                                   computation is the largest bit-length of
+                                   the inputs to the multiply operation.
+
+                               d. Aggregate the TPPs for each
+                                   processing unit on the integrated
+                                   circuit to arrive at a total. ‘TPP’ = TPP1
+                                   + TPP2 + .... + TPPn (where n is the
+                                   number or processing units on the
+                                   integrated circuit).
+
+                           2. The rate of ‘MacTOPS’ is to be calculated
+                           at its maximum value theoretically possible.
+                           The rate of ‘MacTOPS’ is assumed to be the
+                           highest value the manufacturer claims in
+                           annual or brochure for the integrated circuit.
+                           For example, the ‘TPP' threshold of 4800 can
+                           be met with 600 tera integer operations (or 2
+                           x 300 ‘MacTOPS’) at 8 bits or 300 tera
+                           FLOPS (or 2 x 150 ‘MacTOPS’) at 16 bits. If
+                           the IC is designed for MAC computation with
+                           multiple bit lengths that achieve different
+                           ‘TPP’ values, the highest ‘TPP’ value should
+                           be evaluated against parameters in 3U090.
+
+                           3. For integrated circuits specified by 3U090
+                           that provide processing of both sparse and
+                           dense matrices, the ‘TPP’ values are the
+                           values for processing of dense matrices (e.g.,
+                           without sparsity).
+
+                           4. ‘Performance density’ is ‘TPP’ divided by
+                           ‘applicable die area’. For purposes of 3U090,
+                           ‘applicable die area’ is measured in
+                           millimeters squared and includes all die area
+                           of logic dies manufactured with a process
+                           node that uses a non-planar transistor
+
+                        4
+CATEGORY      DESCRIPTIONS                                 NOTE
+    CODE
+
+                                            architecture.
+
+3A001     u. Any commodity
+          described in 3A001 of the
+          Strategic Trade (Strategic
+          Items) List 2025 that
+          meets or exceeds the
+          performance parameters
+          in 3U090.
+
+                                CATEGORY 4
+
+4U090     a. Computers, “electronic         Technical Note:
+
+4A003         assemblies,”          and     For purposes of 4U090.a and 4U090.b
+4A004                                       computers include “digital computers,”
+              “components”                  “hybrid computers,” and analog computers.
+
+              containing integrated
+
+              circuits, any of which
+
+              meets or exceeds the
+
+              limit in 3U090.a; or
+
+          b. Computers, “electronic
+
+              assemblies,”          and
+
+              “components”
+
+              containing integrated
+
+              circuits, any of which
+
+              meets or exceeds the
+
+              limit in 3U090.b
+
+          u. Commodities specified
+
+          in 4A003 of the Strategic
+
+          Trade (Strategic Items)
+
+          List 2025 that also meet
+
+          or  exceed                the
+
+          performance parameters
+
+          in 4U090.
+
+          u. Commodities that are
+          described in 4A004 of the
+          Strategic Trade (Strategic
+          Items) List 2025 and that
+          also meet or exceed the
+          performance parameters
+          in 4U090.
+
+                                         5
+CATEGORY       DESCRIPTIONS              NOTE
+    CODE
+
+4A005     u. Commodities that are
+          specified in 4A005 of the
+          Strategic Trade (Strategic
+          Items) List 2025 that also
+          meet or exceed the
+          performance parameters
+          in 4U090.
+
+                             CATEGORY 5
+
+5A002     u. Commodities that are
+5A004
+5U992     described in 5A002.a or
+
+          5A002.b or 5A002.c or
+
+          5A002.d or 5A002.e, and
+
+          that also meet or exceed
+
+          the     performance
+
+          parameters in 3U090 or
+
+          4U090;
+
+          u. Other commodities that
+          are described in 5A004.a
+          or 5A004.b, and that also
+          meet or exceed the
+          performance parameters
+          in 3U090 or 4U090
+
+          u. Commodities classified
+          as mass market
+          encryption commodities
+          in accordance with Note
+          3: Cryptography Note,
+          Category 5, Part 2 of the
+          Strategic Trade (Strategic
+          Items) List 2025, and that
+          also meet or exceed the
+          performance parameters
+          in 3U090 or 4U090.
+
+                                      6
+

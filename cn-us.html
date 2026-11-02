@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>中國 → 美國 · 出口管制產品分類 自學站</title>
+<meta name="description" content="在中國生產、賣進美國：中國的出口管制法、兩用物項條例與清單、對美與稀土專項措施、反外國制裁法；美國的原產地、強迫勞動、FCC、聯網車與衝突礦產規定；以及全程跟著物品走的 EAR。">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-in">
+    <a class="brand" href="index.html">出口管制產品分類<small>EAR ECCN × 台灣軍商兩用清單 · 自學站</small></a>
+    <nav class="main">
+      <a href="about.html">About</a>
+      <a href="start.html">入門</a>
+      <a href="index.html">總覽</a>
+      <a href="method.html">分類方法</a>
+      <a href="cat5p2.html">加密 5P2</a>
+      <a href="cat3.html">半導體 Cat 3</a>
+      <a href="taiwan.html">台灣制度</a>
+      <a href="offshore.html">海外生產</a>
+      <a href="cases.html">產品演練</a>
+      <a href="tech.html">技術與視同出口</a>
+      <a href="evidence.html">方法與證據</a>
+      <a href="quiz.html">自我檢測</a>
+    </nav>
+    <button class="theme-btn" data-theme-toggle aria-label="切換深淺色">☾</button>
+  </div>
+</header>
+
+<div class="wrap"><main class="page">
+
+<p class="kicker" style="margin-top:34px">海外生產 · 路線一</p>
+<h1>中國 → 美國：出口看中國法，進口看美國法，EAR 全程都在</h1>
+<p class="lede">
+在中國生產、賣進美國的產品，至少同時面對三套規則：中國對「從中國出去」的管制、美國對「進入美國」的准入規定，
+以及跟著物品走的美國 EAR。三套規則有時方向相反，這條路線的難處就在這裡。
+</p>
+
+<div class="goal">
+  <p class="kicker">讀完這頁你會</p>
+  <ul>
+    <li>知道中國清單的號碼與 ECCN 長得一樣，但不能照號碼對照（5A002 是反例）。</li>
+    <li>說出中國的「境外製造物項」條文，以及對美、稀土專項措施的暫停期限。</li>
+    <li>分清美國進口端的四種規則：原產地、強迫勞動、FCC 設備授權、聯網車硬體禁令。</li>
+    <li>理解美國實體清單與中國反外國制裁法衝突時，問題出在哪裡。</li>
+  </ul>
+</div>
+
+<h2 id="map">路線總表</h2>
+<div class="tbl-wrap"><table>
+  <thead><tr><th>節點</th><th>規則</th><th>本頁位置</th></tr></thead>
+  <tbody>
+    <tr><td>台灣 → 中國工廠</td><td>台灣戰略性高科技貨品管制（12 類晶圓製造設備屬管制地區）；EAR 再出口</td><td><a href="offshore.html#taiwan">海外生產</a></td></tr>
+    <tr><td>中國工廠出貨</td><td>出口管制法、兩用物項出口管制條例與清單、專項公告；EAR 境內移轉、最終用途規則</td><td><a href="#cn">中國出口端</a></td></tr>
+    <tr><td>進入美國</td><td>原產地、強迫勞動（§1307、UFLPA）、FCC 設備授權、聯網車硬體、衝突礦產申報</td><td><a href="#us">美國進口端</a></td></tr>
+    <tr><td>交易對象</td><td>美國實體清單與 50% 規則；中國不可靠實體清單、反外國制裁法、阻斷辦法</td><td><a href="#conflict">兩邊衝突</a></td></tr>
+  </tbody>
+</table></div>
+<p>EAR 這一端，中國在國家分組的 D:1、D:3、D:4、D:5 都有標記（D:5 是美國武器禁運國家），所以很多許可要求與外國直接產品規則會打到中國：</p>
+<div class="q" data-file="ear/740-supp-1.txt" data-cite="15 CFR 740 Supp. No. 1，Country Group D（欄位：D:1 國家安全、D:2 核、D:3 生化、D:4 飛彈、D:5 美國武器禁運）">China (PRC) | X |  | X | X | X</div>
+
+<h2 id="cn">中國出口端</h2>
+<h3>出口管制法與兩用物項條例</h3>
+<div class="q" data-file="cn/export-control-law-2020.txt" data-cite="中华人民共和国出口管制法 第二条">国家对两用物项、军品、核以及其他与维护国家安全和利益、履行防扩散等国际义务相关的货物、技术、服务等物项（以下统称管制物项）的出口管制，适用本法。</div>
+<div class="q" data-file="cn/export-control-law-2020.txt" data-cite="出口管制法 第四十五条">管制物项的过境、转运、通运、再出口或者从保税区、出口加工区等海关特殊监管区域和出口监管仓库、保税物流中心等保税监管场所向境外出口，依照本法的有关规定执行。</div>
+<div class="q" data-file="cn/export-control-law-2020.txt" data-cite="出口管制法 第四十四条">中华人民共和国境外的组织和个人，违反本法有关出口管制管理规定，危害中华人民共和国国家安全和利益，妨碍履行防扩散等国际义务的，依法处理并追究其法律责任。</div>
+<p>2024 年 12 月 1 日施行的兩用物項出口管制條例，把管制延伸到境外製造的物項，概念上接近美國的 de minimis 與外國直接產品規則：</p>
+<div class="q" data-file="cn/dual-use-export-control-regulation-2024.txt" data-cite="中华人民共和国两用物项出口管制条例（国务院令第792号）第四十九条">境外组织和个人在中华人民共和国境外向特定目的国家和地区、特定组织和个人转移、提供下列货物、技术和服务，国务院商务主管部门可以要求相关经营者参照本条例有关规定执行： || （一）含有、集成或者混有原产于中华人民共和国的特定两用物项在境外制造的两用物项； || （二）使用原产于中华人民共和国的特定技术等两用物项在境外制造的两用物项；</div>
+
+<h3>清單：號碼長得像 ECCN，內容不一定一樣</h3>
+<div class="q" data-file="cn/dual-use-export-control-list-2024.txt" data-cite="两用物项出口管制清单（2024），清单结构和编码规则">采用“阿拉伯数字+英文字母”的编码方式进行编排，由“1 个阿拉伯数字+1 个大写英文字母+3 个阿拉伯数字”共 5 个要素组合而成，如 1C351、3A201 等。</div>
+<div class="q" data-file="cn/dual-use-export-control-list-2024.txt" data-cite="同上，第 3 位编码含义">第 3 位代表管控原因，用阿拉伯数字 0-9 表示：0 代表“与常规武器相关”；1 代表“与大规模杀伤性武器运载工具相关”；2 代表“与核不扩散相关” || 5 代表“临时管制”；9 代表“与其他国家安全因素相关”。</div>
+<p>但類別 0 的意義就不同（美國與台灣是核能物質，中國是「其他物項」），而最需要小心的是 5A002。中國現行清單的 5A002 不是瓦聖那那套「資料機密性密碼學」結構，而是列舉特定的密碼產品：</p>
+<div class="q" data-file="cn/dual-use-export-control-list-consolidated-2025-12.txt" data-cite="两用物项出口管制清单（中国出口管制信息网 2025-12 汇编本）5A002">5A002 信息安全系统、设备及其部件： || a．具有以下任一特性，部分或全部实现了密码运算、密钥管理、 || 随机数生成等功能的集成电路芯片（安全芯片）： || c．具有以下两种特性，以 IPSec/SSL VPN 为主要功能的设备（加 || 2．加密通信速率 10 Gbps 以上；</div>
+<div class="flag">
+  <b>注意：同號不同文</b>　美國與台灣的 5A002 涵蓋大量含加密功能的通訊設備與零組件（再靠除外註記與密碼學註解放行）；中國的 5A002 只列安全晶片、高速加密機、VPN 設備、金鑰管理系統、量子密碼設備等，並有特定領域演算法或 10 Gbps 等門檻。
+  一顆從中國工廠出口的藍牙或 Wi‑Fi SoC，在美國是 5A002 的分析起點，在中國清單上則多半根本不在 5A002 的範圍。對中國清單，一定要讀條文，不能照號碼套用美國的分類結果。
+</div>
+
+<h3>專項措施與暫停期限</h3>
+<div class="tbl-wrap"><table>
+  <thead><tr><th>公告</th><th>內容</th><th>現況（以 2026-11-02 抓取的公告為準）</th></tr></thead>
+  <tbody>
+    <tr><td>2024 年第 46 號（對美）</td><td>第一款禁止兩用物項出口給美國軍事用戶或用途；第二款原則上不許可鎵、鍺、銻、超硬材料相關物項對美出口</td><td>第二款暫停至 2026-11-27；第一款未暫停</td></tr>
+    <tr><td>2025 年第 61 號（稀土，境外）</td><td>境外製造、含中國原產列管物項價值 0.1% 以上者需許可</td><td>與第 55–58、62 號一併暫停至 2026-11-10</td></tr>
+    <tr><td>2023 年第 23 號（鎵、鍺）</td><td>鎵、鍺相關物項出口管制</td><td>2024-12-01 起廢止，相關物項改列入兩用物項出口管制清單</td></tr>
+  </tbody>
+</table></div>
+<div class="q" data-file="cn/mofcom-announcement-2024-46-us-dual-use.txt" data-cite="商务部公告2024年第46号">一、禁止两用物项对美国军事用户或军事用途出口。 || 二、原则上不予许可镓、锗、锑、超硬材料相关两用物项对美国出口；</div>
+<div class="q" data-file="cn/mofcom-announcement-2025-72-suspension-2024-46.txt" data-cite="商务部公告2025年第72号">经批准，自即日起至2026年11月27日，商务部公告2024年第46号（《关于加强相关两用物项对美国出口管制的公告》）第二款暂停实施。</div>
+<div class="q" data-file="cn/mofcom-announcement-2025-61-extraterritorial-rare-earth.txt" data-cite="商务部公告2025年第61号 一（一）">含有、集成或者混有原产于中国的本公告附件1第一部分所列物项在境外制造的本公告附件1第二部分所列物项，且附件1第一部分所列物项占境外制造的附件1第二部分所列物项的价值比例达到0.1%及以上的；</div>
+<div class="q" data-file="cn/mofcom-customs-announcement-2025-70-suspension.txt" data-cite="商务部、海关总署公告2025年第70号">经批准，自即日起至2026年11月10日，商务部、海关总署公告2025年第55号、56号、57号、58号，及商务部公告2025年第61号、62号暂停实施。</div>
+<div class="q" data-file="cn/mofcom-announcement-2024-51-annex2-repealed.txt" data-cite="商务部公告2024年第51号附件2（自2024年12月1日起废止的公告）">七、商务部、海关总署公告 2023 年第 23 号</div>
+<div class="infer">
+  <b>推論</b>　兩個暫停期限都在本站抓取日之後幾週內到期。到期前後要查商務部的新公告，確認是延長、恢復還是調整；本站不預測。
+  第 61 號的 0.1% 規則若恢復，越南或馬來西亞工廠用到中國原產稀土永磁的產品也可能被拉進中國的許可要求，影響的不只中國工廠。
+</div>
+
+<h2 id="us">美國進口端</h2>
+<h3>原產地：實質轉變才換得了國籍</h3>
+<div class="q" data-file="usimp/19-cfr-134-1.txt" data-cite="19 CFR § 134.1(b)">“Country of origin” means the country of manufacture, production, or growth of any article of foreign origin entering the United States. Further work or material added to an article in another country must effect a substantial transformation in order to render such other country the “country of origin” within the meaning of this part;</div>
+<p>原產地決定關稅與部分限制措施適用與否。301 條款等關稅變動很快，本站不收錄稅率。</p>
+
+<h3>強迫勞動：依「在哪裡做、誰做的」禁止進口</h3>
+<div class="q" data-file="usimp/19-usc-1307.txt" data-cite="19 U.S.C. § 1307">All goods, wares, articles, and merchandise mined, produced, or manufactured wholly or in part in any foreign country by convict labor or/and forced labor or/and indentured labor under penal sanctions shall not be entitled to entry at any of the ports of the United States, and the importation thereof is hereby prohibited,</div>
+<div class="q" data-file="usimp/pl-117-78-uflpa.txt" data-cite="Uyghur Forced Labor Prevention Act（Pub. L. 117-78）§ 3(a)">apply a presumption that, with respect to any goods, wares, articles, and merchandise mined, produced, or manufactured wholly or in part in the Xinjiang Uyghur Autonomous Region of the People's Republic of China or produced by an entity on a list required by clause (i), (ii), (iv) or (v) of section 2(d)(2)(B)--</div>
+<div class="q" data-file="usimp/pl-117-78-uflpa.txt" data-cite="UFLPA § 3(b)(2)">by clear and convincing evidence, that the good, ware, article, or merchandise was not mined, produced, or manufactured wholly or in part by forced labor.</div>
+<p>「全部或部分」是關鍵：在中國其他省份、甚至在東南亞組裝，只要上游原料或零件來自新疆或清單上的實體，推定照樣適用；進口商要用「明確且令人信服的證據」推翻。清單由國土安全部持續更新，本站收錄 2026-10-29 的 Federal Register 更新公告（<a href="#" data-open="usimp/dhs-uflpa-entity-list-fr-notice-2026-10-29.txt" data-title="UFLPA Entity List 更新公告">原文</a>）。</p>
+
+<h3>FCC 設備授權：清單實體的模組與邏輯元件</h3>
+<div class="q" data-file="usimp/47-cfr-2-903.txt" data-cite="47 CFR § 2.903(a)">All equipment on the Covered List, as established pursuant to § 1.50002 of this chapter, is prohibited from obtaining an equipment authorization under this subpart.</div>
+<div class="q" data-file="usimp/47-cfr-2-903.txt" data-cite="47 CFR § 2.903(b)(2)">A logic-bearing hardware component produced by an entity identified on the Covered List pursuant to § 1.50002 of this chapter if—had such entity produced the device itself, rather than just a component—the device would be prohibited from receiving authorization under paragraph (a) of this s</div>
+<div class="infer">
+  <b>推論</b>　對網通與 IoT 產品，這是零組件層級的篩選：裝了清單實體生產的無線模組或邏輯元件，整台設備可能拿不到 FCC 授權，也就進不了美國市場。BOM 審查要對照 FCC 的 Covered List（該頁拒絕程式下載，本站未收錄，請直接查 FCC 網站）。
+</div>
+
+<h3>聯網車：中國註冊的公司做的通訊硬體，2029 年起進不來</h3>
+<div class="q" data-file="usimp/15-cfr-part-791.txt" data-cite="15 CFR § 791.302(a)">VCS hardware importers are prohibited from knowingly importing into the United States VCS hardware that is designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of the PRC or Russia.</div>
+<div class="q" data-file="usimp/15-cfr-part-791.txt" data-cite="15 CFR § 791.301，VCS hardware 定義（節錄）">VCS hardware means software-enabled or programmable components if they directly enable the function of and are directly connected to Vehicle Connectivity Systems || systems on a chip, networking or telematics units, cellular modem/modules, Wi-Fi microcontrollers or modules, Bluetooth microcontrollers or modules</div>
+<div class="q" data-file="usimp/15-cfr-part-791.txt" data-cite="15 CFR § 791.301，受外國對手管轄之人的定義 (3)">Any corporation, partnership, association, or other organization with a principal place of business in, headquartered in, incorporated in, or otherwise organized under the laws of a foreign adversary or a country controlled by a foreign adversary; or</div>
+<div class="q" data-file="usimp/15-cfr-part-791.txt" data-cite="15 CFR § 791.308(a)(1)–(2)">For VCS hardware units not associated with a vehicle model year, the import of the VCS hardware occurs prior to January 1, 2029; or || The VCS hardware is associated with a vehicle model year prior to 2030,</div>
+<div class="infer">
+  <b>推論</b>　這是「依加工地與公司國籍」最直接的進口禁令：台灣公司在中國註冊的子公司生產的車用藍牙、Wi‑Fi、GNSS 或蜂巢模組，依定義 (3) 屬受中國管轄之人製造。過了 2029 年 1 月 1 日（無車型年份者）或 2030 年款，除非取得授權，就不能進口美國。
+  車用產品線若在中國生產，移轉產地的時程要從這個日期倒推。
+</div>
+
+<h3>衝突礦產：申報義務，不是進口禁令</h3>
+<div class="q" data-file="usimp/17-cfr-240-13p-1.txt" data-cite="17 CFR § 240.13p-1">Every registrant that files reports with the Commission under Sections 13(a) (15 U.S.C. 78m(a)) or 15(d) (15 U.S.C. 78o(d)) of the Exchange Act, having conflict minerals that are necessary to the functionality or production of a product manufactured or contracted by that registrant to be manufactured, shall file a report on Form SD</div>
+<p>義務人是向 SEC 申報的上市公司；供應鏈上的台灣廠商通常是透過客戶要求填寫的盡職調查問卷間接承擔，不會因此在海關被擋。</p>
+
+<h2 id="conflict">兩邊衝突：美國要你做的，中國可能禁止你做</h2>
+<div class="q" data-file="cn/anti-foreign-sanctions-law-2021.txt" data-cite="中华人民共和国反外国制裁法 第十二条">任何组织和个人均不得执行或者协助执行外国国家对我国公民、组织采取的歧视性限制措施。</div>
+<div class="q" data-file="cn/blocking-rules-2021.txt" data-cite="阻断外国法律与措施不当域外适用办法 第五条">中国公民、法人或者其他组织遇到外国法律与措施禁止或者限制其与第三国（地区）及其公民、法人或者其他组织正常的经贸及相关活动情形的，应当在30日内向国务院商务主管部门如实报告有关情况。</div>
+<div class="q" data-file="cn/unreliable-entity-list-provisions-2020.txt" data-cite="不可靠实体清单规定 第十条">对列入不可靠实体清单的外国实体，工作机制根据实际情况，可以决定采取下列一项或者多项措施（以下称处理措施），并予以公告：</div>
+<div class="infer">
+  <b>推論</b>　在中國的子公司依美國實體清單拒絕與某中國客戶交易，從美國法看是合規，從中國法看可能構成「執行外國歧視性限制措施」，還有 30 日報告義務的問題。這類衝突沒有單一答案，實務上要事先設計決策紀錄與法律意見流程，而不是由業務現場臨時判斷。
+  中國的出口管制管控名單也持續增列外國實體（本站收錄的最新一則是 2026 年第 30 號）。
+</div>
+
+<h2 id="dates">近期日期</h2>
+<div class="tbl-wrap"><table>
+  <thead><tr><th>日期</th><th>事件</th><th>出處</th></tr></thead>
+  <tbody>
+    <tr><td class="num">2026-11-10</td><td>美國 50% 關聯企業規則恢復；中國稀土等六則公告暫停期屆滿</td><td><a href="offshore.html#affiliates">海外生產</a>、本頁</td></tr>
+    <tr><td class="num">2026-11-27</td><td>中國對美公告（2024 年第 46 號）第二款暫停期屆滿</td><td>本頁</td></tr>
+    <tr><td class="num">2026-12-31</td><td>3A090 authorized IC designer 申請期限</td><td><a href="cat3.html#presumption">半導體 Cat 3</a></td></tr>
+    <tr><td class="num">2029-01-01</td><td>無車型年份的 VCS 硬體豁免結束（另有 2030 年款的界線）</td><td>本頁</td></tr>
+  </tbody>
+</table></div>
+
+<div class="selfcheck">
+  <p class="kicker">自我檢測</p>
+  <ol>
+    <li>一顆藍牙 SoC 在美國的分析從 5A002 開始。從中國工廠出口時，為什麼不能直接說它是中國清單的 5A002？</li>
+    <li>你在越南組裝的產品用了新疆生產的多晶矽元件，UFLPA 的推定適用嗎？要推翻需要什麼？</li>
+    <li>台灣母公司在中國的子公司生產車用 Wi‑Fi 模組，2029 年以後要進口美國，會遇到哪一條規定？</li>
+  </ol>
+</div>
+
+<footer class="site">
+  <p>法規版本：中國法規與公告、美國進口端規定皆為 2026-11-02 抓取（eCFR 版本日 2026-10-29）。全部來源、抓取日與雜湊值見 <a href="evidence.html#sources">來源總表</a>。</p>
+  <p>個人自學整理，不是法律意見。美國聯邦政府著作屬公共領域；中國法律與公告為官方文件，僅為研究評註引用。</p>
+</footer>
+
+</main></div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

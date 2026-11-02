@@ -1,0 +1,1024 @@
+〔Office of the Federal Register / GPO, eCFR (ecfr.gov)｜15 CFR Part 791 - Securing the Information and Communications Technology and Services Supply Chain (connected vehicles)｜抓取 2026-11-02｜https://www.ecfr.gov/api/versioner/v1/full/2026-10-29/title-15.xml?part=791〕
+
+PART 791—SECURING THE INFORMATION AND COMMUNICATIONS TECHNOLOGY AND SERVICES SUPPLY CHAIN
+
+Authority: 50 U.S.C. 1701 et seq.; 50 U.S.C. 1601 et seq.; E.O. 13873, 84 FR 22689; E.O. 14034, 86 FR 31423
+
+Source: 86 FR 4923, Jan. 19, 2021, unless otherwise noted. Redesignated at 89 FR 58265, July 18, 2024.
+
+Editorial Note: Nomenclature changes to part 791 appear at 89 FR 96892, Dec. 6, 2024.
+
+Subpart A—General
+
+§ 791.1 Purpose.
+(a) This part sets forth the procedures by which the Secretary may:
+
+(1) Determine whether any acquisition, importation, transfer, installation, dealing in, or use of any information and communications technology or service, including but not limited to connected software applications, (ICTS Transaction) that has been designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of foreign adversaries poses certain undue or unacceptable risks as identified in the Executive Order 13873. For purposes of these regulations, the Secretary will consider information and communications technology and services (ICTS) to be designed, developed, manufactured, or supplied by a person owned by, controlled by, or subject to the jurisdiction of a foreign adversary where such a person operates, manages, maintains, repairs, updates, or services the ICTS;
+
+(2) Issue a determination to prohibit an ICTS Transaction;
+
+(3) Direct the timing and manner of the cessation of the ICTS Transaction;
+
+(4) Consider factors that may mitigate the risks posed by the ICTS Transaction.
+
+(b) The Secretary will evaluate ICTS Transactions under this rule, which include, but are not limited to, classes of transactions, on a case-by-case basis. The Secretary, in consultation with appropriate agency heads specified in Executive Order 13873 and other relevant governmental bodies, as appropriate, shall make an Initial Determination as to whether to prohibit a given ICTS Transaction or propose mitigation measures, by which the ICTS Transaction may be permitted. Parties may submit information in response to theInitial Determination, including a response to the Initial Determination and any supporting materials and/or proposed measures to remediate or mitigate the risks identified in the Initial Determination as posed by the ICTS Transaction at issue. Upon consideration of the parties' submissions, the Secretary will issue a Final Determination prohibiting the transaction, not prohibiting the transaction, or permitting the transaction subject to the adoption of measures determined by the Secretary to sufficiently mitigate the risks associated with the ICTS Transaction. The Secretary shall also engage in coordination and information sharing, as appropriate, with international partners on the application of this part.
+
+[88 FR 39357, June 16, 2023, as amended at 89 FR 96892, Dec. 6, 2024]
+
+§ 791.2 Definitions.
+Appropriate agency heads means the Secretary of the Treasury, the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Homeland Security, the United States Trade Representative, the Director of National Intelligence, the Administrator of General Services, the Chairman of the Federal Communications Commission, and the heads of any other executive departments and agencies the Secretary determines is appropriate, or their designees.
+
+Commercial item has the same meaning given to it in Federal Acquisition Regulation (48 CFR part 2.101).
+
+Connected software application means software, a software program, or a group of software programs, that is designed to be used on an end-point computing device and includes as an integral functionality, the ability to collect, process, or transmit data via the internet.
+
+Covered ICTS Transaction means an ICTS Transaction or a class of ICTS Transactions that meets the criteria set forth in § 791.3.
+
+Dealing in means the activity of buying, selling, reselling, receiving, licensing, or acquiring ICTS, or otherwise doing or engaging in business involving the conveyance of ICTS.
+
+Department means the United States Department of Commerce.
+
+End-point computing device means a device that can receive or transmit data and includes as an integral functionality the ability to collect or transmit data via the internet.
+
+Entity means a partnership, association, trust, joint venture, corporation, group, subgroup, or other non-U.S. governmental organization.
+
+Executive Order means Executive Order 13873, May 15, 2019, “Securing the Information and Communications Technology and Services Supply Chain”.
+
+Foreign adversary means any foreign government or foreign non-government person determined by the Secretary to have engaged in a long-term pattern or serious instances of conduct significantly adverse to the national security of the United States or security and safety of United States persons.
+
+ICTS Transaction means any acquisition, importation, transfer, installation, dealing in, or use of any information and communications technology or service, including ongoing activities, such as managed services, data transmission, software updates, repairs, or the platforming or data hosting of applications for consumer download. An ICTS Transaction includes any other transaction, the structure of which is designed or intended to evade or circumvent the application of the Executive Order. The term ICTS Transaction includes a class of ICTS Transactions.
+
+IEEPA means the International Emergency Economic Powers Act (50 U.S.C. 1701, et seq. ).
+
+Importation means the process or activity of bringing foreign ICTS to or into the United States, regardless of the means of conveyance, including via electronic transmission.
+
+Information and communications technology or services or ICTS means any hardware, software, including connected software applications, or other product or service, including cloud-computing services, primarily intended to fulfill or enable the function of information or data processing, storage, retrieval, or communication by electronic means (including electromagnetic, magnetic, and photonic), including through transmission, storage, or display.
+
+Party or parties to a Transaction means a person or persons engaged in an ICTS Transaction or class of ICTS Transactions, including, but not limited to the following: designer, developer, provider, buyer, purchaser, seller, transferor, licensor, broker, acquiror, intermediary (including consignee), and end user. Party or parties to a Transaction include entities designed, or otherwise used with the intention, to evade or circumvent application of the Executive Order. For purposes of this rule, this definition does not include common carriers, except to the extent that a common carrier knew or should have known (as the term “knowledge” is defined in 15 CFR 772.1) that it was providing transportation services of ICTS to one or more of the parties to a Transaction that has been prohibited in a final written determination made by the Secretary or, if permitted subject to mitigation measures, in violation of such mitigation measures.
+
+Person means an individual or entity.
+
+Person owned by, controlled by, or subject to the jurisdiction or direction of a foreign adversary means:
+
+(1) Any person, wherever located, who acts as an agent, representative, or employee, or any person who acts in any other capacity at the order, request, or under the direction or control, of a foreign adversary or of a person whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized in whole or in majority part by a foreign adversary;
+
+(2) Any person, wherever located, who is a citizen or resident of a foreign adversary or a country controlled by a foreign adversary, and is not a United States citizen or permanent resident of the United States;
+
+(3) Any corporation, partnership, association, or other organization with a principal place of business in, headquartered in, incorporated in, or otherwise organized under the laws of a foreign adversary or a country controlled by a foreign adversary; or
+
+(4) Any corporation, partnership, association, or other organization, wherever organized or doing business, that is owned or controlled by a foreign adversary, to include circumstances in which any person identified in paragraphs (1) through (3) of this definition possesses the power, direct or indirect, whether or not exercised, through the ownership of a majority or a dominant minority of the total outstanding voting interest in an entity, board representation, proxy voting, a special share, contractual arrangements, formal or informal arrangements to act in concert, or other means, to determine, direct, or decide important matters affecting an entity.
+
+Secretary means the Secretary of Commerce or the Secretary's designee, including for example the Under Secretary of Commerce for Industry and Security or the Executive Director of the Office of Information and Communications Technology and Services.
+
+Sensitive personal data means:
+
+(1) Personally-identifiable information, including:
+
+(i) Financial data that could be used to analyze or determine an individual's financial distress or hardship;
+
+(ii) The set of data in a consumer report, as defined under 15 U.S.C. 1681a, unless such data is obtained from a consumer reporting agency for one or more purposes identified in 15 U.S.C. 1681b(a);
+
+(iii) The set of data in an application for health insurance, long-term care insurance, professional liability insurance, mortgage insurance, or life insurance;
+
+(iv) Data relating to the physical, mental, or psychological health condition of an individual;
+
+(v) Non-public electronic communications, including email, messaging, or chat communications, between or among users of a U.S. business's products or services if a primary purpose of such product or service is to facilitate third-party user communications;
+
+(vi) Geolocation data collected using positioning systems, cell phone towers, or WiFi access points such as via a mobile application, vehicle GPS, other onboard mapping tool, or wearable electronic device;
+
+(vii) Biometric enrollment data including facial, voice, retina/iris, and palm/fingerprint templates;
+
+(viii) Data stored and processed for generating a Federal, State, Tribal, Territorial, or other government identification card;
+
+(ix) Data concerning U.S. Government personnel security clearance status; or
+
+(x) The set of data in an application for a U.S. Government personnel security clearance or an application for employment in a position of public trust; or
+
+(2) Genetic information, which includes the results of an individual's genetic tests, including any related genetic sequencing data, whenever such results, in isolation or in combination with previously released or publicly available data, constitute identifiable data. Such results shall not include data derived from databases maintained by the U.S. Government and routinely provided to private parties for purposes of research. For purposes of this paragraph, “genetic test” shall have the meaning provided in 42 U.S.C. 300gg-91(d)(17).
+
+Undue or unacceptable risk means those risks identified in Section 1(a)(ii) of the Executive Order.
+
+United States person means any United States citizen; any permanent resident alien; any entity organized under the laws of the United States or any jurisdiction within the United States (including such entity's foreign branches); or any person in the United States.
+
+Via the internet means using internet protocols to transmit data, including, but not limited to, transmissions by cable, telephone lines, wireless methods, satellites, or other means.
+
+[86 FR 4923, Jan. 19, 2021, as amended at 88 FR 39357, June 16, 2023; 89 FR 96892, Dec. 6, 2024]
+
+§ 791.3 Scope of Covered ICTS Transactions.
+(a) The Secretary may continue review under § 791.103(b) of this part for any ICTS Transaction that:
+
+(1) Is conducted by any person subject to the jurisdiction of the United States or involves property subject to the jurisdiction of the United States;
+
+(2) Involves any property in which any foreign country or a national thereof has any interest of any nature whatsoever, whether direct or indirect (including through an interest in a contract for the provision of the technology or service);
+
+(3) Is initiated, pending, or completed on or after January 19, 2021, regardless of when any contract applicable to the transaction is entered into, dated, or signed or when any license, permit, or authorization applicable to such transaction was granted. Any act or service with respect to an ICTS Transaction, such as execution of any provision of a managed services contract, installation of software updates, or the conducting of repairs, that occurs on or after January 19, 2021 may be deemed an ICTS Transaction within the scope of this part, even if the contract was initially entered into, or the activity commenced, prior to January 19, 2021; and
+
+(4) Involves ICTS and software, hardware, or any other product or service integral to one of the following:
+
+(i) Information and communications hardware and software, including
+
+(A) Wireless local area networks;
+
+(B) Mobile networks;
+
+(C) Satellite payloads;
+
+(D) Satellite operations and control;
+
+(E) internet-enabled sensors, cameras, and any other end-point surveillance or monitoring device, or any device that includes these components such as drones;
+
+(F) Routers, modems, and any other networking devices;
+
+(G) Cable access points;
+
+(H) Wireline access points;
+
+(I) Core networking systems;
+
+(J) Long- and short-haul networks;
+
+(ii) Data hosting, computing or storage, including software, hardware, or any other product or service integral to data hosting or computing services, including software-defined services such as virtual private servers, that uses, processes, or retains, or is expected to use, process, or retain, sensitive personal data of United States persons, including:
+
+(A) internet hosting services;
+
+(B) Cloud-based or distributed computing and data storage;
+
+(C) Managed services; and
+
+(D) Content delivery services;
+
+(iii) Connected software applications, including software designed primarily to enable connecting with and communicating via the internet, which is accessible through cable, telephone line, wireless, or satellite or other means, that is in use by United States persons at any point over the twelve (12) months preceding an ICTS Transaction, including connected software applications, such as but not limited to, desktop applications, mobile applications, gaming applications, and web-based applications;
+
+(iv) Critical infrastructure, including any subsectors of the chemical, commercial facilities, communications, critical manufacturing, dams, defense industrial base, emergency services, energy, financial services, food and agriculture, government services and facilities, health care and public health, information technology, nuclear reactors, materials, and waste, transportation systems, and water and wastewater systems sectors, and
+
+(v) Critical and emerging technologies, including advanced network sensing and signature management; advanced computing; artificial intelligence; clean energy generation and storage; data privacy, data security, and cybersecurity technologies; highly automated, autonomous, and uncrewed systems and robotics; integrated communication and networking technologies; positioning, navigation, and timing technologies; quantum information and enabling technologies; semiconductors and microelectronics; and biotechnology.
+
+(b) The Secretary will not continue review of an ICTS Transaction under § 791.103 if the Secretary finds that:
+
+(1) The ICTS Transaction involves the acquisition of ICTS items by a United States person as a party to a transaction authorized under a U.S. government-industrial security program; or
+
+(2) The Committee on Foreign Investment in the United States (CFIUS) is conducting a review, investigation, or assessment, or has concluded action on, the specific ICTS Transaction as a covered transaction under section 721(a)(4) of the Defense Production Act of 1950, as amended, and its implementing regulations.
+
+[86 FR 4923, Jan. 19, 2021, as amended at 88 FR 39358, June 16, 2023; 89 FR 96893, Dec. 6, 2024]
+
+§ 791.4 Determination of foreign adversaries.
+(a) The Secretary has determined that the following foreign governments or foreign non-government persons have engaged in a long-term pattern or serious instances of conduct significantly adverse to the national security of the United States or security and safety of United States persons and, therefore, constitute foreign adversaries solely for the purposes of the Executive Order, this rule, and any subsequent rule:
+
+(1) The People's Republic of China, including the Hong Kong Special Administrative Region and the Macau Special Administrative Region (China);
+
+(2) Republic of Cuba (Cuba);
+
+(3) Islamic Republic of Iran (Iran);
+
+(4) Democratic People's Republic of Korea (North Korea);
+
+(5) Russian Federation (Russia); and
+
+(6) Venezuelan politician Nicolás Maduro (Maduro Regime).
+
+(b) The Secretary's determination of foreign adversaries is solely for the purposes of the Executive Order, this rule, and any subsequent rule promulgated pursuant to the Executive Order. Pursuant to the Secretary's discretion, the list of foreign adversaries will be revised as determined to be necessary. Such revisions will be effective immediately upon publication in the Federal Register without prior notice or opportunity for public comment.
+
+(c) The Secretary's determination is based on multiple sources, including but not limited to:
+
+(1) National Security Strategy of the United States;
+
+(2) The Director of National Intelligence's Worldwide Threat Assessments of the U.S. Intelligence Community;
+
+(3) The National Cyber Strategy of the United States of America; and
+
+(4) Reports and assessments from the U.S. Intelligence Community, the U.S. Departments of Justice, State and Homeland Security, and other relevant sources.
+
+(d) The Secretary will periodically review this list in consultation with appropriate agency heads and may add to, subtract from, supplement, or otherwise amend this list. Any amendment to this list will apply to any ICTS Transaction that is initiated, pending, or completed on or after the date that the list is amended.
+
+[86 FR 4923, Jan. 19, 2021. Redesignated at 89 FR 58265, July 18, 2024, as amended at 89 FR 96893, Dec. 6, 2024]
+
+§ 791.5 Effect on other laws.
+Nothing in this part shall be construed as altering or affecting any other authority, process, regulation, investigation, enforcement measure, or review provided by or established under any other provision of Federal law, including prohibitions under the National Defense Authorization Act of 2019, the Federal Acquisition Regulations, or IEEPA, or any other authority of the President or the Congress under the Constitution of the United States.
+
+§ 791.6 Amendment, modification, or revocation.
+Except as otherwise provided by law, any determinations, prohibitions, or decisions issued under this part may be amended, modified, or revoked, in whole or in part, at any time.
+
+§ 791.7 Public disclosure of records.
+Public requests for agency records related to this part will be processed in accordance with the Department of Commerce's Freedom of Information Act regulations, 15 CFR part 4, or other applicable law and regulation.
+
+Subpart B—Review of ICTS Transactions
+
+§ 791.100 General.
+In implementing this part, the Secretary of Commerce may:
+
+(a) Consider any and all relevant information held by, or otherwise made available to, the Federal Government that is not otherwise restricted by law for use for this purpose, including:
+
+(1) Publicly available information;
+
+(2) Confidential business information, as defined in 19 CFR 201.6, or proprietary information;
+
+(3) Classified National Security Information, as defined in Executive Order 13526 (December 29, 2009) and its predecessor executive orders, and Controlled Unclassified Information, as defined in Executive Order 13556 (November 4, 2010);
+
+(4) Information obtained from state, local, tribal, or foreign governments or authorities;
+
+(5) Information obtained from parties to a transaction, including records related to such transaction that any party uses, processes, or retains, or would be expected to use, process, or retain, in their ordinary course of business for such a transaction;
+
+(6) Information obtained through the authority granted under sections 2(a) and (c) of the Executive Order and IEEPA, as set forth in § 791.101 of this part;
+
+(7) Information provided by any other U.S. Government national security body, in each case only to the extent necessary for national security purposes, and subject to applicable confidentiality and classification requirements, including the Committee for the Assessment of Foreign Participation in the United States Telecommunications Services Sector and the Federal Acquisitions Security Council and its designated information-sharing bodies;
+
+(8) Information or referrals provided by any other U.S. Government agency, department, or other regulatory body; and
+
+(9) Information provided voluntarily by private industry.
+
+(b) Consolidate the review of any ICTS Transactions with other transactions already under review where the Secretary determines that the transactions raise the same or similar issues, or that are otherwise properly consolidated;
+
+(c) Determine, in consultation with the appropriate agency heads, whether an ICTS Transaction involves ICTS designed, developed, manufactured, or supplied, by persons owned by, controlled by, or subject to the jurisdiction or direction of a foreign adversary, and in making a determination, the Department may consider the following:
+
+(1) Whether the person or its suppliers have headquarters, research, development, manufacturing, test, distribution, or service facilities, or other operations in a foreign country, including one controlled by, or subject to the jurisdiction of, a foreign adversary;
+
+(2) Ties between the person—including its officers, directors or similar officials, employees, consultants, or contractors—and a foreign adversary;
+
+(3) Laws and regulations of any foreign adversary in which the person is headquartered or conducts operations, including research and development, manufacturing, packaging, and distribution; and
+
+(4) Any other criteria that the Secretary deems appropriate;
+
+(d) Determine, in consultation with the appropriate agency heads, whether a Covered ICTS Transaction poses an undue or unacceptable risk, considering the following:
+
+(1) Threat assessments and reports prepared by the Director of National Intelligence pursuant to section 5(a) of the Executive Order;
+
+(2) Removal or exclusion orders issued by the Secretary of Homeland Security, the Secretary of Defense, or the Director of National Intelligence (or their designee) pursuant to recommendations of the Federal Acquisition Security Council, under 41 U.S.C. 1323;
+
+(3) Relevant provisions of the Defense Federal Acquisition Regulation (48 CFR ch. 2) and the Federal Acquisition Regulation (48 CFR ch. 1), and their respective supplements;
+
+(4) The written assessment produced pursuant to section 5(b) of the Executive Order, as well as the entities, hardware, software, and services that present vulnerabilities in the United States as determined by the Secretary of Homeland Security pursuant to that section;
+
+(5) Actual or potential threats to execution of a “National Critical Function” identified by the Department of Homeland Security Cybersecurity and Infrastructure Security Agency;
+
+(6) The nature, degree, and likelihood of consequence to the United States public and private sectors that could occur if ICTS vulnerabilities were to be exploited; and
+
+(7) Any other source or information that the Secretary deems appropriate; and
+
+(e) In the event the Secretary finds that unusual and extraordinary harm to the national security of the United States is likely to occur if all of the procedures specified herein are followed, deviate from these procedures in a manner tailored to protect against that harm.
+
+[86 FR 4923, Jan. 19, 2021. Redesignated at 89 FR 58265, July 18, 2024, as amended at 89 FR 96893, Dec. 6, 2024]
+
+§ 791.101 Information to be furnished on demand.
+(a) Pursuant to the authority granted to the Secretary under sections 2(a), 2(b), and 2(c) of the Executive Order and IEEPA, the Secretary may require any person to furnish under oath, in the form of reports or otherwise, at any time as may be required by the Secretary, complete information relative to any act or transaction, subject to the provisions of this part. The Secretary may require that such reports include the production of any books, contracts, letters, papers, or other hard copy or electronic documents relating to any such act, transaction, or property, in the custody or control of the persons required to make such reports. Reports with respect to transactions may be required from before, during, or after such transactions. The Secretary may, through any person or agency, conduct investigations, hold hearings, administer oaths, examine witnesses, receive evidence, take depositions, and require by subpoena the attendance and testimony of witnesses and the production of any books, contracts, letters, papers, and other hard copy or documents relating to any matter under investigation, regardless of whether any report has been required or filed in connection therewith.
+
+(b) For purposes of paragraph (a) of this section, the term “document” includes any written, recorded, or graphic matter or other means of preserving thought or expression (including in electronic format), and all tangible things stored in any medium from which information can be processed, transcribed, or obtained directly or indirectly, including correspondence, memoranda, notes, messages, contemporaneous communications such as text and instant messages, letters, emails, spreadsheets, metadata, contracts, bulletins, diaries, chronological data, minutes, books, reports, examinations, charts, ledgers, books of account, invoices, air waybills, bills of lading, worksheets, receipts, printouts, papers, schedules, affidavits, presentations, transcripts, surveys, graphic representations of any kind, drawings, photographs, images, graphs, video or sound recordings, and motion pictures or other media such as film.
+
+(c) Persons providing documents to the Secretary pursuant to this section must produce documents in a format useable to the Department of Commerce, which may be detailed in the request for documents or otherwise agreed to by the parties.
+
+[86 FR 4923, Jan. 19, 2021. Redesignated at 89 FR 58265, July 18, 2024, as amended at 89 FR 96894, Dec. 6, 2024]
+
+§ 791.102 Confidentiality of information.
+(a) Information or documentary materials, not otherwise publicly or commercially available, submitted or filed with the Secretary under this part will not be released publicly except to the extent required by law.
+
+(b) The Secretary may, subject to appropriate confidentiality and classification requirements, disclose information or documentary materials that are not otherwise publicly or commercially available and referenced in paragraph (a) of this section in the following circumstances:
+
+(1) Pursuant to any administrative or judicial proceeding;
+
+(2) Pursuant to an act of Congress;
+
+(3) Pursuant to a request from any duly authorized committee or subcommittee of Congress;
+
+(4) Pursuant to a request from any domestic governmental entity or any foreign governmental entity of a United States ally or partner, but only to the extent necessary for national security purposes;
+
+(5) Where the parties or a party to a transaction have consented, the information or documentary material that is not otherwise publicly or commercially available may be disclosed to third parties;
+
+(6) Where the Secretary has determined that at least one Covered ICTS Transaction related to the information or documents presents an undue or unacceptable risk, and disclosure to the public or to affected third parties is necessary to prevent or significantly reduce imminent harm to U.S. national security, or the security and safety of United States persons; and
+
+(7) Any other purpose authorized by law.
+
+(c) This section shall continue to apply with respect to information and documentary materials that are not otherwise publicly or commercially available and submitted to or obtained by the Secretary even after the Secretary issues a Final Determination pursuant to § 791.109.
+
+(d) The provisions of 18 U.S.C. 1905, relating to fines and imprisonment and other penalties, shall apply with respect to the disclosure of information or documentary material provided to the Secretary under these regulations.
+
+[86 FR 4923, Jan. 19, 2021. Redesignated and amended at 89 FR 58265, July 18, 2024; 89 FR 96894, Dec. 6, 2024]
+
+§ 791.103 Review of ICTS Transactions.
+(a) After considering materials described in § 791.100(a), the Secretary may, at the Secretary's discretion, initiate a review of an ICTS Transaction.
+
+(b) As part of the review, the Secretary will assess whether the transaction:
+
+(1) Constitutes a Covered ICTS Transaction, as described in § 791.3;
+
+(2) Involves ICTS designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of a foreign adversary, as described in § 791.100(c); and
+
+(3) Poses an undue or unacceptable risk as described in §§ 791.100(d) and 791.103(c).
+
+(c) In assessing whether the Covered ICTS Transaction poses an undue or unacceptable risk, the Secretary may evaluate, among other relevant factors, the following criteria:
+
+(1) The nature and characteristics of the ICTS at issue in the Covered ICTS Transaction, including technical capabilities, applications, and market share considerations;
+
+(2) The nature and degree of the ownership, control, direction, or jurisdiction exercised by the foreign adversary or foreign adversary persons over the design, development, manufacture, or supply at issue in the Covered ICTS Transaction, to include:
+
+(i) The ownership, control, or management by persons that support a foreign adversary's military, intelligence, or proliferation activities; and
+
+(ii) The ownership, control, or management by persons involved in malicious cyber-enabled activities;
+
+(3) The statements and actions of the foreign adversary at issue in the Covered ICTS Transaction;
+
+(4) The statements and actions of the persons involved in the design, development, manufacture, or supply of the ICTS at issue in the Covered ICTS Transaction;
+
+(5) The statements and actions of the parties to the Covered ICTS Transaction;
+
+(6) Whether the Covered ICTS Transaction poses a discrete or persistent threat;
+
+(7) The nature and characteristics of the customer base, business relationships, and operating locations of the parties to the Covered ICTS Transaction;
+
+(8) Whether there is an ability to otherwise mitigate the risks posed by the Covered ICTS Transaction;
+
+(9) The severity of the harm posed by the Covered ICTS Transaction on at least one of the following:
+
+(i) Health, safety, and security;
+
+(ii) Critical infrastructure;
+
+(iii) Sensitive data;
+
+(iv) The economy;
+
+(v) Foreign policy;
+
+(vi) The natural environment; and
+
+(vii) National Essential Functions (as defined by Federal Continuity Directive-2 (FCD-2));
+
+(10) The likelihood that the Covered ICTS Transaction will result in the threatened harm; and
+
+(11) For ICTS Transactions involving connected software applications:
+
+(i) the number and sensitivity of the users with access to the connected software application;
+
+(ii) the scope and sensitivity of any data collected by the connected software application;
+
+(iii) any use of the connected software application to conduct surveillance that enables espionage, including through a foreign adversary's access to sensitive or confidential government or business information, or sensitive personal data;
+
+(iv) whether there is regular, thorough, and reliable third-party auditing of the connected software application; and
+
+(v) the extent to which identified risks have been or can be mitigated using measures that can be verified by independent third parties.
+
+(d) If the Secretary finds that an ICTS Transaction does not meet the criteria of paragraph (b) of this section:
+
+(1) The transaction shall no longer be under review; and
+
+(2) Future review of the transaction shall not be precluded, where additional information becomes available to the Secretary.
+
+[89 FR 96894, Dec. 6, 2024]
+
+§ 791.104 First interagency notification.
+(a) If the Secretary assesses that an ICTS Transaction meets the criteria under § 791.103(b), the Secretary shall memorialize that assessment, provide the assessment to the appropriate agency heads, and offer the appropriate agency heads twenty-one (21) days to comment in writing on the Secretary's assessment.
+
+(b) If the Secretary does not receive written comments on the assessment from an appropriate agency head within twenty-one (21) days of notification, the Secretary may presume that agency has no comments.
+
+(c) The Secretary may, at the Secretary's discretion, modify or revise the assessment based on comments received from the appropriate agency heads. The Secretary retains discretion to make an Initial Determination, as provided in § 791.105, regardless of the comments received.
+
+[89 FR 96895, Dec. 6, 2024]
+
+§ 791.105 Initial Determination.
+(a) If, after notifying the appropriate agency heads as required by § 791.104 and considering any comments received, the Secretary determines that the Covered ICTS Transaction does not meet the criteria set forth in § 791.103:
+
+(1) The transaction shall no longer be under review; and
+
+(2) Future review of the transaction shall not be precluded, where additional information becomes available to the Secretary.
+
+(b) If, after notifying the appropriate agency heads as required by § 791.104 and considering any comments received, the Secretary determines that the Covered ICTS Transaction meets the criteria set forth in § 791.103, the Secretary shall:
+
+(1) Make a written Initial Determination, which shall be dated and signed by the Secretary, that:
+
+(i) Explains why the ICTS Transaction meets the criteria set forth in § 791.103;
+
+(ii) Sets forth whether the Secretary proposes to prohibit the Covered ICTS Transaction or to impose mitigation measures, by which the Covered ICTS Transaction may be permitted; and
+
+(iii) Provides information regarding the factual basis supporting the decision that is set forth pursuant to subparagraph (ii) above;
+
+(2) Provide at least twenty-one (21) calendar days' notice to the appropriate agency heads of the proposed Initial Determination prior to taking any action under 791.105(b)(3); and
+
+(3) Notify a party or the parties to the Covered ICTS Transaction by:
+
+(i) Serving a copy of the Initial Determination to the identified parties to the Covered ICTS Transaction when the Covered ICTS Transaction under review consists of a single transaction or a set of transactions between a limited number of parties (for example, the sale of ICTS by a company with a foreign nexus to an identified United States person); or
+
+(ii) Serving a copy of the Initial Determination to the person whose ICTS the Secretary determines constitutes the Covered ICTS Transactions under review when the number of U.S. parties or users acquiring, importing, transferring, installing, dealing in, or using the ICTS is unknown or unidentified, or notice to such U.S. parties or users is not feasible or appropriate (for example, when individual consumers purchase the ICTS through an online service or at a retail location).
+
+(c) Notwithstanding the fact that the Initial Determination to prohibit or propose mitigation measures on an ICTS Transaction may, in whole or in part, rely upon classified national security information, or sensitive but unclassified information, the Initial Determination will contain no classified national security information, nor reference thereto, and, at the Secretary's discretion, may not contain controlled unclassified information.
+
+(d) Notwithstanding paragraph (b)(3) of this section, the Secretary may, at the Secretary's discretion, determine to publish any notice of an Initial Determination in the Federal Register .
+
+[89 FR 96895, Dec. 6, 2024]
+
+§ 791.106 Recordkeeping requirement.
+Upon notification that an ICTS Transaction is under review, such as, though not limited to, through a demand for information or documents related to an ICTS Transaction under § 791.101 or a notification that an Initial Determination concerning an ICTS Transaction has been made, a notified person must immediately take steps to retain any and all records relating to such Transaction and must retain such records for no less than ten (10) years following a Final Determination made under § 791.109 or as otherwise indicated in the Final Determination. If a notified person receives no notification that an Initial Determination concerning an ICTS Transaction has been made within ten (10) years of notification that an ICTS Transaction is under review, then the recordkeeping obligation will extend for ten (10) years following the initial notification of an ICTS Transaction review unless the notified person is informed otherwise by the Secretary.
+
+[89 FR 96895, Dec. 6, 2024]
+
+§ 791.107 Procedures governing response and mitigation.
+Within 30 days of service of the Secretary's Initial Determination pursuant to § 791.105, a party to a transaction may respond to the Initial Determination or assert that the circumstances resulting in the Initial Determination no longer apply, and thus seek to have the Initial Determination rescinded or mitigated pursuant to the following administrative procedures:
+
+(a) A party may submit arguments or evidence that the party believes establishes that insufficient basis exists for the Initial Determination, including any prohibition of the ICTS Transaction;
+
+(b) A party may propose remedial steps on the party's part, such as corporate reorganization, disgorgement of control of the foreign adversary, engagement of a compliance monitor, or similar steps, which the party believes would negate the basis for the Initial Determination;
+
+(c) All submissions under this section must be made in writing.
+
+(1) The Secretary may, for good cause, extend the time to provide a written submission pursuant to this section.
+
+(2) Any extensions granted pursuant to this section shall not exceed thirty (30) days.
+
+(3) A written submission to the Secretary pursuant to this section may not exceed fifty (50) pages without approval from the Secretary prior to the expiration of time for a party's response.
+
+(4) A written submission to the Secretary may include business confidential information. Any business confidential information must be clearly and specifically demarcated. Publicly available information should not be marked business confidential.
+
+(d) A party responding to the Secretary's Initial Determination may request a meeting with the Department, and the Department may, at its discretion, agree or decline to conduct such meetings prior to making a Final Determination pursuant to § 791.109;
+
+(e) This rule creates no right in any person to obtain access to information in the possession of the U.S. Government that was considered in making the Initial Determination, to include classified national security information or sensitive but unclassified information; and
+
+(f) If the Department receives no response from the parties within 30 days after service of the Initial Determination to the parties, the Secretary may issue a Final Determination without the need to engage in the consultation process provided in section 791.108 of this rule.
+
+[86 FR 4923, Jan. 19, 2021. Redesignated and amended at 89 FR 58265, July 18, 2024; 89 FR 96895, Dec. 6, 2024]
+
+§ 791.108 Interagency consultation on the Final Determination.
+(a) Upon receipt of any submission by a party to a transaction under § 791.107, the Secretary shall consider whether and how the information provided—including proposed mitigation measures—affects an Initial Determination.
+
+(b) After considering the effect of any submission by a party to a transaction under § 791.107 consistent with paragraph (a) of this section, the Secretary shall provide notice in writing of the proposed Final Determination and consult with and seek concurrence from all appropriate agency heads prior to issuing a Final Determination as to whether the Covered ICTS Transaction shall be prohibited, not prohibited, or permitted pursuant to the adoption of negotiated mitigation measures.
+
+(c) If the appropriate agency heads under paragraph (b) of this section concur, the Secretary shall issue a Final Determination pursuant to § 791.109. If an appropriate agency head provides no response within fourteen (14) days of the agency receiving the notice in writing of the proposed Final Determination, the Secretary may presume concurrence. If an agency objects to the Final Determination, such objection must be submitted by the agency's Deputy Secretary or equivalent or higher level within the 14 days.
+
+[89 FR 96896, Dec. 6, 2024]
+
+§ 791.109 Final Determination.
+(a) For each Covered ICTS Transaction for which the Secretary issues an Initial Determination, the Secretary shall issue a Final Determination as to whether the Covered ICTS Transaction is:
+
+(1) Prohibited;
+
+(2) Not prohibited; or
+
+(3) Permitted, at the Secretary's discretion, pursuant to the adoption of mitigation measures.
+
+(b) Unless the Secretary, at the Secretary's sole discretion, determines in writing that additional time is necessary, the Secretary shall issue the Final Determination within 180 days of serving the Initial Determination pursuant to § 791.105(b)(3).
+
+(c) If the Secretary determines that a Covered ICTS Transaction is prohibited, the Secretary shall direct the means that the Secretary assesses to be necessary to address the undue or unacceptable risk posed by the Covered ICTS Transaction.
+
+(d) The Final Determination shall:
+
+(1) Be written, signed, and dated;
+
+(2) Describe the Secretary's determination;
+
+(3) Be unclassified and contain no reference to classified national security information;
+
+(4) Consider and address any information received from a party or parties to the transaction;
+
+(5) Direct, if applicable, the timing and manner of the cessation of the Covered ICTS Transaction;
+
+(6) Explain, if applicable, that a Final Determination that the Covered ICTS Transaction is not prohibited does not preclude the future review of transactions related in any way to the Covered ICTS Transaction;
+
+(7) Include, if applicable, a description of the mitigation measures agreed upon by the party or parties to the transaction and the Secretary;
+
+(8) State the penalties a party will face if it fails to comply fully with any mitigation agreement or direction, including violations of IEEPA, or other violations of law; and
+
+(9) Include, if applicable, how the Department may transition a mitigation agreement to a prohibition should a party or parties fail to comply with any mitigation agreement or obligations, or violate IEEPA or other law.
+
+(e) The written, signed, and dated Final Determination shall be sent to:
+
+(1) The party or parties to the transaction that are identified in the Final Determination via registered U.S. mail and electronic mail; and
+
+(2) The appropriate agency heads.
+
+(f) The Secretary shall publish a notice of any Final Determination to prohibit an ICTS Transaction in the Federal Register. The Secretary shall also publish a notice of Final Determination for any ICTS Transaction for which the Secretary published a notice of an Initial Determination. The Secretary may publish a notice of a Final Determination to mitigate an ICTS Transaction in the Federal Register. Any notice of a Final Determination that is published in the Federal Register shall omit any confidential business information.
+
+[89 FR 96896, Dec. 6, 2024]
+
+§ 791.110 Classified national security information.
+In any review of a determination made under this part, if the determination was based on classified national security information, such information may be submitted to the reviewing court ex parte and in camera. This section does not confer or imply any right to review in any tribunal, judicial or otherwise.
+
+Subpart C—Enforcement
+
+§ 791.200 Penalties.
+(a) Prohibited activities. (1) No person shall be a party to an ICTS Transaction that is prohibited by a Final Determination issued under this part, unless authorized by the Secretary.
+
+(2) No person shall aid, abet, counsel, command, induce, facilitate, procure, or otherwise engage in conduct with knowledge that such conduct is prohibited by, or contrary to a Final Determination issued under this part, unless authorized by the Secretary.
+
+(3) No person shall be a party to an ICTS Transaction in a manner that is contrary to any direction, regulation, or condition published under this part.
+
+(4) No person shall aid, abet, counsel, command, induce, facilitate, procure, or otherwise engage in conduct with knowledge that such conduct is contrary to the terms of a mitigation agreement under this part.
+
+(5) Any ICTS Transaction that has the purpose of evading or avoiding, causes a violation of, or attempts to violate, any of the prohibitions set forth in this section is prohibited.
+
+(6) Any conspiracy formed to violate any of the prohibitions set forth in this section is prohibited.
+
+(7) Any approval, financing, facilitation, or guarantee by a United States person, wherever located, of an ICTS Transaction by a foreign person where the ICTS Transaction by that foreign person would be prohibited by this order if performed by a United States person or within the United States, is prohibited.
+
+(8) No person may, whether directly or indirectly through any other person, make any false or misleading representation, statement, or certification, or falsify or conceal any material fact, to the Department:
+
+(i) In the course of an ICTS Transaction review, in order to secure a benefit or avoid a prohibition, including in proposing and agreeing to mitigation measures; or
+
+(ii) In connection with the preparation, submission, issuance, use, or maintenance of any report filed or required to be filed pursuant to this part.
+
+(9) Additional requirements:
+
+(i) For purposes of paragraph (a)(8), any representation, statement, or certification made by any person shall be deemed to be continuing in effect until the person notifies the Department in accordance with paragraph (a)(9)(ii).
+
+(ii) Any person who makes a representation, statement, or certification to the Department relating to any ICTS Transaction review shall notify the Department, in writing, of any change of any material fact or intention from that previously represented, stated, or certified, immediately upon receipt of any information that would lead a reasonably prudent person to know that a change of material fact or intention had occurred or may occur in the future.
+
+(b) Maximum penalties —(1) Civil penalty. A civil penalty not to exceed the amount set forth in Section 206 of IEEPA, 50 U.S.C. 1705, may be imposed on any person who violates, attempts to violate, conspires to violate, or causes any knowing violation of paragraph (a) of this section. IEEPA provides for a maximum civil penalty not to exceed the greater of $250,000 per violation, subject to inflationary adjustment, or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
+
+(i) Notice of the penalty, including a written explanation of the penalized conduct specifying the laws and regulations allegedly violated and the amount of the proposed penalty, and notifying the recipient of a right to make a written petition within 30 days as to why a penalty should not be imposed, shall be served on the person.
+
+(ii) The Secretary shall review any presentation and issue a final administrative decision within 30 days of receipt of the petition.
+
+(2) Criminal penalty. A person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids and abets in the commission of a violation of paragraph (a) of this section shall, upon conviction of a violation of IEEPA, be fined not more than $1,000,000, or if a natural person, may be imprisoned for not more than 20 years, or both.
+
+(3) Any civil penalties authorized in this section may be recovered in a civil action brought by the United States in U.S. district court.
+
+(c) Adjustments to penalty amounts. (1) The civil penalties provided in IEEPA are subject to adjustment pursuant to the Federal Civil Penalties Inflation Adjustment Act of 1990 (Pub. L. 101-410, as amended, 28 U.S.C. 2461 note).
+
+(2) The criminal penalties provided in IEEPA are subject to adjustment pursuant to 18 U.S.C. 3571.
+
+(d) Available penalties. The penalties available under this section are without prejudice to other penalties, civil or criminal, available under law. Attention is directed to 18 U.S.C. 1001, which provides that whoever, in any matter within the jurisdiction of any department or agency in the United States, knowingly and willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact, or makes any false, fictitious, or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious, or fraudulent statement or entry, shall be fined under title 18, United States Code, or imprisoned not more than 5 years, or both.
+
+[89 FR 96896, Dec. 6, 2024]
+
+Subpart D—ICTS Supply Chain: Connected Vehicles
+
+Source: 90 FR 5414, Jan. 16, 2025, unless otherwise noted.
+
+§ 791.300 Purpose and scope.
+The inclusion in connected vehicles of certain ICTS designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of certain foreign adversaries poses undue or unacceptable risks to U.S. national security. To address these undue or unacceptable risks, it is the purpose of this subpart to:
+
+(a) Prohibit ICTS transactions that involve certain software and hardware that are designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of the People's Republic of China (PRC) or the Russian Federation (Russia), as defined in § 791.4, and that directly enable connected vehicle Automated Driving Systems (ADS) or Vehicle Connectivity Systems (VCS), as defined in this subpart;
+
+(b) Implement Declarations of Conformity to provide a mechanism for connected vehicle manufacturers and VCS hardware importers to communicate to BIS that they have conducted supply chain due diligence, and to confirm that no prohibited transactions, as defined in this subpart, have knowingly occurred;
+
+(c) Provide for the issuance of general authorizations for certain transactions that would otherwise be prohibited by this subpart, but where certain factors described in the authorizations reduce the risk to an acceptable level;
+
+(d) Provide a mechanism to apply for specific authorizations for certain transactions that would otherwise be prohibited by this subpart, where the undue or unacceptable risks can be reasonably mitigated, based on criteria and conditions that are specifically constructed for each applicant; and
+
+(e) Incentivize connected vehicle manufacturers, VCS hardware importers, and related suppliers to adopt and enhance measures to help secure the U.S. ICTS supply chain for connected vehicles.
+
+§ 791.301 Definitions.
+The following definitions apply only to this subpart. For additional definitions applicable to all of part 791, see 15 CFR 791.2. If a term is defined differently in this subpart than in 15 CFR 791.2, the definition listed in this section will apply to this subpart.
+
+Automated Driving System means hardware and software that, collectively, are capable of performing the entire dynamic driving task for a completed connected vehicle on a sustained basis, regardless of whether it is limited to a specific operational design domain (ODD).
+
+Completed connected vehicle means a connected vehicle that requires no further manufacturing operations to perform its intended function. For the purposes of this subpart, the integration of an Automated Driving System into a connected vehicle constitutes a manufacturing operation for a completed connected vehicle.
+
+Connected vehicle means a vehicle driven or drawn by mechanical power and manufactured primarily for use on public streets, roads, and highways, that integrates onboard networked hardware with automotive software systems to communicate via dedicated short-range communication, cellular telecommunications connectivity, satellite communication, or other wireless spectrum connectivity with any other network or device. A vehicle operated only on a rail line is not included in this definition. For the purposes of this subpart, a connected vehicle with a gross vehicle weight rating of more than 4,536 kilograms (10,000 pounds) is not included in this definition.
+
+Connected vehicle manufacturer means a U.S. person who:
+
+(1) Manufactures or assembles completed connected vehicles in the United States for sale in the United States;
+
+(2) Imports completed connected vehicles for sale in the United States; and/or
+
+(3) Integrates ADS software on a completed connected vehicle for sale in the United States. A connected vehicle manufacturer may also be a VCS hardware importer, as defined herein, if VCS hardware has already been installed in a connected vehicle when the connected vehicle manufacturer imports it.
+
+Covered software means the software-based components, including application, middleware, and system software, in which there is a foreign interest, executed by the primary processing unit or units of an item that directly enables the function of Vehicle Connectivity Systems or Automated Driving Systems at the vehicle level. Covered software does not include firmware, which is characterized as software specifically programmed for a hardware device with a primary purpose of directly controlling, configuring, and communicating with that hardware device. Covered software also does not include open-source software, which is characterized as software for which the human-readable source code is available in its entirety for use, study, re-use, modification, enhancement, and redistribution by the users of such software, unless that open-source software has been modified for proprietary purposes and not redistributed or shared. Covered software also does not include software subcomponents that were designed, developed, manufactured, or supplied prior to March 17, 2026, as long as those software subcomponents are not maintained, augmented, or otherwise altered by an entity owned by, controlled by, or subject to the jurisdiction or direction of a foreign adversary after March 17, 2026.
+
+Declarant means the U.S. person submitting a Declaration of Conformity to BIS.
+
+FCC ID Number means the unique alphanumeric code identifying a product subject to certification by the Federal Communications Commission composed of a:
+
+(1) Grantee code; and
+
+(2) Product code.
+
+Foreign interest, for purposes of this subpart, means any interest in property of any nature whatsoever, whether direct or indirect, by a non-U.S. person.
+
+Hardware Bill of Materials (HBOM) means a formal record the supply chain relationships of parts, assemblies, and components required to create a physical product, including information identifying the manufacturer, and related firmware.
+
+Import means, in the context of this subpart, with respect to any article, the entry of such article into the United States Customs Territory. It does not include admission of an article from outside the United States into a foreign-trade zone for storage pending further assembly in the foreign-trade zone or shipment to a foreign country. This definition also applies to related terms such as importing or imported.
+
+Item means a component or set of components with a specific function at the vehicle level. A system may also be considered an item if it implements a function.
+
+Knowingly means having knowledge of a circumstance (the term may be a variant, such as “know,” “reason to know,” or “reason to believe”), to include not only positive knowledge that the circumstance exists or is substantially certain to occur, but also an awareness of a high probability of its existence or future occurrence. Such awareness is inferred from evidence of the conscious disregard of facts known to a person and is also inferred from a person's willful avoidance of facts.
+
+Model year means the year used to designate a discrete vehicle model, irrespective of the calendar year in which the vehicle was actually produced, provided that the production period does not exceed 24 months.
+
+Person owned by, controlled by, or subject to the jurisdiction or direction of a foreign adversary means:
+
+(1) Any person, wherever located, who acts as an agent, representative, or employee, or any person who acts in any other capacity at the order, request, or under the direction or control, of a foreign adversary or of a person whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized in whole or in majority part by a foreign adversary;
+
+(2) Any person, wherever located, who is a citizen or resident of a foreign adversary or a country controlled by a foreign adversary, and is not a United States citizen or permanent resident of the United States;
+
+(3) Any corporation, partnership, association, or other organization with a principal place of business in, headquartered in, incorporated in, or otherwise organized under the laws of a foreign adversary or a country controlled by a foreign adversary; or
+
+(4) Any corporation, partnership, association, or other organization, wherever organized or doing business, that is owned or controlled by a foreign adversary, to include circumstances in which any person identified in paragraphs (1) through (3) of this definition possesses the power, direct or indirect, whether or not exercised, through the ownership of a majority or a dominant minority of the total outstanding voting interest in an entity, board representation, proxy voting, a special share, contractual arrangements, formal or informal arrangements to act in concert, or other means, to determine, direct, or decide important matters affecting an entity.
+
+Prohibited transactions mean, collectively, the transactions described in § 791.302 (Prohibited VCS hardware transactions), § 791.303 (Prohibited covered software transactions), or § 791.304 (Related prohibited transactions) of this subpart.
+
+Sale means, in the context of this subpart, distributing for purchase, lease, or other commercial operations a new completed connected vehicle for a price, to include the transfer of completed connected vehicles from a connected vehicle manufacturer to a dealer or distributor, as those terms are defined in 49 U.S.C. 30102. This definition also applies to the related terms such as sell or selling.
+
+Software Bill of Materials (SBOM) means a formal record containing the details and supply chain relationships of various components used in building software. Software developers and vendors often create products by assembling existing open source and commercial software components. The SBOM enumerates these components in a product.
+
+United States means the United States of America, the States of the United States, the District of Columbia, and any commonwealth, territory, dependency, or possession of the United States, or any subdivision thereof, and the territorial sea of the United States.
+
+Vehicle Connectivity System (VCS) means a hardware or software item installed in or on a completed connected vehicle that directly enables the function of transmission, receipt, conversion, or processing of radio frequency communications at a frequency over 450 megahertz. VCS does not include a hardware or software item that exclusively:
+
+(1) enables the transmission, receipt, conversion, or processing of automotive sensing ( e.g., LiDAR, radar, video, ultrawideband);
+
+(2) enables the transmission, receipt, conversion, or processing of ultrawideband communications to directly enable physical vehicle access ( e.g., key fobs);
+
+(3) enables the receipt, conversion or processing of unidirectional radio frequency bands ( e.g., global navigation satellite systems (GNSS), satellite radio, AM/FM radio); or
+
+(4) supplies or manages power for the VCS.
+
+VCS hardware means software-enabled or programmable components if they directly enable the function of and are directly connected to Vehicle Connectivity Systems, or are part of an item that directly enables the function of Vehicle Connectivity Systems, including but not limited to: microcontroller, microcomputers or modules, systems on a chip, networking or telematics units, cellular modem/modules, Wi-Fi microcontrollers or modules, Bluetooth microcontrollers or modules, satellite communication systems, other wireless communication microcontrollers or modules, external antennas, digital signal processors, and field-programmable gate arrays. VCS hardware does not include component parts that do not contribute to the communication function of VCS hardware ( e.g., brackets, fasteners, plastics, and passive electronics, diodes, field-effect transistors, and bipolar junction transistors).
+
+VCS hardware importer means a U.S. person who imports:
+
+(1) VCS hardware for further manufacturing, incorporation, or integration into a completed connected vehicle that is intended to be sold or operated in the United States; or
+
+(2) VCS hardware that has already been installed, incorporated, or integrated into a connected vehicle, or a subassembly thereof, that is intended to be sold as part of a completed connected vehicle in the United States.
+
+§ 791.302 Prohibited VCS hardware transactions.
+(a) VCS hardware importers are prohibited from knowingly importing into the United States VCS hardware that is designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of the PRC or Russia.
+
+(b) In the context of this subpart, VCS hardware will not be considered to be designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of the PRC or Russia, based solely on the country of citizenship of one or more natural persons who are employed by, contracted by, or otherwise similarly engaged in such actions through the entity designing, developing, manufacturing, or supplying the hardware.
+
+§ 791.303 Prohibited covered software transactions.
+(a) Connected vehicle manufacturers are prohibited from knowingly importing into the United States completed connected vehicles that incorporate covered software that is designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of the PRC or Russia.
+
+(b) Connected vehicle manufacturers are prohibited from knowingly selling within the United States completed connected vehicles that incorporate covered software that is designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of the PRC or Russia.
+
+(c) In the context of this subpart, covered software will not be considered to be designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of the PRC or Russia, based solely on the country of citizenship of one or more natural persons who are employed by, contracted by, or otherwise similarly engaged in such actions through the entity designing, developing, manufacturing, or supplying the software.
+
+§ 791.304 Related prohibited transactions.
+Connected vehicle manufacturers who are owned by, controlled by, or subject to the jurisdiction or direction of the PRC or Russia, are prohibited from knowingly selling in the United States completed connected vehicles that incorporate VCS hardware or covered software, regardless of whether such VCS hardware or covered software is designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of the PRC or Russia. These connected vehicle manufacturers are also prohibited from offering commercial services in the United States that utilize completed connected vehicles that incorporate ADS.
+
+§ 791.305 Declaration of Conformity.
+(a) Requirements —(1) VCS hardware: A VCS hardware importer must submit a Declaration of Conformity to BIS prior to importing VCS hardware, unless otherwise specified by this subpart. The Declaration of Conformity for VCS hardware shall include:
+
+(i) The name and address of the VCS hardware importer, to include identifying information for an individual point of contact (including name, email address, and phone number);
+
+(ii) If known, the FCC ID Number associated with the VCS hardware and, if applicable, of the subcomponents contained therein;
+
+(iii) If known, the make and model of the connected vehicle(s) for which the VCS hardware is intended, or already integrated;
+
+(iv) A certification that the VCS hardware described in the Declaration of Conformity was not designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of the PRC or Russia;
+
+(v) A certification that the declarant has conducted due diligence (with or without the use of third-party assessments) to inform the above certification, and the declarant or a delegated third party maintains documentation (either through an HBOM or otherwise) and third-party assessments (as applicable) in support of the above certification, which can be made available upon request by BIS;
+
+(vi) Identification as to who maintains the documentation and third-party assessments (as applicable) as certified above;
+
+(vii) A certification that the declarant has taken all possible measures, either contractually or otherwise, to ensure any necessary documentation and assessments from suppliers will be furnished to BIS upon request either by the declarant, or, in cases including confidential business information, directly by the supplier; and
+
+(viii) If applicable, an indication as to whether the submission is an update to a prior Declaration of Conformity, and if so, the date of the last submission.
+
+(2) Covered software: A connected vehicle manufacturer must submit a Declaration of Conformity to BIS prior to importing or selling in the United States completed connected vehicles that incorporate covered software, unless otherwise specified by this subpart. The Declaration of Conformity for covered software shall include:
+
+(i) The name and address of the connected vehicle manufacturer, to include information identifying an individual point of contact (including name, email address, and phone number);
+
+(ii) The make, model, trim, and Vehicle Identification Number (VIN) series applicable to the completed connected vehicles that incorporate the covered software;
+
+(iii) A certification that the covered software described in the Declaration of Conformity was not designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of the PRC or Russia;
+
+(iv) A certification that the declarant has conducted due diligence (with or without the use of third-party assessments) to inform the above certification, and the declarant or a delegated third party maintains documentation (either through an SBOM or otherwise) and third-party assessments (as applicable) that are sufficient to identify, at minimum, the author name, timestamp, component name, and supplier name of all proprietary additions to the development of the covered software, which can be made available upon request by BIS;
+
+(v) Identification as to who maintains the documentation and third-party assessments (as applicable) as certified above;
+
+(vi) A certification that the declarant has taken all possible measures, either contractually or otherwise, to ensure any necessary documentation and assessments from suppliers will be furnished to BIS upon request either by the declarant, or, in cases including confidential business information, directly by the supplier; and
+
+(vii) If applicable, an indication as to whether the submission is an update to a prior Declaration of Conformity and the date of the last submission.
+
+(b) Certification. A certification is a written statement or attestation within a Declaration of Conformity in § 791.305(a) above to the U.S. Government, signed by a duly authorized designee, certifying under the penalties provided in 18 U.S.C. 1001, that the information provided is accurate and complete in all material respects to the best knowledge of the designee on behalf of the entity filing the Declaration of Conformity.
+
+(1) For purposes of this section, a duly authorized designee is:
+
+(i) In the case of a partnership, any general partner thereof;
+
+(ii) In the case of a corporation, the chief executive officer, or any officer with the authority to bind the corporation;
+
+(iii) An employee with authority to make certifications on behalf of the company as designated by a person in (i) or (ii); and
+
+(iv) In the case of an entity lacking partners and officers, any individual manager, or designated agent who has been explicitly authorized by the board of directors or equivalent to sign contracts and make legally binding agreements on behalf of the entity.
+
+(c) Additional information. BIS may request additional information after receipt of a Declaration of Conformity.
+
+(d) Reliance on third-party assessments. Declarants are permitted to utilize assessments produced by third parties to assist and prepare a Declaration of Conformity, in addition to ensuring ongoing compliance with this rule, as long as such entities conform to § 791.315 of this subpart.
+
+(e) Material changes. The following events will require an update to a previously submitted Declaration of Conformity:
+
+(1) The discovery, by the declarant, of an omission, inaccuracy, or error in the information provided to BIS in a prior Declaration of Conformity that could reasonably mislead as to the true source of VCS hardware or covered software in question.
+
+(2) Covered software updates alone do not constitute a material change unless an additional condition above is true.
+
+(f) Change in circumstance. If the connected vehicle manufacturer or VCS hardware importer determines that articles subject to a Declaration of Conformity are no longer eligible, it must, within 30 days, cease any prohibited conduct and submit a specific authorization application, pursuant to § 791.307(m).
+
+(g) Deadline to submit Declarations of Conformity. Connected vehicle manufacturers and VCS hardware importers shall submit Declarations of Conformity prior to the first sale of the subject connected vehicle in the United States, prior to the import of VCS hardware as specified in this section, and following discovery of a material change that makes a prior Declaration of Conformity no longer accurate.
+
+(1) Connected vehicle manufacturers shall submit a Declaration of Conformity at least 60 days prior to the first import or first sale of each model year of completed connected vehicle that incorporates covered software. Declarants may submit a single Declaration of Conformity for all connected vehicles that use the same covered software, grouped by make, model, and VIN series.
+
+(2) VCS hardware importers shall submit a Declaration of Conformity at least 60 days prior to the first import of VCS hardware for each model year for units associated with a vehicle model year, or calendar year for units not associated with a vehicle model year. VCS hardware importers may submit a single Declaration of Conformity detailing all VCS hardware models that will be imported in the model year or calendar year.
+
+(3) Connected vehicle manufacturers and VCS hardware importers must notify BIS of any material change to the information conveyed in a previously submitted Declaration of Conformity by submitting a revised Declaration of Conformity within 60 days following the discovery of such change. A declarant's obligation to inform BIS of material changes to the information ceases 10 years after submission of the original Declaration of Conformity for that model year or calendar year.
+
+(h) Annual updates to Declarations of Conformity. If applicable, connected vehicle manufacturers and VCS hardware importers may, in lieu of submitting a new Declaration of Conformity, submit a confirmation that the prior Declaration of Conformity remains accurate and that associates the relevant new model year of vehicles (if known) in lieu of submitting a new Declaration of Conformity.
+
+(1) Where there are no material changes to the covered software for a subsequent model year of completed connected vehicles, the connected vehicle manufacturer may submit a confirmation no later than one year after the previous submission, certifying that the prior information remains accurate, and that associates the new relevant model year of vehicles to an existing Declaration of Conformity.
+
+(2) Where there are no material changes to the VCS hardware for a subsequent model year of completed connected vehicles (if known) or calendar year, the VCS hardware importer may submit a confirmation no later than one year after the previous submission, certifying that the prior information remains accurate, and that associates the new relevant model year of vehicles (if known) to an existing Declaration of Conformity.
+
+(i) Submission instructions. The declarant shall follow the electronic filing instructions on BIS's website, https://www.bis.gov/OICTS.
+
+(j) Verification. BIS, in its sole discretion, may choose to verify Declarations of Conformity that have been submitted by VCS hardware importers and connected vehicle manufacturers.
+
+(k) Connected vehicle introduced by means of false information in the Declaration of Conformity. Any person who submits false information in a Declaration of Conformity, with knowledge that such information is false, and engages in one or more prohibited transactions, may incur penalties as defined in § 791.318.
+
+(l) Exemptions. No Declaration of Conformity is required if the only foreign interest in a transaction arises from a foreign person's equity ownership of a U.S. person, whether through ownership of public shares or otherwise. This exemption has no effect on transactions where a foreign interest arises from a foreign entity's design, development, manufacture, or supply of VCS hardware or covered software for a U.S. person or where equity ownership allows a foreign person to exercise control over the U.S. person. Further, this exemption has no effect on the analysis of whether or not an entity is owned by, controlled by, or subject to the jurisdiction or direction of the PRC or Russia.
+
+§ 791.306 General authorizations.
+(a) Overview. VCS hardware importers and connected vehicle manufacturers may rely on a general authorization to engage in an otherwise prohibited transaction if they meet the stated requirements or conditions identified in the general authorization and are not subject to the restrictions identified in this section. Records demonstrating compliance with the terms of general authorizations must be retained for a period of 10 years, as specified in § 791.312, and be made available to BIS upon request.
+
+(b) General course of procedure. BIS may issue general authorizations for certain types of transactions subject to the prohibitions contained in this subpart. In determining whether to issue a general authorization, BIS may consider any information or material BIS deems relevant and appropriate, classified or unclassified, from any Federal department or agency, or from any other source. BIS will publish general authorizations it issues under this subpart on its website ( https://www.bis.gov/OICTS ), and will also publish them in the Federal Register .
+
+(c) Relationship with specific authorizations. BIS will not grant specific authorizations for transactions in which a general authorization is applicable.
+
+(d) Instructions. Persons availing themselves of certain general authorizations may be required to file reports and statements in accordance with the instructions specified by BIS in each general authorization. Failure to fulfill instructions provided in a general authorization may nullify the authorization and result in a violation of the applicable prohibitions that may be subject to BIS enforcement action.
+
+(e) Change in circumstance. Unless otherwise prescribed by BIS, within 30 days of discovering a change in circumstance, the VCS hardware importer or connected vehicle manufacturer must assess if it still qualifies for the general authorization.
+
+(1) If the connected vehicle manufacturer or VCS hardware importer determines that articles subject to a general authorization have been used outside the conditions of the general authorization, it must, within 30 days of such a determination, cease any prohibited conduct, conduct an internal inquiry, and submit to BIS a report identifying any prohibited transactions, the number of connected vehicles or VCS hardware units implicated, and proposed remedial measures.
+
+(2) [Reserved]
+
+(f) Verification. BIS may, at its discretion, seek verification from VCS hardware importers and connected vehicle manufacturers as to whether they are relying on a general authorization, and if so, may request documentation to verify compliance with this subpart.
+
+(g) Restrictions. VCS hardware importers and connected vehicle manufacturers may not avail themselves of any general authorization if any one or more of the following apply:
+
+(1) BIS has notified, either directly or through an advisory opinion, the VCS hardware importer or connected vehicle manufacturer is not eligible for a general authorization; or
+
+(2) The VCS hardware importer or connected vehicle manufacturer is owned by, controlled by, or subject to the jurisdiction or direction of the PRC or Russia.
+
+§ 791.307 Specific authorizations.
+(a) Prohibited transactions authorized. Upon receipt of a valid and complete application, BIS may grant specific authorizations to permit a VCS hardware importer or connected vehicle manufacturer to engage in an otherwise prohibited transaction.
+
+(b) Policy. It is the policy of BIS not to review applications for specific authorizations for transactions that are otherwise permitted by a general authorization.
+
+(c) Applications for specific authorizations. Applications for specific authorizations shall include, at a minimum, a description of the nature of the otherwise prohibited transaction(s), including the following:
+
+(1) The identity of the parties engaged in the transaction, including relevant corporate identifiers and information sufficient to identify the ultimate beneficial ownership of the transacting parties;
+
+(2) An overview of the VCS hardware or covered software that is designed, developed, manufactured, or supplied by a person owned by, controlled by, or subject to the jurisdiction or direction of the PRC or Russia, including persons responsible for assembling and packaging VCS hardware or covered software;
+
+(3) If known, the make, model, and trim of the connected vehicle(s) in which the VCS hardware or covered software will be integrated;
+
+(4) The intended function of the VCS hardware or covered software;
+
+(5) Documentation to support the information contained in the application, such as any ISO/SAE 21434 Threat Analysis and Risk Assessments (if available);
+
+(6) An assessment of the applicant's ability to limit PRC or Russian government access to, or influence over the design, development, manufacture, or supply of the VCS hardware or covered software;
+
+(7) Security standards used by the applicant with respect to the VCS hardware or covered software; and
+
+(8) Other actions and proposals such as technical controls ( e.g., software validation) or operational controls ( e.g., physical and logical access monitoring procedures) the applicant intends to take to mitigate undue or unacceptable risk, if applicable.
+
+(d) Application submission procedures and timing. VCS hardware importers or connected vehicle manufacturers who seeks to engage in an otherwise prohibited transaction must submit an application for a specific authorization in writing prior to engaging in the transaction, and await a decision from BIS prior to engaging in the transaction. Specific authorization submissions must be delivered to BIS as specified on its website, https://www.bis.gov/OICTS.
+
+(e) Additional conditions. Only one application for a specific authorization should be submitted to BIS for each otherwise prohibited transaction; multiple parties submitting an application for a specific authorization for the same transaction may result in processing delays.
+
+(f) Information to be supplied. An applicant may be required to furnish additional information as BIS deems necessary to assist in making a decision. BIS may request an oral briefing by the applicant and any other relevant parties. The applicant may present additional information concerning an application for a specific authorization at any time before BIS issues its decision regarding the application.
+
+(g) Review and decisions. Applications for specific authorizations will be reviewed on a case-by-case basis, and conditions to be applied to each specific authorization may vary as needed to mitigate any risk that arises as a result of the otherwise prohibited transaction. Such review will include an evaluation of the risks and potential mitigation measures proposed by the applicant for the particular transaction. The risks that BIS may consider include, but are not limited to, risks of data exfiltration from, and remote manipulation or operation of, the connected vehicle and the extent and nature of foreign adversary involvement in the design, development, manufacture, or supply of the VCS hardware or covered software. Mitigation may include the applicant's ability to limit PRC or Russian government access to, or influence over the design, development, manufacture, or supply of the VCS hardware or covered software; security standards used by the applicant and if such standards can be validated by BIS or a third party; and other actions or proposals the applicant intends to take to mitigate undue or unacceptable risk. BIS will advise each applicant in writing of the decision respecting the filed application. Decisions regarding specific authorizations will not be made publicly available.
+
+(h) Processing period. BIS will provide a decision regarding an application for a specific authorization within 90 days unless BIS determines, in its sole discretion, and notifies the applicant within that 90-day period, that additional time is required. Failure or delays by the applicant in submitting additional information requested by BIS may delay or prevent BIS's ability to issue a specific authorization.
+
+(i) Scope. (1) Unless otherwise specified in the authorization, a specific authorization applies only to the transaction:
+
+(i) Between the parties identified in the specific authorization;
+
+(ii) With respect to the otherwise prohibited transaction(s) described in the authorization; and
+
+(iii) If the conditions specified in the specific authorization are satisfied. The applicant must inform any other parties identified in the specific authorization of the authorization's scope and specific conditions.
+
+(2) As a condition for the issuance of any specific authorization, BIS may require the applicant to submit third-party assessments or SBOMs/HBOMs as may be prescribed in the specific authorization or otherwise communicated to the applicant by BIS. Reports should be sent in accordance with the instructions provided in the applicable specific authorization.
+
+(3) Any materially false or misleading representation in or otherwise associated with the application, or in any document submitted in connection with the application under this section, shall cause the specific authorization to be deemed void as of the date of issuance, and the applicant may incur penalties as specified in § 791.318.
+
+(j) Verification. BIS may establish, in its sole discretion as conditions for receiving a specific authorization, any compliance, auditing, or verification requirements.
+
+(k) Effect of denial. BIS's denial of a specific authorization may be appealed as described in § 791.309. BIS's denial of a prior specific authorization does not preclude parties from filing an application for a specific authorization for a separate otherwise prohibited transaction. The applicant may at any time, by written correspondence, request reconsideration of the denial of an application based on new material facts or changed circumstances.
+
+(l) Effect of specific authorization. (1) No specific authorization issued under this subpart, or otherwise issued by BIS, permits or validates any prohibited transaction effectuated prior to the issuance of such specific authorization unless specifically provided for in the specific authorization.
+
+(2) No regulation, ruling, instruction, or authorization permits any prohibited transaction under this subpart unless the regulation, ruling, instruction or authorization is issued by BIS and specifically refers to this subpart. No regulation, ruling, instruction, or authorization referring to this subpart shall be deemed to permit any prohibited transaction prohibited by any provision of this subpart unless the regulation, ruling, instruction, or authorization specifically refers to such provision. Any specific authorization permitting any otherwise prohibited transaction has the effect of removing those prohibitions from the transaction, but only to the extent specifically stated by the terms of the specific authorization. Unless the specific authorization otherwise specifies, such an authorization does not create any right, duty, obligation, claim, or interest in, or with respect to, any property that would not otherwise exist under ordinary principles of law.
+
+(3) Nothing contained in this subpart shall be construed to supersede the requirements established under any other provision of law or to relieve a person from any requirement to obtain an authorization from another department or agency of the U.S. Government in compliance with applicable laws and regulations subject to the jurisdiction of that department or agency.
+
+(4) Specific authorizations will be approved for a duration of no less than one (1) model year or calendar year except as provided in § 791.307(m).
+
+(m) Exceptions. BIS may approve specific authorizations for a period of less than one (1) calendar year on a case-by-case basis under the following circumstances:
+
+(1) 2027 model years that include covered software and are actively being sold or imported as of the effective date of this rule;
+
+(2) Covered software and VCS hardware supply chains that are affected by force majeure events;
+
+(3) As a result of a corporate merger, investment, acquisition, joint venture, or conversion of equity (such as from debt) that occurs during model year production;
+
+(4) As a result of the closure or relocation of facilities involved in the production of covered software or VCS hardware; and
+
+(5) Other instances as determined by BIS.
+
+(n) Records. Persons receiving a specific authorization are required to maintain records for a period of 10 years, as required in § 791.312, as well as to submit reports and statements in accordance with the instructions specified in each specific authorization.
+
+(o) Amendment, modification, or rescission. Except as otherwise provided by law, any specific authorization or instructions issued thereunder may be amended, modified, or rescinded by BIS at any time.
+
+§ 791.308 Exemptions.
+(a) VCS hardware importers may engage in prohibited transactions described in § 791.302 without an authorization as required under §§ 791.306 and 791.307, and are exempt from submitting Declarations of Conformity with respect to all other transactions, as described in § 791.305 provided that:
+
+(1) For VCS hardware units not associated with a vehicle model year, the import of the VCS hardware occurs prior to January 1, 2029; or
+
+(2) The VCS hardware is associated with a vehicle model year prior to 2030, the VCS hardware is imported as part of a connected vehicle with a model year prior to 2030, or the VCS hardware is imported for purposes of repair or warranty for a connected vehicle with a model year prior to 2030.
+
+(b) Connected vehicle manufacturers may engage in prohibited transactions described in § 791.303 without authorization as required under § 791.306 or § 791.307 and are exempt from submitting Declarations of Conformity with respect to all other transactions, as described in § 791.305, provided that the completed connected vehicle that incorporates covered software described in § 791.303(a)(1) was manufactured prior to model year 2027.
+
+(c) Connected vehicle manufacturers who are owned by, controlled by, or subject to the jurisdiction or direction of the PRC or Russia may engage in prohibited transactions described in § 791.304 without authorization as required under § 791.306 or § 791.307, and are exempt from submitting Declarations of Conformity to all other transactions, provided that the completed connected vehicle that incorporates VCS hardware and/or covered software was manufactured prior to model year 2027.
+
+§ 791.309 Appeals.
+(a) Scope. Any person claiming to be directly and adversely affected by any of the listed administrative actions taken by BIS pursuant to this subpart may appeal to the Under Secretary for reconsideration of that administrative action. Only the following types of administrative actions are subject to the appeals procedures described in this subpart:
+
+(1) Denial of an application for a specific authorization;
+
+(2) Suspension or revocation of an issued specific authorization; or
+
+(3) Determination of ineligibility for a general authorization.
+
+(b) Designated appeals reviewer and coordinator. The Under Secretary may delegate to the Deputy Under Secretary of Commerce for Industry and Security or to another BIS official the authority to review and decide the appeal, and to exercise any other function of the Under Secretary under this section. In addition, the Under Secretary may designate any employee of BIS to be an appeals coordinator to assist in the review and processing of an appeal under this subpart. The responsibilities of an appeals coordinator may include presiding over informal hearings.
+
+(c) Appeals procedures —(1) Filing. An appeal under this subpart must be submitted to the Under Secretary by email or at the following address: Bureau of Industry and Security, U.S. Department of Commerce, Room 3898, 14th Street and Pennsylvania Avenue NW, Washington, DC 20230 no later than 45 days after the date appearing on the written notice of administrative action.
+
+(2) Content of appeal. The appeal must include a full written statement in support of the appellant's position. The appeal must include a precise statement of the reasons that the appellant believes that the administrative action has a direct and adverse effect and should be reversed or modified. The Under Secretary or the designated official may request additional information that would be helpful in resolving the appeal, and may accept additional submissions from the appellant. The Under Secretary or the designated official will not ordinarily accept any submission filed voluntarily more than 30 days after the filing of the appeal.
+
+(3) Request for informal hearing. In addition to the written statement submitted in support of an appeal, an appellant may request, in writing, at the time an appeal is filed, an opportunity for an informal hearing. A hearing is not required, and the Under Secretary or the designated official may grant or deny a request for an informal hearing at the Under Secretary or the designated official's sole discretion. Any hearings will be held in the District of Columbia unless the Under Secretary or the designated official determines, based upon good cause shown, that another location would be preferable.
+
+(d) Informal hearing procedures —(1) Presentations. If a hearing request is granted, the Under Secretary or the designated official may provide an opportunity for the appellant to make an oral presentation at an informal hearing based on the materials previously submitted by the appellant or made available by BIS. The Under Secretary or the designated official may require that any facts in controversy be covered by an affidavit or testimony given under oath or affirmation.
+
+(2) Evidence. The rules of evidence prevailing in courts of law do not apply, and all evidentiary material deemed by the Under Secretary or the designated official to be relevant and material to the proceeding, and not unduly repetitious, will be received and considered.
+
+(3) Procedural questions. The Under Secretary or the designated official has the authority to limit the number of people attending the hearing, to impose any time or other limitations deemed reasonable, and to determine all procedural questions.
+
+(4) Transcript. A transcript of an informal hearing shall not be made, unless the Under Secretary or the designated official determines that the national interest or other good cause warrants it, or if the appellant requests a transcript. If the appellant requests, and the Under Secretary or the designated official approves the taking of, a transcript, the appellant will be responsible for paying all expenses related to production of the transcript.
+
+(5) Report. Any person designated by the Under Secretary to conduct an informal hearing shall submit a written report containing a summary of the hearing and recommended action to the Under Secretary.
+
+(e) Amicus filings. At the request of the appellant, parties not subject to the administrative action under appeal may submit amicus filings in support of the appellant prior to any informal hearing.
+
+(f) Decisions. In addition to the documents specifically submitted in connection with the appeal, the Under Secretary or the designated official may consider any recommendations, reports, or other relevant documents available to BIS in determining the appeal, but shall not be bound by any such information, nor prevented from considering any other relevant information, or consulting with any other person or groups, in making a decision. The Under Secretary or the designated official may adopt any other procedures deemed necessary and reasonable for considering an appeal, including by providing the appellant with an interim or proposed decision and offering the appellant an opportunity to provide comments. The Under Secretary or the designated official shall decide an appeal within a reasonable time after receipt of the appeal. The decision shall be issued to the appellant in writing and contain a statement of the reasons for the action and address any arguments contrary to the decision presented by the appellant. The decision of the Under Secretary or the designated official shall be final.
+
+(g) Effect of appeal. Acceptance and consideration of an appeal shall not affect any administrative action, pending or in effect, unless the Under Secretary or the designated official, upon request by the appellant and with opportunity for a response, grants a stay.
+
+§ 791.310 Advisory opinions.
+(a) VCS hardware importers and connected vehicle manufacturers may request an advisory opinion from BIS to determine whether a prospective transaction is subject to a prohibition, or requirement under this subpart. The requestor must have a direct financial interest in the substance of the question(s) presented, and the submission must include the name of the parties to the transaction.
+
+(b) Requests for advisory opinions must be delivered to BIS as specified on its website, https://www.bis.gov/OICTS.
+
+(c) Persons submitting advisory opinion requests are encouraged to provide as much information as possible to assist BIS in making a determination, to include the following information:
+
+(1) The name, title, telephone, and email address of the submitter;
+
+(2) The submitter's complete address, comprised of street address, city, state, country, and postal code;
+
+(3) All available information identifying the parties to the prospective transaction;
+
+(4) Information regarding the VCS hardware and/or covered software and any descriptive literature, brochures, technical specifications, or papers that provide sufficient technical detail to enable BIS to verify whether the prospective transaction would constitute a prohibited transaction as defined in this subpart;
+
+(5) For connected vehicle manufacturers: the make, model, and trim level, or other identifying information of the completed connected vehicle;
+
+(6) For VCS hardware importers: the identification of the system; and, if known, the make, model, and trim of the group of completed connected vehicles for which the equipment is intended; and
+
+(7) Any other information that the submitter believes to be material to the prospective transaction.
+
+(d) BIS may consider third-party materials on a case-by-case basis as part of its review of an advisory opinion request. Each person that submits an advisory opinion request or information in support of another party's advisory opinion request shall provide any additional information or documents that BIS may thereafter request in its review of the matter.
+
+(e) BIS shall issue an advisory opinion within 60 days of the request unless it notifies the requester within that 60-day period that more time is required. Failure or delays by the applicant in submitting additional information requested by BIS may delay or prevent BIS's ability to issue an advisory opinion.
+
+(f) Each advisory opinion can be relied upon by the requesting party or parties to the extent the disclosures made pursuant to this subpart were accurate and complete and to the extent the disclosures continue to reflect circumstances accurately and completely after the date of the issuance of the advisory opinion. An advisory opinion will not restrict enforcement actions by any agency other than BIS. It will not affect a requesting party's obligations to any other agency or under any statutory or regulatory provision other than those specifically discussed in the advisory opinion.
+
+(g) BIS may publish on its website an advisory opinion that may be of broad interest to the public, with redactions where necessary to protect Confidential Business Information.
+
+(h) BIS may, at its sole discretion, decline to issue an advisory opinion within 60 days after receipt of the request.
+
+§ 791.311 “Is-informed” notices.
+(a) BIS may inform VCS hardware importers or connected vehicle manufacturers either individually by specific notice or, for larger groups, through a separate notice published in the Federal Register , that a specific authorization is required because an activity could constitute a prohibited transaction.
+
+(b) Specific notice that a specific authorization is required may be given only by, or at the direction of, the Under Secretary or a BIS official designated by the Under Secretary.
+
+§ 791.312 Recordkeeping.
+(a) Except as otherwise provided herein, or through subsequent communication with BIS, VCS hardware importers, connected vehicle manufacturers, and/or third-party assessors (if applicable) shall keep all primary business records related to the execution of each transaction for which a Declaration of Conformity, general authorization, or specific authorization would be required under § 791.305, § 791.306, or § 791.307. Primary business records include contracts, import records, commercial invoices, bills of sale, corporate policy documentation, and reports produced by third parties created for the purposes of compliance with this rule. Regardless of whether these transactions are effectuated pursuant to a general authorization, specific authorization, or otherwise, such records shall be available for examination for at least 10 years after the date of such transactions.
+
+(b) Third-party assessors are required to maintain all records relating to third-party verification or assessment of a U.S. person's compliance with this rule.
+
+§ 791.313 Reports to be furnished on demand.
+(a) VCS hardware importers and connected vehicle manufacturers must furnish, under oath, in the form of reports or as otherwise specified by BIS, and at any time as may be required by BIS, complete information regarding any transaction involving the import of VCS hardware or the import or sale of completed connected vehicles incorporating covered software. This requirement applies regardless of whether such transaction is affected pursuant to a general or specific authorization or otherwise, subject to the provisions of this subpart. BIS may require that such reports include the production of any books, contracts, letters, papers, or other hard copy or electronic documents relating to any transactions, in the custody or control of the persons required to make such reports. Reports being submitted to BIS pursuant to this section must be retained for a period of 10 years, as specified in § 791.312.
+
+(b) BIS may, through any person or agency, conduct investigations, hold hearings, administer oaths, examine witnesses, receive evidence, take depositions, and require by subpoena the attendance and testimony of witnesses and the production of any books, contracts, letters, papers, and other hard copy or electronic documents relating to any matter under investigation, regardless of whether any report has been required or filed in connection therewith.
+
+(c) Persons providing records to BIS pursuant to this section shall follow the electronic filing instructions on BIS's website, https://www.bis.gov/OICTS.
+
+§ 791.314 Confidential business information.
+(a) Confidential business information. Confidential Business Information is defined in 19 CFR 201.6.
+
+(b) Submission procedures. Any information or material submitted to BIS which the entity or any other party desires to submit in confidence as a part of a Declaration of Conformity, specific authorization application, advisory opinion request, record to be furnished on demand, or is otherwise Confidential Business Information should be contained within a file beginning its name with the characters “CBI.” Any page containing Confidential Business Information must be clearly marked “CONFIDENTIAL BUSINESS INFORMATION” on the top of the page. Any pages not containing Confidential Business Information should not be marked. By submitting information or material identified as Confidential Business Information, the entity or other party represents that the information is exempted from public disclosure, either by the Freedom of Information Act (5 U.S.C. 552 et seq. ) or by another specific statutory exemption. Any request for Confidential Business Information treatment must be accompanied at the time of submission by a statement justifying non-disclosure and referring to the specific legal authority claimed.
+
+(c) Confidentiality of information. Confidentiality of information is subject to 15 CFR 791.102.
+
+§ 791.315 Third-party verification and assessments.
+(a) Overview. U.S persons subject to this subpart may hire, consult, or otherwise contract with a third-party to ensure compliance with this rule. In certain cases, the use of a third-party assessor will be mandated in the terms of an approved specific authorization.
+
+(b) Third-party assessors. U.S. persons should determine whether a third-party assessor is qualified and competent, such as through industry certification or standard, to examine, to verify, and attest to the U.S. person's compliance with and the effectiveness of the security requirements implemented for VCS hardware or covered software transactions.
+
+(1) The third-party assessor cannot be a person owned by, controlled by, or subject to the jurisdiction or direction of the PRC or Russia.
+
+(2) In determining the reasonableness of an entity's reliance on a third-party assessment, BIS will consider the independence of the third-party, including any financial incentives between the third-party and the entity.
+
+(c) Scope. The use of a third-party assessor for U.S. persons submitting Declarations of Conformity is voluntary; however, if utilized, BIS recommends such third-party assessments to:
+
+(1) identify and examine the VCS hardware importer or connected vehicle manufacturer's VCS hardware and covered software supply chains in relation to the prohibitions in this subpart;
+
+(2) examine compliance relating to each Declaration of Conformity, general authorization, or specific authorization pursuant to which an entity is conducting transactions;
+
+(3) use a reliable methodology to conduct the third-party verification; and
+
+(4) acknowledge that the assessment may be used by the U.S. government to verify compliance.
+
+(d) Assessment. To utilize third-party verification to fulfill the due diligence requirement for a Declaration of Conformity, the third-party assessor should prepare and submit a written report to the VCS hardware importer or connected vehicle manufacturer. The third-party assessment should at minimum:
+
+(1) identify the suppliers of each relevant component and describe the nature of any foreign interest;
+
+(2) describe the methodology undertaken, including the policies and other documents reviewed, personnel interviewed, and any facilities, equipment, or systems examined;
+
+(3) describe the effectiveness of the VCS hardware importer or connected vehicle manufacturer's corporate policies related to compliance with this rule;
+
+(4) for VCS hardware importers or connected vehicle manufacturers conducting transactions under the auspices of a general authorization or specific authorization, describe any vulnerabilities or deficiencies in the implementation of the authorization; and
+
+(5) recommend any improvements or changes to policies, practices, or other aspects to maintain compliance with this subpart, as applicable to each transaction.
+
+(e) Recordkeeping. The third-party assessor must comply with all recordkeeping requirements, pursuant to § 791.312.
+
+§ 791.316 Finding of violation.
+(a) When issued. (1) BIS may issue an initial finding of violation that identifies a violation if BIS:
+
+(i) Determines that there has occurred a violation of any provision of this subpart, or a violation of the provisions of any exemption, general authorization, specific authorization, regulation, order, directive, instruction, or prohibition issued by or pursuant to the direction or authorization of the Secretary pursuant to this subpart or otherwise under IEEPA;
+
+(ii) Considers it important to document the occurrence of a violation; and
+
+(iii) Concludes that an administrative response is warranted but that a civil monetary penalty is not the most appropriate response.
+
+(2) An initial finding of violation shall be in writing and may be issued whether or not another agency has taken any action with respect to the matter.
+
+(b) Response —(1) Right to respond. An alleged violator may contest an initial finding of violation by providing a written response to BIS.
+
+(2) Deadline for response; default determination. A response to an initial finding of violation must be made within 30 days as set forth in paragraphs (b)(2)(i) and (ii) of this section. The failure to submit a response within 30 days shall be deemed to be a waiver of the right to respond, and the initial finding of violation will become final and will constitute final agency action. The violator may seek judicial review of that final agency action in Federal district court.
+
+(i) Computation of time for response. A response to an initial finding of violation must be electronically transmitted on or before the 30th day after the date of delivery by BIS.
+
+(ii) Extensions of time for response. If a due date falls on a Federal holiday or weekend, that due date is extended to include the following business day. Any other extensions of time will be granted, at the discretion of BIS, only upon specific request to BIS.
+
+(3) Form and method of response. A response to an initial finding of violation need not be in any particular form, but it must be typewritten and signed by the alleged violator or a representative thereof, contain information sufficient to indicate that it is in response to the initial finding of violation, and include the BIS identification number listed on the initial finding of violation. A digital signature is acceptable.
+
+(4) Information that should be included in response. Any response should set forth in detail why the alleged violator either believes that a violation of the provisions of this subpart did not occur and/or why a finding of violation is otherwise unwarranted under the circumstances. The response should include all documentary or other evidence available to the alleged violator that supports the arguments set forth in the response. BIS will consider all relevant materials submitted in the response.
+
+(c) Determination —(1) Determination that a finding of violation is warranted. If, after considering the response, BIS determines that a final finding of violation should be issued, BIS will issue a final finding of violation that will inform the violator of its decision and may include a responsive administrative action other than a civil monetary penalty. Any action taken in a final finding of violation shall constitute final agency action. The violator has the right to seek judicial review of that final agency action in Federal district court.
+
+(2) Determination that a finding of violation is not warranted. If, after considering the response, BIS determines a finding of violation is not warranted, then BIS will inform the alleged violator of its decision not to issue a final finding of violation.
+
+§ 791.317 Pre-penalty notice; settlement.
+(a) When required. If BIS has reason to believe that there has occurred a violation of any provision of this subpart or a violation of the provisions of any exemption, general authorization, specific authorization, regulation, order, directive, instruction, or prohibition issued by or pursuant to the direction or authorization of the Secretary pursuant to this subpart or otherwise under IEEPA and determines that a civil monetary penalty is warranted, BIS will issue a pre-penalty notice informing the alleged violator of BIS's intent to impose a monetary penalty. A pre-penalty notice shall be in writing and issued either electronically or by mail to the alleged violator. The pre-penalty notice may be issued whether or not another agency has taken any action with respect to the matter. BIS will consider any voluntary disclosures of a violation prior to issuing such notice.
+
+(b) Response —(1) Right to respond. An alleged violator may respond to a pre-penalty notice in writing to BIS.
+
+(2) Deadline for response. A response to a pre-penalty notice must be made within 30 days as set forth below. The failure to submit a response within 30 days shall be deemed to be a waiver of the right to respond.
+
+(i) Computation of time for response. A response to a pre-penalty notice must be electronically transmitted on or before the 30th day after the date of delivery by BIS.
+
+(ii) Extensions of time for response. If a due date falls on a Federal holiday or weekend, that due date is extended to include the following business day. Any other extensions of time will be granted, at the discretion of BIS, only upon specific request to BIS.
+
+(3) Form and method of response. A response to a pre-penalty notice need not be in any particular form, but it must be typewritten and signed by the alleged violator or a representative thereof, contain information sufficient to indicate that it is in response to the pre-penalty notice, and include the BIS identification number listed on the pre-penalty notice. A digital signature is acceptable.
+
+(4) Information that should be included in response. Any response should set forth in detail why the alleged violator either believes that a violation of the provisions of this subpart did not occur and/or why a civil monetary penalty is otherwise unwarranted under the circumstances. The response should include all documentary or other evidence available to the alleged violator that supports the arguments set forth in the response. BIS will consider all relevant materials submitted in the response.
+
+(c) Representation. A representative of the alleged violator may act on behalf of the alleged violator, but any oral communication with BIS prior to a written submission regarding the specific allegations contained in the pre-penalty notice must be preceded by a written letter of representation, unless the pre-penalty notice was served upon the alleged violator in care of the representative.
+
+(d) Settlement. Settlement discussions may be initiated by BIS, the alleged violator, or the alleged violator's authorized representative.
+
+§ 791.318 Penalties.
+(a) Section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) (IEEPA) is applicable to violations of the provisions of any general authorization, specific authorization, regulation, order, directive, instruction, or prohibition issued by or pursuant to the direction or authorization of the Secretary of Commerce (Secretary) pursuant to this subpart or otherwise under IEEPA.
+
+(1) A civil penalty not to exceed the amount set forth in section 206 of IEEPA may be imposed on any person who violates, attempts to violate, conspires to violate, or causes a violation of any exemption, general authorization, specific authorization, regulation, order, directive, instruction, or prohibition issued under this subpart.
+
+(2) A person who willfully commits, willfully attempts to commit, willfully conspires to commit, or aids or abets in the commission of a violation of any exemption, general authorization, specific authorization, regulation, order, directive, instruction, or prohibition issued under this subpart is subject to criminal penalties and may, upon conviction, be fined not more than $1,000,000, or if a natural person, be imprisoned for not more than 20 years, or both.
+
+(b) The civil penalties provided in IEEPA are subject to adjustment pursuant to the Federal Civil Penalties Inflation Adjustment Act of 1990 (Pub. L. 101-410, as amended, 28 U.S.C. 2461 note).
+
+(c) The criminal penalties provided in IEEPA are subject to adjustment pursuant to 18 U.S.C. 3571.
+
+(d) Pursuant to 18 U.S.C. 1001, whoever, in any matter within the jurisdiction of the executive, legislative, or judicial branch of the U.S. Government, knowingly and willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact; or makes any materially false, fictitious, or fraudulent statement or representation; or makes or uses any false writing or document knowing the same to contain any materially false, fictitious, or fraudulent statement or entry shall be fined under title 18, United States Code, imprisoned, or both.
+
+(e) Violations of this subpart may also be subject to other applicable laws and therefore may be subject to additional penalties not specified in this section.
+
+§ 791.319 Penalty imposition.
+(a) If, after considering any written response to the pre-penalty notice and any relevant facts, including voluntary disclosure of a violation, BIS determines that there was a violation by the alleged violator named in the pre-penalty notice and that a civil monetary penalty is appropriate, BIS may issue a penalty notice to the violator containing a determination of the violation and the imposition of the monetary penalty.
+
+(b) The issuance of the penalty notice shall constitute final agency action. The violator may seek judicial review of that final agency action in Federal district court.
+
+§ 791.320 Administrative collection; referral to United States Department of Justice.
+In the event that the violator does not pay the penalty imposed pursuant to this subpart or make payment arrangements acceptable to BIS, the matter may be referred for administrative collection measures by the United States Department of the Treasury or to the United States Department of Justice for appropriate action to recover the penalty in a civil suit in a Federal district court.
+
+§ 791.321 Severability.
+If any provision of this subpart is held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, or stayed pending further agency action or judicial review, the provision is to be construed so as to continue to give the maximum effect to the provision permitted by law, unless such holding will be one of utter invalidity or unenforceability, in which event the provision will be severable from this part and will not affect the remainder thereof.

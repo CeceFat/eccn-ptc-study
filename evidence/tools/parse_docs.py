@@ -12,12 +12,41 @@ import re
 import subprocess
 import sys
 import unicodedata
+import zipfile
 
 sys.stdout.reconfigure(encoding="utf-8")
 ROOT = sys.argv[1]
 EV = os.path.join(ROOT, "evidence")
 OUT = os.path.join(EV, "text")
-MAP = {"us-fr": "fr", "us-bis": "bis", "us-doj": "doj", "tw-trade": "tw", "tw-law": "tw", "intl": "intl"}
+MAP = {"us-fr": "fr", "us-bis": "bis", "us-doj": "doj", "tw-trade": "tw", "tw-law": "tw", "intl": "intl",
+       "cn": "cn", "sea": "sea", "us-import": "usimp", "eu": "eu"}
+HTMLISH = (".html", ".htm", ".shtml", ".xhtml", ".asp", ".aspx", ".php", ".xml", "")
+
+
+def read_text(path):
+    """依 BOM／meta charset 解碼；中國政府網站常見 GBK，解不開 UTF-8 就改用 gb18030。"""
+    data = open(path, "rb").read()
+    if data.startswith(b"\xef\xbb\xbf"):
+        return data[3:].decode("utf-8", errors="replace")
+    m = re.search(rb"charset=[\"']?([A-Za-z0-9_-]+)", data[:4096])
+    enc = m.group(1).decode("ascii").lower() if m else "utf-8"
+    if enc in ("gb2312", "gbk", "gb18030"):
+        enc = "gb18030"
+    try:
+        return data.decode(enc)
+    except (UnicodeDecodeError, LookupError):
+        try:
+            return data.decode("utf-8")
+        except UnicodeDecodeError:
+            return data.decode("gb18030", errors="replace")
+
+
+def docx_text(path):
+    with zipfile.ZipFile(path) as z:
+        xml = z.read("word/document.xml").decode("utf-8", errors="replace")
+    xml = re.sub(r"</w:p>", "\n", xml)
+    xml = re.sub(r"<w:tab/>", "\t", xml)
+    return html.unescape(re.sub(r"<[^>]+>", "", xml)).strip() + "\n"
 
 
 def strip_html(raw):
@@ -69,11 +98,13 @@ def main():
         if ext.lower() == ".pdf" or (ext == "" and open(src, "rb").read(4) == b"%PDF"):
             res = subprocess.run(["pdftotext", "-enc", "UTF-8", "-layout", src, "-"], capture_output=True)
             text = res.stdout.decode("utf-8", errors="replace")
+        elif ext.lower() == ".docx":
+            text = docx_text(src)
         else:
-            raw = open(src, encoding="utf-8", errors="replace").read()
+            raw = read_text(src)
             if parts[1:2] == ["us-fr"]:
                 text = fr_text(raw)
-            elif ext.lower() in (".html", ".htm", ""):
+            elif ext.lower() in HTMLISH:
                 text = strip_html(raw)
             else:
                 text = raw
