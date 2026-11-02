@@ -1,0 +1,83 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C607；eCFR 2026-10-29〕
+
+1C607 Tear Gases, Riot Control Agents and materials for the detection and decontamination of chemical warfare agents (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, UN
+
+Control(s) | Country chart (see Supp. No. 1 to Part 738)
+
+NS applies to entire entry, except 1C607.a.10, .a.11, .a.12, and .a.14 | NS Column 1.
+
+RS applies to entire entry | RS Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+UN applies to entire entry | See § 746.1(b) for UN controls.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in 1C607.
+
+List of Items Controlled
+
+Related Controls: (1) See ECCN 1A984 for controls on other riot control agents. (2) See 22 CFR 121.1 (USML), Category XIV(b), for modified biological agents and biologically derived substances that are subject to the ITAR. (3) See 22 CFR 121.1 (USML), Category XIV(g), for ITAR controls on antibodies, recombinant protective antigens, polynucleotides, biopolymers or biocatalysts (including the expression vectors, viruses, plasmids, or cultures of specific cells used to produce them) that are “specially designed” for use with articles controlled under USML Category XIV(f). (4) See ECCN 0A919 for “military commodities” located and produced outside the United States that incorporate more than a de minimis amount of US-origin “600 series” controlled content.
+
+Related Definitions: N/A
+
+Items: a. Tear gases and riot control agents including:
+
+a.1. CA (Bromobenzyl cyanide) (CAS 5798-79-8);
+
+a.2. CS (o-Chlorobenzylidenemalononitrile or o-Chlorobenzalmalononitrile) (CAS 2698-41-1);
+
+a.3. CN (Phenylacyl chloride or w-Chloroacetophenone) (CAS 532-27-4);
+
+a.4. CR (Dibenz-(b,f)-1,4-oxazephine) (CAS 257-07-8);
+
+a.5. Adamsite (Diphenylamine chloroarsine or DM) (CAS 578-94-9);
+
+a.6. N-Nonanoylmorpholine, (MPA) (CAS 5299-64-9);
+
+a.7. Dibromodimethyl ether (CAS 4497-29-4);
+
+a.8. Dichlorodimethyl ether (ClCi) (CAS 542-88-1);
+
+a.9. Ethyldibromoarsine (CAS 683-43-2);
+
+a.10. Bromo acetone (CAS 598-31-2);
+
+a.11. Bromo methylethylketone (CAS 816-40-0);
+
+a.12. Iodo acetone (CAS 3019-04-3);
+
+a.13. Phenylcarbylamine chloride (CAS 622-44-6);
+
+a.14. Ethyl iodoacetate (CAS 623-48-3);
+
+Note to 1C607.a: ECCN 1C607.a. does not control the following: formulations containing 1% or less of CN or CS; individually packaged tear gases or riot control agents for personal self-defense purposes that are controlled by ECCN 1A984; or active constituent chemicals, and combinations thereof, identified and packaged for food production or medical purposes.
+
+b. “Biopolymers,” not controlled by USML Category XIV(g) “specially designed” or processed for the detection or identification of chemical warfare agents specified by USML Category XIV(a), and the cultures of specific cells used to produce them.
+
+c. “Biocatalysts,” and biological systems therefor, not controlled by USML Category XIV(g) “specially designed” for the decontamination or degradation of chemical warfare agents controlled in USML Category XIV (a), as follows:
+
+c.1. “Biocatalysts” “specially designed” for the decontamination or degradation of chemical warfare agents controlled in USML Category XIV(a) resulting from directed laboratory selection or genetic manipulation of biological systems;
+
+c.2. Biological systems containing the genetic information specific to the production of “biocatalysts” specified by 1C607.c.1, as follows:
+
+c.2.a. “Expression vectors;”
+
+c.2.b. Viruses; or
+
+c.2.c. Cultures of cells.
+
+Note to 1C607.b and .c: The cultures of cells and biological systems are exclusive and these sub-items do not apply to cells or biological systems for civil purposes, such as agricultural, pharmaceutical, medical, veterinary, environmental, waste management, or in the food industry.
+
+d. Chemical mixtures not controlled by USML Category XIV(f) “specially designed” for military use for the decontamination of objects contaminated with materials specified by USML Category XIV(a) or (b).

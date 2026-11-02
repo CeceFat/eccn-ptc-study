@@ -1,0 +1,246 @@
+〔軍商兩用貨品及技術出口管制清單（115-02-11 公告附件）｜專用術語之中英文對照｜印刷頁 302–306（PDF 第 315–319 頁）〕
+
+專用術語之中英文對照
+
+                         英文                           中文    縮寫
+Accuracy                                準確度(或稱精度)         APP
+Active flight control systems           主動飛行控制系統          CE
+Active pixel                            主動像素              CEP
+Adapted for use in war                  為戰爭用途修改
+Adjusted Peak Performance               調整尖峰效能            DBRN
+Aircraft                                航空器
+All compensations available             所有補償機制
+Allocated by the ITU                    依照國際電信聯合會分配
+Angle random walk                       角度隨機移動
+Angular position deviation              角度位置誤差
+Adjusted Peak Performance               調整尖峰效能
+Asymmetric algorithm                    非對稱演算法
+Automatic target tracking               自動目標追蹤
+Average output power                    平均輸出功率
+Basic gate propagation delay time       基本閘傳遞延遲時間
+Basic scientific research               基礎科學研究
+Bias                                    偏差
+Camming                                 軸向移位
+Carbon fibre preforms                   碳纖維預製品
+Computing element                       計算元素
+Circular Error Probable                 誤差圓徑
+Chemical laser                          化學雷射
+Chemical mixture                        化學品混合物
+Civil aircraft                          民用航空器
+Commingled                              混合
+Comminution                             磨碎
+Common channel signalling               共通頻道信號
+Communications channel controller       通訊頻道控制器
+Compensation systems                    補償系統
+Composite                               複合材料
+Compound rotary table                   可傾迴轉工作台
+Contouring control                      輪廓控制
+Critical temperature                    臨界溫度
+Cryptography                            密碼學
+CW laser                                CW 雷射
+Data-Based Referenced Navigation        資料庫參考導航
+Deformable mirrors                      可變形鏡面
+Depleted uranium                        耗乏鈾
+
+Development                                 開發
+
+Diffusion bonding                           擴散結合
+
+Digital computer                            數位電腦
+
+Digital transfer rate                       數位傳輸率
+
+Direct-acting hydraulic pressing            直接作用液壓成形
+
+Drift rate                                  漂移率
+
+Dynamic adaptive routing                    動態可調適選路
+
+Dynamic signal analysers                    動態訊號分析議
+
+Effective gramme                            有效克
+
+Electronic assembly                         電子組裝
+
+Electronically steerable phased array antenna 電子操控相位陣列天線
+
+End-effectors                               端效器
+
+Equivalent density                          等效密度
+
+Expert systems                              專家系統
+
+Fault tolerance                             容錯
+
+Fibrous or filamentary materials            纖維狀或絲狀材料
+
+Film type integrated circuit                薄膜型積體電路
+
+Fixed                                       固定式
+
+Flight control optical sensor array         飛行控制光學感應器陣列
+
+Flight path optimisation                    飛行路徑最佳化
+
+Focal plane array                           焦面陣列
+
+Fractional bandwidth                        分頻寬
+
+Frequency hopping                           跳頻
+
+Frequency switching time                    頻率切換時間
+
+Frequency synthesiser                       頻率合成器
+
+Full Authority Digital Engine Control       全權數位發動機控制     FADEC
+
+Gas atomisation                             氣體霧化
+
+Geographically dispersed                    地理分散
+
+Guidance set                                導航裝置
+
+Hot isostatic densification                 熱均壓緻密化
+
+Hybrid computer                             混合式電腦
+
+Hybrid integrated circuit                   混合式積體電路
+
+Image enhancement                           影像增強
+
+Immunotoxin                                 免疫毒素
+
+In the public domain                        公共領域
+
+Information security                        資訊安全
+
+Instantaneous bandwidth                     瞬時頻寬
+
+Instrumented range                          儀器測量範圍
+
+Insulation                                  絕緣
+
+Interconnected radar sensors                互聯式雷達感應器
+
+Interior lining                             內襯
+
+Intrinsic magnetic gradiometer              固有磁梯度計
+
+Isolated live cultures                        隔離活培養物
+Isostatic presses                             均壓機
+Laser                                         雷射
+Laser duration                                雷射持續時間
+Lighter-than-air vehicles                     比空氣輕之載具
+Linearity                                     線性度
+Local area network                            區域網路
+Magnetic gradiometers                         磁梯度計
+Magnetometers                                 磁力計
+Main storage                                  主儲存體
+Materials resistant to corrosion by UF6       抗 UF6腐蝕材料
+Matrix                                        基質
+Measurement uncertainty
+Mechanical alloying                           測量不準度
+Melt extraction                               機械合金法
+Melt spinning                                 熔融抽取
+Microcomputer microcircuit                    熔融紡絲
+Microorganisms                                微電腦微電路
+Missiles                                      微生物
+Monofilament                                  飛彈
+Monolithic integrated circuit                 單絲
+Monospectral imaging sensors                  單晶積體電路
+Multichip integrated circuit                  單頻譜影像感應器
+Multi-data-stream processing                  多晶積體電路
+Multispectral imaging sensors                 多重資料流處理
+Natural uranium                               多頻譜影像感應器
+Network access controller                     天然鈾
+Neural computer                               網路存取控制器
+Noise level                                   類神經電腦
+Nuclear reactor                               雜訊水平
+Numerical control                             核子反應器
+Object code                                   數值控制
+Optical amplification                         目標碼
+Optical computer                              光放大
+Optical integrated circuit                    光學電腦
+Optical switching                             光學積體電路
+Overall current density                       光學切換
+Participating state                           總電流密度
+Peak power                                    會員國
+Personalised smart card                       尖峰功率
+Positioning accuracy                          個人化智慧卡
+Power management                              定位精度或定位準確度
+                                              功率管理
+
+Pressure transducers                      壓力轉換器        SHPL
+Previously separated                      預先分離
+Primary flight control                    主飛行控制
+Principal element                         主要組成元件
+Production                                生產
+Production equipment                      生產設備
+Production facilities                     生產設施
+Programme                                 程式
+Pulse compression                         脈波壓縮
+Pulse duration                            脈衝持續時間
+Pulsed laser                              脈衝雷射
+Quantum cryptography                      量子加密技術
+Q-switched laser                          Q 開關式雷射
+Radar frequency agility                   雷達頻率敏捷性
+Radar spread spectrum                     雷達擴展頻譜
+Real-time bandwidth                       即時頻寬
+Real time processing                      即時處理
+Repeatability                             重現性
+Required                                  必要
+Resolution                                解析度
+Robot                                     機器人
+Rotary atomisation                        旋轉霧化
+Roving                                    粗紗
+Run-out                                   偏擺
+Scale factor                              尺度因素
+Settling time                             安定時間
+Super high power laser                    超高功率雷射
+Signal analysers                          訊號分析儀
+Signal processing                         訊號處理
+Software                                  軟體
+Source code                               原始碼
+Spacecraft                                太空載具
+Space qualified                           太空級
+Special fissile material                  特殊可分裂物質
+Specific modulus                          比模數
+Specific tensile strength                 比抗拉強度
+Splat Quenching                           噴濺急冷
+Spread spectrum                           擴展頻譜或展頻
+Spread spectrum radar                     展頻雷達
+Stability                                 穩定度
+States Party to the Chemical Weapon       聯合國禁止化學武器公約
+Convention                                會員國
+
+States not Party to the Chemical Weapon      非聯合國禁止化學武器公    UAV
+Convention                                   約會員國
+Substrate                                    基板
+Substrate blanks                             毛胚基板
+Sub-unit of toxin                            毒素次單位
+Superalloys                                  超合金
+Superconductive                              超導性
+Super High Power Laser                       超高功率雷射
+Superplastic forming                         超塑性成形
+Symmetric algorithm                          對稱演算法
+System tracks                                系統追蹤軌跡
+Systolic array computer                      脈動陣列電腦
+Tape                                         帶
+Technology                                   技術
+Tilting spindle                              擺動式主軸
+Time constant                                時間常數
+Total control of flight                      飛行完全控制
+Total digital transfer rate                  總數位傳輸率
+Tow                                          纖維束
+Toxins                                       毒素
+Transfer laser                               移轉雷射
+Tunable                                      可調式
+Unmanned Aerial Vehicle                      無人飛行載具
+Unidirectional positioning repeatability     單向定位重現性
+Uranium enriched in the isotopes 235 or 233  濃縮鈾235或濃縮鈾233
+Use                                          使用
+User accessible programmability              使用者可更改程式
+Vaccine                                      疫苗
+Vacuum Atomisation                           真空霧化
+Variable geometry airfoils                   可變幾何機翼
+Yarn                                         紗線

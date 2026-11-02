@@ -1,0 +1,139 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 5E001；eCFR 2026-10-29〕
+
+5E001 “Technology” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, SL, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1.
+
+SL applies to “technology” for the “development” or “production” of equipment, functions or features controlled by 5A001.f.1, or for the “development” or “production” of “software” controlled by ECCN 5D001.a (for 5A001.f.1) | A license is required for all destinations, as specified in § 742.13 of the EAR. Accordingly, a column specific to this control does not appear on the Commerce Country Chart (Supplement No. 1 to Part 738 of the EAR). Note to SL paragraph: This licensing requirement does not supersede, implement, construe or limit the scope of any criminal statute, including, but not limited to, the Omnibus Safe Streets Act of 1968, as amended.
+
+AT applies to entire entry | AT Column 1.
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for Description of All License Exceptions)
+
+TSR: Yes, except for exports or reexports to destinations outside of those countries listed in Country Group A:5 (See Supplement No. 1 to part 740 of the EAR) of “technology” controlled by 5E001 for the “development” or “production” of the following:
+
+(1) Items controlled by 5A001.b.5, .h or .j;
+
+(2) “Software” controlled by 5D001.a that is “specially designed” for the “development” or “production” of equipment, functions or features controlled by 5A001.b.5, 5A001.h, 5A001.j, or 5B001.a (for 5A001.j); or
+
+(3) “Software” controlled by 5D001.c (for 5A001.j or 5B001.a (for 5A001.j)).
+
+ACE: Yes, for 5E001.a (for 5A001.j, 5B001.a (for 5A001.j), 5D001.a (for 5A001.j), or 5D001.c (for 5A001.j or 5B001.a (for 5A001.j))) except to Country Group E:1 or E:2. See § 740.22 of the EAR for eligibility criteria.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship or transmit “technology” according to the General Technology Note for the “development” or “production” of equipment, functions or features specified by 5A001.b.3, .b.5 or .h; or for “software” in 5D001.a or .c, that is specified in the STA paragraph in the License Exception section of ECCN 5D001 to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR); or “technology” specified in 5E001.a according to the General Technology Note for the “development” or “production” of equipment, functions or features specified by 5A001.j, 5B001.a (for 5A001.j), 5D001.a (for 5A001.j), 5D001.c (for 5A001.j or 5B001.a) to any destinations listed in Country Group A:5 or A:6.
+
+List of Items Controlled
+
+Related Controls: (1) See also 5E101, 5E980 and 5E991. (2) “Technology” for “development” or “production” of “Monolithic Microwave Integrated Circuit” (“MMIC”) amplifiers that meet the control criteria given at 3A001.b.2 or .z (for commodities also described in 3A001.b.2) is controlled in 3E001; 5E001.d refers only to that additional “technology” “required” for telecommunications.
+
+Related Definitions: N/A
+
+Items:
+
+a. “Technology” according to the General Technology Note for the “development”, “production” or “use” (excluding operation) of equipment, functions or features, controlled by 5A001 or “software” controlled by 5D001.a or 5D001.e.
+
+b. Specific “technology”, as follows:
+
+b.1. “Technology” “required” for the “development” or “production” of telecommunications equipment “specially designed” to be used on board satellites;
+
+b.2. “Technology” for the “development” or “use” of “laser” communication techniques with the capability of automatically acquiring and tracking signals and maintaining communications through exoatmosphere or sub-surface (water) media;
+
+b.3. “Technology” for the “development” of digital cellular radio base station receiving equipment whose reception capabilities that allow multi-band, multi-channel, multi-mode, multi-coding algorithm or multi-protocol operation can be modified by changes in “software”;
+
+b.4. “Technology” for the “development” of “spread spectrum” techniques, including “frequency hopping” techniques.
+
+Note: 5E001.b.4 does not apply to “technology” for the “development” of any of the following:
+
+a. Civil cellular radio-communications systems; or
+
+b. Fixed or mobile satellite Earth stations for commercial civil telecommunications.
+
+c. “Technology” according the General Technology Note for the “development” or “production” of any of the following:
+
+c.1. [Reserved]
+
+c.2. Equipment employing a “laser” and having any of the following:
+
+c.2.a. A transmission wavelength exceeding 1,750 nm;
+
+c.2.b. [Reserved]
+
+c.2.c. [Reserved]
+
+c.2.d. Employing wavelength division multiplexing techniques of optical carriers at less than 100 GHz spacing; or
+
+c.2.e. Employing analog techniques and having a bandwidth exceeding 2.5 GHz;
+
+Note: 5E001.c.2.e does not control “technology” for commercial TV systems.
+
+N.B.: For “technology” for the “development” or “production” of non-telecommunications equipment employing a “laser”, see Product Group E of Category 6, e.g., 6E00x
+
+c.3. Equipment employing “optical switching” and having a switching time less than 1 ms; or
+
+c.4. Radio equipment having any of the following:
+
+c.4.a. Quadrature-Amplitude-Modulation (QAM) techniques above level 1,024; or
+
+c.4.b. Operating at input or output frequencies exceeding 31.8 GHz; or
+
+Note: 5E001.c.4.b does not control “technology” for equipment designed or modified for operation in any frequency band which is “allocated by the ITU” for radio-communications services, but not for radio-determination.
+
+c.4.c. Operating in the 1.5 MHz to 87.5 MHz band and incorporating adaptive techniques providing more than 15 dB suppression of an interfering signal; or
+
+c.5. [Reserved]
+
+c.6. Mobile equipment having all of the following:
+
+c.6.a. Operating at an optical wavelength greater than or equal to 200nm and less than or equal to 400nm; and
+
+c.6.b. Operating as a “local area network”;
+
+d. “Technology” according to the General Technology Note for the “development” or “production” of “Monolithic Microwave Integrated Circuit” (“MMIC”) amplifiers “specially designed” for telecommunications and that are any of the following:
+
+Technical Note: For purposes of 5E001.d, the parameter peak saturated power output may also be referred to on product data sheets as output power, saturated power output, maximum power output, peak power output, or peak envelope power output.
+
+d.1. Rated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz with a “fractional bandwidth” greater than 15%, and having any of the following:
+
+d.1.a. A peak saturated power output greater than 75 W (48.75 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;
+
+d.1.b. A peak saturated power output greater than 55 W (47.4 dBm) at any frequency exceeding 2.9 GHz up to and including 3.2 GHz;
+
+d.1.c. A peak saturated power output greater than 40 W (46 dBm) at any frequency exceeding 3.2 GHz up to and including 3.7 GHz; or
+
+d.1.d. A peak saturated power output greater than 20 W (43 dBm) at any frequency exceeding 3.7 GHz up to and including 6.8 GHz;
+
+d.2. Rated for operation at frequencies exceeding 6.8 GHz up to and including 16 GHz with a “fractional bandwidth” greater than 10%, and having any of the following:
+
+d.2.a. A peak saturated power output greater than 10W (40 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz; or
+
+d.2.b. A peak saturated power output greater than 5W (37 dBm) at any frequency exceeding 8.5 GHz up to and including 16 GHz;
+
+d.3. Rated for operation with a peak saturated power output greater than 3 W (34.77 dBm) at any frequency exceeding 16 GHz up to and including 31.8 GHz, and with a “fractional bandwidth” of greater than 10%;
+
+d.4. Rated for operation with a peak saturated power output greater than 0.1 nW (−70 dBm) at any frequency exceeding 31.8 GHz up to and including 37 GHz;
+
+d.5. Rated for operation with a peak saturated power output greater than 1 W (30 dBm) at any frequency exceeding 37 GHz up to and including 43.5 GHz, and with a “fractional bandwidth” of greater than 10%;
+
+d.6. Rated for operation with a peak saturated power output greater than 31.62 mW (15 dBm) at any frequency exceeding 43.5 GHz up to and including 75 GHz, and with a “fractional bandwidth” of greater than 10%;
+
+d.7. Rated for operation with a peak saturated power output greater than 10 mW (10 dBm) at any frequency exceeding 75 GHz up to and including 90 GHz, and with a “fractional bandwidth” of greater than 5%; or
+
+d.8. Rated for operation with a peak saturated power output greater than 0.1 nW (−70 dBm) at any frequency exceeding 90 GHz;
+
+e. “Technology” according to the General Technology Note for the “development” or “production” of electronic devices and circuits, “specially designed” for telecommunications and containing “components” manufactured from “superconductive” materials, “specially designed” for operation at temperatures below the “critical temperature” of at least one of the “superconductive” constituents and having any of the following:
+
+e.1. Current switching for digital circuits using “superconductive” gates with a product of delay time per gate (in seconds) and power dissipation per gate (in watts) of less than 10−14 J; or
+
+e.2. Frequency selection at all frequencies using resonant circuits with Q-values exceeding 10,000.

@@ -1,0 +1,49 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C210；eCFR 2026-10-29〕
+
+1C210 “Fibrous or filamentary materials” or prepregs, other than those controlled by 1C010.a, .b or .e, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NP, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NP applies to entire entry | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 1E001 (“development” and “production”) and 1E201 (“use”) for technology for items controlled by this entry. (2) Also see ECCNs 1C010 and 1C990.
+
+Related Definitions: For the purpose of this entry, the term “fibrous or filamentary materials” is restricted to continuous “monofilaments”, “yarns”, “rovings”, “tows”, or “tapes”. Definitions for other terms used in this entry:
+
+Filament or Monofilament is the smallest increment of fiber, usually several µm in diameter.
+
+Strand is a bundle of filaments (typically over 200) arranged approximately parallel.
+
+Roving is a bundle (typically 12-120) of approximately parallel strands.
+
+Yarn is a bundle of twisted strands.
+
+Tow is a bundle of filaments, usually approximately parallel.
+
+Tape is a material constructed of interlaced or unidirectional filaments, strands, rovings, tows, or yarns, etc., usually preimpregnated with resin.
+
+Specific modulus is the Young's modulus in N/m 2 divided by the specific weight in N/m 3, measured at a temperature of (296 ±2) K ((23 ±2) °C) and a relative humidity of 50 ±5 percent.
+
+Specific tensile strength is the ultimate tensile strength in N/m 2 divided by specific weight in N/m 3, measured at a temperature of (296 ±2) K ((23 ±2) °C) and a relative humidity of 50 ±5 percent.
+
+Items: a. Carbon or aramid “fibrous or filamentary materials” having a “specific modulus” of 12.7 × 10 6 m or greater or a “specific tensile strength” of 235 × 10 3 m or greater except Aramid “fibrous or filamentary materials” having 0.25 percent or more by weight of an ester based fiber surface modifier;
+
+b. Glass “fibrous or filamentary materials” having a “specific modulus” of 3.18 × 10 6 m or greater and a “specific tensile strength” of 76.2 × 10 3 m or greater; or
+
+c. Thermoset resin impregnated continuous “yarns”, “rovings”, “tows” or “tapes” with a width no greater than 15 mm (prepregs), made from carbon or glass “fibrous or filamentary materials” controlled by 1C210.a or .b.
+
+Technical Note: The resin forms the matrix of the composite.

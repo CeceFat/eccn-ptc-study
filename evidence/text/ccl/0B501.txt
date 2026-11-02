@@ -1,0 +1,45 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 0B501；eCFR 2026-10-29〕
+
+0B501 Test, inspection, and production “equipment” and related commodities for the “development” or “production” of commodities enumerated or otherwise described in ECCNs 0A501, 0A506, 0A507, or 0A509 or USML Category I as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, UN, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry except equipment for ECCN 0A501.y | NS Column 1
+
+RS applies to entire entry except equipment for ECCN 0A501.y | RS Column 1
+
+UN applies to entire entry | See § 746.1 of the EAR for UN controls
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of all License Exceptions)
+
+LVS: $3000
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used to ship any item in this entry.
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items:
+
+a. Small arms chambering machines.
+
+b. Small arms deep hole drilling machines and drills therefor.
+
+c. Small arms rifling machines.
+
+d. Small arms boring/reaming machines.
+
+e. Production equipment (including dies, fixtures, and other tooling) “specially designed” for the “production” of the items controlled in 0A501.a through .x., 0A506, 0A507, 0A509, or USML Category I.

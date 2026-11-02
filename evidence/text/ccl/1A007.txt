@@ -1,0 +1,45 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1A007；eCFR 2026-10-29〕
+
+1A007 Equipment and devices, “specially designed” to initiate charges and devices containing “energetic materials,” by electrical means, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, NP, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+NP applies to 1A007.b, as well as 1A007.a when the detonator firing set meets or exceeds the parameters of 3A229 | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: High explosives and related equipment “specially designed” for military use are “subject to the ITAR” (see 22 CFR parts 120 through 130). This entry does not control detonators using only primary explosives, such as lead azide. See also ECCNs 0A604, 3A229, and 3A232. See 1E001 for “development” and “production” technology controls, and 1E201 for “use” technology controls.
+
+Related Definitions: N/A
+
+Items:
+
+a. Explosive detonator firing sets designed to drive explosive detonators specified by 1A007.b;
+
+b. Electrically driven explosive detonators as follows:
+
+b.1. Exploding bridge (EB);
+
+b.2. Exploding bridge wire (EBW);
+
+b.3. Slapper;
+
+b.4. Exploding foil initiators (EFI).
+
+Technical Notes: 1. The word initiator or igniter is sometimes used in place of the word detonator.
+
+2. For the purposes of 1A007.b, the detonators of concern all utilize a small electrical conductor (bridge, bridge wire, or foil) that explosively vaporizes when a fast, high-current electrical pulse is passed through it. In non slapper types, the exploding conductor starts a chemical detonation in a contacting high explosive material such as PETN (pentaerythritoltetranitrate). In slapper detonators, the explosive vaporization of the electrical conductor drives a flyer or slapper across a gap, and the impact of the slapper on an explosive starts a chemical detonation. The slapper in some designs is driven by magnetic force. The term exploding foil detonator may refer to either an EB or a slapper-type detonator.

@@ -1,0 +1,47 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9A101；eCFR 2026-10-29〕
+
+9A101 Turbojet and turbofan engines, other than those controlled by 9A001, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: 9A101.b controls only engines for non-military unmanned aerial vehicles [UAVs] or remotely piloted vehicles [RPVs], and does not control other engines designed or modified for use in “missiles”, which are “subject to the ITAR” (see 22 CFR parts 120 through 130).
+
+Related Definitions: N/A
+
+Items:
+
+a. Engines having all of the following characteristics:
+
+a.1. 'Maximum thrust value' greater than 400 N (achieved un-installed) excluding civil certified engines with a maximum thrust value greater than 8,890 N (achieved un-installed);
+
+a.2. Specific fuel consumption of 0.15 kg N−1 h−1 or less;
+
+a.3. 'Dry weight' less than 750 kg; and
+
+a.4. 'First-stage rotor diameter' less than 1 m; or
+
+Technical Notes: 1. 'Maximum thrust value' in 9A101.a.1 is the manufacturer's demonstrated maximum thrust for the engine type un-installed at sea level static conditions using the ICAO standard atmosphere. The civil type certified thrust value will be equal to or less than the manufacturer's demonstrated maximum thrust for the engine type.
+
+2. Specific fuel consumption is determined at maximum continuous thrust for engine type un-installed at sea level static conditions using the ICAO standard atmosphere.
+
+3. 'Dry weight' is the weight of the engine without fluids (fuel, hydraulic fluid, oil, etc.) and does not include the nacelle (housing).
+
+4. 'First-stage rotor diameter' is the diameter of the first rotating stage of the engine, whether a fan or compressor, measured at the leading edge of the blade tips.
+
+b. Engines designed or modified for use in “missiles” or UAVs with a range equal to or greater than 300 km, regardless of thrust, specific fuel consumption, 'dry weight' or 'first-stage rotor diameter'.

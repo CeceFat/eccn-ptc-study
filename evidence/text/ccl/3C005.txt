@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3C005；eCFR 2026-10-29〕
+
+3C005 High resistivity materials as follows (See List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart(See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $3,000
+
+GBS: Yes
+
+List of Items Controlled
+
+Related Controls: See ECCN 3E001 for related development and production technology, and ECCN 3B991.b.1.b for related production equipment.
+
+Related Definition: N/A
+
+Items:
+
+a. Silicon Carbide (SiC), Gallium Nitride (GaN), Aluminum Nitride (AlN), Aluminum Gallium Nitride (AlGaN), Gallium Oxide (Ga2O3), or diamond semiconductor “substrates”, or ingots, boules, or other preforms of those materials, having resistivities greater than 10,000 ohm-cm at 20 °C;
+
+b. Polycrystalline “substrates” or polycrystalline ceramic “substrates”, having resistivities greater than 10,000 ohm-cm at 20 °C and having at least one non-epitaxial single-crystal layer of Silicon (Si), Silicon Carbide (SiC), Gallium Nitride (GaN), Aluminum Nitride (AlN), Aluminum Gallium Nitride (AlGaN), Gallium Oxide (Ga2O3), or diamond on the surface of the “substrate”.

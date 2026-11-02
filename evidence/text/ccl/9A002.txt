@@ -1,0 +1,33 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9A002；eCFR 2026-10-29〕
+
+9A002 'Marine gas turbine engines' designed to use liquid fuel and having all of the following (see List of Items Controlled), and “specially designed” assemblies and “components” therefor.
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart(see Supp. No. 1to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $5,000
+
+GBS: N/A
+
+List of Items Controlled:
+
+Related Controls: N/A
+
+Related Definition: N/A
+
+Items: a. Maximum continuous power when operating in “steady state mode” at standard reference conditions specified by ISO 3977-2:1997 (or national equivalent) of 24,245 kW or more; and
+
+b. 'Corrected specific fuel consumption' not exceeding 0.219 kg/kWh at 35% of the maximum continuous power when using liquid fuel.
+
+Note: The term 'marine gas turbine engines' includes those industrial, or aero-derivative, gas turbine engines adapted for a ship's electric power generation or propulsion.
+
+Technical Note: For the purposes of 9A002, 'corrected specific fuel consumption' is the specific fuel consumption of the engine corrected to a marine distillate liquid fuel having a net specific energy (i.e., net heating value) of 42 MJ/kg (ISO 3977-2:1997).

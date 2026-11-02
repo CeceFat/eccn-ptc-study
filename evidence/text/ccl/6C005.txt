@@ -1,0 +1,53 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6C005；eCFR 2026-10-29〕
+
+6C005 “Laser” materials as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $1500
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items:
+
+a. Synthetic crystalline “laser” host material in unfinished form as follows:
+
+a.1. Titanium doped sapphire;
+
+a.2. [Reserved]
+
+b. Rare-earth-metal doped double-clad fibers having any of the following:
+
+b.1. Nominal “laser” wavelength of 975 nm to 1,150 nm and having all of the following:
+
+b.1.a. Average core diameter equal to or greater than 25 µm; and
+
+b.1.b. Core 'Numerical Aperture' ('NA') less than 0.065; or
+
+Note to 6C005.b.1: 6C005.b.1 does not apply to double-clad fibers having an inner glass cladding diameter exceeding 150 µm and not exceeding 300 µm.
+
+b.2. Nominal “laser” wavelength exceeding 1,530 nm and having all of the following:
+
+b.2.a. Average core diameter equal to or greater than 20 µm; and
+
+b.2.b. Core 'NA' less than 0.1.
+
+Technical Notes: 1. For the purposes of 6C005.b.1.b, the core 'Numerical Aperture' ('NA') is measured at the emission wavelengths of the fiber.
+
+2. 6C005.b includes fibers assembled with end caps.

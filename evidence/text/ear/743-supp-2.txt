@@ -1,0 +1,59 @@
+〔15 CFR Supplement No. 2 to Part 743 Authorized Integrated Circuit Designer Know Your Customer (KYC) Vetting Form；eCFR 2026-10-29〕
+
+Supplement No. 2 to Part 743 Authorized Integrated Circuit Designer Know Your Customer (KYC) Vetting Form
+
+This supplement contains a questionnaire that must be completed as part of the reporting requirements for authorized integrated circuit designers in § 743.9 of the EAR. The questions in the form are KYC best practices that are especially critical in this context where there is a risk of companies seeking advanced foundry services in circumvention of controls on advanced computing items. They are not an exhaustive list of due diligence requirements but provide important information that should be part of KYC screening.
+
+ | Yes/no | If yes, insert how you resolved column 2
+
+Section 1: Legitimacy of the authorized integrated circuit designer: |  | 
+
+1.A. Does the entity lack a website? |  | 
+
+1.B. Does the entity's website IP address correspond to a different geographical region than the entity's physical address? |  | 
+
+1.C. Is the country code of the entity's phone number different than the entity's physical address? |  | 
+
+1.D. Does the entity's email address not contain the company domain name? |  | 
+
+1.E. Is the entity's physical address invalid? |  | 
+
+1.F. Is the entity purportedly a civil end user but its address is co-located with a military “facility”? |  | 
+
+1.G. Do publicly available corporate records contradict the entity's assertions regarding its business (e.g., entity claims to be a large enterprise, but filings show only a small number of employees)? |  | 
+
+Section 2: Screening: |  | 
+
+2.A. Does the entity's name match an entry in the Consolidated Screening List? |  | 
+
+2.B. Does the entity's address match an entry in the Consolidated Screening List? |  | 
+
+2.C. Does the customer's senior management or technical leadership (e.g., process engineers that are team leaders or otherwise leading development or production activities) overlap with an entity on the Consolidated Screening List? |  | 
+
+Section 3: Additional Party Screening: |  | 
+
+3.A. Are any companies within the entity's corporate hierarchy (i.e., parent, subsidiary, ultimate beneficial owner) headquartered in Macau or Country Group D:5 in supplement no. 1 to part 740 of the EAR? |  | 
+
+3.B. Do any companies within the entity's corporate hierarchy (i.e., parent, subsidiary, ultimate beneficial owner) match an entry or address in the Consolidated Screening List? |  | 
+
+3.C. Are any other parties to the transaction (e.g., parties described in § 748.5 of the EAR) located or headquartered in Macau or Country Group D:5 in supplement no. 1 to part 740 of the EAR? |  | 
+
+Section 4: General Red Flags: |  | 
+
+4.A. Is the entity's stated end use inconsistent with the nature of their business? |  | 
+
+4.B. Is the requested quantity inconsistent with the entity's size? |  | 
+
+4.C. Is a freight forwarding firm listed as the final destination? |  | 
+
+4.D. Does the transaction involve multiple freight forwarders located in third countries? |  | 
+
+4.E. Has the entity refused to answer questions about the end users and end uses of the product? |  | 
+
+4.F. Do supporting documents such as commercial invoices list parties that are not the entity? |  | 
+
+4.G. Is the entity overpaying for a product based on known market prices? |  | 
+
+4.H Does the transaction involve payments from entities in third countries not otherwise involved in the transaction? |  | 
+
+[90 FR 5311, Jan. 16, 2025]

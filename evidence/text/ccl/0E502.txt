@@ -1,0 +1,25 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 0E502；eCFR 2026-10-29〕
+
+0E502 “Technology” “required” for the “development” or “production” of commodities controlled by 0A502, 0A508, or 0A509.a or .d.
+
+License Requirements
+
+Reason for Control: CC, UN
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+CC applies to entire entry | CC Column 1.
+
+UN applies to entire entry | See § 746.1 of the EAR for UN controls.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: See USML Category I for technical data directly related to articles described in USML Category I.
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

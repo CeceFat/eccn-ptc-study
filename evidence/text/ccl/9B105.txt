@@ -1,0 +1,33 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9B105；eCFR 2026-10-29〕
+
+9B105 ‘Aerodynamic test facilities’ for speeds of Mach 0.9 or more, usable for rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km and their subsystems.
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See also 9B005
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.
+
+Note: 9B105 does not control wind tunnels for speeds of Mach 3 or less with the dimension of the ‘test cross section size’ equal to or less than 250 mm.
+
+Technical Notes: 1. ‘Aerodynamic test facilities’ includes wind tunnels and shock tunnels for the study of airflow over objects.
+
+2. ‘Test cross section size’ means the diameter of the circle, or the side of the square, or the longest side of the rectangle, or the major axis of the ellipse at the largest ‘test cross section’ location. ‘Test cross section’ is the section perpendicular to the flow direction.

@@ -1,0 +1,35 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1B118；eCFR 2026-10-29〕
+
+1B118 Continuous mixers having all of the following (see List of Items Controlled), and “specially designed” “parts” and “components” therefor.
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country chart(see Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See 1B115, 1B117, and 1B119.
+
+Related Definitions: N/A
+
+Items: a. Capable of mixing under vacuum in the range from zero to 13.326 kPa;
+
+b. Capable of controlling the temperature of the mixing chamber; and
+
+c. Either of the following:
+
+c.1. Two or more mixing/kneading shafts; or
+
+c.2. A single rotating and oscillating shaft with kneading teeth/pins as well as kneading teeth/pins inside the casing of the mixing chamber.

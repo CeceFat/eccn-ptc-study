@@ -1,0 +1,33 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 7A107；eCFR 2026-10-29〕
+
+7A107 Three axis magnetic heading sensors having all of the following characteristics (see List of Items Controlled), and “specially designed” “parts” and “components” therefor.
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country chart(see Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Internal tilt compensation in pitch (±90 degrees) and roll (±180 degrees) axes;
+
+b. Azimuthal accuracy better (less) than 0.5 degrees rms at latitudes of ±80 degrees, referenced to local magnetic field; and
+
+c. Designed or modified to be integrated with flight control and navigation systems.
+
+Note: Flight control and navigation systems in 7A107 include gyrostabilizers, automatic pilots and inertial navigation systems.

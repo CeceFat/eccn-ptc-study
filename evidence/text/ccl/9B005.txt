@@ -1,0 +1,35 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9B005；eCFR 2026-10-29〕
+
+9B005 On-line (real time) control systems, instrumentation (including sensors) or automated data acquisition and processing equipment, “specially designed” for use with any of the following (see List of Items Controlled).
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See also 9B105.
+
+Related Definitions: N/A
+
+Items:
+
+a. Wind tunnels designed for speeds of Mach 1.2 or more;
+
+Note: 9B005.a does not control wind tunnels “specially designed” for educational purposes and having a 'test section size' (measured laterally) of less than 250 mm.
+
+Technical Note: For the purposes of 9B005.a Note, 'test section size' means the diameter of the circle, or the side of the square, or the longest side of the rectangle, at the largest test section location.
+
+b. Devices for simulating flow-environments at speeds exceeding Mach 5, including hot-shot tunnels, plasma arc tunnels, shock tubes, shock tunnels, gas tunnels and light gas guns; or
+
+c. Wind tunnels or devices, other than two-dimensional sections, capable of simulating Reynolds number flows exceeding 25 × 10 6.

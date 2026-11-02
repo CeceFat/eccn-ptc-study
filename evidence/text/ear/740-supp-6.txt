@@ -1,0 +1,73 @@
+〔15 CFR Supplement No. 6 to Part 740；eCFR 2026-10-29〕
+
+Supplement No. 6 to Part 740—Approved Integrated Circuit Designers
+
+Note: See Note 1 to ECCN 3A090.a.
+
+Advanced Micro Devices, Inc.;
+
+Alphabet, Inc.;
+
+Amazon.com, Inc.;
+
+Analog Devices, Inc.;
+
+Apple, Inc.;
+
+BAE Systems, Inc.;
+
+Block, Inc.;
+
+The Boeing Company;
+
+Broadcom, Inc.;
+
+Cerebras Systems, Inc.;
+
+Cisco Systems, Inc.;
+
+Hewlett Packard Enterprise Company;
+
+Honeywell International, Inc.;
+
+Infineon Technologies AG;
+
+Intel Corporation;
+
+International Business Machines Corporation (IBM);
+
+L3Harris Technologies, Inc.;
+
+Marvell Technology, Inc.;
+
+MediaTek, Inc.;
+
+Meta Platforms, Inc.;
+
+Micron Technology, Inc.;
+
+Microsoft Corporation;
+
+Mitsubishi Group;
+
+Nokia Corporation;
+
+Nvidia Corporation;
+
+NXP Semiconductors NV;
+
+Qualcomm, Inc.;
+
+Raytheon Company;
+
+Realtek Semiconductor Corporation;
+
+Sony Group Corporation;
+
+Tesla, Inc.;
+
+Texas Instruments; and
+
+Western Digital Technologies, Inc.
+
+[90 FR 5310, Jan. 16, 2025]

@@ -1,0 +1,41 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2A991；eCFR 2026-10-29〕
+
+2A991 Bearings and bearing systems not controlled by 2A001 (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) This entry does not control balls with tolerance specified by the manufacturer in accordance with ISO 3290 as grade 5 or worse. (2) Quiet running bearings are “subject to the ITAR” (see 22 CFR parts 120 through 130).
+
+Related Definitions: (1) (a) DN is the product of the bearing bore diameter in mm and the bearing rotational velocity in rpm. (b) Operating temperatures include those temperatures obtained when a gas turbine engine has stopped after operation. (2) Annular Bearing Engineers Committee (ABEC); American National Standards Institute (ANSI); Anti-Friction Bearing Manufacturers Association (AFBMA)
+
+Items: a. Ball bearings or Solid ball bearings, having tolerances specified by the manufacturer in accordance with ABEC 7, ABEC 7P, or ABEC 7T or ISO Standard Class 4 or better (or equivalents) and having any of the following characteristics.
+
+a.1. Manufactured for use at operating temperatures above 573 K (300 °C) either by using special materials or by special heat treatment; or
+
+a.2. With lubricating elements or “part” or “component” modifications that, according to the manufacturer's specifications, are “specially designed” to enable the bearings to operate at speeds exceeding 2.3 million DN.
+
+b. Solid tapered roller bearings, having tolerances specified by the manufacturer in accordance with ANSI/AFBMA Class 00 (inch) or Class A (metric) or better (or equivalents) and having either of the following characteristics.
+
+b.1. With lubricating elements or “part” or “component” modifications that, according to the manufacturer's specifications, are “specially designed” to enable the bearings to operate at speeds exceeding 2.3 million DN; or
+
+b.2. Manufactured for use at operating temperatures below 219 K (−54 °C) or above 423 K (150 °C).
+
+c. Gas-lubricated foil bearing manufactured for use at operating temperatures of 561 K (288 °C) or higher and a unit load capacity exceeding 1 MPa.
+
+d. Active magnetic bearing systems.
+
+e. Fabric-lined self-aligning or fabric-lined journal sliding bearings manufactured for use at operating temperatures below 219 K (−54 °C) or above 423 K (150 °C).

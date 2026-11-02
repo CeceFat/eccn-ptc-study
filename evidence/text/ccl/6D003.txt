@@ -1,0 +1,97 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6D003；eCFR 2026-10-29〕
+
+6D003 Other “software” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1
+
+RS applies to paragraph c | RS Column 1
+
+AT applies to entire entry | AT Column 1
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: Yes, except for 6D003.c and exports or reexports to destinations outside of those countries listed in Country Group A:5 (See Supplement No. 1 to part 740 of the EAR) of “software” for items controlled by 6D003.a.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship or transmit software in 6D003.a to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: See also ECCNs 6D103, 6D991, and 6D993.
+
+Related Definitions: N/A
+
+Items:
+
+Acoustics
+
+a. “Software” as follows:
+
+a.1. “Software” “specially designed” for acoustic beam forming for the “real-time processing” of acoustic data for passive reception using towed hydrophone arrays;
+
+a.2. “Source code” for the “real-time processing” of acoustic data for passive reception using towed hydrophone arrays;
+
+a.3. “Software” “specially designed” for acoustic beam forming for the “real-time processing” of acoustic data for passive reception using bottom or bay cable systems;
+
+a.4. “Source code” for the “real-time processing” of acoustic data for passive reception using bottom or bay cable systems;
+
+a.5. “Software” or “source code”, “specially designed” for all of the following:
+
+a.5.a. “Real-time processing” of acoustic data from sonar systems controlled by 6A001.a.1.e; and
+
+a.5.b. Automatically detecting, classifying and determining the location of divers or swimmers;
+
+N.B.: For diver detection “software” or “source code”, “specially designed” or modified for military use, see the U.S. Munitions List of the International Traffic in Arms Regulations (ITAR) (22 CFR part 121).
+
+b. Optical sensors. None.
+
+Cameras
+
+c. “Software” designed or modified for cameras incorporating “focal plane arrays” specified by 6A002.a.3.f and designed or modified to remove a frame rate restriction and allow the camera to exceed the frame rate specified in 6A003.b.4 Note 3.a;
+
+Optics
+
+d. “Software” “specially designed” to maintain the alignment and phasing of segmented mirror systems consisting of mirror segments having a diameter or major axis length equal to or larger than 1 m;
+
+e. Lasers. None.
+
+Magnetic and Electric Field Sensors
+
+f. “Software” as follows:
+
+f.1. “Software” “specially designed” for magnetic and electric field “compensation systems” for magnetic sensors designed to operate on mobile platforms;
+
+f.2. “Software” “specially designed” for magnetic and electric field anomaly detection on mobile platforms;
+
+f.3. “Software” “specially designed” for “real-time processing” of electromagnetic data using underwater electromagnetic receivers specified by 6A006.e;
+
+f.4. “Source code” for “real-time processing” of electromagnetic data using underwater electromagnetic receivers specified by 6A006.e;
+
+Gravimeters
+
+g. “Software” “specially designed” to correct motional influences of gravity meters or gravity gradiometers;
+
+Radar
+
+h. “Software” as follows:
+
+h.1. Air Traffic Control (ATC) “software” designed to be hosted on general purpose computers located at Air Traffic Control centers and capable of accepting radar target data from more than four primary radars;
+
+h.2. “Software” for the design or “production” of radomes having all of the following:
+
+h.2.a. “Specially designed” to protect the “electronically scanned array antennae” specified by 6A008.e; and
+
+h.2.b. Resulting in an antenna pattern having an 'average side lobe level' more than 40 dB below the peak of the main beam level.
+
+Technical Note: For the purposes of 6D003.h.2.b 'average side lobe level' is measured over the entire array excluding the angular extent of the main beam and the first two side lobes on either side of the main beam.

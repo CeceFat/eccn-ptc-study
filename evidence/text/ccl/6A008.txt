@@ -1,0 +1,169 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6A008；eCFR 2026-10-29〕
+
+6A008 Radar systems, equipment and assemblies, having any of the following (see List of Items Controlled), and “specially designed” “components” therefor.
+
+License Requirements
+
+Reason for Control: NS, MT, RS, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+MT applies to items that are designed for airborne applications and that are usable in systems controlled for MT reasons | MT Column 1
+
+RS applies to 6A008.j.1 | RS Column 1
+
+AT applies to entire entry | AT Column 1
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $5000; N/A for MT and for 6A008.j.1.
+
+GBS: Yes, for 6A008.b, .c, and l.1 only
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any commodity in 6A008.d, 6A008.h or 6A008.k to any of the destinations listed in Country Group A:6 (See Supplement No. 1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) See also ECCNs 6A108 and 6A998. ECCN 6A998 controls, inter alia, the Light Detection and Ranging (LIDAR) equipment excluded by the note to paragraph j of this ECCN (6A008). (2) See USML Category XII(b) for certain LIDAR, Laser Detection and Ranging (LADAR), or range-gated systems subject to the ITAR.
+
+Related Definitions: N/A
+
+Items:
+
+Note: 6A008 does not control:
+
+—Secondary surveillance radar (SSR);
+
+—Civil Automotive Radar;
+
+—Displays or monitors used for air traffic control (ATC);
+
+—Meteorological (weather) radar;
+
+—Precision Approach Radar (PAR) equipment conforming to ICAO standards and employing electronically steerable linear (1-dimensional) arrays or mechanically positioned passive antennas.
+
+a. Operating at frequencies from 40 GHz to 230 GHz and having any of the following:
+
+a.1. An average output power exceeding 100 mW; or
+
+a.2. Locating “accuracy” of 1 m or less (better) in range and 0.2 degree or less (better) in azimuth;
+
+b. A tunable bandwidth exceeding ±6.25% of the 'center operating frequency';
+
+Technical Note: For the purposes of 6A008.b, the 'center operating frequency' equals one half of the sum of the highest plus the lowest specified operating frequencies.
+
+c. Capable of operating simultaneously on more than two carrier frequencies;
+
+d. Capable of operating in synthetic aperture (SAR), inverse synthetic aperture (ISAR) radar mode, or sidelooking airborne (SLAR) radar mode;
+
+e. Incorporating electronically scanned array antennae;
+
+Technical Note: For the purposes of 6A008.e, electronically scanned array antennae are also known as electronically steerable array antennae.
+
+f. Capable of heightfinding non-cooperative targets;
+
+g. “Specially designed” for airborne (balloon or airframe mounted) operation and having Doppler “signal processing” for the detection of moving targets;
+
+h. Employing processing of radar signals and using any of the following:
+
+h.1. “Radar spread spectrum” techniques; or
+
+h.2. “Radar frequency agility” techniques;
+
+i. Providing ground-based operation with a maximum 'instrumented range' exceeding 185 km;
+
+Note: 6A008.i does not control:
+
+a. Fishing ground surveillance radar;
+
+b. Ground radar equipment “specially designed” for en route air traffic control, and having all of the following:
+
+1. A maximum 'instrumented range' of 500 km or less;
+
+2. Configured so that radar target data can be transmitted only one way from the radar site to one or more civil ATC centers;
+
+3. Contains no provisions for remote control of the radar scan rate from the en route ATC center; and
+
+4. Permanently installed;
+
+c. Weather balloon tracking radars.
+
+Technical Note: For the purposes of 6A008.i, 'instrumented range' is the specified unambiguous display range of a radar.
+
+j. Being “laser” radar or Light Detection and Ranging (LIDAR) equipment and having any of the following:
+
+j.1. “Space-qualified”;
+
+j.2. Employing coherent heterodyne or homodyne detection techniques and having an angular resolution of less (better) than 20 µrad (microradians); or
+
+j.3. Designed for carrying out airborne bathymetric littoral surveys to International Hydrographic Organization (IHO) Order 1a Standard (5th Edition February 2008) for Hydrographic Surveys or better, and using one or more “lasers” with a wavelength exceeding 400 nm but not exceeding 600 nm;
+
+Note 1: LIDAR equipment “specially designed” for surveying is only specified by 6A008.j.3.
+
+Note 2: 6A008.j does not apply to LIDAR equipment “specially designed” for meteorological observation.
+
+Note 3: Parameters in the IHO Order 1a Standard 5th Edition February 2008 are summarized as follows:
+
+Horizontal Accuracy (95% Confidence Level)= 5 m + 5% of depth.
+
+Depth Accuracy for Reduced Depths (95% confidence level) = ±√(a 2 + (b*d) 2) where:
+
+a = 0.5 m = constant depth error, i.e., the sum of all constant depth errors
+
+b = 0.013 = factor of depth dependent error
+
+b*d = depth dependent error, i.e., the sum of all depth dependent errors
+
+d = depth
+
+Feature Detection = Cubic features > 2 m in depths up to 40 m; 10% of depth beyond 40 m.
+
+k. Having “signal processing” sub-systems using “pulse compression” and having any of the following:
+
+k.1. A “pulse compression” ratio exceeding 150; or
+
+k.2. A compressed pulse width of less than 200 ns; or
+
+Note: 6A008.k.2 does not apply to two dimensional 'marine radar' or 'vessel traffic service' radar, having all of the following:
+
+a. “Pulse compression” ratio not exceeding 150;
+
+b. Compressed pulse width of greater than 30 ns;
+
+c. Single and rotating mechanically scanned antenna;
+
+d. Peak output power not exceeding 250 W; and
+
+e. Not capable of “frequency hopping”.
+
+l. Having data processing sub-systems and having any of the following:
+
+l.1. 'Automatic target tracking' providing, at any antenna rotation, the predicted target position beyond the time of the next antenna beam passage; or
+
+Note: 6A008.l.1 does not control conflict alert capability in ATC systems, or 'marine radar'.
+
+Technical Note: For the purposes of 6A008.l.1, 'automatic target tracking' is a processing technique that automatically determines and provides as output an extrapolated value of the most probable position of the target in real time.
+
+l.2. [Reserved]
+
+l.3. [Reserved]
+
+l.4. Configured to provide superposition and correlation, or fusion, of target data within six seconds from two or more 'geographically dispersed' radar sensors to improve the aggregate performance beyond that of any single sensor specified by 6A008.f, or 6A008.i.
+
+Technical Note: For the purposes of 6A008.l.4, sensors are considered 'geographically dispersed' when each location is distant from any other more than 1,500 m in any direction. Mobile sensors are always considered 'geographically dispersed'.
+
+N.B.: See also the U.S. Munitions List (22 CFR part 121).
+
+Note: 6A008.l does not apply to systems, equipment and assemblies designed for 'vessel traffic services'.
+
+Technical Notes: 1. For the purposes of 6A008, 'marine radar' is a radar that is designed to navigate safely at sea, inland waterways or near-shore environments.
+
+2. For the purposes of 6A008, 'vessel traffic service' is a vessel traffic monitoring and control service similar to air traffic control for “aircraft.”

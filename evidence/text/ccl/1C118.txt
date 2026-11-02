@@ -1,0 +1,41 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C118；eCFR 2026-10-29〕
+
+1C118 Titanium-stabilized duplex stainless steel (Ti-DSS), having all of the following characteristics (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country chart(see Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Having all of the following characteristics:
+
+a.1. Containing 17.0-23.0% by weight of chromium and 4.5-7.0% by weight of nickel;
+
+a.2. Having a titanium content of greater than 0.10% by weight; and
+
+a.3. A ferritic-austenitic microstructure (also referred to as a two-phase microstructure) of which at least 10% by volume (according to ASTM E-1181-87 or national equivalents) is austenite; and
+
+b. Having any of the following forms:
+
+b.1. Ingots or bars having a size of 100 mm or more in each dimension;
+
+b.2. Sheets having a width of 600 mm or more and a thickness of 3 mm or less; or
+
+b.3. Tubes having an outer diameter of 600 mm or more and a wall thickness of 3 mm or less.

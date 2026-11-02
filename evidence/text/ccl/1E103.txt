@@ -1,0 +1,25 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1E103；eCFR 2026-10-29〕
+
+1E103 “Technical data” (including processing conditions) and procedures for the regulation of temperature, pressure or atmosphere in autoclaves or hydroclaves, when used for the “production” of “composites” or partially processed “composites”, usable for equipment or materials specified in 1C007, 1C102, 1C107, 1C116, 1C117, 1C118, 9A110, and 9C110.
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: See also 1E203
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

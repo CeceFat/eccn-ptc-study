@@ -1,0 +1,47 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 7A001；eCFR 2026-10-29〕
+
+7A001 Accelerometers as follows (see List of Items Controlled) and “specially designed” “components” therefor.
+
+License Requirements
+
+Reason for Control: NS, MT, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1.
+
+MT applies to commodities that meet or exceed the parameters of 7A101 | MT Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See USML Category XII(e) for accelerometers subject to the ITAR. (2) See also ECCNs 7A101, 7A611, and 7A994. (3) For angular or rotational accelerometers, see ECCN7A001.b. (4) MT controls do not apply to accelerometers that are “specially designed” and developed as Measurement While Drilling (MWD) sensors for use in downhole well service applications.
+
+Related Definitions: N/A
+
+Items: a. Linear accelerometers having any of the following:
+
+a.1. Specified to function at linear acceleration levels less than or equal to 15 g and having any of the following:
+
+a.1.a. A “bias” “stability” of less (better) than 130 micro g with respect to a fixed calibration value over a period of one year; or
+
+a.1.b. A “scale factor” “stability” of less (better) than 130 ppm with respect to a fixed calibration value over a period of one year;
+
+a.2. Specified to function at linear acceleration levels exceeding 15 g but less than or equal to 100 g and having all of the following:
+
+a.2.a. A “bias” “repeatability” of less (better) than 1,250 micro g over a period of one year; and
+
+a.2.b. A “scale factor” “repeatability” of less (better) than 1,250 ppm over a period of one year; or
+
+a.3. Designed for use in inertial navigation or guidance systems and specified to function at linear acceleration levels exceeding 100 g;
+
+Note: 7A001.a.1 and 7A001.a.2 do not apply to accelerometers limited to measurement of only vibration or shock.
+
+b. Angular or rotational accelerometers, specified to function at linear acceleration levels exceeding 100 g.

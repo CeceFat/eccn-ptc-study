@@ -1,0 +1,33 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 0E602；eCFR 2026-10-29〕
+
+0E602 “Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by 0A602 or 0B602, or “software” controlled by 0D602 as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, UN, AT
+
+Control(s) | Country chart(see Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1
+
+RS applies to entire entry | RS Column 1
+
+UN applies to entire entry | See § 746.1 of the EAR for UN controls
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in 0E602.
+
+List of Items Controlled
+
+Related Controls: Technical data directly related to articles enumerated in USML Category II are “subject to the ITAR.”
+
+Related Definitions: N/A
+
+Items: “Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, or overhaul of commodities controlled by ECCN 0A602 or 0B602, or “software” controlled by ECCN 0D602.

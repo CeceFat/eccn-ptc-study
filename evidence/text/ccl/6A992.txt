@@ -1,0 +1,47 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6A992；eCFR 2026-10-29〕
+
+6A992 Optical Sensors, not controlled by 6A002, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT, RS
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1.
+
+RS applies to entire entry. A license is required for items controlled by this entry for export or reexport to Iraq or transfer within Iraq for regional stability reasons. The Commerce Country Chart is not designed to determine RS license requirements for this entry. See §§ 742.6 and 746.3 of the EAR for additional information.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Image intensifier tubes and “specially designed” “components” therefor, as follows:
+
+a.1. Image intensifier tubes having all the following:
+
+a.1.a. A peak response in wavelength range exceeding 400 nm, but not exceeding 1,050 nm;
+
+a.1.b. A microchannel plate for electron image amplification with a hole pitch (center-to-center spacing) of less than 25 micrometers; and
+
+a.1.c. Having any of the following:
+
+a.1.c.1. An S-20, S-25 or multialkali photocathode; or
+
+a.1.c.2. A GaAs or GaInAs photocathode;
+
+a.2. “Specially designed” microchannel plates having both of the following characteristics:
+
+a.2.a. 15,000 or more hollow tubes per plate; and
+
+a.2.b. Hole pitch (center-to-center spacing) of less than 25 micrometers.
+
+b. Direct view imaging equipment operating in the visible or infrared spectrum, incorporating image intensifier tubes having the characteristics listed in 6A992.a.1.

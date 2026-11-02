@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>半導體 Cat 3 · 出口管制產品分類 自學站</title>
+<meta name="description" content="晶片分類的讀法：Cat 3 群組註解、3A001 常見段落、3A991 的 25 MHz 兜底、3A090 與晶圓廠推定、3E002 的 DSP 核心技術，以及最終用途管制。">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-in">
+    <a class="brand" href="index.html">出口管制產品分類<small>EAR ECCN × 台灣軍商兩用清單 · 自學站</small></a>
+    <nav class="main">
+      <a href="about.html">About</a>
+      <a href="start.html">入門</a>
+      <a href="index.html">總覽</a>
+      <a href="method.html">分類方法</a>
+      <a href="cat5p2.html">加密 5P2</a>
+      <a href="cat3.html">半導體 Cat 3</a>
+      <a href="taiwan.html">台灣制度</a>
+      <a href="cases.html">產品演練</a>
+      <a href="tech.html">技術與視同出口</a>
+      <a href="evidence.html">方法與證據</a>
+      <a href="quiz.html">自我檢測</a>
+    </nav>
+    <button class="theme-btn" data-theme-toggle aria-label="切換深淺色">☾</button>
+  </div>
+</header>
+
+<div class="wrap"><main class="page">
+
+<p class="kicker" style="margin-top:34px">半導體 Cat 3</p>
+<h1>晶片分類：先讀群組註解，再看 3A001、3A991、3A090</h1>
+<p class="lede">
+通訊與消費性晶片很少踩到 3A001 的高門檻，但也很少是 EAR99。多數落在兩個地方：被群組註解「跟著設備走」，
+或因為內含時脈超過 25 MHz 的處理器而落入 3A991。另外，先進製程帶來一條與效能無關的新義務：晶圓廠對 16/14 nm 以下邏輯晶片的推定。
+</p>
+
+<div class="goal">
+  <p class="kicker">讀完這頁你會</p>
+  <ul>
+    <li>知道 Cat 3 產品群 A 的註解 1、2 為什麼常讓晶片「跟著設備的分類走」。</li>
+    <li>判斷一顆含 MCU 的 SoC 為什麼通常是 3A991.a.2 而不是 EAR99。</li>
+    <li>說清楚 3A090 的效能門檻、非資料中心排除，以及晶圓廠推定與 2026-12-31 的期限。</li>
+    <li>理解晶片只有 AT 管制、但它的 DSP 核心設計技術可能是 NS 管制（3E002.c）。</li>
+  </ul>
+</div>
+
+<h2 id="notes">群組註解：為其他設備專門設計的 IC，跟著設備走</h2>
+<div class="q" data-file="ccl/_notes-cat3-A.txt" data-cite="CCL Cat 3, Product Group A, Note 1">Note 1: The control status of equipment and “components” described in 3A001(other than those described in 3A001.a.3 to 3A001.a.10, 3A001.a.12 to 3A001.a.14, 3A001.b.12, or 3A001.z), 3A002, 3A901, which are “specially designed” for or which have the same functional characteristics as other equipment is determined by the control status of the other equipment.</div>
+<div class="q" data-file="ccl/_notes-cat3-A.txt" data-cite="CCL Cat 3, Product Group A, Note 2 與 N.B.">Note 2: The control status of integrated circuits described in 3A001.a.3 to 3A001.a.9, 3A001.a.12 to 3A001.a.14, 3A001.z or 3A901 that are unalterably programmed or designed for a specific function for other equipment is determined by the control status of the other equipment. || When the manufacturer or applicant cannot determine the control status of the other equipment, the control status of the integrated circuits is determined in 3A001.a.3 to 3A001.a.9, or 3A001.a.12 to 3A001.a.14, 3A001.z and 3A901.</div>
+<div class="infer">
+  <b>推論</b>　註解 1 管的是「specially designed 或功能相同」的設備與零組件；註解 2 管的是「不可更改地程式化或為其他設備的特定功能而設計」的 IC，且只限列舉的子段。
+  兩者共同的效果是：一顆為 Wi‑Fi 路由器設計的 SoC，若其內部 ADC 落入 3A001.a.14，它的管制狀態先看路由器本身怎麼分類；只有在無法判定設備分類時，才回頭用 3A001 的參數硬比。
+  所以晶片分類常常要先把「目標設備」分類完，這也是本站把晶片與設備放在同一套演練的原因。
+</div>
+
+<h2 id="3a001">3A001：通訊晶片最可能碰到的兩段</h2>
+<h3>a.14　內含 ADC 並儲存或處理資料的 IC</h3>
+<div class="q" data-file="ccl/3A001.txt" data-cite="ECCN 3A001.a.14 (lead-in), a.14.a.1–a.4">Integrated circuits that perform or are programmable to perform all of the following: || A resolution of 8 bit or more, but less than 10 bit, with a “sample rate” greater than 1.3 Giga Samples Per Second (GSPS); || A resolution of 14 bit or more, but less than 16 bit, with a “sample rate” greater than 400 Mega Samples Per Second (MSPS); or</div>
+<p>a.14 要同時符合 ADC 門檻與「儲存或處理數位化資料」。直接取樣的射頻收發器、高速 SerDes 前端是要算的對象；但它屬於上面註解 2 列舉的段落，為特定設備設計時跟著設備走。</p>
+<h3>b.2　MMIC 放大器：專為電信、雷達、汽車設計者不在此段</h3>
+<div class="q" data-file="ccl/3A001.txt" data-cite="ECCN 3A001.b.2, Note 3">Notes 1 and 2 following the Category 3 heading for product group A. Systems, Equipment, and Components mean that 3A001.b.2 does not control “MMICs” if they are “specially designed” for other applications, e.g., telecommunications, radar, automobiles.</div>
+
+<h2 id="3a991">3A991：不是 EAR99 的那一大片</h2>
+<div class="q" data-file="ccl/3A991.txt" data-cite="ECCN 3A991.a, a.2">“Microprocessor microcircuits”, “microcomputer microcircuits”, and microcontroller microcircuits having any of the following: || A clock frequency rate exceeding 25 MHz; or</div>
+<div class="infer">
+  <b>推論</b>　今天幾乎所有含 CPU 或 MCU 的 SoC 時脈都超過 25 MHz，所以「沒有加密、沒有高速 ADC，就是 EAR99」這個直覺通常是錯的。
+  3A991 的管制理由只有 AT，出貨到多數國家不需許可；但它是有編號的 ECCN，會被下面的最終用途規則點名（§744.23 明文列入 3A991）。
+  另一個要注意的分流：通訊用途的零組件可能先被 Cat 5 Part 1 的註解拉過去，見<a href="cases.html">產品演練</a>各案。
+</div>
+
+<h2 id="3a090">3A090：效能門檻、非資料中心排除、晶圓廠推定</h2>
+<p>3A090.a 的門檻用「總處理效能」（TPP）與「效能密度」界定：</p>
+<div class="q" data-file="ccl/3A090.txt" data-cite="ECCN 3A090.a.1–a.2">A 'total processing performance' of 4800 or more; or || A 'total processing performance' of 1600 or more and a 'performance density' of 5.92 or more.</div>
+<div class="q" data-file="ccl/3A090.txt" data-cite="ECCN 3A090, Technical Note 2.1">'Total processing performance' ('TPP') is 2 × 'MacTOPS' × 'bit length of the operation', aggregated over all processing units on the integrated circuit.</div>
+<div class="q" data-file="ccl/3A090.txt" data-cite="ECCN 3A090, Note 2 to 3A090.a and 3A090.b">3A090.a and 3A090.b do not apply to items that are not designed or marketed for use in datacenters and do not have a 'total processing performance' of 4800 or more.</div>
+<p>以門檻例子換算：TPP 4800 等於 8 位元下每秒 600 兆次整數運算。藍牙、GNSS、乙太網路 PHY 這類晶片離門檻差好幾個數量級，效能本身不是問題。</p>
+
+<h3 id="presumption">真正會碰到的是晶圓廠推定</h3>
+<p>2025 年 1 月起，晶圓廠與封測廠出貨「適用先進邏輯 IC」時，要先推定它是 3A090.a：</p>
+<div class="q" data-file="ear/772.1.txt" data-cite="15 CFR § 772.1 “Applicable advanced logic integrated circuits”">Applicable advanced logic integrated circuits are logic integrated circuits produced using the “16/14 nanometer node” or below, or using a non-planar transistor architecture.</div>
+<div class="q" data-file="ccl/3A090.txt" data-cite="ECCN 3A090, Note 1 to 3A090.a（序言）">When a “front-end fabricator” or “OSAT” company is seeking to export, reexport, or transfer (in-country) an “applicable advanced logic integrated circuit,” there is a presumption that the item is 3A090.a and designed or marketed for datacenters. || However, this presumption does not apply to any entity other than the “front-end fabricator” or “OSAT” company.</div>
+<p>推定只拘束晶圓廠與封測廠，但 IC 設計公司要提供推翻推定的材料。三條路之一是設計公司具「approved」或「authorized」身分：</p>
+<div class="q" data-file="ccl/3A090.txt" data-cite="ECCN 3A090, Note 1 a.(2)(i)–(ii)">Prior to December 31, 2026, authorized integrated circuit designers include all integrated circuit designers: || Headquartered in Taiwan or a destination specified in Country Group A:1 or A:5, that are neither located in nor have an ultimate parent headquartered in Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR; and || That have agreed to submit applicable information described in § 743.9(b) to the “front-end fabricator,” which the “front-end fabricator” must then report to BIS.</div>
+<div class="q" data-file="ccl/3A090.txt" data-cite="ECCN 3A090, Note 1 a.(3)">After December 31, 2026, authorized integrated circuit designers include any integrated circuit designer that both meets the criteria specified in subparagraph (2) and has submitted an application to become an approved integrated circuit designer. However, any company deemed an authorized IC designer after December 31, 2026, will cease to be an authorized IC designer 180 days after the submission of its application to become an approved IC designer.</div>
+<p>這個日期原本是 2026 年 4 月 13 日，2026 年 4 月的規則延後到年底：</p>
+<div class="q" data-file="fr/2026-06851.txt" data-cite="91 FR 17851 (2026-04-09), DATES">Applications must be received by December 31, 2026, after which time, applicants may be considered authorized IC designers for 180 days.</div>
+<p>另外兩條路與設計公司身分無關：晶圓廠自行在 D:5／澳門以外封裝、或由名單上的 approved OSAT 封裝，並證明成品的「總估算電晶體數」低於 300 億（不含 HBM 者，2027 年起 350 億、2029 年起 400 億）。</p>
+<div class="infer">
+  <b>推論</b>　對 16/14 nm 以下投片的台灣 IC 設計公司，實務重點不是 3A090 的效能，而是推定的推翻路徑。總部在台灣、同意讓晶圓廠向 BIS 回報的設計公司，在 2026-12-31 前是 authorized；之後只剩兩條：成為 approved（列入 Supp. 6 to Part 740），或在申請後 180 天內繼續以 authorized 身分出貨。
+  小晶片若由晶圓廠自行封裝或由 approved OSAT 封裝，可以靠電晶體數證明推翻推定，但這要看封裝供應鏈的安排。名單上目前有 33 家 approved 設計公司、24 家 approved OSAT（2025-01-16 規則所列），全文見 <a href="#" data-open="ear/740-supp-6.txt" data-title="Supp. No. 6 to Part 740">Supp. 6</a> 與 <a href="#" data-open="ear/740-supp-7.txt" data-title="Supp. No. 7 to Part 740">Supp. 7</a>。
+</div>
+
+<div class="flag" id="note1d">
+  <b>注意：條文 d 段與前言方向相反</b>　Note 1 的 d 段照字面讀，是「沒有 approved 設計公司的證明時，電晶體數<b>低於</b> 300 億的晶片要推定為 3A090.a」，正好和 b、c 段（低於 300 億可推翻推定）相反。
+  同一句話在 2025 年規則的前言寫的是<b>超過</b>門檻。
+  <div class="pair" style="margin-top:10px">
+    <div><p class="lab del">現行條文（d 段）</p>
+      <div class="q" data-file="ccl/3A090.txt" data-cite="ECCN 3A090, Note 1 d.">must presume that any logic integrated circuit produced using the “16/14 nanometer node” or below, or using a non-planar transistor architecture and destined for a commodity with an (a) “aggregated approximated transistor count” of the final packaged IC is below 30 billion transistors,</div></div>
+    <div><p class="lab add">規則前言（90 FR 5305）</p>
+      <div class="q" data-file="fr/2025-00711.txt" data-cite="90 FR 5298 前言，p. 5305">any logic IC produced using the ``16/14 nanometer node'' or below, or using a non-planar transistor architecture and destined for an item with an ``aggregated approximated transistor count'' exceeding the applicable number of transistors</div></div>
+  </div>
+  <p style="margin:10px 0 0">本站的讀法（推論）：依前言與 b、c 段的體系，d 段應理解為「超過門檻或無法確認」才推定。條文從 2025 年發布到 2025 年 2 月的更正都沒改這句，實務上若要依賴這個讀法，值得用諮詢意見（§748.3(c)）確認。</p>
+</div>
+
+<p>晶圓廠為 authorized 設計公司生產時，回報義務在晶圓廠身上：</p>
+<div class="q" data-file="ear/743.9.txt" data-cite="15 CFR § 743.9(a)">“Front-end fabricators” producing any integrated circuit specified under ECCN 3A090.a or presumed to be specified under ECCN 3A090.a by Note 1 to 3A090 for any authorized integrated circuit designer must submit reports to BIS in accordance with this section.</div>
+
+<h2 id="tech">E 類：晶片只有 AT，設計技術卻可能是 NS</h2>
+<div class="q" data-file="ccl/3E002.txt" data-cite="ECCN 3E002（標題）">“Technology” according to the General Technology Note other than that controlled in 3E001 for the “development” or “production” of a “microprocessor microcircuit”, “micro-computer microcircuit” and microcontroller microcircuit core, having an arithmetic logic unit with an access width of 32 bits or more and any of the following features or characteristics</div>
+<div class="q" data-file="ccl/3E002.txt" data-cite="ECCN 3E002.c 與 Note 3">Designed to perform more than eight 16-bit 'fixed-point' multiply-accumulate results per cycle (e.g., digital manipulation of analog information that has been previously converted into digital form, also known as digital “signal processing”). || 3E002 includes “technology” for the “development” or “production” of digital signal processors and digital array processors.</div>
+<p>3E002 的管制理由是 NS 與 AT。例外有二：多媒體延伸指令的技術（Note 1），以及 0.130 µm 以上、五層以下金屬的成熟製程核心（Note 2）。一般技術註解說得很清楚，技術的管制等級不因為用在較低等級的產品而降低：</p>
+<div class="q" data-file="ear/774-supp-2.txt" data-cite="Supp. No. 2 to Part 774, General Technology Note">“Technology” “required” for the “development”, “production”, or “use” of a controlled product remains controlled even when applicable to a product controlled at a lower level.</div>
+<div class="infer">
+  <b>推論</b>　一顆音訊或基頻 SoC，若內含 32 位元、每週期超過八個 16 位元定點乘加的 DSP 核心，晶片本身可能只是 3A991，但「開發或生產這個核心」的技術可能落入 3E002.c。
+  這會影響設計資料庫的存取權限、境外研發中心的技術移轉，以及外籍員工的視同再出口，見<a href="tech.html">技術與視同出口</a>。
+  前提是那份技術「受 EAR 管」；純台灣自行開發、沒有混入美國技術的核心設計，EAR 管不到，但台灣清單同樣有 3E002。
+</div>
+
+<h2 id="enduse">最終用途：AT-only 晶片也會被點名</h2>
+<div class="q" data-file="ear/744.23.txt" data-cite="15 CFR § 744.23(a)(1)(i)(A)">An integrated circuit (IC) subject to the EAR and specified in ECCN 3A001, 3A991, 4A994, 5A002, 5A004, or 5A992; or</div>
+<div class="q" data-file="ear/744.23.txt" data-cite="15 CFR § 744.23(a)(1)(ii)(A)">The “development,” “production,” operation, installation (including on-site installation), maintenance (checking), repair, overhaul, or refurbishing of a “supercomputer” located in or destined to Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR; or</div>
+<p>這是分類結果直接影響義務的例子：同一顆晶片若是 EAR99，不在這條的品項範圍；若是 3A991，就在範圍內，只要知道最終用途是 D:5 或澳門的超級電腦，就需要許可。</p>
+
+<h2 id="tw">台灣清單的對應</h2>
+<p>台灣軍商兩用清單沿用瓦聖那與歐盟的編號，3A001、3A002、3E001、3E002 都有同號條文；但美國單邊的 3A090 與反恐兜底的 3A991 在台灣清單裡沒有對應號碼。
+台灣 2026 年新增的 3A901、3A904、3B903、3B904、3E905 等「9xx」單邊碼，則對應美國與夥伴國的新興管制。逐碼對照見<a href="taiwan.html#map">台灣制度：ECCN 對照表</a>。</p>
+
+<div class="selfcheck">
+  <p class="kicker">自我檢測</p>
+  <ol>
+    <li>一顆為 Wi‑Fi 路由器設計的 SoC，內含 12 位元、1.5 GSPS 的 ADC 並處理取樣資料。為什麼不能直接分到 3A001.a.14？</li>
+    <li>3A090 的推定拘束誰？IC 設計公司在 2027 年 1 月以後要怎麼維持推翻推定的能力？</li>
+    <li>晶片是 3A991，為什麼它的核心設計資料可能需要 NS 等級的管控？</li>
+  </ol>
+</div>
+
+<footer class="site">
+  <p>法規版本：美國 EAR 取自 eCFR（版本日 2026-10-29）；台灣軍商兩用清單為 115-02-11 經貿字第11550200140號公告附件。全部來源、抓取日與雜湊值見 <a href="evidence.html#sources">來源總表</a>。</p>
+  <p>個人自學整理，不是法律意見。美國聯邦政府著作屬公共領域；我國法令與公文依著作權法第 9 條不得為著作權之標的。</p>
+</footer>
+
+</main></div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

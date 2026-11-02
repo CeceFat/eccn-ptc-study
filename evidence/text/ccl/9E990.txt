@@ -1,0 +1,25 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9E990；eCFR 2026-10-29〕
+
+9E990 “Technology”, n.e.s., for the “development” or “production” or “use” of equipment controlled by 9A990 or 9B990.
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to “technology” for equipment under 9A990 and 9B990 except 9A990.a | AT Column 1
+
+AT applies to “technology” for equipment under 9A990.a only | AT Column 2
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

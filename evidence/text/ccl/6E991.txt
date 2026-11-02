@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6E991；eCFR 2026-10-29〕
+
+6E991 “Technology” for the “development”, “production” or “use” of equipment controlled by 6A991, 6A996, 6A997, 6A998 or 6A999.c.
+
+License Requirements
+
+Reason for Control: RS, AT
+
+Control(s) | Country chart (See Supp. No. 1 to part 738)
+
+RS applies to “technology” for equipment controlled by 6A998.b, 6A998.c and 6A999.c | RS Column 1
+
+AT applies to entire entry, except “technology” for equipment controlled by 6A991 | AT Column 1
+
+AT applies to “technology” for equipment controlled by 6A991 | AT Column 2
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

@@ -1,0 +1,35 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6A107；eCFR 2026-10-29〕
+
+6A107 Gravity meters (gravimeters) or gravity gradiometers, other than those controlled by 6A007, designed or modified for airborne or marine use, as follows, (see List of Items Controlled) and “specially designed” “parts” and “components” therefor.
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See USML Category XII(d) for certain gravity meters (gravimeters) or gravity gradiometers subject to the ITAR. See also ECCN 7A611.
+
+Related Definitions: 'Time to steady-state registration' (also referred to as the gravity meter's response time) is the time over which the disturbing effects of platform-induced acceleration (high frequency noise) are reduced.
+
+Items:
+
+a. Gravity meters having all of the following characteristics:
+
+a.1. A static or operational accuracy equal to or less (better) than 0.7 milligal (mgal); and
+
+a.2. A 'time to steady-state registration' of two minutes or less.
+
+b. Gravity gradiometers

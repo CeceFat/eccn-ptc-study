@@ -1,0 +1,18 @@
+〔U.S. BIS｜BIS Frequently Asked Questions (May 31 document linked from homepage)｜抓取 2026-11-02｜https://www.bis.gov/media/documents/May-31-FAQ.pdf〕
+
+       Frequently Asked Questions about Guidance Regarding Enforcement of License
+   Requirements for Advanced Computing Items for Entities Headquartered in Country
+
+                            Group D:5 and Macau [Updated June 17, 2026]
+
+BIS has recently received the following question:
+
+Q1: Does the guidance published on May 31, 2026, only apply to “.a” advanced computing items
+(i.e., 3A090.a and 4A090.a), or does it also apply to related “.z” paragraph items
+(e.g., 5A002.z.1.a, etc.)?
+
+A1: As noted in paragraph two of the May 2026 guidance, advanced computing items include
+3A090, 4A090, and related .z paragraph items. Therefore, the guidance applies to 3A090.a ICs
+and all other advanced computing items containing such “.a” ICs, including 4A090.a
+and related “.z” items (e.g., 5A002.z.1.a, etc.).
+

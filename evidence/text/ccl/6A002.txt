@@ -1,0 +1,273 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6A002；eCFR 2026-10-29〕
+
+6A002 Optical sensors and equipment, and “components” therefor, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, MT, CC, RS, AT, UN
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+MT applies to optical detectors in 6A002.a.1, or a.3 that are “specially designed” or modified to protect “missiles” against nuclear effects (e.g., Electromagnetic Pulse (EMP), X-rays, combined blast and thermal effects), and usable for “missiles” | MT Column 1
+
+RS applies to 6A002.a.1, a.2, a.3 (except a.3.d.2.a and a.3.e for lead selenide based focal plane arrays (FPAs)), .c, and .f. | RS Column 1
+
+CC applies to police-model infrared viewers in 6A002.c | CC Column 1
+
+AT applies to entire entry | AT Column 1
+
+UN applies to 6A002.a.1, a.2, a.3 and .c | See § 746.1(b) for UN controls
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $500 for 6A002.f.
+
+$3000; except N/A for MT and for 6A002.a.1, a.2, a.3, .c, and .f.
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See USML Category XII(e) for infrared focal plane arrays, image intensifier tubes, and related parts and components, subject to the ITAR. (2) See USML Category XV(e) for space-qualified focal plane arrays subject to the ITAR. (3) See also ECCNs 6A102, 6A202, and 6A992. (4) See ECCN 0A919 for foreign-made military commodities that incorporate commodities described in 6A002. (5) Section 744.9 imposes a license requirement on commodities described in ECCN 6A002 if being exported, reexported, or transferred (in-country) for use by a military end-user or for incorporation into an item controlled by ECCN 0A919. (6) See USML Categories XII(e) and XV(e)(3) for read-out integrated circuits “subject to the ITAR.” (7) See 6B002 for masks and reticles, “specially designed” for optical sensors specified by 6A002.a.1.b or 6A002.a.1.d.
+
+Related Definitions: N/A
+
+Items:
+
+a. Optical detectors as follows:
+
+a.1. “Space-qualified” solid-state detectors as follows:
+
+Note: For the purposes of 6A002.a.1, solid-state detectors include “focal plane arrays”.
+
+a.1.a. “Space-qualified” solid-state detectors having all of the following:
+
+a.1.a.1. A peak response in the wavelength range exceeding 10 nm but not exceeding 300 nm; and
+
+a.1.a.2. A response of less than 0.1% relative to the peak response at a wavelength exceeding 400 nm;
+
+a.1.b. “Space-qualified” solid-state detectors having all of the following:
+
+a.1.b.1. A peak response in the wavelength range exceeding 900 nm but not exceeding 1,200 nm; and
+
+a.1.b.2. A response “time constant” of 95 ns or less;
+
+a.1.c. “Space-qualified” solid-state detectors having a peak response in the wavelength range exceeding 1,200 nm but not exceeding 30,000 nm;
+
+a.1.d. “Space-qualified” “focal plane arrays” having more than 2,048 elements per array and having a peak response in the wavelength range exceeding 300 nm but not exceeding 900 nm;
+
+a.2. Image intensifier tubes and “specially designed” “components” therefor, as follows:
+
+Note: 6A002.a.2 does not control non-imaging photomultiplier tubes having an electron sensing device in the vacuum space limited solely to any of the following:
+
+a. A single metal anode; or
+
+b. Metal anodes with a center to center spacing greater than 500 µm.
+
+Technical Note: For the purposes of 6A002.a.2, 'charge multiplication' is a form of electronic image amplification and is defined as the generation of charge carriers as a result of an impact ionization gain process. 'Charge multiplication' sensors may take the form of an image intensifier tube, solid state detector or “focal plane array”.
+
+a.2.a. Image intensifier tubes having all of the following:
+
+a.2.a.1. A peak response in the wavelength range exceeding 400 nm but not exceeding 1,050 nm;
+
+a.2.a.2. Electron image amplification using any of the following:
+
+a.2.a.2.a. A microchannel plate with a hole pitch (center-to-center spacing) of 12 µm or less; or
+
+a.2.a.2.b. An electron sensing device with a non-binned pixel pitch of 500 µm or less, “specially designed” or modified to achieve 'charge multiplication' other than by a microchannel plate; and
+
+a.2.a.3. Any of the following photocathodes:
+
+a.2.a.3.a. Multialkali photocathodes (e.g., S-20 and S-5) having a luminous sensitivity exceeding 350 µA/lm;
+
+a.2.a.3.b. GaAs or GaInAs photocathodes; or
+
+a.2.a.3.c. Other “III-V compound” semiconductor photocathodes having a maximum “radiant sensitivity” exceeding 10 mA/W;
+
+a.2.b. Image intensifier tubes having all of the following:
+
+a.2.b.1. A peak response in the wavelength range exceeding 1,050 nm but not exceeding 1,800 nm;
+
+a.2.b.2. Electron image amplification using any of the following:
+
+a.2.b.2.a. A microchannel plate with a hole pitch (center-to-center spacing) of 12 µm or less; or
+
+a.2.b.2.b. An electron sensing device with a non-binned pixel pitch of 500 µm or less, “specially designed” or modified to achieve 'charge multiplication' other than by a microchannel plate; and
+
+a.2.b.3. “III/V compound” semiconductor (e.g., GaAs or GaInAs) photocathodes and transferred electron photocathodes, having a maximum “radiant sensitivity” exceeding 15 mA/W;
+
+a.2.c. “Specially designed” “components” as follows:
+
+a.2.c.1. Microchannel plates having a hole pitch (center-to-center spacing) of 12 µm or less;
+
+a.2.c.2. An electron sensing device with a non-binned pixel pitch of 500 µm or less, “specially designed” or modified to achieve 'charge multiplication' other than by a microchannel plate;
+
+a.2.c.3. “III-V compound” semiconductor (e.g., GaAs or GaInAs) photocathodes and transferred electron photocathodes;
+
+Note: 6A002.a.2.c.3 does not control compound semiconductor photocathodes designed to achieve a maximum “radiant sensitivity” of any of the following:
+
+a. 10 mA/W or less at the peak response in the wavelength range exceeding 400 nm but not exceeding 1,050 nm; or
+
+b. 15 mA/W or less at the peak response in the wavelength range exceeding 1,050 nm but not exceeding 1,800 nm.
+
+a.3. Non-“space-qualified” “focal plane arrays” as follows:
+
+N.B.:
+
+'Microbolometer' non-“space-qualified” “focal plane arrays” are only specified by 6A002.a.3.f.
+
+Technical Note: For the purposes of 6A002.a.3, linear or two-dimensional multi-element detector arrays are referred to as “focal plane arrays”;
+
+Note 1: 6A002.a.3 includes photoconductive arrays and photovoltaic arrays.
+
+Note 2: 6A002.a.3 does not control:
+
+a. Multi-element (not to exceed 16 elements) encapsulated photoconductive cells using either lead sulphide or lead selenide;
+
+b. Pyroelectric detectors using any of the following:
+
+b.1. Triglycine sulphate and variants;
+
+b.2. Lead-lanthanum-zirconium titanate and variants;
+
+b.3. Lithium tantalate;
+
+b.4. Polyvinylidene fluoride and variants; or
+
+b.5. Strontium barium niobate and variants.
+
+c. “Focal plane arrays” “specially designed” or modified to achieve 'charge multiplication' and limited by design to have a maximum “radiant sensitivity” of 10 mA/W or less for wavelengths exceeding 760 nm, having all of the following:
+
+c.1. Incorporating a response limiting mechanism designed not to be removed or modified; and
+
+c.2. Any of the following:
+
+c.2.a. The response limiting mechanism is integral to or combined with the detector element; or
+
+c.2.b. The “focal plane array” is only operable with the response limiting mechanism in place.
+
+d. Thermopile arrays having less than 5,130 elements;
+
+Technical Note: For the purposes of 6A002.a.3 Note 2.c.2.a, a response limiting mechanism integral to the detector element is designed not to be removed or modified without rendering the detector inoperable.
+
+a.3.a. Non-“space-qualified” “focal plane arrays” having all of the following:
+
+a.3.a.1. Individual elements with a peak response within the wavelength range exceeding 900 nm but not exceeding 1,050 nm; and
+
+a.3.a.2. Any of the following:
+
+a.3.a.2.a. A response “time constant” of less than 0.5 ns; or
+
+a.3.a.2.b. “Specially designed” or modified to achieve 'charge multiplication' and having a maximum “radiant sensitivity” exceeding 10 mA/W;
+
+a.3.b. Non-“space-qualified” “focal plane arrays” having all of the following:
+
+a.3.b.1. Individual elements with a peak response in the wavelength range exceeding 1,050 nm but not exceeding 1,200 nm; and
+
+a.3.b.2. Any of the following:
+
+a.3.b.2.a. A response “time constant” of 95 ns or less; or
+
+a.3.b.2.b. “Specially designed” or modified to achieve 'charge multiplication' and having a maximum “radiant sensitivity” exceeding 10 mA/W;
+
+a.3.c. Non-“space-qualified” non-linear (2-dimensional) “focal plane arrays” having individual elements with a peak response in the wavelength range exceeding 1,200 nm but not exceeding 30,000 nm;
+
+N.B.: Silicon and other material based 'microbolometer' non-“space-qualified” “focal plane arrays” are only specified by 6A002.a.3.f.
+
+a.3.d. Non-“space-qualified” linear (1-dimensional) “focal plane arrays” having all of the following:
+
+a.3.d.1. Individual elements with a peak response in the wavelength range exceeding 1,200 nm but not exceeding 3,000 nm; and
+
+a.3.d.2. Any of the following:
+
+a.3.d.2.a. A ratio of 'scan direction' dimension of the detector element to the 'cross-scan direction' dimension of the detector element of less than 3.8; or
+
+a.3.d.2.b. Signal processing in the detector elements;
+
+Note: 6A002.a.3.d does not control “focal plane arrays” (not to exceed 32 elements) having detector elements limited solely to germanium material.
+
+Technical Note: For the purposes of 6A002.a.3.d, 'cross-scan direction' is defined as the axis parallel to the linear array of detector elements and the 'scan direction' is defined as the axis perpendicular to the linear array of detector elements.
+
+a.3.e. Non-“space-qualified” linear (1-dimensional) “focal plane arrays” having individual elements with a peak response in the wavelength range exceeding 3,000 nm but not exceeding 30,000 nm;
+
+a.3.f. Non-“space-qualified” non-linear (2-dimensional) infrared “focal plane arrays” based on 'microbolometer' material having individual elements with an unfiltered response in the wavelength range equal to or exceeding 8,000 nm but not exceeding 14,000 nm;
+
+Technical Note: For the purposes of 6A002.a.3.f, 'microbolometer' is defined as a thermal imaging detector that, as a result of a temperature change in the detector caused by the absorption of infrared radiation, is used to generate any usable signal.
+
+a.3.g. Non-“space-qualified” “focal plane arrays” having all of the following:
+
+a.3.g.1. Individual detector elements with a peak response in the wavelength range exceeding 400 nm but not exceeding 900 nm;
+
+a.3.g.2. “Specially designed” or modified to achieve 'charge multiplication' and having a maximum “radiant sensitivity” exceeding 10 mA/W for wavelengths exceeding 760 nm; and
+
+a.3.g.3. Greater than 32 elements;
+
+b. “Monospectral imaging sensors” and “multispectral imaging sensors”, designed for remote sensing applications and having any of the following:
+
+b.1. An Instantaneous-Field-Of-View (IFOV) of less than 200 µrad (microradians); or
+
+b.2. Specified for operation in the wavelength range exceeding 400 nm but not exceeding 30,000 nm and having all the following:
+
+b.2.a. Providing output imaging data in digital format; and
+
+b.2.b. Having any of the following characteristics:
+
+b.2.b.1. “Space-qualified”; or
+
+b.2.b.2. Designed for airborne operation, using other than silicon detectors, and having an IFOV of less than 2.5 mrad (milliradians);
+
+Note: 6A002.b.1 does not control “monospectral imaging sensors” with a peak response in the wavelength range exceeding 300 nm but not exceeding 900 nm and only incorporating any of the following non-“space-qualified” detectors or non -“space-qualified” “focal plane arrays”:
+
+a. Charge Coupled Devices (CCD) not designed or modified to achieve 'charge multiplication'; or
+
+b. Complementary Metal Oxide Semiconductor (CMOS) devices not designed or modified to achieve 'charge multiplication'.
+
+c. 'Direct view' imaging equipment incorporating any of the following:
+
+c.1. Image intensifier tubes having the characteristics listed in 6A002.a.2.a or 6A002.a.2.b;
+
+c.2. “Focal plane arrays” having the characteristics listed in 6A002.a.3; or
+
+c.3. Solid state detectors specified by 6A002.a.1;
+
+Technical Note: For the purposes of 6A002.c,'direct view' refers to imaging equipment that presents a visual image to a human observer without converting the image into an electronic signal for television display, and that cannot record or store the image photographically, electronically or by any other means.
+
+Note: 6A002.c does not control equipment as follows, when incorporating other than GaAs or GaInAs photocathodes:
+
+a. Industrial or civilian intrusion alarm, traffic or industrial movement control or counting systems;
+
+b. Medical equipment;
+
+c. Industrial equipment used for inspection, sorting or analysis of the properties of materials;
+
+d. Flame detectors for industrial furnaces;
+
+e. Equipment “specially designed” for laboratory use.
+
+d. Special support “components” for optical sensors, as follows:
+
+d.1. “Space-qualified” cryocoolers;
+
+d.2. Non-“space-qualified” cryocoolers having a cooling source temperature below 218 K (−55 °C), as follows:
+
+d.2.a. Closed cycle type with a specified Mean-Time-To-Failure (MTTF) or Mean-Time-Between-Failures (MTBF), exceeding 2,500 hours;
+
+d.2.b. Joule-Thomson (JT) self-regulating minicoolers having bore (outside) diameters of less than 8 mm;
+
+d.3. Optical sensing fibers specially fabricated either compositionally or structurally, or modified by coating, to be acoustically, thermally, inertially, electromagnetically or nuclear radiation sensitive.
+
+Note: 6A002.d.3 does not apply to encapsulated optical sensing fibers “specially designed” for bore hole sensing applications.
+
+e. [Reserved]
+
+f. 'Read-Out Integrated Circuits' ('ROIC') “specially designed” for “focal plane arrays” specified by 6A002.a.3.
+
+Note: 6A002.f does not apply to read-out integrated circuits “specially designed” for civil automotive applications.
+
+Technical Note: For the purposes of 6A002.f, a 'Read-Out Integrated Circuit' ('ROIC') is an integrated circuit designed to underlie or be bonded to a “focal plane array” (“FPA”) and used to read-out (i.e., extract and register) signals produced by the detector elements. At a minimum the 'ROIC' reads the charge from the detector elements by extracting the charge and applying a multiplexing function in a manner that retains the relative spatial position and orientation information of the detector elements for processing inside or outside the 'ROIC'.

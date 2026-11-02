@@ -1,0 +1,143 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C111；eCFR 2026-10-29〕
+
+1C111 Propellants and constituent chemicals for propellants, other than those specified in 1C011, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: MT, NP, RS, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1.
+
+NP applies to 1C111.a.3.f only | NP Column 1.
+
+RS applies to 1C111.d.3 only | RS Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See USML Category V(e)(7) for controls on HTPB (hydroxyl terminated polybutadiene) with a hydroxyl functionality equal to or greater than 2.2 and less than or equal to 2.4, a hydroxyl value of less than 0.77 meq/g, and a viscosity at 30 °C of less than 47 poise (CAS #69102-90-5). (2) See USML Category V for controls on ferrocene derivatives, including butacene. (3) See ECCN 1C608 for controls on oxidizers that are composed of fluorine and also other halogens, oxygen, or nitrogen, except for chlorine trifluoride, which is controlled under this ECCN 1C111.a.3.f. (4) See ECCN 1C011.b for controls on boron and boron alloys not controlled under this ECCN 1C111.a.2.b. (5) See USML Category V for controls on Inhibited Red Fuming Nitric Acid (IRFNA) (CAS 8007-58-7).
+
+Related Definitions: Particle size is the mean particle diameter on a weight or volume basis. Best industrial practices must be used in sampling, and in determining particle size, and the controls may not be undermined by the addition of larger or smaller sized material to shift the mean diameter.
+
+Items:
+
+a. Propulsive substances:
+
+a.1. Spherical or spheroidal aluminum powder (C.A.S. 7429-90-5) in particle size of less than 200 × 10−6 m (200 µm) and an aluminum content of 97% by weight or more, if at least 10% of the total weight is made up of particles of less than 63 µm, according to ISO 2591-1:1988 or national equivalents.
+
+Technical Note: A particle size of 63 µm (ISO R-565) corresponds to 250 mesh (Tyler) or 230 mesh (ASTM standard E-11).
+
+a.2. Metal powders and alloys where at least 90% of the total particles by particle volume or weight are made up of particles of less than 60 µ (determined by measurement techniques such as using a sieve, laser diffraction or optical scanning), whether spherical, atomized, spheroidal, flaked or ground, as follows:
+
+a.2.a. Consisting of 97% by weight or more of any of the following:
+
+a.2.a.1. Zirconium (C.A.S. #7440-67-7);
+
+a.2.a.2. Beryllium (C.A.S. #7440-41-7); or
+
+a.2.a.3. Magnesium (C.A.S. #7439-95-4);
+
+a.2.b. Boron or boron alloys with a boron content of 85% or more by weight.
+
+Technical Note: The natural content of hafnium in the zirconium (typically 2% to 7%) is counted with the zirconium.
+
+Note: In a multimodal particle distribution (e.g., mixtures of different grain sizes) in which one or more modes are controlled, the entire powder mixture is controlled.
+
+a.3. Oxidizer substances usable in liquid propellant rocket engines, as follows:
+
+a.3.a. Dinitrogen trioxide (CAS 10544-73-7);
+
+a.3.b. Nitrogen dioxide (CAS 10102-44-0)/dinitrogen tetroxide (CAS 10544-72-6);
+
+a.3.c. Dinitrogen pentoxide (CAS 10102-03-1);
+
+a.3.d. Mixed oxides of nitrogen (MON);
+
+a.3.e. [Reserved];
+
+a.3.f. Chlorine trifluoride (ClF3).
+
+Technical Note: Mixed oxides of nitrogen (MON) are solutions of nitric oxide (NO) in dinitrogen tetroxide/nitrogen dioxide (N2O4/NO2) that can be used in missile systems. There are a range of compositions that can be denoted as MONi or MONij, where i and j are integers representing the percentage of nitric oxide in the mixture (e.g., MON3 contains 3% nitric oxide, MON25 25% nitric oxide. An upper limit is MON40, 40% by weight).
+
+b. Polymeric substances:
+
+b.1. Carboxy-terminated polybutadiene (including carboxyl-terminated polybutadiene) (CTPB);
+
+b.2. Hydroxy-terminated polybutadiene (including hydroxyl-terminated polybutadiene) (HTPB) (CAS 69102-90-5), except for hydroxyl-terminated polybutadiene as specified in USML Category V (see 22 CFR 121.1) (also see Related Controls Note #1 for this ECCN);
+
+b.3. Polybutadiene acrylic acid (PBAA);
+
+b.4. Polybutadiene acrylic acid acrylonitrile (PBAN) (CAS 25265-19-4/CAS 68891-50-9);
+
+b.5. Polytetrahydrofuran polyethylene glycol (TPEG).
+
+Technical Note: Polytetrahydrofuran polyethylene glycol (TPEG) is a block copolymer of poly 1,4-Butanediol (CAS 110-63-4) and polyethylene glycol (PEG) (CAS 25322-68-3).
+
+c. Other propellant energetic materials, additives, or agents:
+
+c.1. [Reserved]
+
+c.2. Triethylene glycol dinitrate (TEGDN);
+
+c.3. 2 Nitrodiphenylamine (2-NDPA);
+
+c.4. Trimethylolethane trinitrate (TMETN);
+
+c.5. Diethylene glycol dinitrate (DEGDN).
+
+d. Hydrazine and derivatives as follows:
+
+d.1. Hydrazine (C.A.S. #302-01-2) in concentrations of 70% or more;
+
+d.2. Monomethyl hydrazine (MMH) (C.A.S. #60-34-4);
+
+d.3. Symmetrical dimethyl hydrazine (SDMH) (C.A.S. #540-73-8);
+
+d.4. Unsymmetrical dimethyl hydrazine (UDMH) (C.A.S. #57-14-7);
+
+d.5. Trimethylhydrazine (C.A.S. #1741-01-1);
+
+d.6. Tetramethylhydrazine (C.A.S. #6415-12-9);
+
+d.7. N,N diallylhydrazine (CAS 5164-11-4);
+
+d.8. Allylhydrazine (C.A.S. #7422-78-8);
+
+d.9. Ethylene dihydrazine (CAS 6068-98-0);
+
+d.10. Monomethylhydrazine dinitrate;
+
+d.11. Unsymmetrical dimethylhydrazine nitrate;
+
+d.12. 1,1-Dimethylhydrazinium azide (CAS 227955-52-4)/1,2-Dimethylhydrazinium azide (CAS 299177-50-7);
+
+d.13. Hydrazinium azide (C.A.S. #14546-44-2);
+
+d.14. Hydrazinium dinitrate (CAS 13464-98-7);
+
+d.15. Diimido oxalic acid dihydrazine (C.A.S. #3457-37-2);
+
+d.16. 2-hydroxyethylhydrazine nitrate (HEHN);
+
+d.17. Hydrazinium diperchlorate (C.A.S. #13812-39-0);
+
+d.18. Methylhydrazine nitrate (MHN) (CAS 29674-96-2);
+
+d.19. 1,1-Diethylhydrazine nitrate (DEHN)/1,2-Diethylhydrazine nitrate (DEHN) (CAS 363453-17-2);
+
+d.20. 3,6-dihydrazino tetrazine nitrate (DHTN), also referred to as 1,4-dihydrazine nitrate.
+
+e. Hydrazine replacement fuels as follows:
+
+e.1. 2-Dimethylaminoethylazide (DMAZ) (CAS 86147-04-8);
+
+e.2. [Reserved]

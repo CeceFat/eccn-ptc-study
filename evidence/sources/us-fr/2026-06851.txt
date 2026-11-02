@@ -1,0 +1,181 @@
+<html>
+<head>
+<title>Federal Register, Volume 91 Issue 68 (Thursday, April 9, 2026)</title>
+</head>
+<body><pre>
+[Federal Register Volume 91, Number 68 (Thursday, April 9, 2026)]
+[Rules and Regulations]
+[Pages 17851-17852]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2026-06851]
+
+
+
+[[Page 17851]]
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 774
+
+[Docket No. 260406-0093]
+RIN 0694-AJ98
+
+
+Extension of Authorized Integrated Circuit (IC) Designer Status 
+and Application Deadline To Become an Approved IC Designer
+
+AGENCY: Bureau of Industry and Security, Department of Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Bureau of Industry and Security (BIS) is revising the 
+Export Administration Regulations (EAR) by extending by about eight 
+months the triggering date for authorized integrated circuit designer 
+status and submission date for applications to become an approved 
+integrated circuit (IC) designer. The new date is December 31, 2026.
+
+DATES: Effective date: The effective date of this rule is April 7, 
+2026. Extended date to apply to become an approved IC designer: 
+Applications must be received by December 31, 2026, after which time, 
+applicants may be considered authorized IC designers for 180 days.
+
+FOR FURTHER INFORMATION CONTACT: Carlos Monroy at 202-482-3246 or by 
+email: <a href="/cdn-cgi/l/email-protection#b0f3d1c2dcdfc39efddfdec2dfc9f0d2d9c39ed4dfd39ed7dfc6"><span class="__cf_email__" data-cfemail="723113001e1d015c3f1d1c001d0b32101b015c161d115c151d04">[email&#160;protected]</span></a> or <a href="/cdn-cgi/l/email-protection#265456421466444f550842494508414950"><span class="__cf_email__" data-cfemail="fd8f8d99cfbd9f948ed399929ed39a928b">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: On January 16, 2025, BIS published an 
+interim final rule (IFR) (90 FR 5298) (FDD IFR), adding certain 
+presumptions for ``front-end fabricators'' and ``OSAT'' companies 
+seeking to export, reexport, or transfer (in-country) certain 
+``applicable advanced logic integrated circuits'' under ECCN 3A090.a 
+(see Sec.  742.6(a)(6)(iii)(A) and Note 1 to 3A090.a), unless the 
+presumption is overcome via Note 1 to 3A090.a. The FDD IFR provided 
+three ways to overcome the presumption that involve Approved IC 
+designers, approved ``OSAT'' companies, or via identifying authorized 
+IC designers with criteria included in Note 1 to 3A090.a. To be listed, 
+entities must submit requests to BIS and be approved through the End-
+user Review Committee (ERC).
+    This final rule revises Note 1 to ECCN 3A090.a by removing the 
+April 13, 2026 date wherever it occurs, and replacing it with December 
+31, 2026. This change will allow entities additional time to apply to 
+be approved IC designers and allows BIS additional time to process 
+these applications.
+
+Export Control Reform Act of 2018
+
+    On August 13, 2018, the President signed into law the John S. 
+McCain National Defense Authorization Act for Fiscal Year 2019, which 
+included ECRA (codified, as amended, at 50 U.S.C. 4801-4852). ECRA 
+provides the legal basis for BIS's principal authorities and serves as 
+the authority under which BIS issues this rule. In particular, and as 
+noted elsewhere, Section 1753 of ECRA (50 U.S.C. 4812) authorizes the 
+regulation of exports, reexports, and transfers (in-country) of items 
+subject to U.S. jurisdiction. Further, Section 1754(a)(1)-(16) of ECRA 
+(50 U.S.C. 4813(a)(1)-(16)) authorizes, inter alia, the establishment 
+of a list of controlled items; the prohibition of unauthorized exports, 
+reexports, and transfers (in-country); the requirement of licenses or 
+other authorizations for exports, reexports, and transfers (in-country) 
+of controlled items; apprising the public of changes in policy, 
+regulations, and procedures; and any other action necessary to carry 
+out ECRA that is not otherwise prohibited by law. Pursuant to Section 
+1762(a) of ECRA (50 U.S.C. 4821(a)), these changes can be imposed in a 
+final rule without prior notice and comment.
+
+Rulemaking Requirements
+
+    1. BIS has examined the impact of this rule as required by 
+Executive Orders (E.O.) 12866 and 13563, which direct agencies to 
+assess all costs and benefits of available regulatory alternatives and, 
+if regulation is necessary, to select regulatory approaches that 
+maximize net benefits (e.g., potential economic, environmental, public, 
+health, and safety effects, distributive impacts, and equity). This 
+final rule is not significant under Executive Order 12866. Therefore, 
+E.O. 14192 does not apply.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to, nor shall any person be subject to a penalty 
+for failure to comply with, a collection of information subject to the 
+requirements of the Paperwork Reduction Act of 1995 (PRA) (44 U.S.C. 
+3501 et seq.), unless that collection of information displays a 
+currently valid Office of Management and Budget (OMB) Control Number. 
+This regulation involves collections of information approved by OMB 
+under the following control numbers: OMB Control Number 0694-0088-
+Simple Network Application Process and Multipurpose Application Form; 
+OMB Control Number 0694-0096-Five Year Records Retention Period; OMB 
+Control Number 0694-0137-License Exemptions and Exclusions; OMB Control 
+Number 0694-0152-Automated Export System (AES) Program.
+    For OMB control number 0694-0088, Simple Network Application 
+Process and Multipurpose Application Form, BIS estimates that the 
+extension included in this final rule will result in a net increase of 
+75 advisory opinions submitted to BIS with an increase of 38 burden 
+hours. However, the increase in burden falls within the existing burden 
+estimates associated with this control number. For OMB Control number 
+0694-0137, License Exceptions and Exclusions, BIS estimates the 
+extension included in this final rule will result an increase of 20 
+approved IC designers, and an increase in 385 burden hours, but the 
+increase in burden falls within the existing burden estimates 
+associated with this control number. For OMB Control number 0607-0152, 
+Automated Export System (AES) Program, BIS expects an increase of 100 
+submissions, for an increase in 5 burden hours, but the increase in 
+burden falls within the existing burden estimates associated with this 
+control numbers. Changes impacting OMB Control Number 0694-0096, Five 
+Year Records Retention Period, are not expected to result in a change 
+in burden hours.
+    3. This rule does not contain policies with federalism implications 
+as that term is defined in Executive Order 13132.
+    4. Pursuant to section 1762 of the Export Control Reform Act of 
+2018, thisactionis exempt from the Administrative Procedure Act (5 
+U.S.C. 553) requirements for notice of proposed rulemaking, opportunity 
+for public participation, and delay in effective date.
+    5. Because a notice of proposed rulemaking and an opportunity for 
+public comment are not required to be given for this rule under the APA 
+(5 U.S.C. 553) or by any other law, the analytical requirements of the 
+Regulatory Flexibility Act (5 U.S.C. 601 et seq.) are not applicable. 
+Accordingly, no regulatory flexibility analysis is required, and none 
+has been prepared.
+
+List of Subjects in 15 CFR Part 774
+
+    Exports, Reporting and recordkeeping requirements.
+
+    For the reasons stated in the preamble, part 774 of the Export 
+Administration Regulations (15 CFR parts 730 through 774) is amended as 
+follows:
+
+PART 774--THE COMMERCE CONTROL LIST
+
+0
+1. The authority citation for part 774 continues to read as follows:
+
+
+[[Page 17852]]
+
+
+    Authority:  50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; 10 U.S.C. 8720; 10 U.S.C. 8730(e); 22 U.S.C. 
+287c, 22 U.S.C. 3201 et seq.; 22 U.S.C. 6004; 42 U.S.C. 2139a; 15 
+U.S.C. 1824; 50 U.S.C. 4305; 22 U.S.C. 7201 et seq.; 22 U.S.C. 7210; 
+E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228.
+
+
+Supplement No. 1 to Part 774   [Amended]
+
+0
+2. In supplement no. 1 to part 774, in ECCN 3A090, amend note 1 to 
+3A090.a in paragraphs a.(2) and (3) by removing the date ``April 13, 
+2026'', wherever it occurs, and adding in its place the date ``December 
+31, 2026.''
+
+Julia A. Khersonsky,
+Deputy Assistant Secretary for Strategic Trade.
+[FR Doc. 2026-06851 Filed 4-7-26; 4:15 pm]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

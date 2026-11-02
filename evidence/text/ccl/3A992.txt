@@ -1,0 +1,63 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3A992；eCFR 2026-10-29〕
+
+3A992 General purpose electronic equipment, not controlled by 3A002, as Follows (See List of Items Controlled).
+
+License Requirements
+
+Reason for Control: RS, AT
+
+Control(s) | Country chart (see supp. no. 1 to part 738)
+
+RS applies to entire entry. | A license is required for items controlled by this entry for export or reexport to Pakistan or transfer within Pakistan for regional stability reasons. The Commerce Country Chart is not designed to determine RS license requirements for this entry. See § 742.6(a)(12) of the EAR for additional information.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items:
+
+a. Electronic test equipment, n.e.s.
+
+b. Digital instrumentation magnetic tape data recorders having any of the following characteristics;
+
+b.1. A maximum digital interface transfer rate exceeding 60 Mbit/s and employing helical scan techniques;
+
+b.2. A maximum digital interface transfer rate exceeding 120 Mbit/s and employing fixed head techniques; or
+
+b.3. “Space qualified”.
+
+c. Equipment, with a maximum digital interface transfer rate exceeding 60 Mbit/s, designed to convert digital video magnetic tape recorders for use as digital instrumentation data recorders.
+
+d. Non-modular analog oscilloscopes having a bandwidth of 1 GHz or greater.
+
+e. Modular analog oscilloscope systems having either of the following characteristics:
+
+e.1. A mainframe with a bandwidth of 1 GHz or greater; or
+
+e.2. Plug-in modules with an individual bandwidth of 4 GHz or greater.
+
+f. Analog sampling oscilloscopes for the analysis of recurring phenomena with an effective bandwidth greater than 4 GHz.
+
+g. Digital oscilloscopes and transient recorders, using analog-to-digital conversion techniques, capable of storing transients by sequentially sampling single-shot inputs at successive intervals of less than 1 ns (greater than 1 gigasample per second), digitizing to 8 bits or greater resolution and storing 256 or more samples.
+
+Note: This ECCN controls the following “specially designed” “parts” and “components” for analog oscilloscopes:
+
+1. Plug-in units;
+
+2. External amplifiers;
+
+3. Pre-amplifiers;
+
+4. Sampling devices;
+
+5. Cathode ray tubes.

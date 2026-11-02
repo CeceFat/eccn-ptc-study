@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6D993；eCFR 2026-10-29〕
+
+6D993 Other “software,” not controlled by 6D003, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: RS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+RS applies to 6D993.c | RS Column 1
+
+RS applies to 6D993.b | RS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Air Traffic Control (ATC) “software” application “programs” hosted on general purpose computers located at Air Traffic Control centers, and capable of automatically handing over primary radar target data (if not correlated with secondary surveillance radar (SSR) data) from the host ATC center to another ATC center;
+
+b. “Software” “specially designed” for seismic intrusion detection systems in 6A999.c.
+
+c. “Source Code” “specially designed” for seismic intrusion detection systems in 6A999.c.

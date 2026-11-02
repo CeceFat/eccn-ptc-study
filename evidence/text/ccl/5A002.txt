@@ -1,0 +1,237 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 5A002；eCFR 2026-10-29〕
+
+5A002 “Information security” systems, equipment and “components,” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, EI
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1.
+
+RS applies to items controlled by 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+
+RS applies to items controlled by 5A002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b | To or within the United Arab Emirates or destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+EI applies to entire entry | Refer to § 742.15 of the EAR.
+
+License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating “information security” functionality, and associated “software” and “technology” for the “production” or “development” of such microprocessors.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: Yes: $500 for “components,”
+
+N/A for systems and equipment. N/A for 5A002.z.
+
+GBS: N/A
+
+ENC: Yes for certain EI controlled commodities, see § 740.17 of the EAR for eligibility.
+
+NAC/ACA: Yes, for 5A002.z.1.b, z.2.b
+
+AIA: Yes 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a
+
+ACM: Yes for 5A002.z
+
+LPP: Yes for 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a
+
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 5A002.z.
+
+List of Items Controlled
+
+Related Controls: (1) ECCN 5A002.a controls “components” providing the means or functions necessary for “information security.” All such “components” are presumptively “specially designed” and controlled by 5A002.a. (2) See USML Categories XI (including XI(b)) and XIII(b) (including XIII(b)(2)) for controls on systems, equipment, and components described in 5A002.d or .e that are “subject to the ITAR” (see 22 CFR parts 120 through 130). (3) For “satellite navigation system” receiving equipment containing or employing decryption see 7A005, and for related decryption “software” and “technology” see 7D005 and 7E001. (4) Noting that items may be controlled elsewhere on the CCL, examples of items not controlled by ECCN 5A002.a.4 include the following: (a) An automobile where the only 'cryptography for data confidentiality' having a 'described security algorithm' is performed by a Category 5—Part 2 Note 3 eligible mobile telephone that is built into the car. In this case, secure phone communications support a non-primary function of the automobile but the mobile telephone (equipment), as a standalone item, is not controlled by ECCN 5A002 because it is excluded by the Cryptography Note (Note 3) (See ECCN 5A992.c). (b) An exercise bike with an embedded Category 5—Part 2 Note 3 eligible web browser, where the only controlled cryptography is performed by the web browser. In this case, secure web browsing supports a non-primary function of the exercise bike but the web browser (“software”), as a standalone item, is not controlled by ECCN 5D002 because it is excluded by the Cryptography Note (Note 3) (See ECCN 5D992.c). (5) After classification or self-classification in accordance with § 740.17(b) of the EAR, mass market encryption commodities that meet eligibility requirements are released from “EI” and “NS” controls. These commodities are designated 5A992.c. (6) See also ECCNs 3A090 and 4A090.
+
+Related Definitions: N/A
+
+Items:
+
+a. Designed or modified to use 'cryptography for data confidentiality' having a 'described security algorithm', where that cryptographic capability is usable, has been activated, or can be activated by any means other than secure “cryptographic activation”, as follows:
+
+a.1. Items having “information security” as a primary function;
+
+a.2. Digital communication or networking systems, equipment or components, not specified in paragraph 5A002.a.1;
+
+a.3. Computers, other items having information storage or processing as a primary function, and components therefor, not specified in paragraphs 5A002.a.1 or .a.2;
+
+N.B.: For operating systems see also 5D002.a.1 and .c.1.
+
+a.4. Items, not specified in paragraphs 5A002.a.1 to a.3, where the 'cryptography for data confidentiality' having a 'described security algorithm' meets all of the following:
+
+a.4.a. It supports a non-primary function of the item; and
+
+a.4.b. It is performed by incorporated equipment or “software” that would, as a standalone item, be specified by ECCNs 5A002, 5A003, 5A004, 5B002 or 5D002.
+
+N.B. to paragraph a.4: See Related Control Paragraph (4) of this ECCN 5A002 for examples of items not controlled by 5A002.a.4.
+
+Technical Notes: 1. For the purposes of 5A002.a, 'cryptography for data confidentiality' means “cryptography” that employs digital techniques and performs any cryptographic function other than any of the following:
+
+1.a. “Authentication;”
+
+1.b. Digital signature;
+
+1.c. Data integrity;
+
+1.d. Non-repudiation;
+
+1.e. Digital rights management, including the execution of copy-protected “software;”
+
+1.f. Encryption or decryption in support of entertainment, mass commercial broadcasts or medical records management; or
+
+1.g. Key management in support of any function described in paragraphs 1.a to 1.f of this Technical Note paragraph 1.
+
+2. For the purposes of 5A002.a, 'described security algorithm' means any of the following:
+
+2.a. A “symmetric algorithm” employing a key length in excess of 56 bits, not including parity bits;
+
+2.b. An “asymmetric algorithm” where the security of the algorithm is based on any of the following:
+
+2.b.1. Factorization of integers in excess of 512 bits (e.g., RSA);
+
+2.b.2. Computation of discrete logarithms in a multiplicative group of a finite field of size greater than 512 bits (e.g., Diffie-Hellman over Z/pZ); or
+
+2.b.3. Discrete logarithms in a group other than mentioned in paragraph 2.b.2 of this Technical Note in excess of 112 bits (e.g., Diffie-Hellman over an elliptic curve); or
+
+2.c. An “asymmetric algorithm” where the security of the algorithm is based on any of the following:
+
+2.c.1. Shortest vector or closest vector problems associated with lattices (e.g., NewHope, Frodo, NTRUEncrypt, Kyber, Titanium);
+
+2.c.2. Finding isogenies between Supersingular elliptic curves (e.g., Supersingular Isogeny Key Encapsulation); or
+
+2.c.3. Decoding random codes (e.g., McEliece, Niederreiter).
+
+Technical Note: An algorithm described by Technical Note 2.c. may be referred to as being post-quantum, quantum-safe or quantum-resistant.
+
+Note 1: Details of items must be accessible and provided upon request, in order to establish any of the following:
+
+a. Whether the item meets the criteria of 5A002.a.1 to a.4; or
+
+b. Whether the cryptographic capability for data confidentiality specified by 5A002.a is usable without “cryptographic activation.”
+
+Note 2: 5A002.a does not control any of the following items, or specially designed “information security” components therefor:
+
+a. Smart cards and smart card 'readers/writers' as follows:
+
+a.1. A smart card or an electronically readable personal document (e.g., token coin, e-passport) that meets any of the following:
+
+a.1.a. The cryptographic capability meets all of the following:
+
+a.1.a.1. It is restricted for use in any of the following:
+
+a.1.a.1.a. Equipment or systems, not described by 5A002.a.1 to a.4;
+
+a.1.a.1.b. Equipment or systems, not using 'cryptography for data confidentiality' having a 'described security algorithm'; or
+
+a.1.a.1.c. Equipment or systems, excluded from 5A002.a by entries b. to f. of this Note; and
+
+a.1.a.2. It cannot be reprogrammed for any other use; or
+
+a.1.b. Having all of the following:
+
+a.1.b.1. It is specially designed and limited to allow protection of 'personal data' stored within;
+
+a.1.b.2. Has been, or can only be, personalized for public or commercial transactions or individual identification; and
+
+a.1.b.3. Where the cryptographic capability is not user-accessible;
+
+Technical Note to paragraph a.1.b.1 of Note 2: For the purposes of 5A002.a Note 2.-a.1.b.1, 'personal data' includes any data specific to a particular person or entity, such as the amount of money stored and data necessary for “authentication.”
+
+a.2. 'Readers/writers' specially designed or modified, and limited, for items specified by paragraph a.1 of this Note;
+
+Technical Note to paragraph a.2 of Note 2: 'For the purposes of 5A002.a Note 2.a.2, 'readers/writers' include equipment that communicates with smart cards or electronically readable documents through a network.
+
+b. Cryptographic equipment specially designed and limited for banking use or 'money transactions';
+
+Technical Note to paragraph b. of Note 2: For the purposes of 5A002.a Note 2.b, 'money transactions' in 5A002 Note 2 paragraph b. includes the collection and settlement of fares or credit functions.
+
+c. Portable or mobile radiotelephones for civil use (e.g., for use with commercial civil cellular radio communication systems) that are not capable of transmitting encrypted data directly to another radiotelephone or equipment (other than Radio Access Network (RAN) equipment), nor of passing encrypted data through RAN equipment (e.g., Radio Network Controller (RNC) or Base Station Controller (BSC));
+
+d. Cordless telephone equipment not capable of end-to-end encryption where the maximum effective range of unboosted cordless operation (i.e., a single, unrelayed hop between terminal and home base station) is less than 400 meters according to the manufacturer's specifications;
+
+e. Portable or mobile radiotelephones and similar client wireless devices for civil use, that implement only published or commercial cryptographic standards (except for anti-piracy functions, which may be non-published) and also meet the provisions of paragraphs a.2 to a.4 of the Cryptography Note (Note 3 in Category 5—Part 2), that have been customized for a specific civil industry application with features that do not affect the cryptographic functionality of these original non-customized devices;
+
+f. Items, where the “information security” functionality is limited to wireless “personal area network ” functionality implementing only published or commercial cryptographic standards;
+
+g. Mobile telecommunications Radio Access Network (RAN) equipment designed for civil use, which also meet the provisions of paragraphs a.2 to a.4 of the Cryptography Note (Note 3 in Category 5—Part 2), having an RF output power limited to 0.1W (20 dBm) or less, and supporting 16 or fewer concurrent users;
+
+h. Routers, switches, gateways or relays, where the “information security” functionality is limited to the tasks of “Operations, Administration or Maintenance” (“OAM”) implementing only published or commercial cryptographic standards;
+
+i. General purpose computing equipment or servers, where the “information security” functionality meets all of the following:
+
+i.1. Uses only published or commercial cryptographic standards; and
+
+i.2. Is any of the following:
+
+i.2.a. Integral to a CPU that meets the provisions of Note 3 in Category 5—Part 2;
+
+i.2.b. Integral to an operating system that is not specified by 5D002; or
+
+i.2.c. Limited to “OAM” of the equipment; or
+
+j. Items specially designed for a 'connected civil industry application', meeting all of the following:
+
+j.1. Being any of the following:
+
+j.1.a. A network-capable endpoint device meeting any of the following:
+
+j.1.a.1. The “information security” functionality is limited to securing 'non-arbitrary data' or the tasks of “Operations, Administration or Maintenance” (“OAM”); or
+
+j.1.a.2. The device is limited to a specific 'connected civil industry application'; or
+
+j.1.b. Networking equipment meeting all of the following:
+
+j.1.b.1. Being specially designed to communicate with the devices specified by paragraph j.1.a. above; and
+
+j.1.b.2. The “information security” functionality is limited to supporting the 'connected civil industry application' of devices specified by paragraph j.1.a. above, or the tasks of “OAM” of this networking equipment or of other items specified by paragraph j. of this Note; and
+
+j.2. Where the “information security” functionality implements only published or commercial cryptographic standards, and the cryptographic functionality cannot easily be changed by the user.
+
+Technical Notes: 1. For the purposes of 5A002.a Note 2.j, 'connected civil industry application' means a network-connected consumer or civil industry application other than “information security”, digital communication, general purpose networking or computing.
+
+2. For the purposes of 5A002.a Note 2.j.1.a.1, 'non-arbitrary data' means sensor or metering data directly related to the stability, performance or physical measurement of a system (e.g., temperature, pressure, flow rate, mass, volume, voltage, physical location, etc.), that cannot be changed by the user of the device.
+
+b. Being a 'cryptographic activation token';
+
+Technical Note: For the purposes of 5A002.b, a 'cryptographic activation token' is an item designed or modified for any of the following:
+
+1. Converting, by means of “cryptographic activation”, an item not specified by Category 5—Part 2 into an item specified by 5A002.a or 5D002.c.1, and not released by the Cryptography Note (Note 3 in Category 5—Part 2); or
+
+2. Enabling by means of “cryptographic activation”, additional functionality specified by 5A002.a of an item already specified by Category 5—Part 2;
+
+c. Designed or modified to use or perform “quantum cryptography”;
+
+Technical Note: For the purposes of 5A002.c,”quantum cryptography” is also known as Quantum Key Distribution (QKD).
+
+d. Designed or modified to use cryptographic techniques to generate channelizing codes, scrambling codes or network identification codes, for systems using ultra-wideband modulation techniques and having any of the following:
+
+d.1. A bandwidth exceeding 500 MHz; or
+
+d.2. A “fractional bandwidth” of 20% or more;
+
+e. Designed or modified to use cryptographic techniques to generate the spreading code for “spread spectrum” systems, not specified by 5A002.d, including the hopping code for “frequency hopping” systems.
+
+f. through y. [Reserved]
+
+z. Other commodities, as follows:
+
+z.1.a. Commodities that are described in 5A002.a and that also meet or exceed the performance parameters in 3A090.a or 4A090.a;
+
+z.1.b Commodities that are described in 5A002.a and that also meet or exceed the performance parameters in 3A090.b or 4A090.b;
+
+z.2.a Commodities that are described in 5A002.b and that also meet or exceed the performance parameters in 3A090.a or 4A090.a;
+
+z.2.b Commodities that are described in 5A002.b and that also meet or exceed the performance parameters in 3A090.b or 4A090.b;
+
+z.3.a Commodities that are described in 5A002.c and that also meet or exceed the performance parameters in 3A090.a or 4A090.a;
+
+z.3.b Commodities that are described in 5A002.c and that also meet or exceed the performance parameters in 3A090.b or 4A090.b;
+
+z.4.a Commodities that are described in 5A002.d and that also meet or exceed the performance parameters in 3A090.a or 4A090.a;
+
+z.4.b Commodities that are described in 5A002.d and that also meet or exceed the performance parameters in 3A090.b or 4A090.b;
+
+z.5.a Commodities that are described in 5A002.e and that also meet or exceed the performance parameters in 3A090.a or 4A090.a; or
+
+z.5.b Commodities that are described in 5A002.e and that also meet or exceed the performance parameters in 3A090.b or 4A090.b.

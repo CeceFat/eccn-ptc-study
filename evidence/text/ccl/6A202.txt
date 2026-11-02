@@ -1,0 +1,29 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6A202；eCFR 2026-10-29〕
+
+6A202 Photomultiplier tubes having both of the following characteristics (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NP, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NP applies to entire entry | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See ECCNs 6E001 (“development”), 6E002 (“production”), and 6E201 (“use”) for technology for items controlled under this entry.
+
+Related Definitions: N/A
+
+Items: a. Photocathode area of greater than 20 cm 2; and
+
+b. Anode pulse rise time of less than 1 ns.

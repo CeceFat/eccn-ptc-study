@@ -1,0 +1,149 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C002；eCFR 2026-10-29〕
+
+1C002 Metal alloys, metal alloy powder and alloyed materials, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, NP, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+NP applies to 1C002.b.3 or b.4 if they exceed the parameters stated in 1C202 | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $3000; N/A for NP
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 1E001 (“development” and “production”) and 1E201 (“use”) for technology for items controlled by this entry. (2) Also see ECCN 1C202. (3) Aluminum alloys and titanium alloys in physical forms and finished products “especially designed” or prepared for use in separating uranium isotopes are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110).
+
+Related Definition: N/A
+
+Items:
+
+Note: 1C002 does not control metal alloys, metal alloy powder and alloyed materials, specially formulated for coating purposes.
+
+Technical Note: For the purposes of 1C002, metal alloys are those containing a higher percentage by weight of the stated metal than of any other element.
+
+a. Aluminides, as follows:
+
+a.1. Nickel aluminides containing a minimum of 15% by weight aluminum, a maximum of 38% by weight aluminum and at least one additional alloying element;
+
+a.2. Titanium aluminides containing 10% by weight or more aluminum and at least one additional alloying element;
+
+b. Metal alloys, as follows, made from the powder or particulate material controlled by 1C002.c:
+
+b.1. Nickel alloys having any of the following:
+
+b.1.a. A 'stress-rupture life' of 10,000 hours or longer at 923 K (650 °C) at a stress of 676 MPa; or
+
+b.1.b. A 'low cycle fatigue life' of 10,000 cycles or more at 823 K (550 °C) at a maximum stress of 1,095 MPa;
+
+b.2. Niobium alloys having any of the following:
+
+b.2.a. A 'stress-rupture life' of 10,000 hours or longer at 1,073 K (800 °C) at a stress of 400 MPa; or
+
+b.2.b. A 'low cycle fatigue life' of 10,000 cycles or more at 973 K (700 °C) at a maximum stress of 700 MPa;
+
+b.3. Titanium alloys having any of the following:
+
+b.3.a. A 'stress-rupture life' of 10,000 hours or longer at 723 K (450 °C) at a stress of 200 MPa; or
+
+b.3.b. A 'low cycle fatigue life' of 10,000 cycles or more at 723 K (450 °C) at a maximum stress of 400 MPa;
+
+b.4 Aluminum alloys having any of the following:
+
+b.4.a. A tensile strength of 240 MPa or more at 473 K (200 °C); or
+
+b.4.b. A tensile strength of 415 MPa or more at 298 K (25 °C);
+
+b.5. Magnesium alloys having all the following:
+
+b.5.a. A tensile strength of 345 MPa or more; and
+
+b.5.b. A corrosion rate of less than 1 mm/year in 3% sodium chloride aqueous solution measured in accordance with ASTM standard G-31 or national equivalents;
+
+Technical Notes: For the purposes of 1C002.b:
+
+1. 'Stress-rupture life' should be measured in accordance with ASTM standard E-139 or national equivalents.
+
+2. 'Low cycle fatigue life' should be measured in accordance with ASTM Standard E-606 'Recommended Practice for Constant-Amplitude Low-Cycle Fatigue Testing' or national equivalents. Testing should be axial with an average stress ratio equal to 1 and a stress-concentration factor (Kt) equal to 1. The average stress ratio is defined as maximum stress minus minimum stress divided by maximum stress.
+
+c. Metal alloy powder or particulate material, having all of the following:
+
+c.1. Made from any of the following composition systems:
+
+Technical Note: For the purposes of 1C002.c.1, X equals one or more alloying elements.
+
+c.1.a. Nickel alloys (Ni-Al-X, Ni-X-Al) qualified for turbine engine “parts” or “components,” i.e., with less than 3 non-metallic particles (introduced during the manufacturing process) larger than 100 µm in 109 alloy particles;
+
+c.1.b. Niobium alloys (Nb-Al-X or Nb-X-Al, Nb-Si-X or Nb-X-Si, Nb-Ti-X or Nb-X-Ti);
+
+c.1.c. Titanium alloys (Ti-Al-X or Ti-X-Al);
+
+c.1.d. Aluminum alloys (Al-Mg-X or Al-X-Mg, Al-Zn-X or Al-X-Zn, Al-Fe-X or Al-X-Fe); or
+
+c.1.e. Magnesium alloys (Mg-Al-X or Mg-X-Al);
+
+c.2. Made in a controlled environment by any of the following processes:
+
+c.2.a. 'Vacuum atomization';
+
+c.2.b. 'Gas atomization';
+
+c.2.c. 'Rotary atomization';
+
+c.2.d. 'Splat quenching';
+
+c.2.e. 'Melt spinning' and 'comminution';
+
+c.2.f. 'Melt extraction' and 'comminution';
+
+c.2.g. 'Mechanical alloying'; or
+
+c.2.h. 'Plasma atomization'; and
+
+c.3. Capable of forming materials controlled by 1C002.a or 1C002.b;
+
+d. Alloyed materials, having all the following:
+
+d.1. Made from any of the composition systems specified by 1C002.c.1;
+
+d.2. In the form of uncomminuted flakes, ribbons or thin rods; and
+
+d.3. Produced in a controlled environment by any of the following:
+
+d.3.a. 'Splat quenching';
+
+d.3.b. 'Melt spinning'; or
+
+d.3.c. 'Melt extraction'.
+
+Technical Notes: For the purposes of 1C002:
+
+1. 'Vacuum atomization' is a process to reduce a molten stream of metal to droplets of a diameter of 500 µm or less by the rapid evolution of a dissolved gas upon exposure to a vacuum.
+
+2. 'Gas atomization' is a process to reduce a molten stream of metal alloy to droplets of 500 µm diameter or less by a high pressure gas stream.
+
+3. 'Rotary atomization' is a process to reduce a stream or pool of molten metal to droplets of a diameter of 500 µm or less by centrifugal force.
+
+4. 'Splat quenching' is a process to 'solidify rapidly' a molten metal stream impinging upon a chilled block, forming a flake-like product.
+
+5. 'Melt spinning' is a process to 'solidify rapidly' a molten metal stream impinging upon a rotating chilled block, forming a flake, ribbon or rod-like product.
+
+6. 'Comminution' is a process to reduce a material to particles by crushing or grinding.
+
+7. 'Melt extraction' is a process to 'solidify rapidly' and extract a ribbon-like alloy product by the insertion of a short segment of a rotating chilled block into a bath of a molten metal alloy.
+
+8. 'Mechanical alloying' is an alloying process resulting from the bonding, fracturing and rebonding of elemental and master alloy powders by mechanical impact. Non-metallic particles may be incorporated in the alloy by addition of the appropriate powders.
+
+9. 'Plasma atomization' is a process to reduce a molten stream or solid metal to droplets of 500 µm diameter or less, using plasma torches in an inert gas environment.
+
+10. For the purposes of 1C002 Technical Notes, 'solidify rapidly' is a process involving the solidification of molten material at cooling rates exceeding 1000 K/sec.

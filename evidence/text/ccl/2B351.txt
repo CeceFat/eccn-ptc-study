@@ -1,0 +1,35 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2B351；eCFR 2026-10-29〕
+
+2B351 Toxic gas monitors and monitoring systems, and their dedicated detecting “parts” and “components” (i.e., detectors, sensor devices, and replaceable sensor cartridges), as follows, except those systems and detectors controlled by ECCN 1A004.c (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: CB, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+CB applies to entire entry | CB Column 2.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See ECCN 2D351 for “software” for toxic gas monitors and monitoring systems, and their dedicated detecting “parts” and “components,” controlled by this ECCN. Also see ECCN 1A004, which controls chemical detection systems and “specially designed” “parts” and “components” therefor that are “specially designed” or modified for detection or identification of chemical warfare agents, but not “specially designed” for military use, and ECCN 1A995, which controls certain detection equipment, “parts” and “components” not controlled by ECCN 1A004 or by this ECCN.
+
+Related Definitions: (1) For the purposes of this entry, the term “dedicated” means committed entirely to a single purpose or device. (2) For the purposes of this entry, the term “continuous operation” describes the capability of the equipment to operate on line without human intervention. The intent of this entry is to control toxic gas monitors and monitoring systems capable of collection and detection of samples in environments such as chemical plants, rather than those used for batch-mode operation in laboratories.
+
+Items:
+
+a. Designed for continuous operation and usable for the detection of chemical warfare agents or precursor chemicals controlled by 1C350 'minimum detection limit' of 0.3 mg/m 3; or
+
+b. Designed for the detection of cholinesterase-inhibiting activity.
+
+Technical note: The 'minimum detection limit' of toxic gas monitors or monitoring systems is the lowest detectable concentration of the analyte required to produce a signal greater than three times the standard deviation of the toxic gas monitor's or monitoring system's signal when measuring a blank sample.
+
+In the case of toxic gas monitors or monitoring systems having a deadband or programmed zero suppression, the 'minimum detection limit' is the lowest detectable concentration required to produce a reading.

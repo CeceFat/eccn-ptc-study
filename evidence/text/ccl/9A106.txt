@@ -1,0 +1,55 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9A106；eCFR 2026-10-29〕
+
+9A106 Systems, “parts” or “components,” other than those controlled by 9A006, usable in “missiles,” and “specially designed” for liquid rocket propulsion systems, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: Items described in 9A106.a, .b, and .c are “subject to the ITAR” (see 22 CFR parts 120 through 130).
+
+Related Definitions: N/A
+
+Items: a. Ablative liners for thrust or combustion chambers;
+
+b. Rocket nozzles;
+
+c. Thrust vector control sub-systems;
+
+Technical Note: Examples of methods of achieving thrust vector control controlled by 9A106.c includes:
+
+1. Flexible nozzle;
+
+2. Fluid or secondary gas injection;
+
+3. Movable engine or nozzle;
+
+4. Deflection of exhaust gas steam (jet vanes or probes); or
+
+5. Thrust tabs.
+
+d. Liquid, slurry and gel propellant (including oxidizers) control systems, and “specially designed” “parts” and “components” therefor, designed or modified to operate in vibration environments greater than 10 g rms between 20 Hz and 2000 Hz.
+
+Note: The only servo valves, pumps and gas turbines controlled by 9A106.d, are the following:
+
+a. Servo valves designed for flow rates equal to or greater than 24 liters per minute, at an absolute pressure equal to or greater than 7 MPa, that have an actuator response time of less than 100 ms;
+
+b. Pumps, for liquid propellants, with shaft speeds equal to or greater than 8,000 rpm at the maximum operating mode or with discharge pressures equal to or greater than 7 Mpa; or
+
+c. Gas turbines, for liquid propellant turbopumps, with shaft speeds equal to or greater than 8,000 rpm at the maximum operating mode.
+
+e. Flight control servo valves designed or modified for use in “missiles” and designed or modified to operate in a vibration environment greater than 10g rms over the entire range between 20Hz and 2 kHz.

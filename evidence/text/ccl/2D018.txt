@@ -1,0 +1,5 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2D018；eCFR 2026-10-29〕
+
+2D018 “Software” for the “development,” “production,” or “use” of equipment controlled by 2B018.
+
+No software is currently controlled under this entry. See ECCNs 0D501, 0D602, and 0D606 for software formerly controlled under this entry.

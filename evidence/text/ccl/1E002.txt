@@ -1,0 +1,83 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1E002；eCFR 2026-10-29〕
+
+1E002 Other “technology” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, MT, NP, AT
+
+Control(s) | Country chart(See Supp. No. 1to part 738)
+
+NS applies to entire entry, except 1E002.g | NS Column 1
+
+NS applies to 1E002.g | NS Column 2
+
+MT applies to 1E002.e | MT Column 1
+
+NP applies to “technology” for items controlled by 1A002 for NP reasons | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: Yes, except for 1E002.e and .f.
+
+License Exceptions Note: License Exception TSU is not applicable for the repair “technology” controlled by 1E002.e or .f, see supplement no. 2 to this part.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship or transmit any item in 1E002.e or .f to any of the destinations listed in Country Group A:6 (See Supplement No. 1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: See also 1E001, 1E101,1E102, 1E202, and 1E994 for “technology” related to 1E002.e or .f.
+
+Related Definitions: N/A
+
+Items: a. “Technology” for the “development” or “production” of polybenzothiazoles or polybenzoxazoles;
+
+b. “Technology” for the “development” or “production” of fluoroelastomer compounds containing at least one vinylether monomer;
+
+c. “Technology” for the design or “production” of the following ceramic powders or non-“composite” ceramic materials:
+
+c.1. Ceramic powders having all of the following:
+
+c.1.a. Any of the following compositions:
+
+c.1.a.1. Single or complex oxides of zirconium and complex oxides of silicon or aluminum;
+
+c.1.a.2. Single nitrides of boron (cubic crystalline forms);
+
+c.1.a.3. Single or complex carbides of silicon or boron; or
+
+c.1.a.4. Single or complex nitrides of silicon;
+
+c.1.b. Any of the following total metallic impurities (excluding intentional additions):
+
+c.1.b.1. Less than 1,000 ppm for single oxides or carbides; or
+
+c.1.b.2. Less than 5,000 ppm for complex compounds or single nitrides; and
+
+c.1.c. Being any of the following:
+
+c.1.c.1. Zirconia (CAS 1314-23-4) with an average particle size equal to or less than 1 µm and no more than 10% of the particles larger than 5 µm; or
+
+c.1.c.2. Other ceramic powders with an average particle size equal to or less than 5 µm and no more than 10% of the particles larger than 10 µm;
+
+c.2. Non-“composite” ceramic materials composed of the materials described in 1E002.c.1;
+
+Note: 1E002.c.2 does not control “technology” for abrasives.
+
+d. [Reserved]
+
+e. “Technology” for the installation, maintenance or repair of materials controlled by 1C001;
+
+f. “Technology” for the repair of “composite” structures, laminates or materials controlled by 1A002 or 1C007.c;
+
+Note: 1E002.f does not control “technology” for the repair of “civil aircraft” structures using carbon “fibrous or filamentary materials” and epoxy resins, contained in “aircraft” manufacturers' manuals.
+
+g. “Libraries” “specially designed” or modified to enable equipment to perform the functions of equipment controlled under 1A004.c or 1A004.d.

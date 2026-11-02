@@ -1,0 +1,1858 @@
+〔Federal Register / BIS｜90 FR 47201 — Expansion of End-User Controls To Cover Affiliates of Certain Listed Entities｜抓取 2026-11-02｜https://www.federalregister.gov/documents/full_text/text/2025/09/30/2025-19001.txt〕
+
+[Federal Register Volume 90, Number 187 (Tuesday, September 30, 2025)]
+[Rules and Regulations]
+[Pages 47201-47214]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2025-19001]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Parts 732, 734, 736, 744, and 748
+
+[Docket No. 250509-0083]
+RIN 0694-AK11
+
+
+Expansion of End-User Controls To Cover Affiliates of Certain 
+Listed Entities
+
+AGENCY: Bureau of Industry and Security, Department of Commerce.
+
+ACTION: Interim final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: In this interim final rule (IFR), the Bureau of Industry and 
+Security (BIS) amends the Export Administration Regulations (EAR) to 
+address diversion concerns involving entities on the Entity List and 
+certain other restricted end users. Under this IFR, any entity that is 
+at least 50 percent owned by one or more entities on the Entity List 
+will itself automatically be subject to Entity List restrictions. This 
+is a marked improvement over the current standard, which excludes all 
+entities that are not specifically included on the Entity List, 
+regardless of affiliation with Entity List entities. This IFR similarly 
+applies restrictions to entities at least 50 percent owned by listed 
+`military end users' and certain sanctioned parties. The 50 percent 
+ownership standard in this IFR is designed to be consistent with 
+longstanding Department of the Treasury practice, so as to limit the 
+additional burden on the business community.
+
+DATES: 
+     Effective date: This rule is effective September 29, 2025.
+     Modification request date: Non-listed foreign affiliates 
+of listed entities, regardless of the foreign country where they are 
+located, that are subject to restrictions under the Affiliates rule 
+based on ownership by an Entity List party or Military End User may 
+request modification of the relevant entry following the process in 
+Sec.  744.16(e) or Sec.  744.21(b)(2) at any time on or after September 
+29, 2025.
+     Temporary General License (TGL) validity date. General 
+Order No. 7, TGL--Non-listed foreign affiliates of listed entities, 
+which permits certain export, reexport, and transfer (in-country) 
+transactions involving non-listed 50-percent or more owned foreign 
+affiliates of parties on the Entity List or Military End-User List, as 
+specified in supplement no. 1 to part 736 under paragraph (g). This TGL 
+expires on November 28, 2025.
+     Comment date: Comments must be received by BIS no later 
+than October 29, 2025.
+
+ADDRESSES: Comments on this rule may be submitted to the Federal 
+rulemaking portal at: www.regulations.gov. The regulations.gov ID for 
+this rule is: BIS-2025-0017. Please refer to RIN 0694-AK11 in all 
+comments.
+    All filers using the portal should use the name of the person or 
+entity submitting the comments as the name of their files, in 
+accordance with the instructions below. Anyone submitting business 
+confidential information should clearly identify the business 
+confidential portion at the time of submission, file a statement 
+justifying nondisclosure and referring to the specific legal authority 
+claimed, and provide a non-confidential version of the submission.
+    For comments submitted electronically containing business 
+confidential information, the file name of the business confidential 
+version should begin with the characters ``BC.'' Any page containing 
+business confidential information must be clearly marked ``BUSINESS 
+CONFIDENTIAL'' on the top of that page. The corresponding non-
+confidential version of those comments must be clearly marked 
+``PUBLIC.'' The file name of the non-confidential version should begin 
+with the character ``P.'' Any submissions with file names that do not 
+begin with either a ``BC'' or a ``P'' will be assumed to be public and 
+will be made publicly available at: https://www.regulations.gov. 
+Commenters submitting business confidential information are encouraged 
+to scan a hard copy of the non-confidential version to create an image 
+of the file, rather than submitting a digital copy with redactions 
+applied, to avoid inadvertent redaction errors which could enable the 
+public to read business confidential information.
+
+FOR FURTHER INFORMATION CONTACT: Chair, End-User Review Committee, 
+Office of the Assistant Secretary for Export Administration, Bureau of 
+Industry and Security, Department of Commerce, Phone: (202) 482-5991, 
+Email: [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+I. Background
+
+A. The Entity List
+
+    The Entity List (supplement no. 4 to part 744 of the EAR (15 CFR 
+parts 730-774)) identifies entities for which there is reasonable cause 
+to believe, based on specific and articulable facts, that the entities 
+have been involved, are involved, or pose a significant risk of being 
+or becoming involved in activities contrary to the national security or 
+foreign policy interests of the United States, pursuant to Sec.  
+744.11. The EAR impose additional license requirements on, and limit 
+the availability of most license exceptions for, exports, reexports, 
+and transfers (in-country) when a listed entity is a party to the 
+transaction. The license review policy for each listed entity is 
+identified in the ``License Review Policy'' column on the Entity List, 
+and the impact on the availability of license exceptions is described 
+in the relevant Federal Register rule that added the entity to the 
+Entity List. BIS places entities on the Entity List pursuant to parts 
+744 (Control Policy: End-User and End-Use Based) and 746 (Embargoes and 
+Other Special Controls) of the EAR.
+    The End-User Review Committee (ERC), composed of representatives of 
+the Departments of Commerce (Chair), Defense, Energy, State and, where 
+appropriate, the Treasury, generally makes decisions regarding 
+additions to, removals from, or other modifications to the Entity List. 
+The ERC makes decisions to add an entry to the Entity List by majority 
+vote and makes
+
+[[Page 47202]]
+
+decisions to remove or modify an entry by unanimous vote.
+
+B. Scope of Entries Listed on the Entity List
+
+1. Entity List Legally Distinct Standard
+    Prior to this IFR, BIS used a `legally distinct' standard for 
+applying restrictions to subsidiaries and other foreign affiliates of 
+entities identified on the Entity List. Under this standard, Entity 
+List restrictions for listed entities have extended to the foreign 
+entity listed on the Entity List, as well as any related foreign entity 
+located in that same country that is not legally distinct from the 
+listed foreign entity. For example, a branch of a listed entity, even 
+if operating under a different name, was considered to be subject to 
+Entity List restrictions, because the branch is not legally distinct 
+from the listed entity. Conversely, the Entity List requirements for a 
+listed entity did not extend to a foreign affiliate owned by a listed 
+entity that was legally distinct from the listed entity, unless BIS 
+separately listed that legally distinct foreign affiliate on the Entity 
+List.
+    BIS is concerned that the old approach can enable diversionary 
+schemes, such as the creation of new foreign companies to evade Entity 
+List restrictions. Creation of such companies may allow listed entities 
+to deceive exporters, reexporters, and transferors into providing items 
+in violation of the Entity List restrictions that apply to the listed 
+entities. Furthermore, the old approach required BIS to expend 
+substantial efforts to address the tactics that listed entities would 
+adopt to circumvent their placement on the Entity List. BIS frequently 
+published additional final rules to identify legally distinct foreign 
+affiliates of listed entities that also warranted being listed on the 
+Entity List. Even with these additions, there remained a risk that 
+entities would create additional non-listed foreign companies to try to 
+circumvent the intent of the controls. The creation of such new foreign 
+companies would in turn require BIS to devote significant additional 
+time and resources to issuing rules adding them to the Entity List. 
+With this IFR, BIS is reducing future piecemeal regulatory activity to 
+expand Entity List restrictions.
+    Because of such diversion concerns, BIS has determined that to 
+protect U.S. national security and foreign policy interests, the Entity 
+List restrictions should also extend to certain foreign companies that 
+are subsidiaries or other foreign affiliates owned by listed entities.
+2. The 50 Percent Ownership Rule
+    The Department of the Treasury's Office of Foreign Assets Control 
+(OFAC) uses a 50 percent ownership rule in connection with the 
+Specially Designed Nationals and Blocked Persons List (SDN List) and 
+may also apply the 50 percent rule when issuing other sanctions 
+prohibitions, including less than full blocking restrictions. Sanctions 
+maintained by OFAC prohibit all transactions by U.S. persons, wherever 
+they are located, or within (or transiting) the United States that 
+involve any property or interests in property of designated or 
+otherwise blocked persons, unless authorized by a general or specific 
+license issued by OFAC or exempt under OFAC's regulations. All property 
+and interests in property of blocked persons that are in the United 
+States or in the possession or control of U.S. persons may not be 
+transferred or otherwise dealt in and must be reported to OFAC. Under 
+the 50 percent rule, entities which are owned 50 percent or more, 
+directly or indirectly, individually or in aggregate, by one or more 
+blocked persons are generally considered blocked, regardless of whether 
+such entities are specifically added to the SDN List.
+    OFAC's 50 percent rule addresses, among other objectives, threats 
+of circumvention through unlisted subsidiaries while reducing the 
+administrative burden associated with adding subsidiaries to the SDN 
+List. Similar to OFAC, BIS in this IFR is applying the 50 percent rule 
+under the EAR to address diversionary/circumvention tactics/risks (as 
+described in section I.B.1) and address interest in reducing 
+administrative burdens. BIS has determined that applying the 50 percent 
+rule under the EAR (which BIS refers to as the Affiliates rule) will 
+reduce the need to publish additional final rules to add entities to 
+the Entity List and more broadly and effectively impose license 
+requirements for exports, reexports, and transfers (in-country) to or 
+involving entities that pose a significant risk of being or becoming 
+involved in activities that are contrary to the national security or 
+foreign policy interests of the United States.
+    BIS recognizes that its own application of the Affiliates rule may 
+require additional analysis by the private sector (e.g., exporters, 
+reexporters, or transferors) in order to comply. The private sector 
+should already be undertaking this analysis as part of a risk-based 
+approach under OFAC prohibitions to reduce their risk of liability for 
+dealings with blocked persons who are subject to OFAC's 50 percent 
+rule. BIS anticipates that this experience in complying with OFAC's 50 
+percent rule should ease the transition for parties in complying with 
+the requirements that this IFR adds to the EAR by adopting an 
+Affiliates rule. Applying the Affiliates rule may take more time and 
+compliance resources compared to simply screening a list for identified 
+names, especially in situations where limited information on corporate 
+ownership structures is publicly available, such as where a listed 
+entity is privately held. Adopting the Affiliates rule will also mean 
+that the Consolidated Screening List (CSL) will no longer comprise an 
+exhaustive listing of foreign entities subject to Entity List license 
+requirements, because the CSL will only include the entities listed on 
+the Entity List and will not reflect these additional foreign 
+affiliates of listed entities that are owned 50 percent or more by one 
+or more listed entities.
+    There are various private sector screening resources for companies 
+that may help to mitigate this challenge, including vendors that 
+conduct 50 percent ownership analysis already as part of their OFAC 
+compliance screening programs. OFAC also provides guidance regarding 
+certain entities that may be blocked pursuant to the 50 percent rule to 
+facilitate compliance, though this does not replace the need for 
+independent compliance screening or due diligence. BIS may follow 
+OFAC's practice of providing guidance regarding certain entities that 
+may be subject to the Affiliates rule to facilitate compliance. To 
+further support compliance, BIS may in certain circumstances add those 
+additional entities to the Entity List.
+3. Protecting U.S. National Security and Foreign Policy Interests 
+Necessitates Adoption of the Affiliates Rule, or a Stricter Rule, for 
+the Entity List
+    The Entity List has increasingly become a vital tool to protect 
+U.S. national security and foreign policy interests. The Entity List 
+was originally added to the EAR on February 3, 1997, to address nuclear 
+proliferation concerns (62 FR 4910). The scope of the Entity List has 
+been broadened over the years, e.g., with the addition of Sec.  744.11 
+(establishing listing criteria and related procedures) and certain 
+Entity List Foreign Direct Product (FDP) rules (Sec.  734.9(e) and 
+(g)), to better take into account all entities that may be involved in 
+activities that are contrary to U.S. national security or foreign 
+policy interests. BIS, in consultation with the Departments of Defense, 
+Energy, State,
+
+[[Page 47203]]
+
+and the Treasury, has determined that the legally distinct standard, 
+which also relied on exporters, reexporters, and transferors practicing 
+sufficient due diligence when dealing with legally distinct entities 
+that were foreign affiliates of listed entities, is not sufficient to 
+adequately protect U.S. national security or foreign policy interests. 
+In order for Entity List restrictions to effectively protect U.S. 
+national security and foreign policy interests, the restrictions must 
+also extend to foreign affiliates that are owned, directly or 
+indirectly, by one or more listed entities to prevent diversion to 
+listed entities of concern.
+    BIS, in consultation with the Departments of Defense, Energy, 
+State, and the Treasury, is adopting for the Entity List the 50 percent 
+rule that OFAC has used for many years for the SDN List, which for EAR 
+purposes will be referred to as the Affiliates rule. Adopting the same 
+standard that exporters, reexporters, and transferors have already been 
+using in their OFAC compliance programs will likely ease the burden in 
+adopting the new standard for Entity List compliance, as compared with 
+a distinct standard that applies a lower ownership threshold. 
+Additionally, this IFR does not constrain the ERC's ability to add an 
+affiliated entity that is under the 50 percent threshold when the ERC 
+has reasonable cause to believe, based on specific and articulable 
+facts, that the foreign entity has been involved, is involved, or poses 
+a significant risk of being or becoming involved in activities contrary 
+to the national security or foreign policy interests of the United 
+States, pursuant to Sec.  744.11(b). Even so, BIS welcomes comments on 
+whether the 50 percent ownership threshold should be lower.
+    For the same reasons as noted above, BIS, in consultation with the 
+Departments of Defense, Energy, State, and the Treasury, is also 
+adopting the Affiliates rule at this time for the `Military End-User' 
+(MEU) List in supplement no. 7 to part 744. Extending the Affiliates 
+rule to the MEU List is consistent with prior BIS proposals to align 
+the MEU List and the Entity List, including by potentially merging the 
+two lists and expanding license requirements for MEUs, that are under 
+review (see the July 29, 2024 proposed rule, End-Use and End-User Based 
+Export Controls, Including U.S. Persons Activities Controls: Military 
+and Intelligence End Uses and End Users, 89 FR 60985). BIS is also 
+adopting the Affiliates rule for Sec.  744.8 (Restrictions on exports, 
+reexports, and transfers (in-country) when certain persons designated 
+on the SDN List are a party to the transaction) to better prevent 
+diversion and to align more closely EAR restrictions with corresponding 
+OFAC restrictions that apply to persons designated as SDNs under the 
+authorities specified in Sec.  744.8.
+    BIS is also informing the public that foreign parties with 
+significant minority ownership by, or other significant ties to (e.g., 
+overlapping board membership or other indicia of control), an Entity 
+List entity, an MEU List entity, or an SDN subject to Sec.  744.8(a)(1) 
+present a Red Flag of potential diversion risk to the listed entity. In 
+this type of situation, additional due diligence is necessary, 
+especially given the opaque ownership structures and limited access to 
+accurate ownership data in certain jurisdictions. In addition, BIS has 
+added a Red Flag to supplement no. 3 to part 732 to indicate that if an 
+exporter, reexporter, or transferor cannot determine the ownership 
+percentage of a foreign entity that is an entity owned by one or more 
+listed entities on the Entity List or the MEU List, it must resolve the 
+Red Flag prior to proceeding with any exports, reexports, or transfers 
+(in-country) to the foreign entity, submit a license application to 
+BIS, or identify an available license exception based on the 
+restrictions applicable to the listed party. There are not many EAR 
+license exceptions available, but for certain listed entities, there 
+are narrowly specified EAR license exceptions that may be available. 
+For example, JSC Integral, a company that is involved with the 
+International Space Station (ISS), is listed on the Entity List, so the 
+Affiliates rule would apply to a foreign entity that is owned 50 
+percent or more by this listed entity. The license requirement for JSC 
+Integral may be overcome by License Exception GOV under Sec.  
+740.11(b)(2) and (e). For example, provided the export meets all of the 
+requirements of License Exception GOV under Sec.  740.11(b)(2) and is 
+not otherwise restricted under any of the general restrictions on the 
+use of license exceptions under Sec.  740.2, exporters could rely on 
+this license exception authorization for an export to a foreign entity 
+that is owned 50 percent or more by the listed entity JSC Integral. 
+When an unlisted entity is owned 50 percent or more by multiple Entity 
+List parties, and only one such owner is eligible for a license 
+exception, that license exception will not apply to transactions 
+involving the unlisted entity, because BIS will apply the most 
+restrictive license requirements to the unlisted entity.
+    Exporters, reexporters, and transferors are responsible for 
+compliance with the BIS Affiliates rule and can be held liable for 
+unauthorized exports, reexports, or transfers (in-country) on a strict 
+liability basis, so due diligence must be conducted to determine 
+whether a foreign entity is an entity that is owned by one or more 
+listed entities. The application of the Affiliates rule creates an 
+affirmative duty to determine the ownership of other parties to the 
+transaction in order to comply. As with any export transaction, other 
+parties, e.g., freight forwarders and financial institutions, may also 
+have compliance obligations; BIS maintains guidance applicable to these 
+parties that may be of assistance in ensuring that their compliance 
+programs appropriately take export control restrictions into account.
+    BIS is not adopting the Affiliates rule at this time for certain 
+other EAR restricted parties list or provisions, specifically, the 
+Unverified List (UVL) in supplement no. 6 to part 744, or the list of 
+parties subject to Denial Orders issued under part 764. Extending the 
+Affiliates rule to UVL entities is not warranted because subsidiaries 
+or other foreign affiliates of these listed entities may not meet the 
+standard set forth in Sec.  744.15, that is receipt of items subject to 
+the EAR with respect to which BIS could not conduct a successful end-
+use check for reasons that are outside of the U.S. government's 
+control. BIS is also not extending the Affiliates rule to persons 
+subject to Denial Orders as there is a separate related persons process 
+under Sec.  766.23 pursuant to which BIS provides persons with notice 
+of contemplated action and an opportunity to respond. BIS welcomes 
+public comments in response to this IFR on whether BIS should extend 
+the Affiliates rule to these other EAR end-user lists, as well as on 
+any other aspect of this IFR.
+
+C. Extending the Entity List Requirements
+
+    As discussed above, BIS, in consultation with the Departments of 
+Defense, Energy, State, and the Treasury, has determined the existing 
+Entity List restrictions for all existing entries on the Entity List, 
+including any new entities that will be added to the Entity List in 
+future rulemakings, extend to any foreign entity that is owned by 50 
+percent or more by one or more listed entities. The ERC may apply 
+exceptions to the Affiliates rule on a case-by-case basis if it 
+determines that the foreign affiliates owned by a particular listed 
+entity, or one specific foreign entity owned by a listed entity, do not 
+pose a significant risk of being or becoming involved in diversion to 
+the listed entity by approving additions or modifications
+
+[[Page 47204]]
+
+to the Entity List. These exclusions will be identified by specifying 
+in the relevant entry on the Entity List or MEU List that the 
+Affiliates rule does not apply to any foreign affiliate owned by a 
+particular listed entity or that a specific foreign affiliate is 
+excluded. The ERC will make determinations regarding the applicability 
+of these exceptions in accordance with the procedures set forth in 
+supplement no. 5 to part 744 of the EAR. Any foreign entity that is 
+subject to restrictions based upon direct or indirect ownership by one 
+or more listed entities may request such an exclusion through a request 
+to modify the relevant Entity List entry or entries pursuant to the 
+procedures identified in Sec.  744.16 (Entity List) under paragraph 
+(e).
+
+D. Overview of This IFR
+
+    To effectuate the changes described above, in particular, adopting 
+the Affiliates rule, BIS is amending part 744, as well as making 
+conforming changes to parts 732, 734, 736, and 748 of the EAR (15 CFR 
+parts 730-744). The four sets of changes this IFR makes are described 
+in section II as follows:
+    1. Adoption of the Affiliates rule for the Entity List;
+    2. Adoption of the Affiliates rule for the MEU List;
+    3. Adoption of the Affiliates rule for Sec.  744.8; and
+    4. Other conforming changes.
+
+II. Amendments to the EAR
+
+A. Adoption of the Affiliates Rule for the Entity List Changes
+
+1. Revision to Introductory Text of Entity List
+    This IFR amends the Entity List in supplement no. 4 to part 744, by 
+revising the introductory text to the supplement. This IFR adds a new 
+fourth sentence to specify that the Entity List license requirements 
+and other Entity List restrictions also apply to any foreign entity 
+that is owned 50 percent or more by one or more listed entities or 
+entities that are subject to restrictions based upon their ownership. 
+This IFR adds a new fifth sentence to specify the rule of most 
+restrictiveness, which as used in Sec. Sec.  744.8, 744.11, 744.21, and 
+supplements nos. 4, 7, and 8 to part 744 of the EAR, means an entity 
+owned 50 percent or more, directly or indirectly, by multiple entities 
+subject to EAR license requirements pursuant to some combination of the 
+Entity List, MEU List, or SDN List designated under programs listed in 
+Sec.  744.8(a)(1), is subject to the most restrictive license 
+requirements, license exception eligibility, and license review policy 
+applicable to one or more of its owners under the EAR. This IFR also 
+adds a new sixth sentence to specify that if an exporter, reexporter, 
+or transferor cannot determine the ownership percentage of a foreign 
+entity that is an entity owned, directly or indirectly, by one or more 
+listed entities, they must resolve new Red Flag 29, obtain a license 
+from BIS, or identify an applicable license exception prior to 
+proceeding with the export, reexport, or transfer (in-country) and 
+includes a cross reference to new Red Flag 29 in supplement no. 3 to 
+part 732 that this IFR adds. Lastly, this IFR adds the phrase ``and 
+other Entity List restrictions'' after the reference to ``license 
+requirements'' in the first sentence of the introductory text to 
+clarify that listed entities are subject to restrictions on license 
+exception availability and the license review policy stated in the 
+listing, as well as the indicated license requirements.
+2. Revision to Sec.  744.11 To Adopt Affiliates Rule for the Entity 
+List
+    In Sec.  744.11 (License requirements that apply to entities acting 
+or at significant risk of acting contrary to the national security or 
+foreign policy interests of the United States), this IFR adds paragraph 
+(a)(1) (Entity List entries extend to other foreign affiliates of 
+listed entities owned 50 percent or more by one or more listed entities 
+or unlisted entities that are subject to ownership-related 
+restrictions) to specify that the Entity List license requirements and 
+other Entity List restrictions also apply to any foreign entity that is 
+owned, directly or indirectly, individually or in the aggregate, 50 
+percent or more by one or more listed entities or unlisted entities 
+that are subject to Entity List license requirements or other Entity 
+List restrictions based upon their ownership. This revision is made 
+because of the diversion concern to listed entities. Paragraph (a) 
+specifies the rule of most restrictiveness, as described under section 
+II.A.1 of this IFR also applies to the Entity List. Paragraph (a)(1) 
+also specifies that if an exporter, reexporter, or transferor cannot 
+determine the ownership percentage of a foreign entity that is an 
+entity owned, directly or indirectly, by one or more listed entities on 
+the Entity List, they must resolve the Red Flag or obtain a license 
+from BIS prior to proceeding with the export, reexport, or transfer 
+(in-country), unless a license exception is available. Paragraph (a)(1) 
+also includes a cross reference to new Red Flag 29 that this IFR adds 
+to supplement no. 3 to part 732. Lastly, paragraph (a)(1) also 
+specifies that the Entity List license requirements and other Entity 
+List restrictions do not apply to foreign affiliates of listed entities 
+that are owned, directly or indirectly, individually or in aggregate, 
+50 percent or more by one or more entities that are operating at an 
+address listed on the Entity List if the entities operating at that 
+address are not specifically identified on the Entity List. BIS notes 
+that these addresses pose diversion concerns such as through the 
+operation of corporate secretarial services companies or logistics 
+companies associated with high volumes of diversion, but that entities 
+located at a different address with a parent company registered at a 
+corporate services address on the Entity List may not present the same 
+diversion risks.
+    For any foreign entity that is owned, directly or indirectly, 
+individually or in aggregate, 50 percent or more by one or more 
+entities with different Entity List license requirements, the most 
+restrictive of those Entity List license requirements apply to that 
+foreign entity. For any foreign entity that is an entity owned, 
+directly or indirectly, by a listed entity where ownership percentage 
+cannot be determined, the most restrictive Entity List license 
+requirements applicable to the listed entity apply to that foreign 
+entity. If BIS is able to make a determination during the license 
+review process that the foreign entity is in fact not owned, directly 
+or indirectly, individually or in aggregate, 50 percent or more by one 
+or more listed entities or entities that are subject to Entity List 
+license requirements or other Entity List restrictions based upon their 
+ownership, the license application will be returned without action to 
+the applicant noting that a license is not required. In such cases, BIS 
+may consider issuing guidance, as appropriate, in the form of a 
+frequently asked question on the BIS website to advise other exporters 
+of such determination.
+    Application example 1:
+     Company A is listed on the Entity List and requires a 
+license for all items subject to the EAR and has a presumption of 
+denial license review policy. Company A owns 35 percent of Company C. 
+Company C is not listed on the Entity List.
+     Company B is listed on the Entity List and requires a 
+license for any item on the CCL and has a case-by-case license review 
+policy. Company B owns 15 percent of Company C.
+     Company C is owned directly or indirectly, individually or 
+in aggregate, 50 percent or more by one or more listed entities (i.e., 
+Company A and B in this example). The Entity List license
+
+[[Page 47205]]
+
+requirements that are applicable to Company C are the same as if the 
+item was being exported, reexported, or transferred (in-country) to the 
+owners listed on the Entity List. Because the Entity License 
+requirements and license review policy is more restrictive for Company 
+A, the Entity List license requirements and license review policy for 
+Company A would be followed for any transaction where Company C is a 
+party to the transaction. Also note that the breakdown of the 
+percentages adding up to 50 percent or more does not matter (e.g., in 
+this hypothetical, it would not matter if Company B held 35 percent and 
+Company A held 15 percent--Company A's requirements would still apply).
+     Company D is owned 50 percent by Company C. Because 
+Company D is owned, directly or indirectly, individually or in the 
+aggregate, 50 percent or more by an unlisted entity (Company C) that is 
+subject to Entity List license requirements or other Entity List 
+restrictions based upon its ownership, the Entity List license 
+requirements that are applicable to Company D are the same as if the 
+item was being exported, reexported, or transferred (in-country) to its 
+owner(s) listed on the Entity List. Assuming Company D has no direct or 
+indirect ownership by other listed parties that are subject to more 
+restrictive license requirements and other restrictions, the Entity 
+List license requirements and license review policy for Company C would 
+be followed for any transaction where Company D is a party to the 
+transaction.
+    BIS estimates that these changes described in section II.A.1 and .2 
+will result in an additional 170 license applications submitted to BIS 
+annually.
+3. Conforming Changes in Sec.  734.9 for FDP Rules for Entities on the 
+Entity List
+    In Sec.  734.9 (Foreign-Direct Product (FDP) Rules), this IFR as a 
+conforming change adds three sentences to the end of paragraph (e) 
+(Entity List FDP rules), to specify that consistent with the revised 
+introductory text to the Entity List (see supp. no. 4 to part 744), the 
+end-user scope of the Entity List FDP rules includes any foreign entity 
+that is owned 50 percent or more, directly or indirectly, individually 
+or in aggregate, by one or more listed entities or unlisted entities 
+that are subject to Entity List license requirements or other Entity 
+List restrictions based upon their ownership, including at least one 
+entity within the end-user scope of the provision. This IFR adds a 
+second sentence to specify that these requirements apply to all 
+entities on the Entity List with a footnote referenced under this 
+paragraph (e). This IFR adds a final sentence stating that if the 
+foreign entity is owned 50 percent or more by one or more listed 
+entities or unlisted entities that are subject to Entity List license 
+requirements or other Entity List restrictions based upon their 
+ownership, including at least one entity within the end-user scope, 
+these Entity List FDP requirements are applicable, even when only one 
+of the owners meets the end-user criteria under paragraph (e).
+    For the same reason, this IFR adds two sentences to the end of 
+paragraph (g) to specify that consistent with the revised introductory 
+text to the Entity List in supplement no. 4 to part 744, the end-user 
+scope of the Russia/Belarus-Military End User and Procurement FDP rule 
+also includes any foreign entity that is owned, directly or indirectly, 
+individually or in aggregate, 50 percent or more by one or more listed 
+entities or unlisted entities that are subject to Entity List license 
+requirements or other Entity List restrictions based upon their 
+ownership, including at least one entity that meets the end-user scope 
+of paragraph (g). As in paragraph (e), this IFR adds an additional 
+sentence to the end of paragraph (g) to provide application guidance 
+for these criteria.
+    Application example 2 for FDP application:
+     Company E is listed on the Entity List with a footnote 3 
+designation, which means foreign-produced items that meet the criteria 
+in Sec.  734.9(g) (Russia/Belarus-Military End User and Procurement FDP 
+rule) are subject to the EAR and require a license to this entity. 
+Company E owns 35 percent of Company G.
+     Company F is listed on the Entity List with a footnote 1 
+designation, which means foreign-produced items that meet the criteria 
+in Sec.  734.9(e)(1) (Entity List FDP rule: Footnote 1) are subject to 
+the EAR and require a license to this entity. Company F owns 15 percent 
+of Company G.
+     Company G is owned directly or indirectly, individually or 
+in aggregate, 50 percent or more by one or more listed entities (i.e., 
+Company E and F in this example), the Entity List license requirements 
+and other requirements are applicable the same as if the item was being 
+exported, exported from abroad, reexported, or transferred (in-country) 
+to the owners of Company G listed on the Entity List. Similar to 
+Application example 1, under this Application example 2, the breakdown 
+of the percentages adding up to 50 percent or more does not matter 
+(e.g., in this hypothetical, it would not matter if Company F held 35 
+percent and Company E held 15 percent--Company F's requirements would 
+still apply), although in determining the scope of foreign-produced 
+items subject to the EAR, the criteria for both Company E and F would 
+be used.
+     In determining the scope of foreign-produced items subject 
+to the EAR that require a license to Company G, both the criteria under 
+Sec. Sec.  734.9(e)(1) and (g) (i.e., the requirements for both Company 
+E and Company F) would be used for determining which items required a 
+license based on the Entity List license requirements.
+    BIS estimates that these changes to Sec.  734.9 will result in an 
+additional five license applications submitted to BIS annually.
+4. Requests for Removal of Entity List License Requirements for Any 
+Foreign Affiliate of a Listed Entity That is Subject to Entity List 
+License Requirements Based on Direct or Indirect Ownership by One or 
+More Entities Listed on the Entity List
+    In Sec.  744.16 (Entity List) this IFR revises paragraph (e) 
+(Removal or modification requests) to add a new second sentence to 
+specify that any foreign entity that is owned, directly or indirectly, 
+individually or in aggregate, 50 percent or more by one or more 
+entities listed on the Entity List or by entities subject to Entity 
+List license requirements or other Entity List restrictions based upon 
+their ownership, may request that its Entity List owner's entry listing 
+be modified to exclude the requester.
+    BIS estimates that these changes to Sec.  744.16(e) will result in 
+an additional 30 appeals submitted to BIS annually.
+5. Addition of Guidance for Applying for License Applications That 
+Include a Party to the Transaction That is At Least 50 Percent Owned by 
+an Entity List Entity, `Military End Users,' or Certain SDNs
+    In Sec.  748.8 (Unique application and submission requirements), 
+this IFR adds a new paragraph (a)(a) to reference a new paragraph 
+(c)(c) (Affiliates rule entities) added to supplement no. 2 to part 
+748--Unique Application and Submission Requirements. New paragraph 
+(c)(c) specifies that in order to request a license for an export, 
+reexport, or transfer (in-country) for any foreign entity that is 
+owned, directly or indirectly, individually or in aggregate, 50 percent 
+or more by one or more entities listed on the Entity List in supplement 
+no. 4 to part 744, MEU List in supplement no. 7 to part 744, or by one 
+or more SDNs designated under programs listed in Sec.  744.8(a)(1), or 
+for an
+
+[[Page 47206]]
+
+export, reexport, or transfer (in-country) when the exporter, 
+reexporter, or transferor cannot determine the ownership percentage of 
+a foreign entity that is an entity owned by one or more listed entities 
+on the Entity List or the MEU List, the license applicant must specify 
+``Affiliates rule'' in Block 9 (Special Purpose) of the BIS-748P 
+``Multipurpose Application'' form. This IFR also specifies that for 
+license applications when the exporter, reexporter, or transferor 
+cannot determine the ownership percentage of a foreign entity that is 
+an entity owned by one or more listed entities on the Entity List or 
+the MEU List, the license application must specify the names of the 
+listed party or parties that own that entity, which also must include 
+explaining the due diligence conducted to determine the percentage of 
+ownership, including providing an explanation for why percentage of 
+ownership was not able to be determined. In addition, this new 
+paragraph (c)(c) in supplement no. 2 to part 748 specifies that the 
+applicant must specify the names of the listed party or parties that 
+own, individually or in the aggregate, 50 percent or more, directly or 
+indirectly, of that entity(ies) listed on the license application, 
+including identifying the percentage of ownership by listed parties and 
+identifying the method that the applicant used to make that 
+determination. The inclusion of this information as part of a license 
+application, will assist BIS in identifying why the license application 
+was submitted and in evaluating potential diversion concerns.
+    BIS estimates that this addition of paragraph (c)(c) to supplement 
+no. 2 to part 748 and the addition of Sec.  748.8(a)(a) will not result 
+in any additional license applications submitted to BIS annually 
+because these two new paragraphs are limited to providing guidance on 
+how to submit such license applications. The overall annual increase in 
+license applications associated with this IFR has already been 
+estimated and accounted for elsewhere in this IFR.
+
+B. Adoption of the Affiliates Rule for the MEU List Changes
+
+1. Revision to the Introductory Text of the MEU List
+    This IFR amends the MEU List in supplement no. 7 to part 744, by 
+revising the introductory text to add a new fourth sentence to specify 
+that the MEU List license requirements and other MEU restrictions also 
+apply to any foreign entity that is owned 50 percent or more by one or 
+more listed entities or entities that are subject to restrictions based 
+upon their ownership. This IFR adds a new fifth sentence to specify 
+that the rule of most restrictiveness, as described under section 
+II.A.1 of this IFR, also applies to the MEU List. This IFR also adds a 
+new sixth sentence to specify that if an exporter, reexporter, or 
+transferor cannot determine the ownership percentage of a foreign 
+entity that is an entity owned, directly or indirectly, by one or more 
+listed entities, they must resolve the Red Flag or obtain a license 
+from BIS prior to proceeding with the export, reexport, or transfer 
+(in-country), unless a license exception is available.
+2. Revision to Sec.  744.21 To Adopt the Affiliates Rule for the MEU 
+List
+    In Sec.  744.21 (Restrictions on certain `military end uses' or 
+`military end users'), this IFR adds paragraph (a)(3) to specify that 
+the MEU List and Entity List license requirements in Sec.  744.21(a)(1) 
+and (2) also apply to any foreign entity that is owned, directly or 
+indirectly, individually or in aggregate, 50 percent or more by one or 
+more listed entities or entities subject to Entity List or MEU List 
+restrictions based upon their ownership. Paragraph (a)(3) specifies the 
+rule of most restrictiveness, as described under section II.A.1 of this 
+IFR, also applies to the MEU List. Paragraph (a)(3) also specifies that 
+if an exporter, reexporter, or transferor cannot determine the 
+ownership percentage of a foreign affiliate that is an entity owned, 
+directly or indirectly, by one or more listed entities, they must 
+resolve the Red Flag or obtain a license from BIS prior to proceeding 
+with the export, reexport, or transfer (in-country), unless a license 
+exception is available. Paragraph (a)(3) also includes a cross 
+reference to new Red Flag 29 that this IFR adds to supplement no. 3 to 
+part 732. For any foreign affiliate that is owned, directly or 
+indirectly, individually or in aggregate, 50 percent or more by one or 
+more listed entities with different MEU List or Entity List license 
+requirements, the most restrictive MEU List or Entity List license 
+requirements apply to that foreign entity. For any foreign entity where 
+the exporter, reexporter, or transferor cannot determine the ownership 
+percentage of a foreign entity that is an entity owned, directly or 
+indirectly, by one or more listed entities, they must submit a license 
+application to BIS.
+    Paragraph (a)(3) further specifies that the license requirements in 
+paragraphs (a)(1) and (2) do not apply to unlisted foreign affiliates 
+that are owned, directly or indirectly, individually or in the 
+aggregate, solely by one or more unlisted `military end users,' unless 
+the unlisted foreign affiliate itself meets the definition of a 
+`military end user.' BIS has included this text to clarify that the 
+affiliates rule does not extend the license requirements of Sec.  
+744.21 to unlisted foreign affiliates when there is no direct or 
+indirect ownership by a listed MEU or Entity Listed party with a 
+footnote 3 designation.
+    BIS estimates that these changes described in section II.B.1 and .2 
+will result in an additional 30 license applications submitted to BIS 
+annually.
+3. Requests for Removal of MEU License Requirements for Any Foreign 
+Affiliate of a Listed Entity That is Subject to MEU License 
+Requirements Based on Direct or Indirect Ownership by One or More 
+Entities Listed on the MEU List and Entity List
+    In Sec.  744.21, this IFR also revises paragraph (b)(2) (Requests 
+for removal from or modification of `Military End User' (MEU) List and 
+Entity List) introductory text, to specify that any foreign entity that 
+is owned, directly or indirectly, individually or in aggregate, 50 
+percent or more by one or more entities listed on the MEU List or the 
+Entity List or subject to MEU List or Entity List restrictions based 
+upon their ownership, may request that its MEU List or Entity List 
+owner's entry listing be modified to exclude the requester.
+    BIS estimates that these changes to Sec.  744.21(b)(2) will result 
+in an additional 5 appeals submitted to BIS annually.
+
+C. Revisions to Sec.  744.8
+
+1. Background on SDN List and EAR Requirements Under Sec.  744.8
+    The U.S. Government has a number of list-based tools to restrict 
+economic activities of individuals and entities to protect U.S. 
+national security or foreign policy interests. BIS employs end-user 
+controls under the EAR, including the Entity List, to impose license 
+requirements for the export, reexport, and transfer (in-country) of 
+items subject to the EAR. End-user requirements and Entity List 
+additions allow for the monitoring of items subject to the EAR, 
+including less-sensitive items.
+    OFAC maintains the SDN List to identify persons whose property or 
+interests in property that are within the United States or in the 
+possession or control of U.S. persons, wherever located, are blocked 
+(see appendix A to 31 CFR chapter V and https://www.treas.gov/sdn). 
+These targeted economic sanctions tools enable the
+
+[[Page 47207]]
+
+U.S. Government to escalate economic pressure and promote deterrence 
+while mitigating unintended economic effects on the United States and 
+our partners and allies.
+    Under Sec.  744.8, BIS implements additional EAR license 
+requirements for all items subject to the EAR for all persons blocked 
+under specified OFAC-administered sanctions programs identified under 
+this section. The EAR restrictions under Sec.  744.8 involving these 
+OFAC-administered sanctions programs serve as a force multiplier and 
+complement OFAC's blocking sanctions, which prohibit all transactions 
+by U.S. persons, wherever they are located, or persons within (or 
+transiting) the United States that involve any property or interests in 
+property of designated or blocked persons, unless authorized by a 
+general or specific license issued by OFAC or exempt under OFAC's 
+regulations. The imposition of these EAR license requirements for 
+exports, reexports, and transfers (in-country) allows for the EAR 
+controls to act as a backstop for activities over which OFAC does not 
+exercise jurisdiction, including certain situations involving deemed 
+exports and deemed reexports, and for reexports and transfers (in-
+country) that would otherwise not involve U.S. persons (e.g., U.S. 
+financial institutions). Notably, the license requirements under Sec.  
+744.8 allow for controls on items outside the United States, 
+complementing the existing authority in many OFAC programs to impose 
+blocking sanctions on persons, even outside the United States, who 
+materially assist, sponsor, or provide financial, material, or 
+technological support for, or goods or services to or in support of, 
+SDNs.
+2. Adoption of the Affiliates Rule for the Purposes of Sec.  744.8
+    In Sec.  744.8 (Restrictions on exports, reexports, and transfers 
+(in-country) when certain persons designated on the SDN List are a 
+party to the transaction), this IFR revises paragraph (a)(2) to add a 
+new second sentence that specifies that these EAR controls described 
+under this section also apply to any entity that is owned, directly or 
+indirectly, individually or in aggregate, 50 percent or more by one or 
+more persons blocked under one of the specific programs identified 
+under Sec.  744.8(a)(1), which is needed to address diversion concerns 
+to entities blocked as a result of these SDN designations. Paragraph 
+(b), which states the licensing requirement applicable when an SDN 
+designated under the programs identified in paragraph (a)(1) is a party 
+to the transaction, is revised to clarify that the same restrictions 
+apply regardless of how a party is blocked (i.e., included on the SDN 
+List or by operation of OFAC's 50 percent rule) by adding `, or blocked 
+pursuant to,' between `designated on OFAC's SDN list with' and `any of 
+the identifiers set forth in paragraph (a)(1).'
+    These restrictions are consistent with OFAC regulations, but in the 
+event of a discrepancy exporters, reexporters, and transferors must 
+follow the rule stated here. Because of the close relation between 
+OFAC's SDN List and this section, the public asked BIS in 2024 after 
+Sec.  744.8 was added to the EAR in the final rule, ``End-User 
+Controls: Imposition of Restrictions on Certain Persons Identified on 
+the List of Specially Designated Nationals and Blocked Persons (SDN 
+List)'' published March 21, 2024 (89 FR 20107), whether BIS was using 
+the legally distinct standard or the OFAC 50 percent ownership rule, 
+and BIS provided regulatory guidance to exporters, reexporters, and 
+transferors that BIS was using the legally distinct standard. However, 
+because BIS is now adopting the Affiliates rule for the Entity List and 
+MEU List, BIS has also determined it is warranted to also use the 50 
+percent ownership standard for the Sec.  744.8 requirements to protect 
+U.S. national security and foreign policy interests and to reflect the 
+close relationship with OFAC for purposes of this section. This IFR 
+also adds a new third sentence that specifies the rule of most 
+restrictiveness, as described under section II.A.1 of this IFR also 
+applies to SDNs listed under one of the specific programs identified 
+under Sec.  744.8(a)(1). As discussed above, this IFR neither 
+constrains the ERC's ability to add a foreign entity that falls below 
+the 50 percent threshold nor to exclude an entity that is owned 50 
+percent or more by one or more listed entities.
+    BIS estimates that these changes to Sec.  744.8 will result in an 
+additional 55 license applications submitted to BIS annually.
+
+D. Other Conforming Changes
+
+1. Temporary General License (TGL)--Non-Listed Foreign Affiliates of 
+Listed Entities
+    In Supplement No. 1 to Part 736--General Orders, this IFR adds a 
+new Temporary General License, Non-listed foreign affiliates of listed 
+entities under paragraph (g). This IFR adds paragraph (g)(1) 
+(Authorization), which specifies that this TGL authorizes: (i) exports, 
+reexports, or transfers (in-country) to or within any destination in 
+Country Group A:5 or A:6 (supplement no. 1 to part 740) when a non-
+listed foreign entity that is owned 50 percent or more, individually or 
+in aggregate, by one or more listed entities on the Entity List 
+(supplement no. 4 to part 744) or Military End-User (MEU) List 
+(supplement no. 7 to part 744), or by unlisted entities that are 
+subject to Entity List or MEU license requirements or other Entity List 
+or MEU restrictions based upon their ownership, is a party to the 
+transaction; and (ii) exports, reexports, or transfers (in-country) to 
+or within any country other than Country Group E:1 or E:2 when a party 
+to the transaction is a non-listed foreign affiliate of a listed entity 
+that is owned 50 percent or more, directly or indirectly, individually 
+or in the aggregate, by one or more listed entities on the Entity List 
+or Military End-User (MEU) List, or by unlisted entities that are 
+subject to Entity List or MEU license requirements or other Entity List 
+or MEU restrictions based upon their ownership; and such party to the 
+transaction is a joint venture with a non-listed entity headquartered 
+in the United States or Country Group A:5 or A:6 that is not owned 50 
+percent or more, directly or indirectly, individually or in aggregate, 
+by one or more listed entities on the Entity List or MEU List or by 
+unlisted entities that are subject to Entity List or MEU license 
+requirements or other Entity List or MEU restrictions based upon their 
+ownership. This TGL may only be utilized to overcome the license 
+requirements described in Sec. Sec.  744.11 and 744.21 of the EAR 
+applicable to the non-listed foreign affiliate to which this TGL 
+applies. Paragraph (g)(2) specifies that persons must comply with all 
+provisions of the EAR, including any applicable additional license 
+requirements.
+    This IFR adds paragraph (g)(3) (Validity date) to specify that this 
+TGL--Non-listed foreign affiliates of listed entities under paragraph 
+(g) expires on December 1, 2025.
+    Lastly, this IFR adds paragraph (g)(4) (Recordkeeping requirement) 
+to specify that all exports, reexports, transfers (in-country), and 
+exports from abroad exported, reexported, or transferred (in-country) 
+under the authorization of this TGL are subject to the recordkeeping 
+requirements of part 762 of the EAR.
+    BIS estimates that these changes described in section II.D.1 will 
+result in a reduction of 10 license applications submitted to BIS in 
+the first year this rule is in effect.
+2. Addition of Guidelines for Applying the Affiliates Rule
+    This IFR adds Supplement No. 8 to Part 744--Guidelines for Applying
+
+[[Page 47208]]
+
+Affiliates Rule to Entity List Entries and Other End-User Controls. 
+This new supplement provides similar guidance as is contained in the 
+guidance document from OFAC titled, Revised Guidance On Foreign 
+Entities Owned By Persons Whose Property And Interests In Property Are 
+Blocked, from August 13, 2014. However, BIS has made updates to this 
+guidance to make it EAR-specific and to remove references that are only 
+applicable in the OFAC sanctions context. The EAR requirements are not 
+focused on property, but rather on identifying foreign affiliates of 
+listed entities that are of concern to divert items that are subject to 
+the EAR to listed entities because such foreign affiliates are owned 50 
+percent or more by one or more listed entities or by entities that are 
+subject to restrictions based upon their ownership. The new supplement 
+this IFR adds to the EAR consists of three paragraphs.
+    Paragraph (a) (Scope) identifies the general scope of these 
+guidelines relating to the status of entities owned by individuals or 
+entities identified on the Entity List, `Military End-User' (MEU) List, 
+or the SDN List under a program identified in Sec.  744.8(a)(1). 
+Paragraph (a) also specifies that this supplement sets forth guidelines 
+with respect to foreign affiliates of listed entities owned 50 percent 
+or more, directly or indirectly, individually or in aggregate, by one 
+or more listed entities on the Entity List in supplement no. 4 to this 
+partor the MEU List in supplement no. 7 to part 744, by SDNs designated 
+under programs identified in Sec.  744.8(a)(1), or by unlisted entities 
+that are subject to Entity List or MEU license requirements or other 
+Entity List or MEU restrictions based upon their ownership, as well as 
+addressing scenarios when an exporter, reexporter, or transferor cannot 
+determine the ownership percentage of a foreign entity that is an 
+entity, directly or indirectly, owned by one or more listed entities on 
+the Entity List or the MEU List. These foreign affiliates of listed 
+entities are a diversion concern and therefore the Entity List license 
+requirements and MEU List license requirements and other restrictions 
+also extend to transactions involving these other foreign affiliates of 
+listed entities.
+    Paragraph (b) (Application of 50 percent ownership rule) provides 
+guidance on how to apply the Affiliates rule, including providing a 
+rationale for why these criteria are used. Paragraph (b) specifies that 
+any foreign entity that is owned 50 percent or more by one or more 
+entities listed on the Entity List or MEU List, or by SDNs designated 
+under one of the programs identified in Sec.  744.8(a)(1), or by one or 
+more entities subject to restrictions based upon their ownership, is 
+considered to be a diversion concern to such listed entities or SDNs 
+that own the foreign entity. Because of this diversion concern, a 
+license is required for any transaction where that foreign entity that 
+is owned 50 percent or more, directly or indirectly, by one or more 
+entities is a party to the transaction to the same degree as if the 
+item was being exported, reexported, or transferred (in-country) to a 
+party on the Entity List, MEU List, or SDN List under a program 
+identified in Sec.  744.8(a)(1). This means that any foreign entity 
+owned 50 percent or more by one or more entities on the Entity List or 
+MEU List, or by SDNs designated under programs identified in Sec.  
+744.8(a)(1), is itself considered to be subject to the license 
+requirements of the Entity List or subject to the requirements under 
+Sec.  744.8, respectively. Paragraph (b) also specifies the rule of 
+most restrictiveness, as described under section II.A.1 of this IFR 
+also applies to entities on the Entity List, or MEU List, or SDN List. 
+Paragraph (b) also specifies that if an exporter, reexporter, or 
+transferor cannot determine the ownership percentage of a foreign 
+entity that is an entity owned, directly or indirectly, by one or more 
+listed entities on the Entity List or the MEU List, they must resolve 
+the Red Flag or obtain a license from BIS prior to proceeding with the 
+export, reexport, or transfer (in-country), unless a license exception 
+is available.
+    Paragraph (c) (Due diligence for foreign entities with less than 50 
+percent ownership by listed entities or SDNs or for parent entities of 
+listed entities) alerts exporters, reexporters, and transferors to act 
+with caution when considering a transaction with a non-Entity List, 
+non-MEU List, or non-Sec.  744.8 foreign entity in which one or more 
+entities identified on the Entity List, MEU List, or SDN List under a 
+program identified in Sec.  744.8 has a significant ownership interest 
+that is less than 50 percent or for parent entities of listed entities. 
+These foreign affiliates of listed entities may not necessarily raise 
+the same diversion concern that warrants the listed entities license 
+requirements and other Entity List and MEU List restrictions extending 
+to these foreign affiliates of listed entities, but additional due 
+diligence is warranted by exporters, reexporters, and transferors 
+because of the minority ownership by listed entities in these foreign 
+affiliates of listed entities and the opaque ownership structures and 
+limited access to accurate ownership data in certain jurisdictions.
+    BIS estimates that this addition of supplement no. 8 to part 744 
+will not result in any additional license applications submitted to BIS 
+annually because this supplement is limited to providing guidance, and 
+the annual increase has already been estimated and accounted for in the 
+other changes included in this IFR.
+3. Addition of One New Red Flag To Assist With Compliance of the 
+Affiliates Rule
+    In supplement no. 3 to part 732--BIS's ``Know Your Customer'' 
+Guidance and Red Flags, this IFR adds one new Red Flag that is intended 
+to provide additional compliance guidance to assist exporters, 
+reexporters, and transferors as part of their compliance programs for 
+applying the Affiliates rule. New Red Flag 29 identifies a scenario 
+where an exporter, reexporter, or transferor has ``knowledge'' that a 
+foreign entity has one or more owners that are listed on the Entity 
+List or the MEU List, or that are unlisted entities that are subject to 
+license requirements or other restrictions based upon their ownership. 
+New Red Flag 29 specifies that such exporters, reexporters, or 
+transferors have an affirmative duty to determine the percentage of 
+ownership of those listed entities and if that is not possible, to 
+obtain a license from BIS if required under the Entity List or MEU List 
+based on the requirements for the listed owner or owners of that 
+foreign entity, unless a license exception is available.
+    BIS also provides this Table 1 in the preamble of this IFR to 
+assist understanding of the changes being made in this IFR.
+
+[[Page 47209]]
+
+
+
+    Table 1--Compliance Aid for Understanding the Application of the
+   Affiliates Rule for the Entity List, MEU List, and SDN Designations
+                        Under Sec.   744.8(a)(1)
+------------------------------------------------------------------------
+           Types of entities                    Application notes
+------------------------------------------------------------------------
+Listed entities. A foreign entity         These entities are
+ listed on the Entity List, MEU List,     currently subject to Entity
+ or in SDN designations in Sec.           List, MEU List, and Sec.
+ 744.8(a)(1), including any branch or     744.8 restrictions under the
+ sales office that is not legally         `legally distinct' standard
+ distinct from the listed entity.         and will continue to be
+                                          subject to such restrictions
+                                          under the Affiliates rule.
+                                          These requirements
+                                          applied to all addresses of
+                                          these entities located in the
+                                          destination under which the
+                                          entities were listed.
+                                          Prior to this IFR,
+                                          there were three entities on
+                                          the Entity List that were
+                                          subject to a worldwide license
+                                          requirement.
+                                          Because of the changes
+                                          made in this IFR, the
+                                          requirements for all listed
+                                          entities on the Entity List,
+                                          MEU List, and the requirements
+                                          in Sec.   744.8 will now apply
+                                          to all foreign countries.
+                                          For example, an entity
+                                          listed on the Entity List
+                                          under China has a sales office
+                                          in Malaysia. Prior to this
+                                          IFR, the sales office in
+                                          Malaysia of the listed Chinese
+                                          entity was not included within
+                                          the scope of the Entity List
+                                          license requirements, unless
+                                          BIS listed that Chinese sales
+                                          office in Malaysia also on the
+                                          Entity List or there was
+                                          information that the item was
+                                          intended for the listed
+                                          Chinese entity.
+Foreign affiliates of listed entities     These entities meet
+ that meet the Affiliates rule. Foreign   what is described in this IFR
+ affiliates of listed entities owned 50   as the Affiliates rule and are
+ percent or more, directly or             subject to the license
+ indirectly, by one or more listed        requirements and other
+ entities on the Entity List, MEU List,   restrictions under the Entity
+ or an SDN identified in Sec.             List, MEU List, or Sec.
+ 744.8(a)(1) or by one or more entities   744.8.
+ subject to restrictions based upon       This is an expansion
+ ownership.                               of the Entity List, MEU List,
+                                          and Sec.   744.8 license
+                                          requirements that is needed to
+                                          protect U.S. national security
+                                          and foreign policy interests
+                                          because of the diversion
+                                          concerns with these entities.
+                                          These requirements
+                                          apply to all foreign countries
+                                          regardless of under which
+                                          destination the listed entity
+                                          or entity's owners are listed.
+                                          This IFR adds a TGL
+                                          that temporarily authorizes
+                                          (i) exports, reexports, or
+                                          transfers (in-country) to or
+                                          within any destination in
+                                          Country Group A:5 or A:6 when
+                                          a party to the transaction is
+                                          a non-listed foreign affiliate
+                                          of a listed entity that is
+                                          owned 50 percent or more,
+                                          directly or indirectly,
+                                          individually or in aggregate,
+                                          by one or more listed entities
+                                          on the Entity List or MEU
+                                          List, or entities subject to
+                                          Entity List or MEU List
+                                          restrictions based upon their
+                                          ownership, and (2) exports,
+                                          reexports, or transfers (in-
+                                          country) to or within any
+                                          destination other than Country
+                                          Group E:1 or E:2 when a party
+                                          to the transaction is a non-
+                                          listed foreign affiliate of a
+                                          listed entity that is owned 50
+                                          percent or more, directly or
+                                          indirectly, individually or in
+                                          aggregate, by one or more
+                                          listed entities on the Entity
+                                          List or on the MEU List, or
+                                          entities subject to Entity
+                                          List or MEU List restrictions
+                                          based upon their ownership;
+                                          and such party to the
+                                          transaction is a joint venture
+                                          with a non-listed entity
+                                          headquartered in the United
+                                          States or Country Group A:5 or
+                                          A:6 that is not owned 50
+                                          percent or more, directly or
+                                          indirectly, individually or in
+                                          aggregate, by one or more
+                                          listed entities on the Entity
+                                          List or on the MEU List or
+                                          entities subject to Entity
+                                          List or MEU List restrictions
+                                          based upon its ownership. The
+                                          TGL expires on December 1,
+                                          2025.
+Foreign affiliates of listed entities     The Entity List, MEU
+ owned by listed entities where           List, and Sec.   744.8
+ percentage of ownership cannot be        requirements are enforceable
+ determined (unresolvable Red Flag        on a strict liability basis,
+ entities).                               so ``knowledge'' is not
+Foreign affiliates of listed entities     required to trigger these end-
+ that have some direct or indirect        user requirements under the
+ ownership by listed entities on the      EAR, although ``knowledge'' is
+ Entity List, MEU List, or by SDNs in     a factor that is considered
+ Sec.   744.8(a)(1), but the exporter,    when determining penalty
+ reexporter, or transferor cannot         calculations for a violation
+ determine whether the listed entity      of the EAR.
+ ownership meets the Affiliates rule.     By adding a
+                                          requirement to resolve the red
+                                          flag to Sec.  Sec.   744.11
+                                          and 744.21, BIS is informing
+                                          the public that when an
+                                          exporter, reexporter, or
+                                          transferor has ``knowledge''
+                                          that a foreign entity has one
+                                          or more direct or indirect
+                                          owners that are listed on the
+                                          Entity List or MEU List, it
+                                          has an affirmative duty to
+                                          determine the percentage of
+                                          ownership of those listed
+                                          entities and if that is not
+                                          possible, to obtain a license
+                                          from BIS if required under the
+                                          Entity List or MEU List based
+                                          on the requirements for the
+                                          listed owner or owners of that
+                                          foreign entity, unless a
+                                          license exception is
+                                          available.
+                                          Because of diversion
+                                          concerns to listed entities,
+                                          including concerns about
+                                          listed entities obfuscating
+                                          their ownership stakes in
+                                          foreign affiliates of listed
+                                          entities as a method to evade
+                                          Entity List or MEU List
+                                          license requirements, this IFR
+                                          specifies that the exporter,
+                                          reexporter or transferor must
+                                          resolve the Red Flag or obtain
+                                          a license from BIS prior to
+                                          proceeding with the export,
+                                          reexport, or transfer (in-
+                                          country), unless a license
+                                          exception is available.
+
+[[Page 47210]]
+
+ 
+Foreign companies where there is no       BIS advises exporters,
+ ``knowledge'' that the foreign entity    reexporters, and transferors
+ is owned by a listed entity.             to exercise due diligence as
+                                          part of their internal
+                                          compliance programs with such
+                                          foreign companies because as
+                                          noted in the previous row, the
+                                          Entity List, MEU List, and
+                                          Sec.   744.8 requirements are
+                                          enforceable on a strict
+                                          liability basis.
+                                          This means that
+                                          exporters, reexporters, and
+                                          transferors are responsible if
+                                          they engage with a foreign
+                                          entity that is in fact owned
+                                          50 percent or more by a listed
+                                          entity on the Entity List, MEU
+                                          List, or an SDN designation
+                                          under Sec.   744.8, or by
+                                          entities subject to
+                                          restrictions based upon their
+                                          ownership.
+                                          Accordingly,
+                                          exporters, reexporters, and
+                                          transferors have an
+                                          affirmative responsibility to
+                                          know the ownership of the
+                                          foreign companies that are
+                                          parties to a transaction.
+                                          Exporters,
+                                          reexporters, and transferors
+                                          must adopt a risk-based
+                                          compliance program to assist
+                                          them in complying with these
+                                          requirements.
+                                          Supplement No. 3 to
+                                          Part 732--BIS's ``Know Your
+                                          Customer'' Guidance and Red
+                                          Flags is an EAR regulatory
+                                          resource that assists
+                                          exporters, reexporters, and
+                                          transferors in developing
+                                          their compliance programs.
+U.S. entities owned by listed entities.   This IFR does not
+                                          impose restrictions, as the
+                                          Affiliates rule established in
+                                          this IFR applies only to
+                                          foreign companies, nor does it
+                                          limit any compliance
+                                          obligations that may exist
+                                          under other provisions of the
+                                          EAR or under the regulations
+                                          of other agencies.
+------------------------------------------------------------------------
+
+Savings Clause
+
+    For the changes being made in this IFR, shipments of items removed 
+from eligibility for a License Exception or export, reexport, or 
+transfer (in-country) without a license (NLR) as a result of this 
+regulatory action that were en route aboard a carrier to a port of 
+export, reexport, or transfer (in-country), on September 29, 2025, 
+pursuant to actual orders for export, reexport, or transfer (in-
+country) to or within a foreign destination, may proceed to that 
+destination under the previous eligibility for a License Exception or 
+export, reexport, or transfer (in-country) without a license (NLR), 
+provided the export, reexport, or transfer (in-country) is completed no 
+later than on October 29, 2025.
+
+Export Control Reform Act of 2018
+
+    On August 13, 2018, the President signed into law the John S. 
+McCain National Defense Authorization Act for Fiscal Year 2019, which 
+included ECRA (codified, as amended, at 50 U.S.C. 4801-4852). ECRA 
+provides the legal basis for BIS's principal authorities and serves as 
+the authority under which BIS issues this rule. In particular, and as 
+noted elsewhere, Section 1753 of ECRA (50 U.S.C. 4812) authorizes the 
+regulation of exports, reexports, and transfers (in-country) of items 
+subject to U.S. jurisdiction. Further, Section 1754(a)(1)-(16) of ECRA 
+(50 U.S.C. 4813(a)(1)-(16)) authorizes, inter alia, the establishment 
+of a list of controlled items; the prohibition of unauthorized exports, 
+reexports, and transfers (in-country); the requirement of licenses or 
+other authorizations for exports, reexports, and transfers (in-country) 
+of controlled items; apprising the public of changes in policy, 
+regulations, and procedures; and any other action necessary to carry 
+out ECRA that is not otherwise prohibited by law. Pursuant to Section 
+1762(a) of ECRA (50 U.S.C.4821(a)), these changes can be imposed in an 
+IFR without prior notice and comment.
+
+Rulemaking Requirements
+
+    1. BIS has examined the impact of this rule as required by 
+Executive Orders (E.O.) 12866 and 13563, which direct agencies to 
+assess all costs and benefits of available regulatory alternatives and, 
+if regulation is necessary, to select regulatory approaches that 
+maximize net benefits (e.g., potential economic, environmental, public, 
+health, and safety effects, distributive impacts, and equity). Pursuant 
+to E.O. 12866, as amended, this interim final rule has not been 
+determined to be a ``significant regulatory action.'' This interim 
+final rule is not a regulatory action pursuant to E.O. 14192 because it 
+is not significant under E.O. 12866.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to, nor shall any person be subject to a penalty 
+for failure to comply with, a collection of information subject to the 
+requirements of the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et 
+seq.) (PRA), unless that collection of information displays a currently 
+valid Office of Management and Budget (OMB) Control Number. This rule 
+involves the following OMB-approved collections of information subject 
+to the PRA:
+     0694-0088, ``Simple Network Application Process and 
+Multipurpose Application Form,'' which carries a burden hour estimate 
+of 29.4 minutes for a manual or electronic submission;
+     0694-0096 ``Five Year Records Retention Period,'' which 
+carries a burden hour estimate of less than 1 minute;
+     0607-0152 ``Automated Export System (AES) Program,'' which 
+carries a burden hour estimate of 3 minutes per electronic submission; 
+and
+     0694-0134 ``Procedure for parties on the Entity List or 
+the Unverified List to Request Removal or Modification of their 
+Listing,'' which carries a burden hour estimate of 15 hours per 
+electronic submission.
+    BIS estimates that these changes to the Entity List and related 
+provisions and to Sec.  744.8 under the EAR will result in an 
+additional 245 license applications submitted annually to BIS under OMB 
+Control Number 0694-0088 and the changes to Sec.  744.16(e) will result 
+in an additional 35 appeals submitted annually to BIS under OMB Control 
+Number 0694-0134. However, the additional burden falls within the 
+existing estimates currently associated with these control numbers. 
+Additional information regarding these collections
+
+[[Page 47211]]
+
+of information--including all background materials--can be found at: 
+https://www.reginfo.gov/public/do/PRAMain by using the search function 
+to enter either the title of the collection or the OMB Control Number.
+    3. This rule does not contain policies with Federalism implications 
+as that term is defined under E.O. 13132.
+    4. Pursuant to section 1762 of ECRA (50 U.S.C. 4821), this action 
+is exempt from the Administrative Procedure Act (APA) (5 U.S.C. 553) 
+requirements for notice of proposed rulemaking, opportunity for public 
+participation, and delay in effective date.
+    5. Because neither the APA nor any other law requires that notice 
+of proposed rulemaking and an opportunity for public comment be given 
+for this rule, the analytical requirements of the Regulatory 
+Flexibility Act (5 U.S.C. 601 et seq.) are not applicable. Accordingly, 
+no Final Regulatory Flexibility Analysis is required, and none has been 
+prepared.
+
+List of Subjects
+
+15 CFR Part 732 and 748
+
+    Administrative practice and procedure, Exports, Reporting and 
+recordkeeping requirements.
+
+15 CFR Part 734
+
+    Administrative practice and procedure, Exports, Inventions and 
+patents, Research, Science and technology.
+
+15 CFR Part 736
+
+    Exports.
+
+15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    Accordingly, parts 732, 734, 736, 744, and 748 of the Export 
+Administration Regulations (15 CFR parts 730 through 774) are amended 
+as follows:
+
+PART 732--STEPS FOR USING THE EAR
+
+0
+1. The authority citation for part 732 is revised to read as follows:
+
+    Authority:  50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 
+228.
+
+0
+2. Supplement no. 3 to part 732 is amended by adding paragraph (b)29 to 
+read as follows:
+
+Supplement No. 3 to Part 732--BIS's ``Know Your Customer'' Guidance and 
+Red Flags
+
+* * * * *
+    (b) * * *
+    29. When an exporter, reexporter, or transferor has ``knowledge'' 
+that a foreign entity that is a party to the transaction has one or 
+more owners that are listed on the Entity List or the MEU List, or that 
+are unlisted entities that are subject to license requirements or other 
+restrictions based upon their ownership, it has an affirmative duty to 
+determine the percentage of ownership by those entities and if that is 
+not possible, to obtain a license from BIS if required under the Entity 
+List or MEU List based on the requirements for the owner or owners of 
+that foreign entity, unless a license exception is available.
+
+PART 734--SCOPE OF THE EXPORT ADMINISTRATION REGULATIONS
+
+0
+3. The authority citation for part 734 is revised to read as follows:
+
+    Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 
+950; E.O. 13020, 61 FR 54079, 3 CFR, 1996 Comp., p. 219; E.O. 13026, 
+61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. E.O. 13637, 78 FR 
+16129, 3 CFR, 2014 Comp., p. 223; Notice of November 7, 2024, 89 FR 
+88867 (November 8, 2024).
+
+0
+4. Section 734.9 is amended by:
+0
+a. adding three sentences to the end of paragraph (e) introductory 
+text; and
+0
+b. adding two sentences to the end of the paragraph (g) introductory 
+text.
+    The additions read as follows:
+
+
+Sec.  734.9  Foreign-Direct Product (FDP) Rules.
+
+* * * * *
+    (e) * * * Consistent with the introductory text to the Entity List 
+in supplement no. 4 to part 744, the end-user scope of the Entity List 
+FDP rules also includes any foreign entity that is owned, directly or 
+indirectly, individually or in aggregate, 50 percent or more by one or 
+more listed entities or unlisted entities that are subject to license 
+requirements or other restrictions based upon their ownership, 
+including at least one entity that meets the end-user scope under this 
+provision. This end-user scope applies to all entities on the Entity 
+List with a footnote referenced under this paragraph (e). If the 
+foreign entity is owned 50 percent or more by one or more listed 
+entities or unlisted entities that are subject to Entity List license 
+requirements or other Entity List restrictions based upon their 
+ownership, including at least one entity with a footnote referenced 
+under this paragraph (e), these Entity List FDP requirements are 
+applicable, even when only one of the owners meets the end-user 
+criteria under this paragraph (e).
+* * * * *
+    (g) * * * Consistent with the introductory text to the Entity List 
+in supplement no. 4 to part 744, the end-user scope of the Russia/
+Belarus-Military End User and Procurement FDP rule also includes any 
+foreign entity that is owned 50 percent or more, directly or 
+indirectly, individually or in aggregate, by one or more listed 
+entities or unlisted entities that are subject to Entity List license 
+requirements or other Entity List restrictions based upon their 
+ownership, including at least one entity that meets the end-user scope 
+of this provision. If the foreign entity is owned 50 percent or more by 
+one or more listed entities or unlisted entities that are subject to 
+Entity List license requirements or other Entity List restrictions 
+based upon their ownership, including at least one entity within the 
+end-user scope defined by paragraph (g)(2) of this section, these 
+Russia/Belarus-Military End User and Procurement FDP requirements are 
+applicable, even when only one of the owners meets the end-user 
+criteria under paragraph (g)(2) of this section.
+* * * * *
+
+PART 736--GENERAL PROHIBITIONS
+
+0
+5. The authority citation for part 736 continues to read as follows:
+
+    Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 
+950; E.O. 13020, 61 FR 54079, 3 CFR, 1996 Comp., p. 219; E.O. 13026, 
+61 FR 58767, 3 CFR, 1996 Comp., p. 228; Notice of November 7, 2024, 
+89 FR 88867 (November 8, 2024); Notice of May 7, 2025, 90 FR 19619 
+(May 9, 2025).
+
+0
+6. Supplement No. 1 to part 736 is amended by adding paragraph (g).
+    The addition reads as follows:
+
+Supplement No. 1 to Part 736--General Orders
+
+* * * * *
+    (g) General Order No. 7. General Order No. 7. TGL--Non-listed 
+foreign affiliates of listed entities.
+    (1) Authorization, TGL--Non-listed foreign affiliates of listed 
+entities authorizes exports, reexports, or transfers (in-country) as 
+follows:
+    (i) to or within any destination in Country Group A: 5 or A:6 
+(supplement no. 1 to part 740) when a party to the transaction is a 
+non-listed foreign affiliate of a listed entity that is owned 50 
+percent or more, directly or indirectly, individually or in aggregate, 
+by one or more listed entities on the Entity List (supplement no. 4 to 
+part 744) or Military End-User (MEU) List (supplement no. 7 to part 
+744), or by unlisted entities that are subject to Entity List or MEU 
+license requirements
+
+[[Page 47212]]
+
+or other Entity List or MEU restrictions based upon their ownership; 
+and
+    (ii) to or within any destination other than Country Group E:1 or 
+E:2 when the following criteria are met:
+    (A) A party to the transaction is a non-listed foreign affiliate of 
+a listed entity that is owned 50 percent or more, directly or 
+indirectly, individually or in aggregate, by one or more listed 
+entities on the Entity List or on the MEU List or by unlisted entities 
+that are subject to Entity List or MEU license requirements or other 
+Entity List or MEU restrictions based upon their ownership; and
+    (B) Such party to the transaction is a joint venture with a non-
+listed entity headquartered in the United States or Country Group A:5 
+or A:6 that is not owned 50 percent or more, directly or indirectly, 
+individually or in aggregate, by one or more listed entities on the 
+Entity List or the MEU List or by unlisted entities that are subject to 
+Entity List or MEU license requirements or other Entity List or MEU 
+restrictions based upon their ownership.
+    (2) Limitation of authorization. This TGL only overcomes the 
+license requirements described in Sec. Sec.  744.11 and 744.21 of the 
+EAR applicable to the non-listed foreign affiliate to which this TGL 
+applies. Persons must comply with all provisions of the EAR, including 
+any additional applicable license requirements.
+    (3) Validity date: Paragraph (g) expires on December 1, 2025.
+    (4) Recordkeeping requirement. All exports, reexports, transfers 
+(in-country), and exports from abroad exported, reexported, or 
+transferred (in-country) that are made under the authorization of this 
+TGL are subject to the recordkeeping requirements of part 762 of the 
+EAR.
+
+PART 744--CONTROL POLICY: END-USER AND END-USE BASED
+
+0
+7. The authority citation for part 744 continues to read as follows:
+
+    Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; 22 U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 
+U.S.C. 7201 et seq.; 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 
+1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 
+608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 
+61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13099, 63 FR 45167, 3 
+CFR, 1998 Comp., p. 208; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., 
+p. 783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786; Notice 
+of September 18, 2024, 89 FR 77011 (September 20, 2024); Notice of 
+November 7, 2024, 89 FR 88867 (November 8, 2024); Notice of August 
+4, 2025, 90 FR 37999 (August 6, 2025).
+
+0
+8. Section 744.8 is amended by:
+0
+a. In paragraph (a)(2), adding a new second and third sentence, and
+0
+b. Revising the first sentence of paragraph (b) to read as follows:
+
+
+Sec.  744.8  Restrictions on exports, reexports, and transfers (in-
+country) when certain persons designated on the list of Specially 
+Designated Nationals and Blocked Persons (SDN List) are a party to the 
+transaction.
+
+    (a) * * *
+    (2) * * * These EAR controls also apply to any foreign affiliate of 
+a listed entity that is owned, directly or indirectly, individually or 
+in aggregate, 50 percent or more by one or more persons blocked 
+pursuant to the programs listed in paragraph (a)(1) of this section. An 
+entity owned 50 percent or more, directly or indirectly, by multiple 
+entities subject to EAR license requirements pursuant to some 
+combination of the Entity List, MEU List, or SDN List designated under 
+programs listed in paragraph (a)(1) of this section, is subject to the 
+most restrictive license requirements, license exception eligibility, 
+and license review policy applicable to one or more of its owners under 
+the EAR.
+* * * * *
+    (b) Unless the export, reexport, or transfer (in-country) is 
+authorized under an OFAC specific or general license or exempted under 
+OFAC's regulations, a license is required under the EAR for the export, 
+reexport, or transfer (in-country) of any item ``subject to the EAR'' 
+when a person who is designated on OFAC's SDN List with, or blocked 
+pursuant to, any of the identifiers set forth in paragraph (a)(1) of 
+this section is a party to the transaction as described in Sec.  
+748.5(c) through (f). * * *
+* * * * *
+
+0
+9. Section 744.11 is amended by adding paragraph (a)(1) to read as 
+follows:
+
+
+Sec.  744.11  License requirements that apply to entities acting or at 
+significant risk of acting contrary to the national security or foreign 
+policy interests of the United States.
+
+* * * * *
+    (a) * * *
+    (1) Entity List entries extend to other foreign affiliates of 
+listed entities owned 50 percent or more by one or more listed entities 
+or unlisted entities that are subject to ownership-related 
+restrictions. The Entity List license requirements and other Entity 
+List restrictions also apply to any foreign entity that is owned, 
+directly or indirectly, individually or in aggregate, 50 percent or 
+more by one or more listed entities or unlisted entities that are 
+subject to Entity List license requirements or other Entity List 
+restrictions based upon their ownership. The Entity List license 
+requirements and other Entity List restrictions do not apply to foreign 
+affiliates that are owned, directly or indirectly, individually or in 
+aggregate, 50 percent or more by one or more entities that are 
+operating at an address listed on the Entity List if the entities 
+operating at that address are not specifically identified on the Entity 
+List. An entity owned 50 percent or more, directly or indirectly, by 
+multiple entities subject to EAR license requirements pursuant to some 
+combination of the Entity List, MEU List, or SDN List designated under 
+programs listed in Sec.  744.8(a)(1), is subject to the most 
+restrictive license requirements, license exception eligibility, and 
+license review policy applicable to one or more of its owners under the 
+EAR. If an exporter, reexporter, or transferor cannot determine the 
+ownership percentage of a foreign entity that is an entity owned, 
+directly or indirectly, by one or more listed entities, they must 
+resolve the Red Flag or obtain a license from BIS prior to proceeding 
+with the export, reexport, or transfer (in-country), unless a license 
+exception is available (see Red Flag 29 in supplement no. 3 to part 
+732).
+* * * * *
+
+0
+10. Section 744.16 is amended by revising paragraph (e) introductory 
+text to read as follows:
+
+
+Sec.  744.16  Entity List.
+
+* * * * *
+    (e) Removal or modification requests. Any entity listed on the 
+Entity List or the owner or operator of any address that presents a 
+high diversion risk listed on the Entity List may request that its 
+listing be removed or modified. Any foreign entity that is owned, 
+directly or indirectly, individually or in aggregate, 50 percent or 
+more by one or more entities listed on the Entity List, or by entities 
+subject to Entity List license requirements or other Entity List 
+restrictions based upon their ownership, may request that its Entity 
+List owner's entry listing be modified to exclude the requester. All 
+such requests, including reasons therefor, must be in writing and sent 
+to: Chair, End-User Review Committee, Bureau of Industry and Security, 
+U.S. Department of Commerce, 14th Street and Pennsylvania Avenue NW, 
+Room 3886, Washington, DC 20230.
+* * * * *
+
+0
+11. Section 744.21 is amended by:
+0
+a. Adding paragraph (a)(3);
+0
+b. Revising paragraph (b)(2) introductory text; and
+0
+c. Adding one sentence to the end of paragraph (d).
+
+[[Page 47213]]
+
+    The additions and revision read as follows:
+
+
+Sec.  744.21  Restrictions on certain `military end uses' or `military 
+end users'.
+
+    (a) * * *
+    (3) MEU List and Entity List restrictions extend to foreign 
+affiliates of listed entities owned 50 percent or more by one or more 
+listed entities or entities subject to Entity List or MEU List 
+restrictions based upon their ownership. The MEU List and Entity List 
+license requirements in paragraphs (a)(1) and (2) of this section also 
+apply to any foreign entity that is owned, directly or indirectly, 
+individually or in aggregate, 50 percent or more by one or more listed 
+entities or entities subject to Entity List or MEU List restrictions 
+based upon their ownership. The license requirements in paragraphs 
+(a)(1) and (2) of this section do not apply to unlisted foreign 
+affiliates that are owned, directly or indirectly, individually or in 
+the aggregate, solely by one or more unlisted `military end users,' 
+unless the unlisted foreign affiliate itself meets the definition of a 
+`military end user.' An entity owned 50 percent or more, directly or 
+indirectly, by multiple entities subject to EAR license requirements 
+pursuant to some combination of the Entity List, MEU List, or SDN List 
+designated under programs listed in Sec.  744.8(a)(1), is subject to 
+the most restrictive license requirements, license exception 
+eligibility, and license review policy applicable to one or more of its 
+owners under the EAR. If an exporter, reexporter, or transferor cannot 
+determine the ownership percentage of a foreign entity that is owned, 
+directly or indirectly, by one or more listed entities, they must 
+resolve the Red Flag or obtain a license from BIS prior to proceeding 
+with the export, reexport, or transfer (in-country) (see Red Flag 29 in 
+supplement no. 3 to part 732).
+* * * * *
+    (b) * * *
+    (2) Requests for removal from or modification of `Military End 
+User' (MEU) List and Entity List. Any entity listed on the MEU List or 
+Entity List pursuant to this section may request that its listing be 
+removed or modified. Any foreign entity that is owned, directly or 
+indirectly, individually or in aggregate, 50 percent or more by one or 
+more entities listed on the MEU List or Entity List or subject to MEU 
+List or Entity List restrictions based upon their ownership, may 
+request that its MEU List or Entity List owner's entry listing be 
+modified to exclude the requester. All such requests, including reasons 
+therefor, must be in writing and sent to: Chair, End-User Review 
+Committee, Bureau of Industry and Security, U.S. Department of 
+Commerce, 14th Street and Pennsylvania Avenue NW, Room 3886, 
+Washington, DC 20230; or by email at [email protected]. In order for an 
+entity listed on the MEU List or the Entity List pursuant to this 
+section to petition BIS for their removal or modification, as 
+applicable, the entity must address why the entity is not a `military 
+end user' for purposes of this section.
+* * * * *
+    (d) * * * See supplement no. 2 to part 748, paragraph (c)(c) of the 
+EAR for unique application and submission requirements for Affiliate 
+rule entities that meet the criteria under paragraph (a)(3) of this 
+section.
+* * * * *
+
+0
+12. Supplement no. 4 to part 744 is amended by revising the 
+introductory text to the supplement to read as follows:
+
+Supplement No. 4 to Part 744--Entity List
+
+    This supplement lists certain entities or addresses subject to 
+license requirements and other Entity List restrictions for specified 
+items under this part 744 and part 746 of the EAR. License requirements 
+for these entities include exports, reexports, and transfers (in-
+country) unless otherwise stated. A license is required, to the extent 
+specified on the Entity List, to export, reexport, or transfer (in-
+country) any item subject to the EAR when an entity or a party to the 
+transaction is operating at an address that is listed on the Entity 
+List under an address entry is a party to the transaction as described 
+in Sec.  748.5(c) through (f) of the EAR. The Entity List license 
+requirements and other Entity List restrictions also apply to any 
+foreign entity that is owned, directly or indirectly, individually or 
+in aggregate, 50 percent or more by one or more listed entities or 
+entities that are subject to restrictions based upon their ownership. 
+An entity owned 50 percent or more, directly or indirectly, by multiple 
+entities subject to EAR license requirements pursuant to some 
+combination of the Entity List, MEU List, or SDN List designated under 
+programs listed in Sec.  744.8(a)(1), is subject to the most 
+restrictive license requirements, license exception eligibility, and 
+license review policy applicable to one or more of its owners under the 
+EAR. If an exporter, reexporter, or transferor cannot determine the 
+ownership percentage of a foreign entity that is an entity owned, 
+directly or indirectly, by one or more listed entities, they must 
+resolve the Red Flag or obtain a license from BIS prior to proceeding 
+with the export, reexport, or transfer (in-country), unless a license 
+exception is available (see Red Flag 29 in supplement no. 3 to part 
+732). This list is revised and updated on a periodic basis in this 
+supplement by adding new or amended notifications and deleting 
+notifications no longer in effect.
+* * * * *
+
+0
+13. Supplement no. 7 to part 744 is amended by revising the 
+introductory text to the supplement to read as follows:
+
+Supplement No. 7 to Part 744--`Military End-User' (MEU) List
+
+    The license requirement for entities listed in supplement no. 7 to 
+part 744 applies to the export, reexport, or transfer (in-country) of 
+any item subject to the EAR listed in supplement no. 2 to part 744. A 
+license is required to export, reexport, or transfer (in-country) any 
+item subject to the EAR listed in supplement no. 2 to part 744 when an 
+entity that is listed on the MEU List is a party to the transaction as 
+described in Sec.  748.5(c) through (f). No license exceptions are 
+available for exports, reexports, or transfers (in-country) to listed 
+entities on the MEU List for items specified in supplement no. 2 to 
+part 744, except license exceptions for items authorized under the 
+provisions of License Exception GOV set forth in Sec.  740.11(b)(2)(i) 
+and (ii) of the EAR as specified in Sec.  744.21(c). The MEU List 
+license requirements and other MEU List restrictions also apply to any 
+foreign entity that is owned, directly or indirectly, individually or 
+in aggregate, 50 percent or more by one or more listed entities or 
+entities that are subject to restrictions based upon their ownership. 
+An entity owned 50 percent or more, directly or indirectly, by multiple 
+entities subject to EAR license requirements pursuant to some 
+combination of the Entity List, MEU List, or SDN List designated under 
+programs listed in Sec.  744.8(a)(1), is subject to the most 
+restrictive license requirements, license exception eligibility, and 
+license review policy applicable to one or more of its owners under the 
+EAR. If an exporter, reexporter, or transferor cannot determine the 
+ownership percentage of a foreign entity that is an entity owned, 
+directly or indirectly, by one or more listed entities, they must 
+resolve the Red Flag or obtain a license from BIS prior to proceeding 
+with the export, reexport, or transfer (in-country) (see Red Flag 29 in 
+supplement no. 3 to part 732). The license application procedure and
+
+[[Page 47214]]
+
+license review policy for entities specified in this supplement 7 to 
+part 744 is specified in Sec.  744.21(d) and (e).
+* * * * *
+
+0
+14. Supplement no. 8 to part 744 is added to read as follows:
+
+Supplement No. 8 to Part 744--Guidelines for Applying 50 Percent 
+Ownership Rule to Entity List Entries and Other End-User Controls
+
+    (a) Scope. These guidelines relating to the status of foreign 
+affiliates of listed entities owned by individuals or entities 
+identified on the Entity List, `Military End-User' (MEU) List, or 
+Specially Designated Nationals (SDN) List under programs listed in 
+Sec.  744.8(a)(1) of this part. This supplement sets forth guidelines 
+with respect to foreign affiliates of listed entities owned, directly 
+or indirectly, individually or in aggregate, 50 percent or more by one 
+or more listed entities on the Entity List in supplement no. 4 to this 
+part, the MEU List in supplement no. 7 to this part, by one or more 
+SDNs designated under programs listed in Sec.  744.8(a)(1) of this 
+part, or by one or more entities subject to restrictions based upon 
+ownership by listed entities, as well as for when an exporter, 
+reexporter, or transferor cannot determine the ownership percentage of 
+a foreign entity that is an entity owned, directly or indirectly, by 
+one or more listed entities on the Entity List or the MEU List, because 
+the involvement of such entities as party to the export, reexport, or 
+transfer (in-country) presents a diversion concern.
+    (b) Application of Affiliates rule. Any foreign entity that is 
+owned, directly or indirectly, individually or in aggregate, 50 percent 
+or more by one or more entities listed on the Entity List, `military 
+end-users' on the MEU List, or SDNs designated under programs listed in 
+Sec.  744.8(a)(1), or by one or more entities subject to restrictions 
+based upon ownership by listed entities, is considered to be a 
+diversion concern to such listed entities or SDNs. A license is 
+required for any transaction where that foreign entity is a party to 
+the transaction to the same degree as if the export, reexport, or 
+transfer (in-country) was being exported, reexported, or transferred 
+(in-country) to its owners. Consequently, any foreign entity owned 50 
+percent or more by one or more entities on the Entity List, MEU List, 
+or SDNs designated under programs listed in Sec.  744.8 is itself 
+considered to be listed on the Entity List, MEU List, or subject to the 
+requirements under Sec.  744.8, respectively. An entity owned 50 
+percent or more, directly or indirectly, by multiple entities subject 
+to EAR license requirements pursuant to some combination of the Entity 
+List, MEU List, or SDN List designated under programs listed in Sec.  
+744.8(a)(1), is subject to the most restrictive license requirements, 
+license exception eligibility, and license review policy applicable to 
+one or more of its owners under the EAR. If an exporter, reexporter, or 
+transferor cannot determine the ownership percentage of a foreign 
+entity that is an entity owned, directly or indirectly, by one or more 
+listed entities on the Entity List or MEU List, they must resolve the 
+Red Flag or obtain a license from BIS prior to proceeding with the 
+export, reexport, or transfer (in-country) (see Red Flag 29 in 
+supplement no. 3 to part 732).
+    (c) Due diligence for foreign entities of listed entities with less 
+than 50 percent ownership by listed entities or SDNs or for parent 
+entities of listed entities. Exporters, reexporters, and transferors 
+are advised to act with caution when considering a transaction with a 
+non-Entity List, non-MEU List, or non-Sec.  744.8 foreign entity in 
+which one or more entities identified on the Entity List, MEU List, or 
+SDNs designated under programs identified in Sec.  744.8 has a 
+significant direct or indirect ownership interest that is less than 50 
+percent or is a parent entity of listed entities. Such entities may be 
+the subject of future designation on the Entity List, MEU List, or the 
+SDN List under one of the designations identified in Sec.  744.8, or of 
+enforcement actions. Exporters, reexporters, and transferors should 
+undertake due diligence to ensure that items exported to the entity are 
+not destined for the Entity List party, MEU List party, or SDN and are 
+reminded that the EAR imposes licensing requirements, such as end-user 
+and end-use based restrictions in part 744 of the EAR, that could apply 
+to such companies even if they are legally separate from the listed 
+entity.
+* * * * *
+
+PART 748--APPLICATIONS (CLASSIFICATION, ADVISORY, AND LICENSE) AND 
+DOCUMENTATION
+
+0
+15. The authority citation for part 748 continues to read as follows:
+
+    Authority:  50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 
+228.
+
+0
+16. Section 748.8 is amended by adding paragraph (aa) to read as 
+follows:
+
+
+Sec.  748.8  Unique application and submission requirements.
+
+* * * * *
+    (aa) Affiliates rule entities.
+
+0
+17. Supplement no. 2 to part 748 is amended by adding paragraph (cc) to 
+read as follows:
+
+Supplement No. 2 to Part 748--Unique Application and Submission 
+Requirements
+
+* * * * *
+    (cc) Affiliates rule entities. To request a license for an export, 
+reexport, or transfer (in-country) for any foreign entity that is 
+owned, directly or indirectly, individually or in aggregate, 50 percent 
+or more by one or more entities listed on the Entity List in supplement 
+no. 4 to part 744, `Military End-User' (MEU) List in supplement no. 7 
+to part 744, by one or more Specially Designated Nationals (SDNs) 
+designated under programs listed in Sec.  744.8(a)(1), or by one or 
+more unlisted entities that are subject to restrictions based upon 
+ownership by listed entities, or for an export, reexport, or transfer 
+(in-country) when the exporter, reexporter, or transferor cannot 
+determine the ownership percentage of a foreign entity that is an 
+entity owned by one or more listed entities on the Entity List or the 
+`military end users' on the MEU List, you must specify ``Affiliates 
+rule'' in Block 9 (Special Purpose) of the BIS-748P ``Multipurpose 
+Application'' form. The application also must specify the names of the 
+listed party or parties that own an aggregate 50 percent or more, 
+directly or indirectly, individually or in aggregate, of that 
+entity(ies) listed on the license application, including identifying 
+the percentage of ownership by listed parties and identifying the 
+method that the applicant used to make that determination. For license 
+applications when the exporter, reexporter, or transferor cannot 
+determine the ownership percentage of a foreign entity that is an 
+entity owned by one or more listed entities on the Entity List or 
+`military end users' on the MEU List, the license application must 
+specify the names of the listed party or parties that own that entity 
+and explain the due diligence conducted to determine the percentage of 
+ownership, including providing an explanation for why percentage of 
+ownership was not able to be determined.
+
+Julia A. Khersonsky,
+Deputy Assistant Secretary for Strategic Trade.
+[FR Doc. 2025-19001 Filed 9-29-25; 8:45 am]
+BILLING CODE 3510-33-P

@@ -1,0 +1,35 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9B991；eCFR 2026-10-29〕
+
+9B991 “Specially designed” “equipment,” tooling or fixtures, not controlled by 9B001, for manufacturing or measuring gas turbine blades, vanes or tip shroud castings, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Automated equipment using non-mechanical methods for measuring airfoil wall thickness;
+
+b. Tooling, fixtures or measuring equipment for the “laser”, water jet or ECM/EDM hole drilling processes controlled by 9E003.c;
+
+c. Ceramic core leaching equipment;
+
+d. Ceramic core manufacturing equipment or tools;
+
+e. Ceramic shell wax pattern preparation equipment;
+
+f. Ceramic shell burn out or firing equipment.

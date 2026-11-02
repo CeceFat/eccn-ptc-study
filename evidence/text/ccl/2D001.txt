@@ -1,0 +1,39 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2D001；eCFR 2026-10-29〕
+
+2D001 “Software”, other than that controlled by 2D002, as follows (See list of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, MT, NP, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1
+
+MT applies to “software” for equipment controlled by 2B004 and 2B009 for MT reasons | MT Column 1
+
+NP applies to “specially designed” or modified “software” for equipment controlled by 2B001 for NP reasons, and to “specially designed” “software” for equipment controlled by 2B004, 2B006, 2B007, or 2B009 for NP reasons | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+Reporting Requirements See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: Yes, except N/A for MT
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship or transmit “software”, other than that specified by ECCN 2D002, “specially designed” for the “development” or “production” of equipment as follows: ECCN 2B001 entire entry; or “Numerically controlled” or manual machine tools as specified in 2B003 to any of the destinations listed in Country Group A:6 (See Supplement No. 1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 2E001 (“development”) and 2E101 (“use”) for technology for “software” controlled under this entry. (2) Also see ECCNs 2D101 and 2D201.
+
+Related Definitions: N/A
+
+Items: a. “Software” “specially designed” or modified for the “development” or “production” of equipment controlled by 2A001 or 2B001 to 2B009;
+
+b. “Software” “specially designed” or modified for the “use” of equipment specified by 2A001.c., 2B001, or 2B003 to 2B009.
+
+Note: 2D001 does not apply to part programming “software” that generates “numerical control” codes for machining various parts.

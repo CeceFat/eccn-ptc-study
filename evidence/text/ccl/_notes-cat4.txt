@@ -1,0 +1,15 @@
+〔15 CFR Part 774, Supp. No. 1, Category 4 類別註記；eCFR 2026-10-29〕
+
+Category 4—Computers
+
+Note 1: Computers, related equipment and “software” performing telecommunications or “local area network” functions must also be evaluated against the performance characteristics of Category 5, Part 1 (Telecommunications).
+
+Note 2: Control units that directly interconnect the buses or channels of central processing units, 'main storage' or disk controllers are not regarded as telecommunications equipment described in Category 5, Part 1 (Telecommunications).
+
+Note 3: Commodities and “software” in ECCNs 4A005 and 4D004 that are also controlled in ECCNs 5A002.a, 5A002.z.1, 5A002.z.6, 5A004.a, 5A004.b, 5A004.z, 5D002.c.1, 5D002.c.3, 5D002.z.6, 5D002.z.8, or 5D002.z.9, remain controlled in Category 5—Part 2 by those entries. Category 5—Part 2 does not apply to elements of source code that implement functionality controlled by these Category 4 ECCNs, or to any item subject to the EAR where Encryption Item (EI) functionality is absent, removed or otherwise non-existent.
+
+Note 4: Items in ECCNs 4A005, 4D001.a (for 4A005 or 4D004), 4D004, and “technology” specified in ECCN 4E001.a (for 4A005, 4D001.a (for 4A005 or 4D004) or 4D004) and 4E001.c that are also controlled for Surreptitious Listening (SL) reasons under another ECCN, will continue to be classified under the SL ECCN.
+
+N.B.: For the control status of “software” “specially designed” for packet switching, see ECCN 5D001. (Telecommunications).
+
+Technical Note: 'Main storage' is the primary storage for data or instructions for rapid access by a central processing unit. It consists of the internal storage of a “digital computer” and any hierarchical extension thereto, such as cache storage or non-sequentially accessed extended storage.

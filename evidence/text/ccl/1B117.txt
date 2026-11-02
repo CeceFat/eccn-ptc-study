@@ -1,0 +1,35 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1B117；eCFR 2026-10-29〕
+
+1B117 Batch mixers having all of the following (see List of Items Controlled), and “specially designed” “parts” and “components” therefor.
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country chart(see Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See 1B115, 1B118, and 1B119.
+
+Related Definitions: N/A
+
+Items: a. Capable of mixing under vacuum in the range from zero to 13.326 kPa;
+
+b. Capable of controlling the temperature of the mixing chamber;
+
+c. A total volumetric capacity of 110 liters (30 gallons) or more; and
+
+d. At least one 'mixing/kneading shaft' mounted off center.
+
+Note to paragraph d: In 1B117.d. the term 'mixing/kneading shaft' does not refer to deagglomerators or knife-spindles.

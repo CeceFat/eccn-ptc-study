@@ -1,0 +1,355 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3B001；eCFR 2026-10-29〕
+
+3B001 Equipment for the manufacturing of semiconductor devices, materials, or related equipment, as follows (see List of Items Controlled) and “specially designed” “components” and “accessories” therefor.
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+NS applies to 3B001.c.1.a, 3B001.c.1.c, and 3B001.q | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+
+RS applies to 3B001.c.1.a, 3B001.c.1.c, and 3B001.q | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+
+NS applies to 3B001.a.1 to a.3, b, e, f.2 to f.4, g to j | NS Column 2.
+
+NS applies to 3B001.a.4, c, d, f.1, f.5, f.6, k to n, p.2, p.4, r | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.4(a)(4) of the EAR.
+
+RS applies to 3B001.a.4, c, d, f.1, f.5, f.6, k to n, p.2, p.4, r | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(6) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $500, except semiconductor manufacturing equipment specified in 3B001.a.4, c, d, f.1, f.5, f.6, k to n, p.2, p.4, r.
+
+GBS: Yes, except a.3 (molecular beam epitaxial growth equipment using gas sources), c.1.a (Equipment designed or modified for isotropic dry etching), c.1.c (Equipment designed or modified for anisotropic dry etching), .e (automatic loading multi-chamber central wafer handling systems only if connected to equipment controlled by 3B001.a.3, or .f), .f (lithography equipment) and .q (“EUV” masks and reticles designed for integrated circuits, not specified by 3B001.g, and having a mask “substrate blank” specified by 3B001.j).
+
+IEC: Yes, for 3B001.c.1.a, c.1.c, and .q, see § 740.2(a)(22) and § 740.24 of the EAR.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship 3B001.c.1.a, c.1.c, and .q to any of the destinations listed in Country Group A:5 or A:6 (See supplement no. 1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: See also 3B903 and 3B991. See ECCNs 3D001, 3D992, 3E001, and 3E992 for related “software” and “technology” controls.
+
+Related Definitions: N/A
+
+Items:
+
+a. Equipment designed for epitaxial growth as follows:
+
+a.1. Equipment designed or modified to produce a layer of any material other than silicon with a thickness uniform to less than ±2.5% across a distance of 75 mm or more;
+
+Note: 3B001.a.1 includes atomic layer epitaxy (ALE) equipment.
+
+a.2. Metal Organic Chemical Vapor Deposition (MOCVD) reactors designed for compound semiconductor epitaxial growth of material having two or more of the following elements: aluminum, gallium, indium, arsenic, phosphorus, antimony, oxygen, or nitrogen;
+
+a.3. Molecular beam epitaxial growth equipment using gas or solid sources;
+
+a.4. Equipment designed for epitaxial growth of silicon (Si) or silicon germanium (SiGe), and having all of the following:
+
+a.4.a. At least one preclean chamber designed to provide a surface preparation means to clean the surface of the wafer; and
+
+a.4.b. An epitaxial deposition chamber designed to operate at a temperature equal to or below 958 K (685 °C).
+
+b. Semiconductor wafer fabrication equipment designed for ion implantation and having any of the following:
+
+b.1. [Reserved]
+
+b.2. Being designed and optimized to operate at a beam energy of 20 keV or more and a beam current of 10 mA or more for hydrogen, deuterium, or helium implant;
+
+b.3. Direct write capability;
+
+b.4. A beam energy of 65 keV or more and a beam current of 45 mA or more for high energy oxygen implant into a heated semiconductor material “substrate”; or
+
+b.5. Being designed and optimized to operate at beam energy of 20 keV or more and a beam current of 10mA or more for silicon implant into a semiconductor material “substrate” heated to 600 °C or greater;
+
+c. Etch equipment.
+
+c.1. Equipment designed for dry etching as follows:
+
+c.1.a. Equipment designed or modified for isotropic dry etching, having a largest 'silicon germanium-to-silicon (SiGe:Si) etch selectivity' of greater than or equal to 100:1; or
+
+c.1.b. [Reserved]
+
+c.1.c. Equipment designed or modified for anisotropic dry etching, having all of the following;
+
+c.1.c.1. Radio Frequency (RF) power source(s) with at least one pulsed RF output;
+
+c.1.c.2. One or more fast gas switching valve(s) with switching time less than 300 milliseconds; and
+
+c.1.c.3. Electrostatic chuck with twenty or more individually controllable variable temperature elements;
+
+c.2. Equipment designed for wet chemical processing and having a largest 'silicon germanium-to-silicon (SiGe:Si) etch selectivity' of greater than or equal to 100:1;
+
+c.3. Equipment designed for anisotropic dry etching having all of following:
+
+c.3.a Two or more RF independent sources;
+
+c.3.b Two or more independent gas sources;
+
+c.3.c 'Process uniformity tuning' for wafer thickness variation compensation; and
+
+c.3.d Through Silicon Via (TSV) reveal Endpoint Detection (EPD);
+
+c.4. Equipment designed for Through Silicon Via (TSV) etch having all of the following:
+
+c.4.a. Silicon etch rate greater than 7 microns per minute;
+
+c.4.b. Within wafer (WIW) etch depth non-uniformity of less than or equal 2 percent; and
+
+c.4.c. A Through Silicon Via (TSV) aspect ratio greater than or equal to 10:1.
+
+Note 1: 3B001.c includes etching by 'radicals', ions, sequential reactions, or non-sequential reaction.
+
+Note 2: 3B001.c.1.c includes etching using RF pulse excited plasma, pulsed duty cycle excited plasma, pulsed voltage on electrodes modified plasma, cyclic injection and purging of gases combined with a plasma, plasma atomic layer etching, or plasma quasi-atomic layer etching.
+
+Technical Notes: 1. For the purposes of 3B001.c, 'silicon germanium-to-silicon (SiGe:Si) etch selectivity' is measured for a Ge concentration of greater than or equal to 30% (Si0.70Ge0.30).
+
+2. For the purposes of 3B001.c Note 1 and 3B001.d.14, 'radical' is defined as an atom, molecule, or ion that has an unpaired electron in an open electron shell configuration.
+
+3. For the purposes of 3B001.c.3, 'process uniformity tuning' is the process of compensating for incoming wafer thickness variations after grinding.
+
+d. Semiconductor manufacturing deposition equipment, as follows:
+
+d.1. Equipment designed for cobalt (Co) electroplating or cobalt electroless-plating deposition processes;
+
+Note: 3B001.d.1 controls semiconductor wafer processing equipment.
+
+d.2. Equipment designed for:
+
+d.2.a. Chemical vapor deposition of cobalt (Co) fill metal; or
+
+d.2.b. Selective bottom-up chemical vapor deposition of tungsten (W) fill metal;
+
+d.3. Semiconductor manufacturing equipment designed to fabricate a metal contact by multistep processing within a single chamber by performing all of the following:
+
+d.3.a. Deposition of a tungsten layer, using an organometallic compound, while maintaining the wafer substrate temperature greater than 100 °C and less than 500 °C; and
+
+d.3.b. Surface treatment plasma process using hydrogen (H2), hydrogen and nitrogen (H2+N2), or ammonia (NH3).
+
+d.4. Equipment or systems designed for multistep processing in multiple chambers or stations, as follows:
+
+d.4.a. Equipment designed to fabricate a metal contact by performing all of the following processes:
+
+d.4.a.1. Surface treatment plasma process using hydrogen (H2), including hydrogen and nitrogen (H2 + N2) or ammonia (NH3), while maintaining the wafer substrate at a temperature greater than 100 °C and less than 500 °C;
+
+d.4.a.2. Surface treatment plasma process using oxygen (O2) or ozone (O3), while maintaining the wafer substrate at a temperature greater than 40 °C and less than 500 °C; and
+
+d.4.a.3. Deposition of a tungsten (W) layer while maintaining the wafer substrate temperature greater than 100 °C and less than 500 °C;
+
+d.4.b. Equipment designed to fabricate a metal contact by performing all of the following processes:
+
+d.4.b.1 Surface treatment process using a remote plasma generator and an ion filter; and
+
+d.4.b.2. Deposition of a cobalt (Co) layer selectively onto copper (Cu) using an organometallic compound;
+
+Note: This control does not apply to equipment that is non-selective.
+
+d.4.c. Equipment designed to fabricate a metal contact by performing all the following processes:
+
+d.4.c.1. Deposition of a titanium nitride (TiN) or tungsten carbide (WC) layer, using an organometallic compound, while maintaining the wafer substrate at a temperature greater than 20 °C and less than 500 °C;
+
+d.4.c.2. Deposition of a cobalt (Co) layer using a physical sputter deposition technique and having a process pressure greater than 133.3 mPa and less than 13.33 Pa, while maintaining the wafer substrate at a temperature below 500 °C; and
+
+d.4.c.3. Deposition of a cobalt (Co) layer using an organometallic compound and having a process pressure greater than 133.3 Pa and less than 13.33 kPa, while maintaining the wafer substrate at a temperature greater than 20 °C and less than 500 °C;
+
+d.4.d. Equipment designed to fabricate copper (Cu) interconnects by performing all of the following processes:
+
+d.4.d.1. Deposition of a cobalt (Co) or ruthenium (Ru) layer using an organometallic compound and having a process pressure greater than 133.3 Pa and less than 13.33 kPa, while maintaining the wafer substrate at a temperature greater than 20 °C and less than 500 °C; and
+
+d.4.d.2. Deposition of a copper layer using a physical vapor deposition technique and having a process pressure greater than 133.3 mPa and less than 13.33 Pa, while maintaining the wafer substrate at a temperature below 500 °C;
+
+d.5. Equipment designed for plasma enhanced chemical vapor deposition of carbon hard masks more than 2 um thick and with density of greater than 1.7g/cc;
+
+d.6. Atomic Layer Deposition (ALD) equipment designed for area selective deposition of a barrier or liner using an organometallic compound;
+
+Note: 3B001.d.6 includes equipment capable of area selective deposition of a barrier layer to enable fill metal contact to an underlying electrical conductor without a barrier layer at the fill metal via interface to an underlying electrical conductor.
+
+d.7. Equipment designed for Atomic Layer Deposition (ALD) of tungsten (W) to fill an entire interconnect or in a channel less than 40 nm wide, while maintaining the wafer substrate at a temperature less than 500 °C.
+
+d.8. Equipment designed for Atomic Layer Deposition (ALD) of 'work function metal' having all of the following:
+
+d.8.a. More than one metal source of which one is designed for an aluminum (Al) precursor;
+
+d.8.b. Precursor vessel designed and enabled to operate at a temperature greater than 30 °C; and
+
+d.8.c. Designed for depositing a 'work function metal' having all of the following:
+
+d.8.c.1. Deposition of titanium-aluminum carbide (TiAlC); and
+
+d.8.c.2. Enabling a work function greater than 4.0 eV;
+
+Technical Note: For the purposes of 3B001.d.8, 'work function metal' is a material that controls the threshold voltage of a transistor.
+
+d.9. Spatial Atomic Layer Deposition (ALD) equipment having a wafer support platform that rotates around an axis having any of the following:
+
+d.9.a. A spatial plasma enhanced atomic layer deposition mode of operation;
+
+d.9.b. A plasma source; or
+
+d.9.c. A plasma shield or means to confine the plasma to the plasma exposure process region;
+
+d.10. Equipment designed for Atomic Layer Deposition (ALD) or Chemical Vapor Deposition (CVD) of plasma enhanced of low fluorine tungsten (FW) (fluorine (F) concentration less than 10 19 atoms/cm 3) films;
+
+d.11. [Reserved]
+
+d.12. Equipment designed for depositing a metal layer, and having any of the following:
+
+d.12.a. Selective tungsten (W) growth without a barrier; or
+
+d.12.b. Selective molybdenum (Mo) growth without a barrier;
+
+d.13. Equipment designed for depositing a ruthenium layer (Ru) using an organometallic compound, while maintaining the wafer substrate at a temperature greater than 20 °C and less than 500 °C;
+
+d.14. Equipment designed for deposition assisted by remotely generated 'radicals', enabling the fabrication of a silicon (Si) and carbon (C) containing film, and having all of the following properties of the deposited film:
+
+d.14.a. A dielectric constant (k) of less than 4.4;
+
+d.14.b. In features with an aspect ratio greater than 5:1 with lateral openings of less than 35 nm; and
+
+d.14.c. A feature-to-feature pitch of less than 45 nm;
+
+d.15. Equipment designed for void free plasma enhanced deposition of a low-k dielectric layer in gaps between metal lines less than 25 nm and having an aspect ratio greater than or equal to 1:1 with a less than 3.3 dielectric constant;
+
+d.16. [Reserved]
+
+d.17. Equipment designed for plasma enhanced chemical vapor deposition (PECVD) or radical assisted chemical vapor deposition and UV curing in a single platform of a dielectric film, while maintaining a substrate temperature below 500 °C, having all of the following:
+
+d.17.a. A thickness of more than 6 nm and less than 20 nm on metal features having less than 24 nm pitch and having an aspect ratio equal to or greater than 1:1.8; and
+
+d.17.b. A dielectric constant less than 3.0;
+
+d.18. Equipment designed or modified for Atomic Layer Deposition (ALD) of molybdenum (Mo), ruthenium (Ru), or combinations Mo or Ru, and having all of the following:
+
+d.18.a. A metal precursor source designed or modified to operate at a temperature greater 75 °C; and
+
+d.18.b. A process chamber (module) using a reducing agent containing hydrogen (H) at a pressure greater than or equal to 30 Torr (4 kPa).
+
+Note: For the purposes of paragraph d.18.a, the metal precursor source need not be integrated with the equipment. The metal precursor could be delivered by an on-tool source or from a sub-fab source.
+
+d.19. Deposition equipment having direct-liquid injection of more than two metal precursors, designed or modified to deposit a conformal dielectric film with a dielectric constant (K) greater than 40 in features with aspect ratio greater than 200:1 in a single deposition chamber.
+
+d.20. Physical vapor deposition equipment having electromagnets for ion flux guidance, and “specially designed” to deposit tungsten (W) metal into features having an aspect ratio of 3:1 or greater.
+
+e. Automatic loading multi-chamber central wafer handling systems having all of the following:
+
+e.1. Interfaces for wafer input and output, to which more than two functionally different 'semiconductor process tools' controlled by 3B001.a, .b., .c, and .d are designed to be connected; and
+
+e.2. Designed to form an integrated system in a vacuum environment for 'sequential multiple wafer processing';
+
+Note: 3B001.e does not control automatic robotic wafer handling systems “specially designed” for parallel wafer processing.
+
+Technical Notes: 1. For the purposes of 3B001.e, 'semiconductor process tools' refers to modular tools that provide physical processes for semiconductor “production” that are functionally different, such as deposition, implant or thermal processing.
+
+2. For the purposes of 3B001.e, 'sequential multiple wafer processing' means the capability to process each wafer in different 'semiconductor process tools', such as by transferring each wafer from one tool to a second tool and on to a third tool with the automatic loading multi-chamber central wafer handling systems.
+
+f. Lithography commodities as follows:
+
+f.1. Align and expose step and repeat (direct step on wafer) or step and scan (scanner) equipment for wafer processing using photo-optical or X-ray methods and having any of the following:
+
+f.1.a. A light source wavelength shorter than 193 nm; or
+
+f.1.b. A light source wavelength equal to or longer than 193 nm and having all of the following:
+
+f.1.b.1. The capability to produce a pattern with a “Minimum Resolvable Feature size” (MRF) of 45 nm or less; and
+
+f.1.b.2. A maximum 'dedicated chuck overlay' value of less than or equal to 1.50 nm;
+
+Technical Notes: For the purposes of 3B001.f.1.b:
+
+1. The 'Minimum Resolvable Feature size' (MRF) (i.e., resolution) is calculated by the following formula:
+
+where, for the purposes of 3B001.f.1.b, the K factor = 0.25 'MRF' is also known as resolution.
+
+2. 'Dedicated chuck overlay' is the alignment accuracy of a new pattern to an existing pattern printed on a wafer by the same lithographic system. 'Dedicated chuck overlay' is also known as single machine overlay.
+
+f.2. Imprint lithography equipment capable of production features of 45 nm or less;
+
+Note: 3B001.f.2 includes:
+
+—Micro contact printing tools
+
+—Hot embossing tools
+
+—Nano-imprint lithography tools
+
+—Step and flash imprint lithography (S-FIL) tools
+
+f.3. Equipment “specially designed” for mask making having all of the following:
+
+f.3.a. A deflected focused electron beam, ion beam or “laser” beam; and
+
+f.3.b. Having any of the following:
+
+f.3.b.1. A Full-Width Half-Maximum (FWHM) spot size smaller than 65 nm and an image placement less than 17 nm (mean + 3 sigma); or
+
+f.3.b.2. [Reserved]
+
+f.3.b.3. A second-layer overlay error of less than 23 nm (mean + 3 sigma) on the mask;
+
+f.4. Equipment designed for device processing using direct writing methods, having all of the following:
+
+f.4.a. A deflected focused electron beam; and
+
+f.4.b. Having any of the following:
+
+f.4.b.1. A minimum beam size equal to or smaller than 15 nm; or
+
+f.4.b.2. An overlay error less than 27 nm (mean + 3 sigma);
+
+f.5. Imprint lithography equipment having an overlay accuracy less (better) than 1.5;
+
+f.6. Commodities not specified by 3B001.f.1, designed or modified to perform all of the following in or with deep-ultraviolet immersion photolithography equipment:
+
+f.6.a. Decrease the minimum resolvable feature specified by 3B001.f.1.b; and
+
+f.6.b. Decrease the maximum 'dedicated chuck overlay' of a deep-ultraviolet immersion lithography tool below or equal to 1.5 nm.
+
+g. Masks and reticles, designed for integrated circuits controlled by 3A001;
+
+h. Multi-layer masks with a phase shift layer not specified by 3B001.g and designed to be used by lithography equipment having a light source wavelength less than 245 nm;
+
+Note: 3B001.h does not control multi-layer masks with a phase shift layer designed for the fabrication of memory devices not controlled by 3A001.
+
+N.B.: For masks and reticles, “specially designed” for optical sensors, see 6B002.
+
+i. Imprint lithography templates designed for integrated circuits by 3A001;
+
+j. Mask “substrate blanks” with multilayer reflector structure consisting of molybdenum and silicon, and having all of the following:
+
+j.1. “Specially designed” for “Extreme Ultraviolet” (“EUV”) lithography; and
+
+j.2. Compliant with SEMI Standard P37;
+
+k. Equipment designed for ion beam deposition or physical vapor deposition of a multi-layer reflector for “EUV” masks;
+
+l. “EUV” pellicles;
+
+m. Equipment for manufacturing “EUV” pellicles;
+
+n. Equipment designed for coating, depositing, baking, or developing photoresist formulated for “EUV” lithography;
+
+o. [Reserved]
+
+p. Removal and cleaning equipment as follows:
+
+p.1. [Reserved]
+
+p.2. Single wafer wet cleaning equipment with surface modification drying; or
+
+p.3. [Reserved]
+
+p.4. Equipment designed for single wafer cleaning using supercritical CO2 or sublimation drying;
+
+q. “EUV” masks and “EUV” reticles, designed for integrated circuits, not specified by 3B001.g, and having a mask “substrate blank” specified by 3B001.j; or
+
+Technical Notes: For the purposes of 3B001.q, masks or reticles with a mounted pellicle are considered masks and reticles.
+
+r. Equipment designed for EUV 'pattern shaping.'
+
+Technical Note: For the purposes of 3B001.r, 'pattern shaping' is a deposition or removal process used to improve overall patterning by reshaping or trimming patterns produced using EUV lithography with non-vertical directed particles including ions, neutral particles, clusters, radicals, or light.

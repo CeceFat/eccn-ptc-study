@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 8C001；eCFR 2026-10-29〕
+
+8C001 'Syntactic foam' designed for underwater use and having all of the following (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See also 8A002.a.4.
+
+Related Definition: For the purposes of 8C001, 'Syntactic foam' consists of hollow spheres of plastic or glass embedded in a resin “matrix.”
+
+Items:
+
+a. Designed for marine depths exceeding 1,000 m; and
+
+b. A density less than 561 kg/m 3.

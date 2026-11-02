@@ -1,0 +1,61 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 0A505；eCFR 2026-10-29〕
+
+0A505 Ammunition as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, FC, CC, UN, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to 0A505.a and .x | NS Column 1.
+
+RS applies to 0A505.a and .x | RS Column 1.
+
+FC applies to entire entry except 0A505.d | FC Column 1.
+
+CC applies to 0A505.b | CC Column 1.
+
+UN applies to entire entry | See § 746.1 of the EAR for UN controls.
+
+AT applies to 0A505.a, .d, and .x | AT Column 1.
+
+AT applies to 0A505.c | A license is required for items controlled by paragraph .c of this entry to North Korea for anti-terrorism reasons. The Commerce Country Chart is not designed to determine AT licensing requirements for this entry. See § 742.19 of the EAR for additional information.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $500 for items in 0A505.x, except $3,000 for items in 0A505.x that, immediately prior to March 9, 2020, were classified under 0A018.b. (i.e., “Specially designed” components and parts for ammunition, except cartridge cases, powder bags, bullets, jackets, cores, shells, projectiles, boosters, fuses and components, primers, and other detonating devices and ammunition belting and linking machines (all of which are “subject to the ITAR”). (See 22 CFR parts 120 through 130)).
+
+GBS: N/A
+
+Special Conditions for STA
+
+License Exception STA may not be used for ECCN 0A505, to any of the destinations listed in Country Group A:6 (See supplement no.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) See USML Category III for ammunition for modern heavy weapons such as howitzers, artillery, cannon, mortars and recoilless rifles as well as inherently military ammunition types such as ammunition preassembled into links or belts, caseless ammunition, tracer ammunition, ammunition with a depleted uranium projectile or a projectile with a hardened tip or core and ammunition with an explosive projectile. (2) Percussion caps, and lead balls and bullets, for use with muzzle-loading firearms are EAR99 items. (3) See USML Category III for shotgun projectiles that are flechettes, incendiary, tracer, or explosive.
+
+Related Definitions: 'Marking rounds' are non-lethal, typically used for training purposes, and contain a dye or paint in a capsule that is not a chemical irritant.
+
+Items:
+
+a. Ammunition for firearms controlled by ECCNs 0A501, 0A506, or 0A507 or USML Category I and not enumerated in paragraph .b, .c, or .d of this entry or described in USML Category III.
+
+b. Buckshot (No. 4 .24” diameter and larger, any material) shotgun shells and shotgun shells that contain only buckshot, or are for the dispersion of chemical irritants.
+
+c. Shotgun shells (including less than lethal rounds) that do not contain buckshot; and “specially designed” “parts” and “components” of shotgun shells.
+
+d. Blank ammunition for firearms controlled by ECCNs 0A501, 0A502, 0A506, 0A507, or 0A508 and not described in USML Category III.
+
+Technical Note to 0A505.d: Includes 'marking rounds' that have paint/dye as the projectile.
+
+e. through w. [Reserved]
+
+x. “Parts” and “components” that are “specially designed” for a commodity subject to control in this ECCN or a defense article in USML Category III and not elsewhere specified on the USML or the CCL.
+
+Note 1 to 0A505.x: The controls on “parts” and “components” in this entry include Berdan and boxer primers, metallic cartridge cases, and standard metallic projectiles such as full metal jacket, lead core, copper projectiles, and frangible projectiles.
+
+Note 2 to 0A505: Metal shot smaller than No. 4 Buckshot, empty and unprimed shotgun shells, shotgun wads, smokeless gunpowder, 'dummy rounds' and 'drill rounds' (unless linked or belted), not incorporating a lethal or non-lethal projectile(s) are designated EAR99. A 'dummy round' or 'drill round' is a round that is completely inert, (i.e., contains no primer, propellant, or explosive charge). It is typically used to check weapon function and for crew training.
+
+Note 3 to 0A505: Shotgun shells that contain two or more balls/shot larger than .24-inch are controlled under 0A505.b.

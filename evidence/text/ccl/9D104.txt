@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9D104；eCFR 2026-10-29〕
+
+9D104 “Software” specially designed or modified for the “use” of equipment controlled by ECCN 9A001, 9A012 (for MT controlled items only), 9A101 (except for items in 9A101.b that are “subject to the ITAR”, see 22 CFR part 121), or 9A106.d.
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: “Software” for commodities specified in ECCNs 9A005 to 9A011, 9A103 to 9A105, 9A101.b (except for items that are subject to the EAR), 9A106.a, .b, and .c, 9A107 to 9A109, 9A111, 9A115 to 9A118 is “subject to the ITAR” (see 22 CFR parts 120 through 130).
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.
+
+Note: For a manned aircraft converted to operate as an unmanned aerial vehicle specified in 9A012 and controlled for MT reasons, 9D104 includes “software”, as follows:
+
+a. “Software” “specially designed” or modified to integrate the conversion equipment with the aircraft system functions;
+
+b. “Software” “specially designed” or modified to operate the aircraft as an unmanned aerial vehicle.

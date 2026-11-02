@@ -1,0 +1,63 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 0A502；eCFR 2026-10-29〕
+
+0A502 Shotguns (except 0A508 semi-automatic shotguns) and related commodities (except semi-automatic related commodities enumerated or otherwise described in ECCN 0A509 for ECCN 0A508) as follows (see List of Items controlled).
+
+License Requirements
+
+Reason for Control: RS, FC, CC, UN, AT, NS
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to shotguns with a barrel length less than 18 inches (45.72 cm) | NS Column 1.
+
+RS applies to shotguns with a barrel length less than 18 inches (45.72 cm) | RS Column 1.
+
+FC applies to entire entry | FC Column 1.
+
+CC applies to shotguns with a barrel length less than 24 in. (60.96 cm) and paragraphs .c, .d, and .e controlled by this entry regardless of end user | CC Column 1.
+
+CC applies to shotguns with a barrel length greater than or equal to 24 in. (60.96 cm), regardless of end user | CC Column 2.
+
+CC applies to shotguns with a barrel length greater than or equal to 24 in. (60.96 cm) if for sale or resale to police or law enforcement | CC Column 3.
+
+UN applies to entire entry | See § 746.1(b) of the EAR for UN controls.
+
+AT applies to shotguns with a barrel length less than 18 inches (45.72 cm) | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $500 for 0A502.c, and .d.
+
+$500 for 0A502.c, .d, and .e if the ultimate destination is Canada.
+
+GBS: N/A
+
+Special Conditions for STA
+
+License Exception STA may not be used to ship any shotguns with barrel length less than 18 inches controlled in 0A502, to any of the destinations listed in Country Group A:5 or A:6 (See supplement no.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) See USML Category I for shotguns described therein. (2) See ECCN 0A508 for semi-automatic shotguns. (3) See ECCN 0A509 for enumerated or otherwise described “parts,” “components,” devices, “accessories,” and “attachments” for ECCN 0A508. (4) See 0A501.d, .x, and .y for other “parts,” “components,” “accessories,” and “attachments” “specially designed” for 0A508. (5) See ECCNs 0A501 for non-semi-automatic firearms, 0A506 for semi-automatic rifles, and 0A507 for semi-automatic pistols.
+
+Related Definitions: N/A
+
+Items:
+
+a. Non-automatic and non-semi automatic centerfire (non-rimfire) shotguns.
+
+b. Non-automatic and non-semi automatic rimfire shotguns.
+
+c. Complete trigger mechanisms for a commodity controlled by paragraph .a or .b of this entry, ECCN 0A508, or USML Category I (unless otherwise enumerated or elsewhere specified on the USML).
+
+d. Magazines and magazine extension tubes for a commodity controlled by paragraph .a or .b of this entry or controlled by ECCN 0A508.
+
+e. “Complete breech mechanisms” for a commodity controlled by paragraph .a or .b of this entry.
+
+Note 1 to paragraph 0A502.e: Frames (receivers) “specially designed” for semi-automatic shotguns are controlled under ECCN 0A509.d.
+
+Note 2 to 0A502: ECCN 0A502 does not control equipment used to slaughter domestic animals or used exclusively to treat or tranquilize animals; or arms designed solely for signal, flare, or saluting use.
+
+Note 3 to 0A502: Shotguns made in or before 1898 are considered antique shotguns and designated as EAR99.
+
+Technical Note: Non-automatic and non-semi-automatic shot pistols or shotguns that have had the shoulder stock removed and a pistol grip attached are controlled by ECCN 0A502. Non-automatic and non-semi-automatic slug guns are also controlled under ECCN 0A502.

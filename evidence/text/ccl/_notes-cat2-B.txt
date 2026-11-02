@@ -1,0 +1,33 @@
+〔15 CFR Part 774, Supp. No. 1, cat2 Group B 開頭註記；eCFR 2026-10-29〕
+
+B. “Test”, “Inspection” and “Production Equipment”
+
+Technical Notes for 2B001 to 2B009, 2B201, and 2B991 to 2B999: 1. Secondary parallel contouring axes, (e.g., the w-axis on horizontal boring mills or a secondary rotary axis the center line of which is parallel to the primary rotary axis) are not counted in the total number of contouring axes. Rotary axes need not rotate over 360°. A rotary axis can be driven by a linear device (e.g., a screw or a rack-and-pinion).
+
+2. The number of axes which can be coordinated simultaneously for “contouring control” is the number of axes along or around which, during processing of the workpiece, simultaneous and interrelated motions are performed between the workpiece and a tool. This does not include any additional axes along or around which other relative motions within the machine are performed, such as:
+
+2.a. Wheel-dressing systems in grinding machines;
+
+2.b. Parallel rotary axes designed for mounting of separate workpieces;
+
+2.c. Co-linear rotary axes designed for manipulating the same workpiece by holding it in a chuck from different ends.
+
+3. Axis nomenclature shall be in accordance with International Standard ISO 841:2001, Industrial automation systems and integration—Numerical control of machines—Coordinate system and motion nomenclature.
+
+4. A “tilting spindle” is counted as a rotary axis.
+
+5. 'Stated “unidirectional positioning repeatability” ' may be used for each specific machine model as an alternative to individual machine tests, and is determined as follows:
+
+5.a. Select five machines of a model to be evaluated;
+
+5.b. Measure the linear axis repeatability (R↑,R↓) according to ISO 230-2:2014 and evaluate “unidirectional positioning repeatability” for each axis of each of the five machines;
+
+5.c. Determine the arithmetic mean value of the ”unidirectional positioning repeatability”-values for each axis of all five machines together. These arithmetic mean values “unidirectional positioning repeatability” (UPR) become the stated value of each axis for the model...) (UPRX, UPRy, . . .);
+
+5.d. Since the Category 2 list refers to each linear axis there will be as many 'stated “unidirectional positioning repeatability” ' values as there are linear axes;
+
+5.e. If any axis of a machine model not controlled by 2B001.a. to 2B001.c. has a 'stated “unidirectional positioning repeatability” ' equal to or less than the specified “unidirectional positioning repeatability” of each machine tool model plus 0.7 µm, the builder should be required to reaffirm the accuracy level once every eighteen months.
+
+6. For the purpose of 2B, measurement uncertainty for the “unidirectional positioning repeatability” of machine tools, as defined in the International Standard ISO 230-2:2014, shall not be considered.
+
+7. For the purpose of 2B, the measurement of axes shall be made according to test procedures in 5.3.2. of ISO 230-2:2014. Tests for axes longer than 2 meters shall be made over 2 m segments. Axes longer than 4 m require multiple tests (e.g., two tests for axes longer than 4 m and up to 8 m, three tests for axes longer than 8 m and up to 12 m), each over 2 m segments and distributed in equal intervals over the axis length. Test segments are equally spaced along the full axis length, with any excess length equally divided at the beginning, in between, and at the end of the test segments. The smallest “unidirectional positioning repeatability”-value of all test segments is to be reported.

@@ -1,0 +1,35 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C998；eCFR 2026-10-29〕
+
+1C998 Non-fluorinated polymeric substances, not controlled by 1C008, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Polyarylene ether ketones, as follows:
+
+a.1 Polyether ether ketone (PEEK);
+
+a.2. Polyether ketone ketone (PEKK);
+
+a.3. Polyether ketone (PEK);
+
+a.4. Polyether ketone ether ketone ketone (PEKEKK);
+
+b. [Reserved]

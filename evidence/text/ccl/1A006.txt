@@ -1,0 +1,37 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1A006；eCFR 2026-10-29〕
+
+1A006 Equipment, “specially designed” or modified for the disposal of Improvised Explosive Devices (IEDs), as follows (see List of Items Controlled), and “specially designed” “components” and “accessories” therefor.
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+License Requirement Note: 1A006 does not apply to equipment when accompanying its operator.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: Equipment “specially designed” for military use for the disposal of IEDs is “subject to the ITAR” (see 22 CFR parts 120 through 130, including USML Category IV).
+
+Related Definitions: N/A
+
+Items:
+
+a. Remotely operated vehicles;
+
+b. 'Disruptors'.
+
+Technical Note: For the purposes of 1A006.b 'disruptors' are devices “specially designed” for the purpose of preventing the operation of an explosive device by projecting a liquid, solid or frangible projectile.
+
+Note: 1A006 does not apply to equipment when accompanying its operator.

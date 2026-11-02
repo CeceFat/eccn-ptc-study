@@ -1,0 +1,37 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3A231；eCFR 2026-10-29〕
+
+3A231 Neutron generator systems, including tubes, having both of the characteristics described in this ECCN (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NP, AT, foreign policy
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NP applies to entire entry | NP Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+Russian industry sector sanctions apply to entire entry | See § 746.8 for specific license requirements and license review policy.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See ECCNs 3E001 (“development” and “production”) and 3E201 (“use”) for technology for items controlled under this entry.
+
+Related Definitions: N/A
+
+Items:
+
+a. Designed for operation without an external vacuum system; and
+
+b. Utilizing electrostatic acceleration to induce:
+
+b.1. A tritium-deuterium nuclear reaction; or
+
+b.2. A deuterium-deuterium nuclear reaction and capable of an output of 3 × 10 9 neutrons/s or greater.

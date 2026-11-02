@@ -1,0 +1,107 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6A995；eCFR 2026-10-29〕
+
+6A995 “Lasers” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Carbon dioxide (CO2) “lasers” having any of the following:
+
+a.1. A CW output power exceeding 10 kW;
+
+a.2. A pulsed output with a “pulse duration” exceeding 10 microseconds; and
+
+a.2.a. An average output power exceeding 10 kW; or
+
+a.2.b. A pulsed “peak power” exceeding 100 kW; or
+
+a.3. A pulsed output with a “pulse duration” equal to or less than 10 microseconds; and
+
+a.3.a. A pulse energy exceeding 5 J per pulse and “peak power” exceeding 2.5 kW; or
+
+a.3.b. An average output power exceeding 2.5 kW;
+
+b. Semiconductor lasers, as follows:
+
+b.1. Individual, single-transverse mode semiconductor “lasers” having:
+
+b.1.a. An average output power exceeding 100 mW; or
+
+b.1.b. A wavelength exceeding 1,050 nm;
+
+b.2. Individual, multiple-transverse mode semiconductor “lasers”, or arrays of individual semiconductor “lasers”, having a wavelength exceeding 1,050 nm;
+
+c. Ruby “lasers” having an output energy exceeding 20 J per pulse;
+
+d. Non-“tunable” “pulsed lasers” having an output wavelength exceeding 975 nm but not exceeding 1,150 nm and having any of the following:
+
+d.1. A “pulse duration” equal to or exceeding 1 ns but not exceeding 1 µs, and having any of the following:
+
+d.1.a. A single transverse mode output and having any of the following:
+
+d.1.a.1. A ‘wall-plug efficiency’ exceeding 12% and an “average output power” exceeding 10 W and capable of operating at a pulse repetition frequency greater than 1kHz; or
+
+d.1.a.2. An “average output power” exceeding 20 W; or
+
+d.1.b. A multiple transverse mode output and having any of the following:
+
+d.1.b.1. A ‘wall-plug efficiency’ exceeding 18% and an “average output power” exceeding 30 W;
+
+d.1.b.2. A “peak power” exceeding 200 MW; or
+
+d.1.b.3. An “average output power” exceeding 50 W; or
+
+d.2. A “pulse duration” exceeding 1 µs and having any of the following:
+
+d.2.a. A single transverse mode output and having any of the following:
+
+d.2.a.1. A ‘wall-plug efficiency’ exceeding 12% and an “average output power” exceeding 10 W and capable of operating at a pulse repetition frequency greater than 1 kHz; or
+
+d.2.a.2. An “average output power” exceeding 20 W; or
+
+d.2.b. A multiple transverse mode output and having any of the following:
+
+d.2.b.1. A ‘wall-plug efficiency’ exceeding 18% and an “average output power” exceeding 30 W; or
+
+d.2.b.2. An “average output power” exceeding 500 W;
+
+e. Non-“tunable” continuous wave “(CW) lasers”, having an output wavelength exceeding 975 nm but not exceeding 1,150 nm and having any of the following:
+
+e.1. A single transverse mode output and having any of the following:
+
+e.1.a. A ‘wall-plug efficiency’ exceeding 12% and an “average output power” exceeding 10 W and capable of operating at a pulse repetition frequency greater than 1 kHz; or
+
+e.1.b. An “average output power” exceeding 50 W; or
+
+e.2. A multiple transverse mode output and having any of the following:
+
+e.2.a. A ‘wall-plug efficiency’ exceeding 18% and an “average output power” exceeding 30 W; or
+
+e.2.b. An “average output power” exceeding 500 W;
+
+Note: 6A995.e.2.b does not control multiple transverse mode, industrial “lasers” with output power less than or equal to 2kW with a total mass greater than 1,200kg. For the purpose of this note, total mass includes all “components” required to operate the “laser,” e.g., “laser,” power supply, heat exchanger, but excludes external optics for beam conditioning and/or delivery.
+
+f. Non-“tunable” “lasers”, having a wavelength exceeding 1,400 nm, but not exceeding 1555 nm and having any of the following:
+
+f.1. An output energy exceeding 100 mJ per pulse and a pulsed “peak power” exceeding 1 W; or
+
+f.2. An average or CW output power exceeding 1 W.
+
+g. Free electron “lasers”.

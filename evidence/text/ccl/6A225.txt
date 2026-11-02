@@ -1,0 +1,29 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6A225；eCFR 2026-10-29〕
+
+6A225 Velocity interferometers for measuring velocities exceeding 1 km/s during time intervals of less than 10 microseconds.
+
+License Requirements
+
+Reason for Control: NP, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NP applies to entire entry | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See ECCNs 6E001 (“development”), 6E002 (“production”), and 6E201 (“use”) for technology for items controlled under this entry.
+
+Related Definitions: N/A
+
+ECCN Controls: 6A225 includes velocity interferometers, such as VISARs (Velocity Interferometer Systems for Any Reflector), DLIs (Doppler Laser Interferometers) and PDV (Photonic Doppler Velocimeters) also known as Het-V (Heterodyne Velocimeters).
+
+Items: The list of items controlled is contained in the ECCN heading.

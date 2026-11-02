@@ -1,0 +1,2871 @@
+〔Federal Register / BIS｜81 FR 35586 — Revisions to Definitions in the Export Administration Regulations｜抓取 2026-11-02｜https://www.federalregister.gov/documents/full_text/text/2016/06/03/2016-12734.txt〕
+
+[Federal Register Volume 81, Number 107 (Friday, June 3, 2016)]
+[Rules and Regulations]
+[Pages 35586-35608]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-12734]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Parts 734, 740, 750, and 772
+
+[Docket No. 141016858-6004-02]
+RIN 0694-AG32
+
+
+Revisions to Definitions in the Export Administration Regulations
+
+AGENCY: Bureau of Industry and Security, Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This final rule is part of the Administration's Export Control 
+Reform (ECR) Initiative. The Initiative will enhance U.S. national and 
+economic security, facilitate compliance with export controls, update 
+the controls, and further the goal of reducing unnecessary regulatory 
+burdens on U.S. exporters. As part of this effort, the Bureau of 
+Industry and Security (BIS), in publishing this rule, makes revisions 
+to the Export Administration Regulations (EAR) to include certain 
+definitions to enhance clarity and consistency with terms also found in 
+the International Traffic in Arms Regulations (ITAR), which is 
+administered by the Department of State, Directorate of Defense Trade 
+Controls (DDTC), or that DDTC expects to publish in proposed rules. 
+This final rule also revises the Scope part of the EAR to update and 
+clarify application of controls to electronically transmitted and 
+stored technology and software, including by way of cloud computing. 
+DDTC is concurrently publishing comparable amendments to certain ITAR 
+definitions for the same reasons. Finally, this rule makes conforming 
+changes to related provisions.
+
+DATES: This rule is effective September 1, 2016.
+
+ADDRESSES: Although there is no formal comment period, public comments 
+on this final rule are welcome on a continuing basis. You may submit 
+comments by either of the following methods:
+     By email directly to [email protected]. Include 
+RIN 0694-AG32 in the subject line.
+     By mail or delivery to Regulatory Policy Division, Bureau 
+of Industry and Security, U.S. Department of Commerce, Room 2099B, 14th 
+Street and Pennsylvania Avenue NW., Washington, DC 20230. Refer to RIN 
+0694-AG32.
+    Commerce's full plan for retrospective regulatory review can be 
+accessed at: http://open.commerce.gov/news/2011/08/23/commerce-plan-retrospective-analysis-existing-rules.
+
+[[Page 35587]]
+
+
+FOR FURTHER INFORMATION CONTACT: For questions on application of 
+controls to electronically transmitted and stored technology and 
+software, contact Bob Rarog, Senior Advisor to the Assistant Secretary 
+for Export Administration, Bureau of Industry and Security at (202) 
+482-9089. For other questions, contact Hillary Hess, Director, 
+Regulatory Policy Division, Office of Exporter Services, Bureau of 
+Industry and Security at (202) 482-2440 or [email protected].
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    This final rule is part of the Administration's Export Control 
+Reform (ECR) Initiative. The Initiative will enhance U.S. national and 
+economic security, facilitate compliance with export controls, update 
+the controls, and continue the process of reducing unnecessary 
+regulatory burdens on U.S. exporters. As part of this effort, the 
+Bureau of Industry and Security (BIS), in publishing this rule, makes 
+revisions to the Export Administration Regulations (EAR) to include the 
+definitions of ``access information,'' ``technology,'' ``required,'' 
+``foreign person,'' ``proscribed person,'' ``published,'' results of 
+``fundamental research,'' ``export,'' ``reexport,'' ``release,'' 
+``transfer,'' and ``transfer (in-country)'' to enhance clarity and 
+consistency with terms also found in the International Traffic in Arms 
+Regulations (ITAR), which is administered by the Department of State, 
+Directorate of Defense Trade Controls (DDTC). This final rule also 
+revises the Scope part of the EAR to update and clarify application of 
+controls to electronically transmitted and stored technology and 
+software. DDTC is concurrently publishing comparable amendments to the 
+ITAR's definitions of ``export,'' ``reexport,'' ``release,'' and 
+``retransfer'' for the same reasons. Finally, this rule makes 
+conforming changes to related provisions. DDTC anticipates publishing 
+its comparable provisions pertaining to ``technical data,'' ``directly 
+related,'' ``public domain,'' and the results of ``fundamental 
+research'' in a separate proposed rule.
+    One aspect of the ECR Initiative includes amending the export 
+control regulations to facilitate enhanced compliance while reducing 
+unnecessary regulatory burdens. For similar national security, foreign 
+policy, including human rights, reasons, the EAR and the ITAR each 
+control, inter alia, the export, reexport, and in-country transfer by 
+U.S. and foreign persons of commodities, products or articles, 
+technology, technical data, software, and services to various 
+destinations, end users, and end uses. The two sets of regulations have 
+been issued pursuant to different statutes, have been administered by 
+different agencies with missions that are distinct from one another in 
+certain respects, and have covered different items (or articles). For 
+those reasons, and because each set of regulations has evolved 
+separately over decades without much coordination between the two 
+agencies regarding their structure and content, they often use 
+different words, or the same words differently, to accomplish similar 
+regulatory objectives.
+    Many parties' export, reexport, and transfer transactions are 
+regulated by both the Commerce Department's EAR and the State 
+Department's ITAR, particularly now that regulatory jurisdiction over 
+many types of military items has been transferred from the ITAR to the 
+EAR. Using common terms and common definitions to regulate the same 
+types of items or actions will facilitate enhanced compliance and 
+reduce unnecessary regulatory burdens. Conversely, if different 
+concerns between the two sets of export control regulations warrant 
+different terms or different controls, the differences should be made 
+clear for the same reason. Such clarity will benefit national security 
+because it will be easier for exporters to comply with the regulations 
+and for prosecutors to prosecute violations of the regulations. Such 
+clarity will also enhance our economic security because it will reduce 
+unnecessary regulatory burdens for exporters when attempting to 
+determine the meaning of key words and phrases across similar sets of 
+regulations. Finally, this rule and the rule DDTC is publishing 
+concurrently address only a portion of the terms and phrases that 
+warrant harmonization between the ITAR and the EAR. They are 
+nonetheless a significant step toward accomplishing one of the ultimate 
+objectives of the ECR initiative, which is the creation of a common 
+export control list and common set of export control regulations.
+
+Proposed Rule
+
+    On June 3, 2015, BIS published a proposed rule entitled ``Revisions 
+to Definitions in the Export Administration Regulations'' (80 FR 31505) 
+(hereafter ``the June 3 proposed rule'' or ``the June 3 rule''). 
+Simultaneously, the Department of State published a proposed rule 
+entitled ``International Traffic in Arms: Revisions to Definitions of 
+Defense Services, Technical Data, and Public Domain; Definition of 
+Product of Fundamental Research; Electronic Transmission and Storage of 
+Technical Data; and Related Definitions'' (80 FR 31525) (hereafter 
+``the State June 3 rule'').
+    BIS welcomed comments on all aspects of the June 3 rule. 
+Additionally, in the preamble to the June 3 rule, BIS specifically 
+solicited public comment with questions on eight issues. Two of those 
+questions pertained to the definition of fundamental research; one 
+pertained to whether the questions and answers in Supplement No. 1 to 
+part 734 had criteria that should be retained in part 734; two 
+pertained to encryption standards in the definition of ``Activities 
+that are Not Exports, Reexports, or Transfers;'' and one pertained to 
+the effectiveness of the proposed definition of ``peculiarly 
+responsible.'' Public comments on these questions are addressed in 
+their corresponding sections below.
+    The two remaining questions were broadly applicable across the 
+rule: Whether the proposed revisions created gaps, overlaps, or 
+contradictions between the EAR and the ITAR or among various provisions 
+within the EAR; and whether a 30-day delayed effective date was 
+appropriate for the final rule.
+    Eleven commenters cited the difference between the EAR and ITAR 
+standards for prepublication review of research as a significant gap 
+between the two bodies of regulations that would create compliance 
+difficulties. These commenters recommended that both final rules adopt 
+the EAR standard. Further discussion of this issue may be found in the 
+section of the preamble describing fundamental research, below.
+    Twenty-two commenters recommended a six-month delayed effective 
+date from date of publication. Most of these commenters explicitly 
+based the recommendation on the anticipated difficulty created by 
+adoption of differing proposed EAR and ITAR standards for 
+prepublication review of research. State is not publishing revisions to 
+fundamental research at this time; therefore, the rationale for 
+requesting a six-month delay is largely eliminated.
+    One commenter recommended at least a three-month delayed effective 
+date to enable non-U.S. companies to understand and prepare for 
+compliance with the revisions. BIS accepts this recommendation, and 
+this final rule will be effective 90 days from the date of publication.
+    One commenter recommended issuing an interim final rule with a 
+comment period of at least 60 days due
+
+[[Page 35588]]
+
+to the breadth of the proposed changes. BIS does not accept this 
+recommendation, because this final rule has a 90-day delayed effective 
+date, which is a longer delay than generally applies to an interim 
+final rule. The State rule published concurrently with this final rule 
+also has a 90-day delayed effective date. Moreover, the State 
+Department plans to publish a second proposed rule seeking comment on 
+most of the terms at issue.
+
+Frequently Asked Questions
+
+    Objectives of this final rule include streamlining, clarifying, and 
+updating regulatory text. BIS has attempted to focus the regulatory 
+text on control criteria, limiting notes and examples to those 
+necessary to adequately convey the criteria. Many public comments 
+raised questions about how criteria would be applied in particular 
+situations or suggested illustrative revisions. BIS considers these 
+comments helpful to compliance with the EAR and is publishing them 
+along with responses on the BIS Web site as Frequently Asked Questions 
+(FAQs).
+
+Items Subject to the EAR
+
+    The June 3 rule proposed re-titling the section ``Subject to the 
+EAR'' (from ``Important EAR terms and principles''), retaining the 
+definition and description of that term, and creating separate sections 
+in part 734 to define ``export,'' ``reexport,'' ``release,'' and 
+``transfer (in-country),'' rather than retaining them in that section. 
+The June 3 rule also proposed removing Sec.  734.2(b)(7) regarding the 
+listing of foreign territories and possessions in the Commerce Country 
+Chart (Supplement No. 1 to part 738) because it duplicated existing 
+Sec.  738.3(b).
+    BIS received no comments on its proposed revisions to Sec.  734.2. 
+These revisions are adopted in this final rule.
+
+Items Not Subject to the EAR
+
+    Section 734.3(a) describes items (i.e., commodities, software, and 
+technology) subject to the EAR. Paragraph (b) describes items that are 
+not subject to the EAR. The June 3 rule proposed minor revisions to 
+paragraph (b)(3), which describes software and technology that are not 
+subject to the EAR, to describe more fully educational and patent 
+information that are not subject to the EAR, and to add a note to make 
+explicit that information that is not ``technology'' as defined in the 
+EAR is per se not subject to the EAR. One commenter specifically 
+offered support for inclusion of the note, and no commenters objected 
+to it; BIS has adopted it in this final rule.
+
+Educational Information
+
+    The June 3 rule proposed to move the statement in Sec.  734.9 that 
+educational information released by instruction in a catalog course or 
+associated teaching laboratory of an academic institution is not 
+subject to the EAR to Sec.  734.3(b) and remove Sec.  734.9. The June 3 
+rule also proposed to revise the description of such educational 
+information as information and software that ``[c]oncern general 
+scientific, mathematical, or engineering principles commonly taught in 
+schools, and released by instruction in a catalog course or associated 
+teaching laboratory of an academic institution'' to better match the 
+existing ITAR description. The proposed revisions were not intended to 
+change the scope of educational information that is not subject to the 
+EAR.
+    Twenty-seven commenters stated that, in spite of BIS's declared 
+intent to leave the scope of this provision unchanged, the proposed 
+revision in fact narrowed the scope of educational information that is 
+not subject to the EAR. With the adoption of the terms in the 
+comparable ITAR provision, such as ``general'' and ``commonly,'' 
+commenters said that the revision could be read to make courses with 
+advanced or novel content subject to the EAR and suggested either 
+changing ``and released by instruction'' to ``or released by 
+instruction'' or reverting to the existing wording. BIS agrees that the 
+revision could be read to narrow the scope of the exclusion, and 
+because this narrowing was not intended, reverts to the existing 
+wording in this final rule.
+    BIS received no comments on the placement of the educational 
+information provision in the list of information that is per se not 
+subject to the EAR rather than in a separate section. BIS adopts the 
+proposed placement in this final rule.
+
+Additional Exclusions
+
+    This final rule adopts two additional revisions that were not in 
+Sec.  734.3(b)(3) in the June 3 proposed rule. This final rule adds 
+paragraphs (b)(3)(v) and (vi), two additional exclusions from the EAR: 
+Items that are non-proprietary system descriptions or are telemetry 
+data. These two exclusions appeared in the June 3 proposed rule as 
+exclusions from the definition of technology. For discussion of public 
+comments on these exclusions and BIS's response to those comments, see 
+the section on ``Technology'' below.
+
+Exports of Encryption Source Code Notes
+
+    The June 3 rule proposed no changes to the notes to paragraphs 
+(b)(2) and (b)(3) of Sec.  734.3 that a printed book or other printed 
+material setting forth encryption source code is not itself subject to 
+the EAR, but that encryption source code in electronic form or media 
+remains subject to the EAR. It also proposed no changes to the note 
+that publicly available encryption object code software classified 
+under Export Control Classification Number (ECCN) 5D002 is not subject 
+to the EAR when the corresponding source code meets the criteria 
+specified in Sec.  740.13(e) of the EAR.
+    BIS received no comments on these notes, and this final rule makes 
+no changes to them.
+
+Published Technology and Software
+
+    Section 734.7 sets forth that technology and software is 
+``published'' and thus not subject to the EAR when it becomes generally 
+accessible to the interested public in any form, including through 
+publication, availability at libraries, patents, distribution or 
+presentation at open gatherings, and public dissemination (i.e., 
+unlimited distribution) in any form (e.g., not necessarily in published 
+form), including posting on the Internet on sites available to the 
+public.
+    The June 3 rule proposed a definition of ``published'' that 
+retained the same scope, but with a simpler structure. The proposed 
+Sec.  734.7(a) read: ``Except as set forth in paragraph (b), 
+``technology'' or ``software'' is ``published'' and is thus not 
+``technology'' or ``software'' subject to the EAR when it is not 
+classified national security information and has been made available to 
+the public without restrictions upon its further dissemination,'' 
+followed by a list of examples of published information. The proposed 
+definition was substantially the same as the wording of definitions 
+adopted by the multilateral export control regimes of which the United 
+States is a member: The Wassenaar Arrangement on Export Controls for 
+Conventional Arms and Dual-Use Goods and Technologies (herein 
+``Wassenaar Arrangement'' or ``Wassenaar''), the Nuclear Suppliers 
+Group, the Missile Technology Control Regime, and the Australia Group. 
+The phrase ``classified national security information'' refers to 
+information that has been classified in accordance with Executive Order 
+13526, 75 FR 707; 3 CFR 2010 Comp., p. 298. The relevant restrictions 
+do not include copyright protections or generic property rights in the 
+underlying physical medium.
+    This final rule adopts the definition of ``published'' from the 
+June 3 proposed rule, with the exception of adding certain information, 
+intended to be
+
+[[Page 35589]]
+
+published, released to ``researchers conducting fundamental research'' 
+(see discussion below of ``Fundamental Research''). BIS received a 
+number of comments on the definition of ``published.'' Two commenters 
+found helpful the addressing of Internet posting and the clarification 
+that submission of manuscripts to journal editors constitutes 
+``published.'' Commenters requested that BIS define ``unclassified'' 
+and clarify whether university libraries are ``open to the public.'' 
+``Unclassified information'' refers to information that has not been 
+classified in accordance with Executive Order 13526, 75 FR 707; 3 CFR 
+2010 Comp., p. 298. University libraries are open to the public. BIS 
+does not implement these requests in this final rule because answering 
+them does not require a change to the regulations. BIS is, however, 
+addressing the questions in FAQs posted on BIS's Web site. One 
+commenter stated that, as proposed, the definition of ``published'' 
+``suggests that releasing (publishing) technology that is unclassified 
+but subject to the EAR makes that technology no longer subject to the 
+EAR.'' One commenter described allowing publication by Internet posting 
+as a ``loophole'' because the site may be obscure and the duration of 
+posting is not specified. Another commenter warned of ``the risk of 
+intentional abuse.'' Nonetheless, BIS confirms that technology or 
+software that is ``published'' as provided in Sec.  734.7 is not 
+subject to the EAR.
+    A commenter noted that the definition ``does not appear to address 
+the case of information posted by someone other than the rightful 
+owner.'' BIS agrees with this statement, but notes that such cases are 
+addressed by other laws and regulations.
+    BIS received thirty comments opposing a provision in the definition 
+of ``public domain'' in the State June 3 rule to which there is no 
+corresponding provision in the definition of ``published.'' BIS is 
+making no changes to the EAR in response to these comments because they 
+are outside the scope of this rule. They address concerns with the 
+ITAR, not the EAR.
+    As adopted in this final rule, section 734.7(b) keeps certain 
+published encryption software subject to the EAR, a restriction that 
+the June 3 rule proposed moving from Sec.  734.7(c) without revision.
+
+Fundamental Research
+
+    The June 3 rule proposed revising Sec.  734.8, which excludes most 
+information resulting from fundamental research from the scope of the 
+EAR, but it was not intended to change the scope of the current Sec.  
+734.8.
+
+Alternative Definitions
+
+    In the June 3 proposed rule, BIS specifically solicited comments on 
+whether the alternative definition of fundamental research suggested in 
+the preamble should be adopted. BIS also specifically solicited 
+comments on whether the alternative definition of applied research 
+suggested in the preamble should be adopted, or whether basic and 
+applied research definitions are needed given that they are subsumed by 
+fundamental research.
+    Issued in 1985, National Security Decision Directive (NSDD)-189 
+established a definition of ``fundamental research'' that has been 
+incorporated into numerous regulations, internal compliance regimes, 
+and guidance documents. The June 3 proposed rule contained a definition 
+of ``fundamental research'' that was identical to that in NSDD-189. 
+However, in the preamble to that rule, BIS provided a simpler 
+definition that was consistent with NSDD-189, but not identical. 
+Specifically, the alternative definition read: `` `Fundamental 
+research' means non-proprietary research in science and engineering, 
+the results of which ordinarily are published and shared broadly within 
+the scientific community.'' BIS believed that the scope of this wording 
+was the same as that of the wording in NSDD-189 and sought comment on 
+whether the final rule should adopt the simpler wording. Unlike the 
+simpler alternative definition, the proposed definition of 
+``fundamental research'' included references to ``basic'' and 
+``applied'' research and proposed definitions of those terms, as well 
+as a possible alternative definition of applied research.
+    Comments on alternative definitions of fundamental research were 
+mixed. Thirteen commenters generally favored a simpler definition, in 
+some cases offering their own revised versions of the alternative from 
+the preamble to the June 3 proposed rule. Seven commenters recommended 
+retaining the NSDD-189 wording. Many commenters favored one definition 
+but expressed willingness to accept another. Comments on alternative 
+definitions of basic and applied research were similarly mixed, 
+including instances of the same commenter offering support for more 
+than one option. There was greater unanimity on the term ``non-
+proprietary:'' twenty commenters objected to it, most finding it vague. 
+Commenters suggested the variation, research ``for which the 
+researchers have not accepted restrictions for proprietary or national 
+security reasons.''
+    BIS agrees with the majority of commenters that the shorter 
+definition of fundamental research is clearer and covers the same 
+scope. Given the wide spectrum of definitions and applications of basic 
+and applied research in different bodies of regulations, BIS determined 
+that the definition should address the core concept, i.e., that the 
+research is to be published and shared broadly without restriction. 
+Having sub-definitions of basic and applied research in the definition 
+of fundamental research does not change this core concept and would, 
+moreover, merely add more words and layers of interpretation that would 
+not change the outcome of an analysis. Adopting the shorter definition 
+drops references to basic and applied research. BIS accepted the 
+comments regarding the term ``non-proprietary'' and adopted a clearer 
+variation that has the same scope as that intended by the June 3 
+proposed rule.
+    In addition to research in science and engineering, BIS included 
+the term ``mathematics'' to broaden the definition in response to a 
+comment by a BIS technical advisory committee. In this final rule, BIS 
+adopts the following definition of fundamental research: `` 
+``Fundamental research'' means research in science, engineering, or 
+mathematics, the results of which ordinarily are published and shared 
+broadly within the research community, and for which the researchers 
+have not accepted restrictions for proprietary or national security 
+reasons.''
+
+Software
+
+    The June 3 proposed rule revised Sec.  734.8 to use the term 
+``technology'' in place of the term ``information.'' Thirty-two 
+commenters objected that ``technology'' was too limiting and 
+recommended including either ``software'' or ``source code'' in 
+addition to ``technology'' to describe information arising during or 
+resulting from fundamental research. Many commenters pointed to the 
+text of Sec.  734.3(b)(3) (not subject to the EAR), which referred to 
+certain ``technology and software'' not subject to the EAR, proposed to 
+be revised to ``information and software'' in the June 3 rule, as 
+support for this recommendation. The commenters further argued that 
+``findings resulting from fundamental research may be written in 
+natural-language or computer language.'' BIS accepts these comments and 
+has adopted ``technology'' and ``software'' throughout Sec.  734.8 in 
+this final rule.
+
+[[Page 35590]]
+
+    Two commenters recommended that BIS make commodities that result 
+from fundamental research not subject to the EAR. BIS does not accept 
+this recommendation because the policy foundations for the exclusion 
+from the EAR of fundamental research apply only to technology and 
+software, not commodities.
+
+Note on Inputs
+
+    The June 3 proposed rule contained the following note: ``Note 1 to 
+paragraph (a): The inputs used to conduct fundamental research, such as 
+information, equipment, or software, are not `technology that arises 
+during or results from fundamental research' except to the extent that 
+such inputs are technology that arose during or resulted from earlier 
+fundamental research.'' Six commenters stated that the proposed note 
+arbitrarily narrows the conduct of fundamental research under NSDD-189. 
+Two additional commenters seemed to find the text unclear regarding the 
+nature of the inputs.
+    The note regarding inputs was intended to distill varying 
+provisions found in the EAR but proposed to be revised by the June 3 
+rule that ultimately made the same point: Information that is not 
+intended to be published is not fundamental research. For example, 
+existing Sec.  734.8(b)(2) states, ``Prepublication review by a sponsor 
+of university research solely to insure that the publication would not 
+inadvertently divulge proprietary information that the sponsor has 
+furnished to the researchers does not change the status of the research 
+as fundamental research. However, release of information from a 
+corporate sponsor to university researchers where the research results 
+are subject to prepublication review, is subject to the EAR.'' Existing 
+section 734.8(b)(4) states, ``The initial transfer of information from 
+an industry sponsor to university researchers is subject to the EAR 
+where the parties have agreed that the sponsor may withhold from 
+publication some or all of the information so provided.''
+    To clarify this distinction, BIS has adopted a simpler note in this 
+final rule. Paragraph (a) establishes that the intention to publish is 
+what makes research not subject to the EAR; the following Note 1 to 
+paragraph (a) states: ``This paragraph does not apply to technology or 
+software subject to the EAR that is released to conduct fundamental 
+research.'' To support this concept, this final rule adds the following 
+phrase to Sec.  734.7(a)(5) (emphasis added): ``Submission of a written 
+composition, manuscript, presentation, computer-readable dataset, 
+imagery, algorithm, formula, or some other representation of knowledge 
+with the intention that such information will be made publicly 
+available if accepted for publication or presentation: (i) To domestic 
+or foreign co-authors, editors, or reviewers of journals, magazines, 
+newspapers, or trade publications; (ii) To researchers conducting 
+fundamental research, or (iii) To organizers of open conferences or 
+other open gatherings.''
+
+Prepublication Review
+
+    The June 3 proposed rule listed three types of prepublication 
+review in Sec.  734.8 that could be performed on the results of 
+fundamental research. Three commenters supported the clear statement 
+that certain prepublication review does not render research subject to 
+the EAR. One commenter recommended removing the criterion that the 
+research be published without delay, pointing out that ``[p]ublication 
+can be (and very often is) delayed for any number of reasons having 
+nothing to do with the content or sensitivity of research results'' and 
+that this provision would have the unintended effect of limiting or 
+even eliminating the researchers' ability to use the fundamental 
+research provisions. BIS accepts this latter comment and does not adopt 
+the phrase ``or delay.'' The key point is that the researcher is able 
+to publish without restriction.
+    One commenter suggested that Note 2 to paragraph (b) proposed in 
+the June 3 rule be replaced with a similar note from the State June 3 
+rule (Sec.  120.49(b) of the ITAR) regarding research voluntarily 
+subjected to U.S. government review. BIS agrees with commenters that 
+the ITAR text is clearer. So, this final rule adopts that ITAR text in 
+Note 2 to paragraph (b). Seven commenters recommended that BIS also 
+adopt the text of Note 3 from the State June 3 rule's text of Sec.  
+120.49(b) of the ITAR regarding U.S. government-imposed access and 
+dissemination controls. BIS agrees. With adoption of Note 3 to 
+paragraph (b), paragraph (a) of Sec.  734.11, Specific National 
+Security Controls, is no longer necessary. BIS includes the examples 
+from paragraph (b) of Sec.  734.11, which commenters deemed helpful, in 
+new Note 3 to paragraph (b) of Sec.  734.8 in this final rule. Thus, 
+this rule removes Sec.  734.11 in its entirety.
+    One commenter stated that the only permissible method of 
+restricting government-funded research was to classify it. BIS does not 
+accept this comment because it is incorrect. Indeed, BIS has the 
+authority under the EAR to control unclassified technology that 
+warrants control for national security, foreign policy, or other 
+reasons. For example, government-funded research that does not meet the 
+criteria of Sec.  734.8, such as prepublication review, remains subject 
+to the EAR regardless of whether it is classified information.
+
+Locus of Research
+
+    The June 3 rule proposed streamlining the fundamental research 
+provisions, in Sec.  734.8. Instead of organizing the provisions 
+primarily by locus (specifically by the type of organization in which 
+the research takes place: Universities; federal agencies or Federally 
+Funded Research and Development Centers; or business entities), the 
+June 3 rule proposed consolidating different provisions that involved 
+the same criteria with respect to prepublication review and removing 
+any reference to locus unless it made a difference to the 
+jurisdictional status of the research.
+    Five commenters expressed support for the applicability of the 
+concept of fundamental research regardless of locus, and this final 
+rule retains the consolidated structure originally proposed.
+    Although not objecting to the consolidation, eleven commenters 
+requested that BIS retain the Sec.  734.8(b) statement that there is a 
+presumption that university-based research is fundamental research. 
+Although this presumption continues to exist, BIS does not adopt the 
+specific statement in this final rule. Such a presumption has no effect 
+on the jurisdictional status of technology. If it meets the criteria 
+for fundamental research, it is not subject to the EAR; if it does not 
+meet the criteria, it is subject. However, BIS is noting in its FAQs on 
+its Web site that, although university-based research is presumed to be 
+fundamental research, as with all rebuttable presumptions, it is 
+rebutted if the research is not within the scope of technology and 
+software that arises during, or results from fundamental research as 
+described in Sec.  734.8.
+    Eleven commenters requested that BIS retain the Sec.  734.8(b)(2) 
+through (6) criteria for universities. BIS is not doing so because 
+these criteria have been incorporated into this final rule more 
+concisely. To address the comment, BIS has revised its FAQs to describe 
+how these criteria are within the scope of the revised definition.
+
+Patents
+
+    The June 3 rule proposed revising Sec.  734.10, ``Patent 
+applications,'' only for clarity and did not change the scope of 
+control. For the sake of structural consistency with the ITAR's 
+treatment of information in patents, paragraph (a)
+
+[[Page 35591]]
+
+was added to state that a patent or an open (published) patent 
+application available from or at any patent office is per se not 
+subject to EAR. The former footnote to the Sec.  734.10 was removed 
+because it would be redundant of the proposed text.
+    BIS received one comment on the proposed revisions to Sec.  734.10. 
+Introductory text to the section reads: `` ``Technology'' is not 
+``subject to the EAR'' if it is contained in:''. The commenter 
+suggested adding the phrase ``any of the following'' to this text. BIS 
+agrees and is making the addition to this final rule.
+
+Specific National Security Controls
+
+    The June 3 rule proposed minor conforming edits to Sec.  734.11, 
+describing specific national security controls. The proposed revisions 
+were not intended to change the scope of the section. As discussed 
+above with respect to fundamental research, BIS has adopted the 
+substance of former Sec.  734.11, Specific National Security Controls, 
+in new Note 3 to paragraph (b) of Sec.  734.8 in this final rule. This 
+final rule removes and reserves Sec.  734.11.
+
+Export
+
+    The June 3 proposed rule included a new Sec.  734.13 to define 
+``Export.'' Section 734.13(a) had six paragraphs, with paragraphs 
+(a)(4) and (5) reserved, because the corresponding paragraphs in the 
+ITAR contained provisions that were not relevant to the EAR. One 
+commenter noted that paragraph (a) had a typo and should refer to Sec.  
+734.18, not Sec.  734.17. BIS does not agree--the reference is to the 
+subset of exports of encryption source code and object code software--
+but does accept the recommendation to add a reference to Sec.  734.18 
+(Activities that are not exports, reexports, or transfers) in this 
+final rule.
+    Proposed paragraph (a)(1) of the definition of ``export'' used the 
+EAR terms ``actual shipment or transmission out of the United States,'' 
+combined with the existing ITAR ``sending or taking an item outside the 
+United States in any manner.''
+    One commenter recommended that BIS add ``release'' after ``actual 
+shipment.'' BIS does not adopt this recommendation, because release is 
+a separate concept and thus a separately defined term. BIS makes no 
+revisions to this paragraph (a)(1) in this final rule.
+    Proposed paragraph (a)(2), specifying the concept of transfer or 
+release of technology to a foreign national in the United States, or 
+``deemed export,'' retains the treatment of software source code as 
+technology for deemed export purposes from Sec.  734.2(b)(2)(ii). In 
+this final rule, including in this paragraph (a)(2), BIS has 
+substituted the term ``foreign person'' for ``foreign national.'' 
+``Foreign person'' has the same scope as ``foreign national;'' it 
+mirrors the ITAR term. One commenter found the term ``otherwise 
+transferring'' confusing, but this final rule retains it to distinguish 
+releases as a subset of transfers.
+    Proposed paragraph (a)(3) included in the definition of ``export'' 
+the transfer by a person in the United States of registration, control, 
+or ownership (i) of a spacecraft subject to the EAR that is not 
+eligible for export under License Exception STA (i.e., spacecraft that 
+provide space-based logistics, assembly or servicing of any spacecraft) 
+to a person in or a national of any other country, or (ii) of any other 
+spacecraft subject to the EAR to a person in or a national of a Country 
+Group D:5 country.
+    One commenter requested BIS to confirm whether the definition would 
+carve out from the definitions of ``export'' and ``reexport'' the mere 
+transfer of ownership to an entity outside of a Country Group D:5 
+country (e.g., as part of an on orbit transfer of ownership to an 
+entity outside a D:5 country) of satellites subject to the EAR that are 
+eligible for License Exception STA. BIS confirms this understanding of 
+the definition and is adding an FAQ regarding the point to the BIS Web 
+site.
+    Proposed paragraph (a)(6) defined as an export the release or other 
+transfer of the means of access to encrypted data. This paragraph was 
+not adopted in this final rule (see the section discussing transfer of 
+access information in Sec.  734.19 below). Without a paragraph (a)(6), 
+reserved paragraphs (a)(4) and (a)(5) that appeared in the June 3 rule 
+are unnecessary and, therefore, do not appear in this final rule.
+    As adopted in this final rule, proposed paragraph (b) of Sec.  
+734.13 is unchanged from the June 3 rule, except for the substitution 
+of the term ``foreign person'' for ``foreign national.'' This paragraph 
+retains BIS's deemed export rule as set forth in Sec.  734.2(b). It 
+also codifies a long-standing BIS policy that when technology or source 
+code is released to a foreign national, the export is ``deemed'' to 
+occur to that person's most recent country of citizenship or permanent 
+residency. See, e.g., 71 FR 30840 (May 31, 2006).
+    Four commenters raised deemed export issues, particularly with 
+respect to the difficulty of determining the ``permanent residency'' 
+status of a person in a foreign country. Two of these commenters 
+recommended changing ``permanent residency'' to ``legal residency'' or 
+establishing criteria in the EAR. One of these commenters suggested 
+making deemed exports a separate definition. BIS finds that these 
+comments have merit; however, the issues they raise are too wide-
+ranging and complex to be resolved in this final rule. Addressing these 
+issues would constitute a novel proposal that is outside the scope of 
+the proposed rule, requiring an opportunity for comment before BIS 
+makes a decision as to whether to adopt it. Where practical, BIS will 
+state existing policy in FAQs. For those issues not addressed by 
+existing policy, BIS will develop proposed revisions and seek public 
+comment.
+    Proposed paragraph (c) stated that items that will transit through 
+a country or countries or will be transshipped in a country or 
+countries to a new country, or are intended for reexport to the new 
+country are deemed to be destined to the new country. (Proposed 
+paragraph (c) text was taken without change from Sec.  734.2(b)(6).)
+    One commenter requested that BIS clarify ``new country.'' BIS 
+accepts this comment, and adopts the term ``destination'' in this final 
+rule. BIS also drops the term ``transshipped,'' because the intended 
+meaning of this paragraph is captured by ``transit.'' One commenter 
+recommended that BIS specify that paragraph (c) applies to items 
+``subject to the EAR.'' BIS does not believe the phrase is necessary.
+    Two commenters requested that BIS clarify the status of services 
+under the EAR. Unlike the ITAR, the EAR do not control services as such 
+except as described in Sec.  744.6(a)(2) (``Restrictions on certain 
+activities of U.S. persons'') and Sec.  736.2(b)(10) (``General 
+Prohibition 10''). Section 744.6(a)(2) imposes licensing requirements 
+on the performance by U.S. persons of any contract, service, or 
+employment regarding various activities pertaining to missiles, 
+biological weapons, and chemical weapons in various countries. General 
+Prohibition 10 prohibits, inter alia, servicing an item subject to the 
+EAR if a violation has occurred, is about to occur, or is intended to 
+occur in connection with the item. Except for these provisions, the EAR 
+regulates the export, reexport, and transfer (in-country) of 
+commodities, technology, and software, regardless of whether such 
+activities are in connection with a service. This means that, except 
+with respect to activities described in these two provisions, services 
+do not need to be analyzed separately for purposes of determining 
+requirements under the EAR. Moreover, the ITAR does not impose controls 
+on services unless they are ``directly related'' to a ``defense
+
+[[Page 35592]]
+
+article,'' i.e., an article, software, or technical data described on 
+the ITAR's U.S. Munitions List at 22 CFR 121.1. In response to the 
+commenters, BIS has added this explanation to its FAQs. A core goal of 
+the ECR initiative was to make the distinctions in the ITAR and the EAR 
+regarding the scope of controls over services as such clear. Thus, 
+after the publication of the FAQs, if commenters believe that 
+provisions of the ITAR or the EAR, statements by government officials, 
+or any other government actions contradict this point regarding the 
+narrow scope of controls over services pertaining to items subject to 
+the EAR, they are encouraged to contact BIS to begin the process of 
+resolving the issue.
+
+Reexport
+
+    The June 3 rule proposed moving the definition of ``reexport'' to 
+new Sec.  734.14. In general, the provisions of the proposed definition 
+of ``reexport'' paralleled those of the proposed definition of export 
+discussed above, except that reexports occur outside of the United 
+States. Public comments on the definition of ``reexport'' and BIS 
+responses also mirror those discussed above for ``export.''
+    One commenter recommended that BIS specify ``subject to the EAR'' 
+in paragraphs (a)(1), (a)(2), and (a)(4) of ``reexport.'' BIS accepts 
+this recommendation, except for paragraph (a)(4). Paragraph (a)(4) in 
+the June 3 rule proposed to define as a reexport the release or other 
+transfer of the means of access to encrypted data outside of the United 
+States to a foreign national. This paragraph was not adopted in this 
+final rule (see the section discussing transfer of access information 
+in Sec.  734.19 below).
+    One commenter requested that BIS confirm that sending an item back 
+to the United States is not a reexport. BIS confirms that sending items 
+to the United States is not a ``reexport.'' Moreover, unlike the ITAR, 
+the EAR have no provisions controlling or otherwise pertaining to the 
+act of importing items into the United States. BIS will confirm these 
+points in an FAQ.
+
+Release
+
+    The June 3 proposed rule included a definition of ``release'' in a 
+new Sec.  734.15. The proposed text provided that inspection (including 
+other types of inspection in addition to visual, such as aural or 
+tactile) must actually reveal technology or source code subject to the 
+EAR to constitute a ``release.'' Thus, for example, merely seeing an 
+item briefly is not necessarily sufficient to constitute a release of 
+the technology required, for example, to develop or produce it. A 
+foreign person's having theoretical or potential access to technology 
+or software is similarly not a ``release'' because such access, by 
+definition, does not reveal technology or software. A release would 
+occur when the technology or software is revealed to the foreign 
+person. The June 3 rule also proposed adding ``written'' to ``oral 
+exchanges'' in paragraph (a)(2) as a means of release. No commenters 
+objected to the clarification, and it remains unchanged. This final 
+rule adds ``source code'' as well as ``technology'' to paragraph (a)(2) 
+for consistency with paragraph (a)(1) and the definitions of deemed 
+export and reexport; its omission from the June 3 rule was inadvertent.
+    The proposed text also clarified, in paragraph (a)(3), that the 
+application of ``technology'' and ``software'' is a ``release'' in 
+situations where U.S. persons abroad use personal knowledge or 
+technical experience acquired in the United States in a manner that 
+reveals technology or software to foreign nationals. As indicated by 
+various BIS training materials and statements of BIS officials publicly 
+and in response to specific questions, this clarification makes 
+explicit a long-standing BIS interpretation of the EAR. The June 3 
+rule's proposed definition did not use the existing phrase ``visual 
+inspection by foreign nationals of U.S.-origin equipment and 
+facilities'' because such inspections do not per se release 
+``technology.'' For example, merely seeing equipment does not 
+necessarily mean that the seer is able to glean any technology from it 
+and, in any event, not all visible information pertaining to equipment 
+is necessarily ``technology'' subject to the EAR.
+    Four commenters stated that this redefinition of ``release'' was 
+helpful.
+    Three comments expressed concern that paragraph (a)(1) is not 
+sufficiently explicit in clarifying that visual inspection must 
+``actually'' or ``substantively'' reveal technology in order to be 
+defined as a ``release,'' or that ``actual access'' rather than 
+``theoretical access'' is caught. BIS believes that the intent is clear 
+and that the text only would be complicated by additional 
+modifications. One commenter requested that BIS simplify the provision 
+in which application of personal knowledge constitutes a release. Upon 
+further consideration, BIS determined that the control criteria in that 
+provision are already covered by the provisions governing inspection 
+and oral or written exchanges. Therefore, BIS does not adopt this 
+paragraph (a)(3) in this final rule. BIS has, however, created FAQs 
+that include the points and examples contained in the foregoing 
+description of the changes to the definition of ``release.''
+    One commenter recommended that paragraph (a)(6) in the June 3 
+rule's proposed definition of ``export,'' which addressed transfer of 
+decryption keys or other such information, be moved to the definition 
+of ``release.'' Related to the revisions regarding transfer of access 
+information, and consistent with this commenter's recommendation, this 
+final rule adopts in Sec.  734.15(b) a provision stating that the act 
+of causing the ``release'' of ``technology'' or ``software,'' through 
+use of ``access information'' or otherwise, to onesself or another 
+person requires an authorization to the same extent an authorization 
+would be required to export or reexport such ``technology'' or 
+``software'' to that person.
+    The purpose of this provision is to make it clear that the person 
+who uses, for example, a password to access a technology database, or 
+who hacks into the database, to transfer technology to himself or 
+someone else is the one who caused the release of technology rather 
+than the person who first placed the technology in the database through 
+a technology export or an act described in new Sec.  734.18(a)(5). This 
+provision codifies that basic concept that the unwitting victim of, for 
+example, a database hack is not the one responsible for the theft of 
+technology--the hacker is the one responsible because it is that person 
+who caused the release through the use of a password or other access 
+information. This provision is merely an application with respect to 
+intangibles of a concept that is basic to tangible items--the export of 
+an item is not the cause of a third person's later reexport of the same 
+item. Placing technology into a database is not the cause of a third 
+person's later transfer of the technology through the use of access 
+information. The third person's use of the access information is the 
+cause of the release to himself or others.
+    Although the person who originally placed the technology into the 
+database did not cause its release to the third person who used access 
+information to later cause the technology to be released, the person 
+who originally placed the technology into the database nonetheless 
+would have liability in connection with the third party technology 
+exfiltration if, for example, it conspired with the exfiltrator (see 
+Sec.  764.2(d)) or placed the technology into the database with 
+``knowledge'' that the exfiltrator would later violate the EAR by 
+causing its release without a required
+
+[[Page 35593]]
+
+license (see Sec.  764.2(e)). Similarly, liability would arise from a 
+violation of new section 734.19, which, as discussed below, states that 
+providing a password or other access information to someone with 
+``knowledge'' that the provision would result in the release of 
+technology or software to the third person is tantamount to releasing 
+the technology or software itself to the third person. BIS has created 
+FAQs describing all the points in the foregoing examples.
+    Finally, and in contrast to section 734.19, new section 734.15(b) 
+does not contain a ``knowledge'' element. Thus, a ``release'' of 
+``technology'' or ``software'' occurs when access information is used 
+to transfer the ``technology'' or ``software''--resulting in liability 
+if the release was not undertaken pursuant to a required authorization 
+and regardless of whether the one using the access information knew it 
+would be transferring controlled ``technology'' or ``software'' when it 
+did so.
+
+Transfer (In-Country)
+
+    The June 3 rule proposed removing the definition of ``transfer (in-
+country)'' from Sec.  772.1 and adding the following revised definition 
+to new Sec.  734.16: ``a transfer (in-country) is a change in end use 
+or end user of an item within the same foreign country.'' This revision 
+was intended to eliminate any potential ambiguity regarding whether a 
+change in end use or end user within a foreign country is a ``transfer 
+(in-country).'' ``Transfer (in-country)'' parallels the term 
+``retransfer'' in the ITAR.
+    Four commenters said that this revision expands controls, and that 
+such changes were beyond exporters' knowledge or control. While BIS 
+acknowledges that ``end use'' was not explicitly included in the former 
+definition of ``transfer (in-country),'' a change in end use is 
+nonetheless a material change. When BIS and the other agencies review 
+an application's description of a proposed end use and approve the 
+license based on that end use, BIS is approving the transaction for the 
+end use described, not all other end uses in the same country. Other 
+end uses may or may not be acceptable, but a change in end use from 
+that which the U.S. Government reviewed would be material in that there 
+is the possibility that another end use may not have been approved. BIS 
+further notes that, depending on the facts of the transaction, the 
+foreign party may be responsible for obtaining authorization for the 
+subsequent disposition of the item subject to the EAR. If a violation 
+occurs, BIS will assess responsibility based on whether the parties 
+involved violated any of the provisions of section 764.2 
+(``violations'').
+    To assist the commenters and others who have questions about BIS's 
+policy regarding when a license or other authorization is required for 
+in-country transfers, BIS has made the following the standard first 
+condition on its licenses: ``Items subject to the EAR and within the 
+scope of this license may not be reexported or transferred (in-country) 
+unless such reexport or in-country transfer is (i) authorized by this 
+license, or another license or other approval issued by the U.S. 
+Government; (ii) authorized by a license exception or other 
+authorization under the Export Administration Regulations (EAR); or 
+(iii) to a destination, end user, and end use that would be ``NLR'' (No 
+License Required) under the EAR.''
+
+Export of Encryption Source Code and Object Code Software
+
+    The June 3 proposed rule included a new Sec.  734.17, export of 
+encryption source code and object code software, that retained the text 
+of Sec.  734.2(b)(9) with only minor conforming and clarifying edits. 
+Its relocation to a new, separate section, following similar 
+definitions improves its accessibility to exporters.
+    BIS received no comments on its proposed minor revisions to Sec.  
+734.2(b)(9) or its creation of Sec.  734.17. These revisions are 
+adopted in this final rule.
+
+Activities That Are Not Exports, Reexports, or Transfers
+
+    The June 3 proposed rule solicited public comment on two questions 
+regarding the proposed definition of ``Activities that are not exports, 
+reexports, or transfers.'' First, with respect to end-to-end 
+encryption, BIS asked whether the illustrative standard proposed in the 
+EAR rulemaking also should be adopted in the ITAR rulemaking; whether 
+the safe harbor standard proposed in the ITAR rulemaking also should be 
+adopted in the EAR rulemaking; or whether the two bodies of regulations 
+should have different standards. Second, BIS asked whether encryption 
+standards adequately address data storage and transmission issues with 
+respect to export controls.
+    As proposed, Sec.  734.18 gathered existing EAR exclusions from 
+exports, reexports, and transfers into one place, and included a new 
+exemption for encrypted technical data and software. A number of 
+changes and adjustments are made in this final rule to the proposed 
+text in response to comments received from the public.
+    Paragraph (a)(1) in the June 3 proposed rule stated that by 
+statute, launching a spacecraft, launch vehicle, payload, or other item 
+into space is not an export. See 51 U.S.C. 50919(f). BIS received no 
+comments on this paragraph and adopts it in this final rule.
+    Paragraph (a)(2) in the June 3 proposed rule was based on text in 
+former Sec.  734.2(b)(2)(ii) of the EAR, and provided that release in 
+the United States of technology or software to U.S. nationals, 
+permanent residents, or protected individuals would not be an export. 
+In this final rule, the term ``release'' has been replaced in Sec.  
+734.18(a)(2) with ``transmitting or otherwise transferring,'' and the 
+previous reference to U.S. persons, permanent residents, and protected 
+individuals has been eliminated in favor of a reference to a person 
+``who is not a foreign person'' for reasons of clarity and brevity. The 
+EAR contain three definitions of ``U.S. person,'' only one of which is 
+applicable to this section. Additionally, the ITAR use the term 
+``foreign person,'' and a comment from a BIS technical advisory 
+committee recommended adopting the term in the EAR. ``Foreign person'' 
+accordingly is defined in a new entry in Sec.  772.1.
+    The change creates a structure parallel to that which is being 
+adopted in the State rule published concurrently with this final rule, 
+and to make clear that transmission from one U.S. person in the United 
+States to another, regardless of the means or route of the 
+transmission, does not constitute an export. Along the same lines, 
+paragraph (a)(3) is added to clarify that the transmission between or 
+among U.S. persons within the same foreign country similarly does not 
+constitute an export, reexport, or transfer. The State June 3 rule 
+received comments recommending these revisions, and this final rule 
+adopts them in the EAR to stay parallel with the ITAR text.
+    Proposed paragraph (a)(3) in the June 3 rule contained text from 
+Sec.  734.2(b)(8) stating that shipments between or among the states or 
+possessions of the United States are not ``exports'' or ``reexports.'' 
+The words ``moving'' and ``transferring'' were inserted next to 
+``shipment'' in order to avoid suggesting that the only way movement 
+between or among the states or possessions would not be a controlled 
+event was if they were ``shipped.'' BIS received no comments on this 
+paragraph and adopts it in this final rule, renumbered as paragraph 
+(a)(4).
+    Paragraph (a)(5)--numbered (a)(4) in the June 3 proposed rule--
+provides that technology and software that is encrypted in accordance 
+with certain
+
+[[Page 35594]]
+
+specified criteria are not exports, reexports, or transfers even when 
+they leave one country for another. In the June 3 proposed rule, this 
+paragraph specifically excluded from this carve-out technology and 
+software stored in countries in Country Group D:5 and Russia, for 
+foreign policy reasons. In response to comments pointing out that 
+Internet traffic in transit across D:5 countries and Russia may be 
+technically ``stored'' temporarily on servers located in these 
+countries without the knowledge of the sender, BIS has added text in 
+(a)(5) specifying that the carve-out continues to apply to technology 
+not authorized under the EAR for storage in these countries or intended 
+for storage in these countries. Encrypted data may not be stored in 
+these countries unless an appropriate authorization is available or has 
+been approved. BIS has also added a note clarifying that data in-
+transit via the Internet is not deemed to be stored. For a more 
+complete understanding of Sec.  734.18(a)(5), see the discussion above 
+of Sec.  734.15(b).
+    BIS received many comments on the proposed definition of ``end-to-
+end encryption,'' the presence of which is a condition of the export 
+control carve-out for technology and software. Commenters observed that 
+encryption and decryption services may be provided within defined 
+security boundaries by organizational rather than personal systems or 
+servers. BIS agrees that in such cases, the security objectives of the 
+``end-to-end'' requirement in terms of eliminating access by third 
+parties can still be met by expanding the definition of ``end-to-end'' 
+to include transmissions between security boundaries.
+    This approach has the added advantages of providing more 
+flexibility and allowing the execution of shared services, such as 
+virus scanning, that can enhance security. However, BIS has also 
+specified that the ``security boundary'' must be in-country--that is, 
+such boundaries cannot be defined as including infrastructure resources 
+encompassing multiple countries. A consequence of this requirement is 
+that data eligible for the carve-out must by definition be encrypted 
+before crossing any national boundary and must remain encrypted at all 
+times while being transmitted from one security boundary to another. 
+This principle applies to transmissions within a cloud service 
+infrastructure, where a transmission from one node or cloud 
+infrastructure element to another could qualify for the carve-out 
+provided that it was appropriately encrypted before any data crossed a 
+national border.
+    The June 3 proposed rule's definition of end-to-end encryption 
+included a clause that specified that data not be decrypted at any 
+point between the initiation of the transmission by the originator and 
+its receipt by the intended recipient. The purpose of this requirement 
+was to prevent unauthorized access to data in clear text by parties 
+other than the originator (or the originator's company or organization) 
+and the recipient, such as external service providers.
+    Commenters pointed out that in many circumstances, companies and 
+organizations encrypt and decrypt multiple times in the course of 
+transmission between originator and recipient for technical reasons 
+(for example, to initially establish communications with a VPN server 
+and subsequently to transmit among servers) without release to any 
+third party. As a result, the point-to-point requirement in the 
+original proposal would impose an unnecessary and potentially 
+disruptive burden on many encryption applications, in which data in 
+clear text are never actually shared.
+    To address this problem and more precisely describe BIS's original 
+intent with the provision, BIS eliminated the statement in the end-to-
+end definition specifying that exempted data must be encrypted by the 
+originating party without decryption except by the intended recipient. 
+This final rule adopts instead a requirement that the means of 
+decryption may not be provided to any third party, thus permitting 
+decryption and re-encryption within the security boundary of either the 
+originator or recipient, provided that no third party (i.e., a party 
+outside the security boundary) has the ability to access the data in 
+clear text, and that no decryption takes place outside of the security 
+boundaries of the originator and the recipient.
+    The June 3 proposed rule's paragraph (4)(iii), which this final 
+rule adopts in paragraph (5)(iii), described encryption standards that 
+would qualify for the exemption. In the BIS proposed rule, use of 
+encryption modules certified under the Federal Information Processing 
+Standards Publication 140-2 (FIPS 140-2), supplemented by appropriate 
+software implementation, cryptographic key management and other 
+procedures or controls that are in accordance with guidance provided in 
+current U.S. National Institute for Standards and Technology 
+publications, would qualify as sufficient security.
+    A number of commenters questioned the designation of the FIPS 140-2 
+as an example of effective cryptography and thus a qualification for 
+the control carve-out, preferring instead no reference to a standard, 
+or a reference to any ``commercially reasonable'' standard.
+    BIS rejects these suggestions. FIPS 140-2 is a well-understood 
+cryptographic standard used for Federal Government procurement in the 
+United States and Canada, as well as for many other uses, both in the 
+U.S. and abroad. Citation of this standard provides a useful reference 
+point for what the U.S. Federal Government considers effective 
+encryption.
+    The text adopted in this final rule allows for use of ``equally or 
+more effective cryptographic means,'' meaning that alternative 
+approaches are allowable provided that they work as well as or better 
+than FIPS 140-2. In such cases, the exporter is responsible for 
+ensuring that the alternative approaches work as well as or better than 
+FIPS 140-2, regardless of common commercial practices.
+    In the June 3 proposed rule, paragraph (c) confirmed that the mere 
+ability to access ``technology'' or ``software'' while it is encrypted 
+in a manner that satisfies the requirements in the section does not 
+constitute the ``release'' or export of such ``technology'' or 
+``software.'' This responds to a common industry question on the issue. 
+This final rule adopts the proposed text with only a minor revision to 
+correct a cross-reference.
+
+Transfer of Access Information
+
+    New Sec.  734.18(a)(5)(iii) excludes transfers of information 
+encrypted to a particular standard as not being exports, reexports, or 
+transfers and, thus, not subject to the EAR. Logically, providing keys 
+or other information that would allow access to encrypted data 
+exported, reexported, or released under this provision should be 
+subject to controls much as the export, reexport, or transfer of the 
+data itself. In the June 3 proposed rule, this concept was specifically 
+addressed in proposed Sec.  734.13(a)(6) as part of the definition of 
+``export.'' The June 3 rule also proposed adding a new paragraph (l) to 
+Sec.  764.2 ``Violations'' providing that the unauthorized release of 
+decryption keys or other information that would allow access to 
+particular controlled technology or software would constitute a 
+violation to the same extent as a violation in connection with the 
+export of the underlying controlled ``technology'' or ``software.''
+    Although recognizing the need to control the decryption of 
+controlled technical data otherwise exempted by the encryption carve-
+out, commenters noted that this construction might lead to the 
+conclusion that keys and other
+
+[[Page 35595]]
+
+data permitting access might be controlled as separate stand-alone 
+items, distinct from the underlying data that they could potentially 
+release. This would pose problems with key and identity management, 
+where such data are stored and transmitted separately. Controlling 
+access information as a distinct item was not the intent of the 
+proposal. As also discussed below with respect to the definition of 
+``technology,'' one commenter stated that decryption keys and other 
+such information are not technology and recommended moving the proposed 
+paragraph (a)(5) text to the definition of ``release'' and control 
+``accessing'' them. To address the concerns of such commenters, this 
+final rule creates a new positive authorization requirement in a new 
+Sec.  734.19, stating that ``[t]o the extent an authorization would be 
+required to transfer ``technology'' or ``software,'' a comparable 
+authorization is required to transfer access information if with 
+``knowledge'' that such transfer would result in the release of such 
+``technology'' or ``software'' without a required authorization.'' Five 
+commenters found use of the term ``cause or permit'' inconsistent with 
+BIS's principle of an export's occurring only when actual export or 
+transfer takes place. This final rule replaces the former reference to 
+``cause or permit'' with ``result in.''
+    One commenter requested ``the removal of Sec.  764.2(l) in its 
+entirety as the current language of Sec.  764.2 is adequate.'' With 
+creation of new Sec.  734.19, and in light of the availability of Sec.  
+764.2 to punish any violation of Sec.  734.19, BIS accepts this comment 
+and does not adopt the proposed Sec.  764.2(l) in this final rule.
+    To simplify this section, proposed references to ``decryption keys, 
+network access codes, passwords and other information,'' are replaced 
+with a new Sec.  772.1 definition of ``access information,'' which uses 
+these as examples only of information that allows access to encrypted 
+technology or encrypted software in an unencrypted format. In response 
+to a commenter's request for a definition of ``clear text,'' this final 
+rule replaces references to ``clear text'' with ``in an unencrypted 
+form,'' as part of the definition of ``access information.''
+    References in the June 3 proposed rule to what is termed ``access 
+information'' in this final rule (e.g., references to decryption keys) 
+were eliminated in the Sec.  772.1 definition of ``technology,'' the 
+Sec.  734.13 definition of export, and the Sec.  734.14 definition of 
+reexport.
+
+Activities That Are Not Deemed Reexports
+
+    The June 3 proposed rule created a new Sec.  734.20, Activities 
+that are not Deemed Reexports. This section codified BIS's interagency-
+cleared Deemed Reexport Guidance previously posted on the BIS Web site 
+and dated October 31, 2013. This guidance was created so that the 
+provisions regarding possible deemed reexports contained in Sec. Sec.  
+124.16 and 126.18 of the ITAR would be available for EAR technology and 
+source code in addition to legacy BIS guidance on the topic.
+    Under BIS's legacy guidance and new Sec.  734.20, release of 
+technology or source code by an entity outside the United States to a 
+foreign national of a country other than the foreign country where the 
+release takes place does not constitute a deemed reexport of such 
+technology or source code if the entity is authorized to receive the 
+technology or source code at issue, whether by a license, license 
+exception, or in situations where no license is required under the EAR 
+for such technology or source code and the foreign national's most 
+recent country of citizenship or permanent residency is that of a 
+country to which export from the United States of the technology or 
+source code at issue would be authorized by the EAR either under a 
+license exception, or in situations where no license under the EAR 
+would be required.
+    Release of technology or source code by an entity outside the 
+United States to a foreign national of a country other than the foreign 
+country where the release takes place also does not constitute a deemed 
+reexport if: (i) The entity is authorized to receive the technology or 
+source code at issue, whether by a license, license exception, or 
+through situations where no license is required under the EAR; (ii) the 
+foreign national is a bona fide regular and permanent employee (who is 
+not a proscribed person) of the entity; (iii) such employee is a 
+national exclusively of a country in Country Group A:5; and (iv) the 
+release of technology or source code takes place entirely within the 
+physical territory of any such country, or within the United States.
+    For nationals other than those of Country Group A:5 countries, 
+which are close military allies of the United States, other criteria 
+may apply. In particular, the section specifies the situations in which 
+the releases would not constitute deemed exports in a manner consistent 
+with Sec.  126.18 of the ITAR. For purposes of this section, 
+``substantive contacts'' has the same meaning as it has in Sec.  126.18 
+of the ITAR. The proposed phrase ``permanent and regular employee'' was 
+a combination of BIS's definition of ``permanent employee,'' as set 
+forth in a BIS advisory opinion issued on November 19, 2007 (available 
+on the BIS Web site), and the ITAR's definition of ``regular employee'' 
+in Sec.  120.39. The June 3 proposed rule added specific text excluding 
+persons proscribed under U.S. law to make clear that Sec.  734.20 does 
+not authorize release of technology to persons proscribed under U.S. 
+law, and defined ``proscribed person'' in Sec.  772.1. (Note: The U.S.-
+U.K. Exchange of Notes and U.S.-Canadian Exchange of Letters referred 
+to in the existing online guidance can be found on the State 
+Department's Web site. The URLs for the letters are not being published 
+in the EAR because URL addresses periodically change. BIS will place 
+the URL references in an ``FAQ'' section of its Web site.)
+    One commenter stated that due to the number of conditions contained 
+in these provisions, this section should be a license exception. BIS 
+does not agree. Many if not most of the transactions to which these 
+provisions apply are already covered by a license or a license 
+exception; this section will generally allow affected entities to 
+comply with the terms of those authorizations in a rational way that 
+will meet U.S. control objectives while minimizing conflict with non-
+U.S. entities' domestic requirements.
+    Two commenters requested that BIS replace ``is certain'' of a 
+foreign person's most recent country of citizenship or permanent 
+residency with ``has knowledge,'' to address concerns about ability to 
+comply with such a standard. BIS agrees with this comment and adopts 
+``has 'knowledge''' in this final rule.
+    One commenter requested that BIS add ``or within the physical 
+territory of the United States'' to certain provisions to account for 
+the possibility of releases in the United States, because often 
+``release of U.S.-origin technology or software could be said to take 
+place partially within the United States and partially within the 
+country in which the foreign person employee is located;'' BIS accepts 
+this request. Another commenter requested that for releases to A:5 
+nationals, BIS ``also include countries where the entity conducts 
+official business or operates, which is part of Sec.  734.20(c) Release 
+to other than A:5 nationals.'' BIS did not adopt this request because 
+it would expand the provision too broadly.
+    Two commenters requested that BIS cross reference the ``deemed 
+reexport'' definition in Sec.  734.14(b). BIS accepts this request. One 
+commenter asked BIS
+
+[[Page 35596]]
+
+to clarify that this section addresses non-U.S. entities. BIS believes 
+that this is clear from context and is thus not changing the rule in 
+response to this comment. However, BIS is including a description of 
+the purpose of this section in its FAQs.
+    Two commenters objected to the requirement that employees must be 
+engaged for a year to be eligible for these provisions and asked that 
+it be removed. Additionally, two commenters objected to the associated 
+screening and recordkeeping requirements and asked that they be 
+reduced. BIS does not accept these comments. The year-long period and 
+the screening and recordkeeping requirements reduce the risk of 
+diversion associated with the technology release.
+
+Questions and Answers--Technology and Software Subject to the EAR
+
+    The June 3 proposed rule removed Supplement No. 1 to part 734, 
+``Questions and Answers--Technology and Software Subject to the EAR'' 
+on the basis that the questions and answers are illustrative rather 
+than regulatory, and are therefore more appropriately posted as Web 
+site guidance than included in the EAR. BIS specifically solicited 
+comments on whether the questions and answers in existing Supplement 
+No. 1 to part 734 proposed to be removed have criteria that should be 
+retained in part 734.
+    Thirty commenters stated that BIS should not remove the questions 
+and answers from the EAR. Reasons cited for opposing removal of the 
+supplement included that the questions and answers will not have the 
+same weight on the BIS Web site as they do in the EAR; that they are 
+legally binding in the EAR; that their removal will create uncertainty; 
+that their presence in EAR lessens the likelihood that interpretations 
+will change outside the rulemaking process and promotes consistency of 
+interpretation; and that other supplements contain regulatory 
+information. One of these comments went on to say, ``Accordingly, 
+Supplement No. 1 must not be removed unless all its substantive 
+provisions are adequately incorporated into Part 734 or elsewhere in 
+the regulations'' (emphasis supplied). BIS believes that the adequate 
+incorporation of substantive provisions is the key point behind the 
+comments. This concern drove the specific solicitation in the June 3 
+rule to identify criteria in the Supplement that should be retained in 
+part 734. None of the thirty comments opposing removal of this 
+Supplement from the EAR identified any substantive provisions that were 
+not adequately incorporated into part 734 or elsewhere in the EAR. BIS 
+is publishing on its Web site FAQs that will cover the same guidance 
+that was found in Supplement No. 1, in addition to answers to other 
+questions generated by the public comments to the proposed rule. 
+Questions regarding how regulations apply to specific fact patterns are 
+better set out in FAQs. In sum, although Supplement No. 1 will no 
+longer be in the EAR, all its content will be placed into FAQs on BIS's 
+Web site in addition to the other FAQs referred to in this preamble.
+
+Technology
+
+    In the June 3 proposed rule, paragraph (a)(1) of the definition of 
+technology reads as follows: ``Information necessary for the 
+``development,'' ``production,'' ``use,'' operation, installation, 
+maintenance, repair, overhaul, or refurbishing (or other terms 
+specified in ECCNs on the CCL that control ``technology'') of an item. 
+``Technology'' may be in any tangible or intangible form, such as 
+written or oral communications, blueprints, drawings, photographs, 
+plans, diagrams, models, formulae, tables, engineering designs and 
+specifications, computer-aided design files, manuals or documentation, 
+electronic media or information gleaned through visual inspection.''
+    A note addressed modification of items. Proposed paragraphs (a)(2) 
+through (a)(4) of the definition were held in reserve to allow for the 
+eventual mirroring of the corresponding ITAR paragraph structure while 
+not including provisions that were not relevant to the EAR. Proposed 
+paragraph (a)(5) described access information. Proposed paragraph (b) 
+described exclusions from the definition of technology.
+
+Required vs. Necessary
+
+    For the definition of ``technology,'' four commenters recommended 
+that ``necessary'' be revised to read ``required'' to match the 
+proposed ITAR definition. BIS does not adopt these recommendations. 
+``Required'' is a defined term that describes certain technology on the 
+Commerce Control List, and not all technology that is subject to the 
+EAR is controlled on the Commerce Control List. One commenter 
+recommended restoring a note from the definition that existed in the 
+EAR prior to publication of this rule, to the effect that technology 
+not elsewhere specified on the Commerce Control List is designated as 
+EAR99 unless it is not subject to the EAR. BIS does not accept this 
+recommendation in this final rule because a regulatory change is not 
+required to make the same point. BIS will, however, add an FAQ stating 
+that ``technology'' subject to the EAR and that is not described on the 
+CCL is designated EAR99. One commenter recommended including a note 
+that refers to the General Technology Note. BIS accepts this comment 
+and includes the reference in this final rule.
+
+``Use'' Elements
+
+    As explained in the preamble to the June 3 rule, the proposed 
+definition of ``technology'' was based on the Wassenaar Arrangement 
+definition of technology, including the Wassenaar-defined sub-
+definitions of ``development,'' ``production,'' and ``use,'' which are 
+currently defined in Sec.  772.1. (No changes were proposed to the 
+definitions of ``development,'' ``production,'' and ``use'' in the June 
+3 rule, and none are made in this final rule.) The June 3 rule proposed 
+no change to BIS's long-standing policy that all six activities in the 
+definition of ``use'' (operation, installation (including on-site 
+installation), maintenance (checking), repair, overhaul and 
+refurbishing) must be present for an item to be classified under an 
+ECCN paragraph that uses ``use'' to describe the ``technology'' 
+controlled. (See 71 FR 30842, May 31, 2006.) Drawing from this existing 
+framework, the proposed definition of ``technology'' included the terms 
+``operation, installation, maintenance, repair, overhaul, or 
+refurbishing (or other terms specified in ECCNs on the CCL that control 
+`technology') of an item'' because such words are used to describe 
+technology controlled in multiple ECCNs, often with ``or'' rather than 
+the ``and'' found in ``use.''
+    One commenter recommended inserting a Note in the definition of 
+technology that states the BIS policy that all six elements are 
+necessary for ``use'' technology. BIS does not adopt this 
+recommendation in this final rule because the definition of ``use'' 
+links the six elements with the conjunctive ``and'' rather than the 
+disjunctive ``or.'' BIS nonetheless makes this point in an FAQ 
+pertaining to the word ``use'' in the definition of ``technology.'' One 
+commenter recommended removing the term ``installation'' from the 
+definition based on its use in the context of the definition of defense 
+services. BIS does not accept this comment. Many entries on the 
+Commerce Control List explicitly control installation technology, and 
+it is also an element of ``use'' technology. Three commenters 
+recommended that BIS remove the separate listing of the six ``use'' 
+elements or limit them to control of 600 series items. BIS does not 
+accept these recommendations. The six elements may be listed separately 
+in
+
+[[Page 35597]]
+
+entries on the Commerce Control List and are not limited to 600 series 
+entries.
+
+Information Gleaned Through Visual Inspection
+
+    One commenter suggested dropping ``or information gleaned through 
+visual inspection'' because it was a form or method of transfer, not 
+what constitutes technology. BIS adopts the recommendation in this 
+comment in part. ``Information gleaned through visual inspection'' is 
+an example of a form of technology, with visual inspection as the 
+method of transfer. The list to which this example belongs, however, 
+illustrates rather than defines ``technology;'' therefore, BIS adopts 
+the text as Note 1 to the definition of ``technology'' in this final 
+rule, limiting the definition to what constitutes technology and 
+illustrating the forms in a note.
+    Another commenter suggested using ``revealed'' instead of 
+``gleaned,'' first to align with ``release,'' and second, because ``use 
+of the term `glean' implies the value of the information is based on 
+the capability of the viewer, which is unknowable and unquantifiable. 
+The use of the term `reveal' is a more objective measure of what is 
+provided by the visual inspection.'' BIS agrees and has adopted the 
+term ``revealed'' in this final rule.
+
+Modification Note
+
+    The June 3 rule proposed adding a note to address a common industry 
+question about modification. The note read as follows: ``The 
+modification of an existing item creates a new item and technology for 
+the modification is technical data for the development of the new 
+item.''
+    Three commenters suggested revisions to this note. Two commenters 
+described the note as overbroad or confusing. One commenter recommended 
+adding ``production'' as well as ``development.'' In this final rule, 
+BIS has adopted a revision that clarifies and narrows the description 
+of the technology for modification, and includes ``production'' 
+technology. The revised note reads as follows: ``The modification of 
+the design of an existing item creates a new item and technology for 
+the modified design is technology for the development or production of 
+the new item.'' BIS created this note to address the fact that multiple 
+variations of a product are usually created by one or more companies, 
+and companies often struggle with how to classify the technology that 
+is and is not common to the variations. Consider, for example, a 
+company that makes a 9A991.d civil aircraft switch. It later modifies 
+the switch so that it would work in a military aircraft. The modified 
+switch--the ``dash one'' model--is, in this example, specially designed 
+for a military aircraft and thus controlled under ECCN 9A610.x. The 
+technology that is common to both switches is 9E991, but the additional 
+or different technology to make the 9A610.x switch is controlled under 
+9E610. That is, the technology additional or different that is required 
+to make the 9A991.d commercial aircraft switch into a 9A610.x switch is 
+the technology for the new, modified item. This example is contained in 
+an FAQ posted on the BIS Web site.
+
+Decryption Keys
+
+    One commenter stated that decryption keys and other such 
+information are not technology and recommended moving the proposed 
+paragraph (a)(5) text to the definition of ``release'' and control 
+``accessing'' them. Another commenter pointed out that keys may also be 
+hardware or software. BIS agrees with these comments; therefore, BIS 
+does not adopt proposed paragraph (a)(5) in this final rule and adds 
+text to the definition of ``release'' regarding transfer of ``access 
+information'' (see also discussion above).
+
+Exclusions
+
+    The June 3 rule proposed adding three exclusions to clarify the 
+limits of the scope of the definition of ``technology:'' non-
+proprietary general system descriptions; information on basic function 
+or purpose of an item; and telemetry data as defined in note 2 to 
+Category 9, Product Group E (see Supplement No. 1 to Part 774 of the 
+EAR).
+    The first two exclusions paralleled exclusions in the ITAR and the 
+third, the exclusion of telemetry data, mirrored specific exclusions 
+added to both the ITAR and the EAR as part of recent changes regarding 
+the scope of U.S. export controls pertaining to satellites and related 
+items. See 79 FR 27417 (May 13, 2014).
+    One commenter recommended excluding Build/Design-to-Specifications 
+from the definition of technology and adding sub-definitions of 
+different forms of technology. BIS does not accept this recommendation 
+in this final rule because such specifications are not always outside 
+the scope of the EAR's definition of ``development'' or ``production'' 
+technology. However, BIS will incorporate information on this topic 
+into its FAQs. Five commenters objected to use of the term ``non-
+proprietary,'' arguing that certain proprietary system descriptions 
+should not be subject to the EAR. One commenter thought that the term 
+``systems'' was too narrow. BIS did not adopt these recommendations. 
+Whether a particular technology is one that the possessor would readily 
+share with competitors provides a fairly reliable test of whether that 
+technology is subject to the EAR. With respect to the breadth of the 
+term ``system,'' BIS notes that this exclusion is not the only 
+provision in the EAR under which technology may be determined to be not 
+subject. BIS did remove the modifier ``general,'' because of its 
+potential to be ambiguous and subjective. BIS also did not adopt in 
+this final rule the exclusion for ``information on basic function or 
+purpose of an item,'' because the phrase was too vague and 
+substantively already addressed by other provisions.
+    One commenter questioned the scope of these exclusions from the 
+definition of technology and another questioned how the exclusions from 
+the definition should be read in conjunction with the provisions in the 
+Scope part that make items not subject to the EAR. Based on these 
+comments, and as noted earlier in the preamble to this final rule, the 
+exclusion of ``information on basic function or purpose of an item'' is 
+not adopted and the remaining two exclusions are moved from the 
+definition of technology to Sec.  734.3(b)(3).
+
+Required
+
+    The June 3 proposed rule retained the existing EAR definition of 
+``required'' in Sec.  772.1, but added notes clarifying the application 
+of the term. It removed parenthetical references in the existing 
+definition to CCL Categories 4, 5, 6, and 9 to avoid the suggestion 
+that BIS applies the definition of ``required'' only to the uses of the 
+term in these categories. BIS has never had a separate definition of 
+``required'' used elsewhere in the EAR, and this removal merely 
+eliminated a potential ambiguity and reflects long-standing BIS policy 
+that ``required'' applies generally to ``technology'' entries on the 
+CCL. (See, e.g., the Advisory Opinion dated December 27, 2010 on the 
+BIS Web site.) BIS received one comment praising the removal of the 
+references and none objecting to it; the revision is adopted in this 
+final rule. The definition of ``required'' contained an illustrative 
+example. BIS did not propose any revisions to this example in the June 
+3 rule. In this final rule, however, BIS revises the example to make 
+clear that technology that is peculiarly responsible for the 
+characteristics of the item that make it controlled is thus 
+``required'' technology. This subtle change thus responds to the 
+question of which
+
+[[Page 35598]]
+
+technology is ``peculiarly responsible'' but without changing the well-
+established definition of ``required'' that is central to the scope of 
+the technology and software controls in the EAR. This revision also 
+addresses issues raised by commenters, discussed more fully below, with 
+respect to the proposed definition of ``peculiarly responsible.''
+    To address common questions BIS has received regarding the meaning 
+of the word ``required,'' the June 3 rule proposed adding two notes. 
+The first stated that the references to ``characteristics'' and 
+``functions'' are not limited to entries on the CCL that use specific 
+technical parameters to describe the scope of what is controlled. The 
+``characteristics'' and ``functions'' of an item listed are, absent a 
+specific regulatory definition, a standard dictionary's definition of 
+the item. The first note also included examples of this point. The 
+second note referred to the fact that the ITAR and the EAR often divide 
+within each set of regulations or between each set of regulations (a) 
+controls on parts, components, accessories, attachments, and software 
+and (b) controls on the end items, systems, equipment, or other 
+articles into which those parts, components, accessories, attachments, 
+and software are to be installed or incorporated. The note also 
+referred to jurisdiction over technology. The public comments on these 
+parts of the notes were favorable and the first note is included in 
+this final rule without modification, except that it is now designated 
+as Note 2 to the definition of ``required.'' The second note is split 
+into Notes 1 and 3 to the definition of ``required,'' and the text is 
+modified from the June 3 proposal as discussed below.
+    A core tenet of ECR is that the jurisdictional status of the 
+technical data/technology for an article that moves from the USML to 
+the EAR follows the article. BIS and DDTC recognize the need to clarify 
+the jurisdictional line for such technical data/technology. To help 
+those making jurisdictional self-determinations for technical data/
+technology pertaining to articles affected by the reform effort, BIS 
+and DDTC had proposed in their respective June 3 rules common 
+definitions of ``required'' and ``peculiarly responsible'' so that the 
+regulatory line between technical data subject to the ITAR and 
+technology subject to the EAR would be bright. Based on a review of the 
+comments, BIS and DDTC have, however, decided not to publish their 
+proposed common definitions of ``required'' and ``peculiarly 
+responsible.'' (See discussion of the public comments on ``peculiarly 
+responsible'' below.) Rather, DDTC and BIS have determined that a 
+better way for the ITAR to address this bright-line objective is for 
+DDTC to publish, and get public comments on, a proposed definition of 
+``directly related'' that will eventually lead to a final ITAR 
+definition acceptable to both DDTC and BIS. The reason for this 
+approach is that, with the exception of technical data specifically 
+enumerated on the USML, technical data is subject to the ITAR only if 
+it is ``directly related'' to a defense article. This means, by 
+definition, that technology that is indirectly related to, or only 
+``related to,'' a defense article, such as by merely being capable for 
+use with, used in connection with, or somehow having something 
+generally to do with the eventual functioning of a defense article, is 
+not subject to the ITAR and is, thus, subject to the EAR. For example, 
+technology required for the production of a 9A610.x aircraft 
+component--which, by definition, means that that it is specially 
+designed for a USML VIII(a) aircraft--does not become subject to the 
+ITAR merely because it generally relates to a defense article by virtue 
+of being a component that will be or is integrated into and necessary 
+for the functioning of the aircraft subject to the ITAR. It is 
+technology required for the aircraft component subject to the EAR, not 
+the whole of the USML aircraft or another defense article, and thus 
+subject to the EAR. On the other hand, technical data that is directly 
+related to the production of a component subject to the ITAR does not 
+become subject to the EAR merely because, for example, it is developed 
+or manufactured with equipment subject to the EAR.
+    Wanting to nonetheless respond to the comments seeking guidance 
+regarding the jurisdictional status of technology pertaining to items 
+that have moved to the CCL from the USML and to further advance the 
+effort of creating a truly bright line jurisdictional rule, BIS is 
+publishing with this rule as a third note to ``required'' its guidance 
+on the topic because the meaning of ``required'' is central to such 
+determinations. Specifically, unclassified technology not specifically 
+enumerated on the USML is ``subject to the EAR'' if it is ``required'' 
+for the ``development,'' ``production,'' ``use,'' operation, 
+installation, maintenance, repair, overhaul, or refurbishing (or other 
+terms specified in ECCNs on the CCL that control ``technology'') of a 
+commodity or software that is ``subject to the EAR.'' If such 
+information is technical data that is not ``required'' for an item 
+subject to the EAR and directly related to a defense article, then it 
+is subject to the ITAR. If the application of industry-standard or 
+dictionary definitions of ``directly related'' does not resolve doubts 
+about whether any unit of technical data is, as a matter of law, 
+``directly related'' (as opposed to indirectly related) to a defense 
+article, one should contact DDTC for resolution of the doubt through 
+established procedures in the ITAR's Part 120.
+
+Peculiarly Responsible
+
+    In the June 3 rule, BIS proposed a definition of the term 
+``peculiarly responsible'' that was modeled on the catch-and-release 
+structure BIS adopted for the definition of ``specially designed.'' 
+Thus, under the proposed definition, an item was ``peculiarly 
+responsible'' for achieving or exceeding any referenced controlled 
+performance levels, characteristics, or functions if it was used in 
+``development,'' ``production,'' ``use,'' operation, installation, 
+maintenance, repair, overhaul, or refurbishing of an item subject to 
+the EAR unless (a) the Department of Commerce had determined otherwise 
+in a commodity classification determination, (b) the item was identical 
+to information used in or with a commodity or software that was or had 
+been in production and was EAR99 or described in an ECCN controlled 
+only for Anti-Terrorism (AT) reasons, (c) the item had been or was 
+being developed for use in or with general purpose commodities or 
+software, or (d) the item had been or was being developed with 
+``knowledge'' that it would be for use in or with commodities or 
+software described (i) in an ECCN controlled for AT-only reasons and 
+also EAR99 commodities or software or (ii) exclusively for use in or 
+with EAR99 commodities or software.
+    BIS specifically solicited comments on whether the proposed 
+definition of ``peculiarly responsible'' effectively explained how 
+items may be ``required'' or ``specially designed'' for particular 
+functions. Two commenters offered support for the definition but still 
+suggested revisions. Twelve additional commenters objected to the 
+definition, describing it as confusing and stating that it dramatically 
+expanded the scope of control beyond the existing ``required'' 
+technology definition. BIS agrees with these comments and does not 
+adopt the proposed definition of ``peculiarly responsible'' in this 
+final rule. As described above, in this final rule, peculiarly 
+responsible is defined within the scope of the already existing 
+definition of required, thus providing a definition while guaranteeing 
+no expansion of scope.
+
+[[Page 35599]]
+
+Temporary Export of Technology
+
+    The June 3 proposed rule included amended text in the temporary 
+export of technology provisions of License Exception TMP by revising 
+Sec.  740.9(a)(3) to clarify that the ``U.S. employer'' and ``U.S. 
+persons or their employees'' using this license exception are not 
+foreign subsidiaries. The proposed paragraph streamlined current text 
+without changing the scope. In this final rule, BIS substitutes 
+``foreign person'' for ``foreign national'' in this section for reasons 
+discussed elsewhere in this preamble, except where ``natural person'' 
+was meant and BIS substituted ``individual'' for clarity (and in so 
+doing responded to a comment on including foreign nationals in 
+paragraph (a)(3)(iii)). BIS also added authority to reexport or 
+transfer (in-country) to the authority to export; the absence of these 
+terms from the June 3 proposed rule was an oversight.
+    One commenter stated that BIS should provide for use of this 
+license exception by non-U.S. persons. Another commenter recommended 
+that BIS expand the scope of the license exception to include foreign 
+subsidiaries and affiliates. BIS does not adopt these recommendations. 
+Because of the risks associated with securing temporary exports of 
+technology, BIS is not broadening the provisions for foreign persons 
+beyond those employed by U.S. companies or to allow use by foreign 
+companies.
+    BIS received two comments on the recordkeeping provision in 
+paragraph (a)(3)(v), with one requesting that it be clarified and one 
+requesting that it be removed in view of the existing broad 
+recordkeeping requirements in the EAR. BIS agrees with these comments 
+and does not adopt the recordkeeping provision in this final rule.
+    One commenter asked BIS to clarify if TMP is available for remote 
+access to U.S. servers. Another commenter asked BIS to clarify if 
+taking an encrypted device is an export. BIS is not including these 
+changes in regulatory text, because these are applications of the rule 
+that are more appropriate to FAQs. However, BIS is confirming in its 
+FAQs that TMP is available for remote access if its provisions are met. 
+BIS is also confirming in its FAQs that taking an encrypted device is 
+an export and referring to a different paragraph of Sec.  740.9 for 
+authorizing export of devices. Devices are commodities and therefore 
+not eligible for paragraph (a)(3), which authorizes only technology.
+    One commenter recommended that BIS remove a requirement to encrypt 
+the technology, saying that the list of techniques for securing the 
+data required all to be used. BIS accepts this comment, and this final 
+rule adds ``may'' before ``include'' to make clear that the list is 
+illustrative. One commenter recommended allowing obfuscation/
+tokenization to protect data. BIS agrees that done properly, this is an 
+effective security measure, and will add an FAQ on the topic to its Web 
+site.
+
+Scope of a License
+
+    The June 3 rule proposed implementing in the EAR the interagency-
+agreed boilerplate notification for all licenses that was posted on the 
+BIS Web site and began appearing on licenses December 8, 2014. It was a 
+slight revision to the former Sec.  750.7(a), which stated that 
+licenses authorize only the transaction(s) described in the license 
+application and the license application support documents. The proposed 
+revision also codified the existing interpretation that a license 
+authorizing the release of technology to an entity also authorizes the 
+release of the same technology to the entity's foreign nationals who 
+are permanent and regular employees of the entity's facility or 
+facilities authorized on the license, except to the extent a license 
+condition limits or prohibits the release of the technology to 
+nationals of specific countries or country groups.
+    Two commenters requested that BIS drop the modifier ``permanent 
+and'' from ``regular employees.'' BIS does not adopt this request due 
+to risk of diversion associated with non-permanent and non-regular 
+employees. See further discussion of this issue above with respect to 
+activities that are not deemed reexports. The phrase ``under U.S. law'' 
+that modified ``proscribed persons'' in the June 3 rule is not adopted 
+in this final rule for reasons discussed in connection with the 
+definition of ``proscribed persons'' below. Except for that change, 
+this final rule adopts the text proposed in the June 3 rule.
+
+Removals From and Additions to EAR's List of Definitions in Sec.  772.1
+
+    This final rule creates stand-alone sections in the EAR to address 
+the scope and meaning of ``publicly available information,'' ``publicly 
+available technology and software,'' and ``technical data.'' To avoid 
+redundancy, this rule removes those definitions from Sec.  772.1. In 
+light of the changes described above, the definitions of ``export,'' 
+``reexport,'' ``required,'' ``technology,'' and ``transfer'' are 
+revised accordingly. A clarifying note is added at the bottom of the 
+definition explaining that the use of ``transfer'' does not apply to 
+the unrelated ``transfers of licenses'' provision in Sec.  750.10 or 
+the antiboycott provisions in Supplement No. 8 to part 760 of the EAR. 
+It also states that the term ``transfer'' may be included on licenses 
+issued by BIS. In that regard, the changes that can be made to a BIS 
+license are the non-material changes described in Sec.  750.7(c). Any 
+other change to a BIS license without authorization is a violation of 
+the EAR. See Sec. Sec.  750.7(c) and 764.2(e). Finally, consistent with 
+the explanations above, definitions for the terms ``access 
+information,'' ``foreign person,'' ``fundamental research,'' 
+``proscribed person,'' ``publicly available encryption software,'' 
+``published,'' and ``release'' are added to Sec.  772.1.
+    One commenter stated that the definition of proscribed persons was 
+overbroad, catching those individuals sanctioned under U.S. law without 
+an export control nexus and recommended deleting ``under US law.'' BIS 
+agrees with this comment. One commenter recommended striking 
+``scientific'' from the definition of ``basic scientific research'' in 
+part 772 and adding definitions of applied and fundamental research to 
+part 772. BIS does not accept this recommendation. The definition of 
+``basic scientific research'' reflects a Wassenaar Arrangement 
+definition; it is retained in this final rule. A definition for applied 
+research is not adopted because it is not necessary as a result of the 
+adoption of a simplified definition of fundamental research, and as 
+fundamental research is defined in Sec.  734.8, use of a cross 
+reference in part 772 is appropriate.
+
+Issues Raised by Public Comments That Are Outside the Scope of This 
+Rule
+
+    One commenter requested that BIS clarify treatment of U.S.-origin 
+chemical materials that are substantially transformed and exempt Japan 
+and other like-minded countries from reexport controls. One commenter 
+requested that BIS expand controls on missile production and drop Fiji 
+from Country Group D:5. One commenter appended comments on a separate 
+BIS proposed rule for which the comment period was already closed. One 
+commenter stated that items classified under Export Control 
+Classification Number 0A998 will no longer be subject to the EAR under 
+the new note to Sec.  734.3(b)(3). One commenter requested that BIS 
+drop the term ``serial'' from the definition of ``production,'' which 
+was not revised by this rule. Although these comments are outside the 
+scope of this rule and thus not addressed in this notice, BIS 
+nonetheless encourages the
+
+[[Page 35600]]
+
+public to submit thoughts, suggestions, and comments to BIS about the 
+EAR and the export control system. BIS cannot commit to addressing them 
+in every case, but nonetheless encourages as much industry 
+participation as possible in the development and drafting of the 
+regulations.
+
+Export Administration Act
+
+    Since August 21, 2001, the Export Administration Act of 1979, as 
+amended, has been in lapse. However, the President, through Executive 
+Order 13222 of August 17, 2001, 3 CFR, 2001 Comp., p. 783 (2002), as 
+amended by Executive Order 13637 of March 8, 2013, 78 FR 16129 (March 
+13, 2013), and as extended by the Notice of August 7, 2015 (80 FR 48233 
+(Aug. 11, 2015) has continued the EAR in effect under the International 
+Emergency Economic Powers Act (50 U.S.C. 1701 et seq.). BIS continues 
+to carry out the provisions of the Export Administration Act, as 
+appropriate and to the extent permitted by law, pursuant to Executive 
+Order 13222 as amended by Executive Order 13637.
+
+Regulatory Requirements
+
+    1. Executive Orders 13563 and 12866 direct agencies to assess all 
+costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public 
+health and safety effects, distribute impacts, and equity). Executive 
+Order 13563 emphasizes the importance of quantifying both costs and 
+benefits, of reducing costs, of harmonizing rules, and of promoting 
+flexibility. This final rule has been designated a ``significant 
+regulatory action,'' although not economically significant, under 
+section 3(f) of Executive Order 12866. Accordingly, this final rule has 
+been reviewed by the Office of Management and Budget (OMB).
+    2. This final rule does not contain information collections subject 
+to the requirements of the Paperwork Reduction Act of 1995 (44 U.S.C. 
+3501 et seq.) (PRA). Notwithstanding any other provision of law, no 
+person is required to respond to, nor is subject to a penalty for 
+failure to comply with, a collection of information, subject to the 
+requirements of the PRA, unless that collection of information displays 
+a currently valid OMB control number.
+    3. This final rule does not contain policies with Federalism 
+implications as that term is defined under E.O. 13132.
+    4. Pursuant to the Regulatory Flexibility Act, as amended by the 
+Small Business Regulatory Enforcement Fairness Act of 1996, 5 U.S.C. 
+601 et seq., BIS has prepared the following final Regulatory 
+Flexibility Act analysis of the impact that this final rule will have 
+on small entities.
+
+Statement of the Objectives of, and Legal Basis for, the Final Rule; 
+Identification of All Relevant Federal Rules Which May Duplicate, 
+Overlap, or Conflict With the Final Rule
+
+    The objective of this final rule (and a final rule being published 
+simultaneously by the Department of State) is to provide greater 
+clarity and precision in the EAR and the ITAR by providing, where 
+warranted and possible, common definitions and common terms to regulate 
+the same types of actions and issues. This final rule also seeks to 
+express some concepts more clearly.
+    The final rule alters definitions in the EAR. It also updates and 
+clarifies application of controls to electronically transmitted 
+technology and software.
+    The legal basis for this proposed rule is 50 U.S.C. 4601 et seq.; 
+50 U.S.C. 1701 et seq.; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 
+950; E.O. 13020, 61 FR 54079, 3 CFR, 1996 Comp., p. 219; E.O. 13026, 61 
+FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 
+2001 Comp., p. 783; E.O. 13637, 78 FR 16129, 3 CFR, 2014 Comp., p. 223; 
+Notice of August 7, 2015, 80 FR 48233 (August 11, 2015); Notice of 
+November 12, 2015, 80 FR 70667 (November 13, 2015).
+    No other Federal rules duplicate, overlap, or conflict with this 
+final rule.
+
+Comments in Response to the Initial Regulatory Flexibility Analysis
+
+    BIS received one comment from the public in response to the Initial 
+Regulatory Flexibility Analysis (IRFA). The comment stated that while 
+the proposed regulatory text indicated that the extent to which release 
+of access information could be a violation of the EAR was limited by 
+whether the party acted with knowledge, text in the IRFA regarding the 
+impact of this provision created tension by stating that other 
+provisions in the EAR could be used to bring charges for that same type 
+of misconduct. The comment requested that BIS provide clarification in 
+the final rule. BIS addressed this comment by not adopting Sec.  
+764.2(l), the provision that would have established the violation at 
+issue in the final rule. The Chief Counsel for Advocacy of the Small 
+Business Administration filed no comments in response to the proposed 
+rule.
+
+Number and Description of Small Entities to Which This Rule Will Apply
+
+    This final rule will apply to all persons engaged in the export, 
+reexport, or transfer of commodities, technology, or software subject 
+to the EAR. BIS does not maintain data from which it can determine how 
+many of those persons are small entities as identified in the Small 
+Business Administration size standards. Nevertheless, BIS recognizes 
+that some of those persons are likely to be small entities.
+
+Description of the Projected Reporting, Recordkeeping, and Other 
+Compliance Requirements of the Final Rule
+
+    This final rule is unlikely to increase the number of transactions 
+that must be reported to BIS because EAR reporting requirements apply 
+only in five specific situations, none of which will change as a result 
+of this final rule. Those situations are: Exports of items on the 
+Wassenaar Arrangement Sensitive List that do not require a license; 
+Exports of High Performance Computers; Exports of certain thermal 
+imaging cameras that do not require a license; Certain exports of 
+Conventional Arms; and 600 series major defense equipment. Because 
+recordkeeping requirements already apply to all transactions that are 
+subject to the EAR, BIS expects that this final rule will not expand 
+recordkeeping requirements.
+    It is possible that some of these changes will increase the number 
+of licenses that some small entities will have to seek from BIS, 
+although BIS is not aware of any specific instance in which additional 
+licenses will be required.
+    The following discussion describes the changes made by this final 
+rule. It is divided into two sections: Changes that BIS believes will 
+not impose any new regulatory obligations; and Changes that are not 
+intended to imposed any new regulatory obligation, but that BIS cannot 
+state with certainty will not do so.
+
+Changes That BIS Believes Will Not Impose Any New Regulatory Burden
+
+    This final rule makes certain changes to clarify and streamline the 
+definitions of comparable terms, phrases, and concepts between the EAR 
+and the ITAR. Many of these changes are technical in nature and attempt 
+to consolidate and re-phrase the definitions to enhance readability and 
+to parallel the structure of the ITAR's definition of the same term. 
+There are a small number of new provisions, but these changes do not 
+impose any new regulatory burdens. Specifically, this final rule makes 
+the following changes:
+
+[[Page 35601]]
+
+    Removes Sec.  734.2(b) which formerly defined export, reexport, 
+release, transfer (in country) and export of encryption source code or 
+object code software, because those terms are defined in separate 
+sections. Section 734.2(b) also stated the policy of applying license 
+requirements that apply to a country to its dependencies and 
+possessions; this policy is currently stated elsewhere in the EAR.
+    Creates new separate sections defining export, reexport, release 
+and export of encryption source code or object code software. Those 
+terms are clarified and presented in a more organized manner, but 
+substantively unchanged from the former regulatory text.
+    Creates a new section identifying activities that are not exports, 
+reexports, or transfers. This section restates the transactions that 
+are excluded from the definition of export in former regulatory text 
+and adds two additional activities that are expressly declared not to 
+be exports, reexports or transfers: Space launches; and sending, taking 
+or storing certain technology or software abroad using specified 
+cryptographic techniques. The former, although it was not included in 
+past regulatory text, states an exclusion already set forth in a 
+statute (see 51 U.S.C. 50919(f)) and is consistent with past BIS 
+practice of not treating a space launch as an export, reexport or 
+transfer. The latter is, in fact, new. However, by removing the 
+transactions it describes from the definitions of exports, reexports, 
+or transfers, it removes existing license requirements from those 
+transactions.
+    Clarifies without substantively changing the provisions related to 
+patent applications and adds specific text stating that technology 
+contained in a patent available from or at any patent office is not 
+subject to the EAR. The addition reflects BIS's long-standing 
+interpretation. To the extent that it could be characterized as new, 
+its only effect would be to appear to release from the EAR technology 
+that some readers of the EAR might have (erroneously) concluded was 
+subject to the EAR.
+    Adds text to License Exception TMP to emphasize that foreign 
+subsidiaries of U.S. companies are neither U.S. employers nor ``U.S. 
+persons or their employees'' as those terms are used in the license 
+exception. This additional text adds no restriction that is not already 
+imposed by the definition of ``U.S. persons'' that currently appears in 
+the text of License Exception TMP.
+    Adds text codifying in the EAR limits on transactions authorized by 
+a license that currently are imposed by conditions on the license 
+itself.
+    Adds text specifying that to the extent an authorization would be 
+required to transfer technology or software, a comparable authorization 
+is required to transfer access information (e.g., decryption keys, 
+network access codes, and passwords) with ``knowledge'' that such 
+transfer would result in the unauthorized release of such technology or 
+software.
+
+Changes That Are Not Intended To Impose Any Regulatory Obligation, But 
+That BIS Cannot State With Certainty Would Not Do So
+
+    This final rule revises the definitions of the two existing terms 
+``required'' and ``transfer (in-country).'' It also adopts BIS's 
+interpretative guidance regarding deemed reexports as regulatory text. 
+These changes are not intended to impose any regulatory obligations on 
+regulated entities, but BIS cannot state with certainty that there will 
+be no impact. This final rule makes the following changes:
+    Adds to the EAR a definition of ``proscribed person.'' This 
+definition does not create any new regulated class. It simply provides 
+a clear, shorthand reference to a person who is already prohibited from 
+receiving items or participating in a transaction that is subject to 
+the EAR without authorization, such as persons on the Entity List.
+    Removes from the definition of the term ``required'' references to 
+CCL Categories 4, 5, 6 and 9 to accurately reflect BIS's long-standing 
+interpretation that its definition applies wherever the EAR imposes a 
+license requirement for technology ``required'' for a particular 
+process or activity.
+    In the definition of ``transfer (in-country),'' replaces the phrase 
+``shipment, transmission, or release of items subject to the EAR from 
+one person to another person that occurs outside the United States 
+within a single foreign country'' with ``a change in end use or end 
+user of an item within the same foreign country.'' This new text will 
+parallel the term ``retransfer'' in the ITAR and will eliminate any 
+potential ambiguity that a change in end use or end user within a 
+foreign country is or is not a ``transfer (in-country).''
+    Each of the foregoing changes serves the overall policy goals of 
+reducing uncertainty and harmonizing, to the extent warranted and 
+possible, the requirements of the ITAR and the EAR. In most instances, 
+reduced uncertainty will be beneficial to persons who have to comply 
+with the regulations, particularly persons who engage in transactions 
+subject to both sets of regulations. They will be able to make 
+decisions more quickly and have less need to contact BIS for advice. 
+Additionally, by making these terms more explicit, the possibility of 
+their being interpreted contrary to BIS's intent is reduced. Such 
+contrary interpretations would have three undesirable effects. First, 
+they would undermine the national security and foreign policy 
+objectives that the EAR are intended to implement. Second, persons who 
+are interpreting the regulations in a less restrictive manner than BIS 
+intends may seek fewer licenses from BIS than their competitors who are 
+interpreting the regulations consistent with BIS's intent or who are 
+obtaining advice from BIS, thereby gaining a commercial advantage to 
+the detriment of the relevant national security or foreign policy 
+interests. Third, unnecessary regulatory complexity and unnecessary 
+differences between the terminology of the ITAR and that of the EAR 
+could discourage small entities from even attempting to export. The 
+beneficial effects of making these terms more explicit justify the 
+economic impact that might be incurred by small entities that will have 
+to change their conduct because their contrary interpretations can no 
+longer be relied on given the clearer and more explicit terms in the 
+regulations.
+    This final rule also adds to the EAR a description of activities 
+that are not deemed reexports. This description formerly appeared as 
+interpretative guidance on BIS's Web site and closely tracks the 
+regulatory text of the ITAR. Deemed reexports are releases of 
+technology or software source code within a single foreign country by a 
+party located outside the United States to a national of a country 
+other than the country in which the releasing party is located. The new 
+section describes three situations in which that party may release the 
+technology or source code without obtaining a license from BIS.
+    By adopting this guidance as regulatory text that closely tracks 
+the text governing the same activities in the ITAR, BIS reduces both 
+complexity and unnecessary differences between the two sets of 
+regulations with the salutary effects of faster decision making, 
+reduced need to contact BIS for advice, and reduced possibility that 
+small entities would be discouraged from exporting as noted above.
+
+[[Page 35602]]
+
+Description of Any Significant Alternatives to the Final Rule That 
+Accomplish the Stated Objectives of Applicable Statutes and That 
+Minimize Any Significant Economic Impact of the Final Rule on Small 
+Entities
+
+    As required by 5 U.S.C. 603(c), BIS's analysis considered 
+significant alternatives. Those alternatives are: (1) The preferred 
+alternative of altering definitions and updating and clarifying 
+application of controls to electronically transmitted technology and 
+software; (2) Maintaining the status quo and not revising the 
+definitions or updating and clarifying application of controls to 
+electronically transmitted technology and software; and (3) 
+Establishing a size threshold below which entities would not be subject 
+to the changes proposed by this rulemaking.
+    By altering definitions and updating and clarifying application of 
+controls to electronically transmitted technology and software as this 
+final rule does, BIS reduces uncertainty for all parties engaged in 
+transactions that are subject to the EAR. Potential ambiguities are 
+reduced; decisions can be made more quickly; the need to contact BIS 
+for advice is reduced; and the possibility of inconsistent 
+interpretations providing one party commercial advantages over others 
+is reduced. Persons (including small entities) engaged in transactions 
+that are subject to the ITAR and transactions that are subject to the 
+EAR face fewer actual or apparent inconsistencies that must be 
+addressed in their regulatory compliance programs. Although small 
+entities, along with all other parties, will need to become familiar 
+with the revised terminology, in the long run, compliance costs are 
+likely to be reduced when compared to the present situation where the 
+ITAR and the EAR use different terminology to regulate the same types 
+of activity in the same manner. Therefore, BIS adopted this 
+alternative.
+    If BIS had chosen to maintain the status quo, small entities and 
+other parties would not have to incur the cost and effort of becoming 
+familiar with the revised regulations, and any party who was 
+interpreting the regulations in a way that would clearly be precluded 
+by the more explicit interpretations would not incur the cost of 
+complying with the regulations consistent with their underlying intent 
+and in the way that BIS believes most regulated parties do. However, 
+the benefits of these proposed changes would be lost. Those benefits, 
+greater clarity, consistency between the ITAR and the EAR, and reduced 
+possibility of inconsistent application of the regulations by similarly 
+situated regulated parties, would be foregone. Therefore, BIS has not 
+adopted this alternative.
+    If BIS had chosen to create a size threshold exempting small 
+entities as currently defined by the SBA size standards from the 
+changes imposed by this final rule, those entities would face a more 
+complicated regulatory environment than larger entities. The small 
+entities would continue to be subject to the EAR as a whole but without 
+the benefit of the clarifications introduced by this final rule. The 
+only way to make a size threshold beneficial to entities falling below 
+the threshold would be to exempt them from all or at least many of the 
+requirements of the EAR. However, doing so would create a major 
+loophole allowing commodities, software, and technology that are 
+controlled for export for national security or foreign policy reasons 
+to go, without restriction, to any party abroad, undermining the 
+interests that the regulations are intended to protect. Therefore, BIS 
+has not adopted this alternative.
+
+List of Subjects
+
+15 CFR Parts 734 and 772
+
+    Exports.
+
+15 CFR Parts 740 and 750
+
+    Administrative practice and procedure, Exports, Reporting and 
+recordkeeping requirements.
+
+    For the reasons stated in the preamble, parts 734, 740, 750, and 
+772 of the Export Administration Regulations (15 CFR subchapter C) are 
+amended as follows:
+
+PART 734--SCOPE OF THE EXPORT ADMINISTRATION REGULATIONS
+
+0
+1. The authority citation for part 734 continues to read as follows:
+
+    Authority:  50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; E.O. 
+12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13020, 61 FR 
+54079, 3 CFR, 1996 Comp., p. 219; E.O. 13026, 61 FR 58767, 3 CFR, 
+1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 
+783; E.O. 13637, 78 FR 16129, 3 CFR, 2014 Comp., p. 223; Notice of 
+August 7, 2015, 80 FR 48233 (August 11, 2015); Notice of November 
+12, 2015, 80 FR 70667 (November 13, 2015).
+
+0
+2. Section 734.2 is amended by revising the heading to read as follows 
+and by removing and reserving paragraph (b).
+
+
+Sec.  734.2  Subject to the EAR.
+
+* * * * *
+
+0
+3. Section 734.3 is amended by revising paragraph (b) introductory 
+text, paragraph (b)(3), the Note to paragraphs (b)(2) and (b)(3), and 
+adding a Note to paragraph (b)(3) to read as follows.
+
+
+Sec.  734.3  Items subject to the EAR.
+
+* * * * *
+    (b) The following are not subject to the EAR:
+* * * * *
+    (3) Information and ``software'' that:
+    (i) Are published, as described in Sec.  734.7;
+    (ii) Arise during, or result from, fundamental research, as 
+described in Sec.  734.8;
+    (iii) Are released by instruction in a catalog course or associated 
+teaching laboratory of an academic institution;
+    (iv) Appear in patents or open (published) patent applications 
+available from or at any patent office, unless covered by an invention 
+secrecy order, or are otherwise patent information as described in 
+Sec.  734.10;
+    (v) Are non-proprietary system descriptions; or
+    (vi) Are telemetry data as defined in Note 2 to Category 9, Product 
+Group E (see Supplement No. 1 to part 774 of the EAR).
+
+    Note to paragraphs (b)(2) and (b)(3): A printed book or other 
+printed material setting forth encryption source code is not itself 
+subject to the EAR (see Sec.  734.3(b)(2)). However, notwithstanding 
+Sec.  734.3(b)(2), encryption source code in electronic form or 
+media (e.g., computer diskette or CD ROM) remains subject to the EAR 
+(see Sec.  734.17)). Publicly available encryption object code 
+``software'' classified under ECCN 5D002 is not subject to the EAR 
+when the corresponding source code meets the criteria specified in 
+Sec.  740.13(e) of the EAR.
+
+
+    Note to paragraph (b)(3): Except as set forth in part 760 of 
+this title, information that is not within the scope of the 
+definition of ``technology'' (see Sec.  772.1 of the EAR) is not 
+subject to the EAR.
+
+* * * * *
+
+0
+4. Section 734.7 is revised to read as follows:
+
+
+Sec.  734.7  Published.
+
+    (a) Except as set forth in paragraph (b) of this section, 
+unclassified ``technology'' or ``software'' is ``published,'' and is 
+thus not ``technology'' or ``software'' subject to the EAR, when it has 
+been made available to the public without restrictions upon its further 
+dissemination such as through any of the following:
+    (1) Subscriptions available without restriction to any individual 
+who desires to obtain or purchase the published information;
+    (2) Libraries or other public collections that are open and 
+available
+
+[[Page 35603]]
+
+to the public, and from which the public can obtain tangible or 
+intangible documents;
+    (3) Unlimited distribution at a conference, meeting, seminar, trade 
+show, or exhibition, generally accessible to the interested public;
+    (4) Public dissemination (i.e., unlimited distribution) in any form 
+(e.g., not necessarily in published form), including posting on the 
+Internet on sites available to the public; or
+    (5) Submission of a written composition, manuscript, presentation, 
+computer-readable dataset, formula, imagery, algorithms, or some other 
+representation of knowledge with the intention that such information 
+will be made publicly available if accepted for publication or 
+presentation:
+    (i) To domestic or foreign co-authors, editors, or reviewers of 
+journals, magazines, newspapers or trade publications;
+    (ii) To researchers conducting fundamental research; or
+    (iii) To organizers of open conferences or other open gatherings.
+    (b) Published encryption software classified under ECCN 5D002 
+remains subject to the EAR unless it is publicly available encryption 
+object code software classified under ECCN 5D002 and the corresponding 
+source code meets the criteria specified in Sec.  740.13(e) of the EAR.
+
+0
+5. Section 734.8 is revised to read as follows:
+
+
+Sec.  734.8  ``Technology'' or ``software'' that arises during, or 
+results from, fundamental research.
+
+    (a) Fundamental research. ``Technology'' or ``software'' that 
+arises during, or results from, fundamental research and is intended to 
+be published is not subject to the EAR.
+
+    Note 1 to paragraph (a): This paragraph does not apply to 
+``technology'' or ``software'' subject to the EAR that is released 
+to conduct fundamental research. (See Sec.  734.7(a)(5)(ii) for 
+information released to researchers that is ``published.'')
+
+
+    Note 2 to paragraph (a): There are instances in the conduct of 
+research where a researcher, institution or company may decide to 
+restrict or protect the release or publication of ``technology'' or 
+``software'' contained in research results. Once a decision is made 
+to maintain such ``technology'' or ``software'' as restricted or 
+proprietary, the ``technology'' or ``software,'' if within the scope 
+of Sec.  734.3(a), becomes subject to the EAR.
+
+    (b) Prepublication review. ``Technology'' or ``software'' that 
+arises during, or results, from fundamental research is intended to be 
+published to the extent that the researchers are free to publish the 
+``technology'' or ``software'' contained in the research without 
+restriction. ``Technology'' or ``software'' that arises during or 
+results from fundamental research subject to prepublication review is 
+still intended to be published when:
+    (1) Prepublication review is conducted solely to ensure that 
+publication would not compromise patent rights, so long as the review 
+causes no more than a temporary delay in publication of the research 
+results;
+    (2) Prepublication review is conducted by a sponsor of research 
+solely to insure that the publication would not inadvertently divulge 
+proprietary information that the sponsor has furnished to the 
+researchers; or
+    (3) With respect to research conducted by scientists or engineers 
+working for a Federal agency or a Federally Funded Research and 
+Development Center (FFRDC), the review is conducted within any 
+appropriate system devised by the agency or the FFRDC to control the 
+release of information by such scientists and engineers.
+
+    Note 1 to paragraph (b): Although ``technology'' or ``software'' 
+arising during or resulting from fundamental research is not 
+considered intended to be published if researchers accept 
+restrictions on its publication, such ``technology'' or ``software'' 
+will nonetheless qualify as ``technology'' or ``software'' arising 
+during or resulting from fundamental research once all such 
+restrictions have expired or have been removed.
+
+
+    Note 2 to paragraph (b):  Research that is voluntarily subjected 
+to U.S. government prepublication review is considered ``intended to 
+be published'' when the research is released consistent with the 
+prepublication review and any resulting controls.
+
+
+    Note 3 to paragraph (b): ``Technology'' or ``software'' 
+resulting from U.S. government funded research that is subject to 
+government-imposed access and dissemination or other specific 
+national security controls qualifies as ``technology'' or 
+``software'' resulting from fundamental research, provided that all 
+government-imposed national security controls have been satisfied 
+and the researchers are free to publish the ``technology'' or 
+``software'' contained in the research without restriction. Examples 
+of specific national security controls include requirements for 
+prepublication review by the Government, with right to withhold 
+permission for publication; restrictions on prepublication 
+dissemination of information to non-U.S. citizens or other 
+categories of persons; or restrictions on participation of non-U.S. 
+citizens or other categories of persons in the research. A general 
+reference to one or more export control laws or regulations or a 
+general reminder that the Government retains the right to classify 
+is not a specific national security control.
+
+    (c) Fundamental research definition. Fundamental research means 
+research in science, engineering, or mathematics, the results of which 
+ordinarily are published and shared broadly within the research 
+community, and for which the researchers have not accepted restrictions 
+for proprietary or national security reasons.
+
+
+Sec.  734.9--[Removed  and Reserved]
+
+0
+6. Section 734.9 is removed and reserved.
+
+0
+7. Section 734.10 is revised to read as follows:
+
+
+Sec.  734.10  Patents.
+
+    ``Technology'' is not subject to the EAR if it is contained in any 
+of the following:
+    (a) A patent or an open (published) patent application available 
+from or at any patent office;
+    (b) A published patent or patent application prepared wholly from 
+foreign-origin ``technology'' where the application is being sent to 
+the foreign inventor to be executed and returned to the United States 
+for subsequent filing in the U.S. Patent and Trademark Office;
+    (c) A patent application, or an amendment, modification, supplement 
+or division of an application, and authorized for filing in a foreign 
+country in accordance with the regulations of the Patent and Trademark 
+Office, 37 CFR part 5; or
+    (d) A patent application when sent to a foreign country before or 
+within six months after the filing of a United States patent 
+application for the purpose of obtaining the signature of an inventor 
+who was in the United States when the invention was made or who is a 
+co-inventor with a person residing in the United States.
+
+
+Sec.  734.11--[Removed  and Reserved]
+
+0
+8. Section 734.11 is removed and reserved.
+
+0
+9. Section 734.13 is added to read as follows:
+
+
+Sec.  734.13  Export.
+
+    (a) Except as set forth in Sec. Sec.  734.17 or 734.18, Export 
+means:
+    (1) An actual shipment or transmission out of the United States, 
+including the sending or taking of an item out of the United States, in 
+any manner;
+    (2) Releasing or otherwise transferring ``technology'' or source 
+code (but not object code) to a foreign person in the United States (a 
+``deemed export'');
+
+[[Page 35604]]
+
+    (3) Transferring by a person in the United States of registration, 
+control, or ownership of:
+    (i) A spacecraft subject to the EAR that is not eligible for export 
+under License Exception STA (i.e., spacecraft that provide space-based 
+logistics, assembly or servicing of any spacecraft) to a person in or a 
+national of any other country; or
+    (ii) Any other spacecraft subject to the EAR to a person in or a 
+national of a Country Group D:5 country.
+    (b) Any release in the United States of ``technology'' or source 
+code to a foreign person is a deemed export to the foreign person's 
+most recent country of citizenship or permanent residency.
+    (c) The export of an item that will transit through a country or 
+countries to a destination identified in the EAR is deemed to be an 
+export to that destination.
+
+0
+10. Section 734.14 is added to read as follows:
+
+
+Sec.  734.14  Reexport.
+
+    (a) Except as set forth in Sec. Sec.  734.18 and 734.20, Reexport 
+means:
+    (1) An actual shipment or transmission of an item subject to the 
+EAR from one foreign country to another foreign country, including the 
+sending or taking of an item to or from such countries in any manner;
+    (2) Releasing or otherwise transferring ``technology'' or source 
+code subject to the EAR to a foreign person of a country other than the 
+foreign country where the release or transfer takes place (a deemed 
+reexport);
+    (3) Transferring by a person outside the United States of 
+registration, control, or ownership of:
+    (i) A spacecraft subject to the EAR that is not eligible for 
+reexport under License Exception STA (i.e., spacecraft that provide 
+space-based logistics, assembly or servicing of any spacecraft) to a 
+person in or a national of any other country; or
+    (ii) Any other spacecraft subject to the EAR to a person in or a 
+national of a Country Group D:5 country.
+    (b) Any release outside of the United States of ``technology'' or 
+source code subject to the EAR to a foreign person of another country 
+is a deemed reexport to the foreign person's most recent country of 
+citizenship or permanent residency, except as described in Sec.  
+734.20.
+    (c) The reexport of an item subject to the EAR that will transit 
+through a country or countries to a destination identified in the EAR 
+is deemed to be a reexport to that destination.
+
+0
+11. Section 734.15 is added to read as follows:
+
+
+Sec.  734.15  Release.
+
+    (a) Except as set forth in Sec.  734.18, ``technology'' and 
+``software'' are ``released'' through:
+    (1) Visual or other inspection by a foreign person of items that 
+reveals ``technology'' or source code subject to the EAR to a foreign 
+person; or
+    (2) Oral or written exchanges with a foreign person of 
+``technology'' or source code in the United States or abroad.
+    (b) Any act causing the ``release'' of ``technology'' or 
+``software,'' through use of ``access information'' or otherwise, to 
+yourself or another person requires an authorization to the same extent 
+an authorization would be required to export or reexport such 
+``technology'' or ``software'' to that person.
+
+0
+12. Section 734.16 is added to read as follows:
+
+
+Sec.  734.16  Transfer (in-country).
+
+    Except as set forth in Sec.  734.18(a)(3), a Transfer (in-country) 
+is a change in end use or end user of an item within the same foreign 
+country. Transfer (in-country) is synonymous with In-country transfer.
+
+0
+13. Section 734.17 is added to read as follows:
+
+
+Sec.  734.17  Export of encryption source code and object code 
+software.
+
+    (a) For purposes of the EAR, the Export of encryption source code 
+and object code ``software'' means:
+    (1) An actual shipment, transfer, or transmission out of the United 
+States (see also paragraph (b) of this section); or
+    (2) A transfer of such ``software'' in the United States to an 
+embassy or affiliate of a foreign country.
+    (b) The export of encryption source code and object code 
+``software'' controlled for ``EI'' reasons under ECCN 5D002 on the 
+Commerce Control List (see Supplement No. 1 to part 774 of the EAR) 
+includes:
+    (1) Downloading, or causing the downloading of, such ``software'' 
+to locations (including electronic bulletin boards, Internet file 
+transfer protocol, and World Wide Web sites) outside the U.S., or
+    (2) Making such ``software'' available for transfer outside the 
+United States, over wire, cable, radio, electromagnetic, photo optical, 
+photoelectric or other comparable communications facilities accessible 
+to persons outside the United States, including transfers from 
+electronic bulletin boards, Internet file transfer protocol and World 
+Wide Web sites, unless the person making the ``software'' available 
+takes precautions adequate to prevent unauthorized transfer of such 
+code. See Sec.  740.13(e) of the EAR for notification requirements for 
+exports or reexports of encryption source code ``software'' considered 
+to be publicly available or published consistent with the provisions of 
+Sec.  734.3(b)(3). Publicly available encryption ``software'' in object 
+code that corresponds to encryption source code made eligible for 
+License Exception TSU under Sec.  740.13(e) of the EAR is not subject 
+to the EAR.
+    (c) Subject to the General Prohibitions described in part 736 of 
+the EAR, such precautions for Internet transfers of products eligible 
+for export under Sec.  740.17(b)(2) of the EAR (encryption ``software'' 
+products, certain encryption source code and general purpose encryption 
+toolkits) shall include such measures as:
+    (1) The access control system, either through automated means or 
+human intervention, checks the address of every system outside of the 
+U.S. or Canada requesting or receiving a transfer and verifies such 
+systems do not have a domain name or Internet address of a foreign 
+government end-user (e.g., ``.gov,'' ``.gouv,'' ``.mil'' or similar 
+addresses);
+    (2) The access control system provides every requesting or 
+receiving party with notice that the transfer includes or would include 
+cryptographic ``software'' subject to export controls under the Export 
+Administration Regulations, and anyone receiving such a transfer cannot 
+export the ``software'' without a license or other authorization; and
+    (3) Every party requesting or receiving a transfer of such 
+``software'' must acknowledge affirmatively that the ``software'' is 
+not intended for use by a government end user, as defined in part 772 
+of the EAR, and he or she understands the cryptographic ``software'' is 
+subject to export controls under the Export Administration Regulations 
+and anyone receiving the transfer cannot export the ``software'' 
+without a license or other authorization. BIS will consider 
+acknowledgments in electronic form provided they are adequate to assure 
+legal undertakings similar to written acknowledgments.
+
+0
+14. Section 734.18 is added to read as follows:
+
+
+Sec.  734.18  Activities that are not exports, reexports, or transfers.
+
+    (a) Activities that are not exports, reexports, or transfers. The 
+following activities are not exports, reexports, or transfers:
+    (1) Launching a spacecraft, launch vehicle, payload, or other item 
+into space.
+
+[[Page 35605]]
+
+    (2) Transmitting or otherwise transferring ``technology'' or 
+``software'' to a person in the United States who is not a foreign 
+person from another person in the United States.
+    (3) Transmitting or otherwise making a transfer (in-country) within 
+the same foreign country of ``technology'' or ``software'' between or 
+among only persons who are not ``foreign persons,'' so long as the 
+transmission or transfer does not result in a release to a foreign 
+person or to a person prohibited from receiving the ``technology'' or 
+``software.''
+    (4) Shipping, moving, or transferring items between or among the 
+United States, the District of Columbia, the Commonwealth of Puerto 
+Rico, or the Commonwealth of the Northern Mariana Islands or any 
+territory, dependency, or possession of the United States as listed in 
+Schedule C, Classification Codes and Descriptions for U.S. Export 
+Statistics, issued by the Bureau of the Census.
+    (5) Sending, taking, or storing ``technology'' or ``software'' that 
+is:
+    (i) Unclassified;
+    (ii) Secured using `end-to-end encryption;'
+    (iii) Secured using cryptographic modules (hardware or 
+``software'') compliant with Federal Information Processing Standards 
+Publication 140-2 (FIPS 140-2) or its successors, supplemented by 
+``software'' implementation, cryptographic key management and other 
+procedures and controls that are in accordance with guidance provided 
+in current U.S. National Institute for Standards and Technology 
+publications, or other equally or more effective cryptographic means; 
+and
+    (iv) Not intentionally stored in a country listed in Country Group 
+D:5 (see Supplement No. 1 to part 740 of the EAR) or in the Russian 
+Federation.
+
+    Note to paragraph (a)(4)(iv): Data in-transit via the Internet 
+is not deemed to be stored.
+
+    (b) Definitions. For purposes of this section, End-to-end 
+encryption means (i) the provision of cryptographic protection of data 
+such that the data is not in unencrypted form between an originator (or 
+the originator's in-country security boundary) and an intended 
+recipient (or the recipient's in-country security boundary), and (ii) 
+the means of decryption are not provided to any third party. The 
+originator and the recipient may be the same person.
+    (c) Ability to access ``technology'' or ``software'' in encrypted 
+form. The ability to access ``technology'' or ``software'' in encrypted 
+form that satisfies the criteria set forth in paragraph (a)(5) of this 
+section does not constitute the release or export of such 
+``technology'' or ``software.''
+
+0
+15. Section 734.19 is added to read as follows:
+
+
+Sec.  734.19  Transfer of access information.
+
+    To the extent an authorization would be required to transfer 
+``technology'' or ``software,'' a comparable authorization is required 
+to transfer access information if done with ``knowledge'' that such 
+transfer would result in the release of such ``technology'' or 
+``software'' without a required authorization.
+
+0
+16. Section 734.20 is added to read as follows:
+
+
+Sec.  734.20  Activities that are not deemed reexports.
+
+    The following activities are not deemed reexports (see ``deemed 
+reexport'' definition in Sec.  734.14(b)):
+    (a) Authorized Release of ``technology'' or source code. Release of 
+``technology'' or source code by an entity outside the United States to 
+a foreign person of a country other than the foreign country where the 
+release takes place if:
+    (1) The entity is authorized to receive the ``technology'' or 
+source code at issue, whether by a license, license exception, or 
+situation where no license is required under the EAR for such 
+``technology'' or source code; and
+    (2) The entity has ``knowledge'' that the foreign national's most 
+recent country of citizenship or permanent residency is that of a 
+country to which export from the United States of the ``technology'' or 
+source code at issue would be authorized by the EAR either under a 
+license exception or in situations where no license under the EAR would 
+be required.
+    (b) Release to Country Group A:5 nationals. Without limiting the 
+scope of paragraph (a), release of ``technology'' or source code by an 
+entity outside the United States to a foreign person of a country other 
+than the foreign country where the release takes place if:
+    (1) The entity is authorized to receive the ``technology'' or 
+source code at issue, whether by a license, license exception, or 
+through situations where no license is required under the EAR;
+    (2) The foreign person is a bona fide `permanent and regular 
+employee' of the entity and is not a proscribed person (see Sec.  772.1 
+for definition of proscribed person);
+    (3) Such employee is a national exclusively of a country in Country 
+Group A:5; and
+    (4) The release of ``technology'' or source code takes place 
+entirely within the physical territory of any such country, or within 
+the United States.
+    (c) Release to other than Country Group A:5 nationals. Without 
+limiting the scope of paragraph (a), release of ``technology'' or 
+source code by an entity outside the United States to a foreign person 
+of a country other than the foreign country where the release takes 
+place if:
+    (1) The entity is authorized to receive the ``technology'' or 
+source code at issue, whether by a license, license exception, or 
+situations where no license is required under the EAR;
+    (2) The foreign person is a bona fide `permanent and regular 
+employee' of the entity and is not a proscribed person (see Sec.  772.1 
+for definition of proscribed person);
+    (3) The release takes place entirely within the physical territory 
+of the country where the entity is located, conducts official business, 
+or operates, or within the United States;
+    (4) The entity has effective procedures to prevent diversion to 
+destinations, entities, end users, and end uses contrary to the EAR; 
+and
+    (5) Any one of the following six (i.e., paragraphs (c)(5)(i), (ii), 
+(iii), (iv), (v), or (vi) of this section) situations is applicable:
+    (i) The foreign person has a security clearance approved by the 
+host nation government of the entity outside the United States;
+    (ii) The entity outside the United States:
+    (A) Has in place a process to screen the foreign person employee 
+and to have the employee execute a non-disclosure agreement that 
+provides assurances that the employee will not disclose, transfer, or 
+reexport controlled ``technology'' contrary to the EAR;
+    (B) Screens the employee for substantive contacts with countries 
+listed in Country Group D:5 (see Supplement No. 1 to part 740 of the 
+EAR). Although nationality does not, in and of itself, prohibit access 
+to ``technology'' or source code subject to the EAR, an employee who 
+has substantive contacts with foreign persons from countries listed in 
+Country Group D:5 shall be presumed to raise a risk of diversion, 
+unless BIS determines otherwise;
+    (C) Maintains a technology security or clearance plan that includes 
+procedures for screening employees for such substantive contacts;
+    (D) Maintains records of such screenings for the longer of five 
+years or the duration of the individual's employment with the entity; 
+and
+    (E) Will make such plans and records available to BIS or its agents 
+for civil
+
+[[Page 35606]]
+
+and criminal law enforcement purposes upon request;
+    (iii) The entity is a U.K. entity implementing Sec.  126.18 of the 
+ITAR (22 CFR 126.18) pursuant to the U.S.-U.K. Exchange of Notes 
+regarding Sec.  126.18 of the ITAR for which the U.K. has provided 
+appropriate implementation guidance;
+    (iv) The entity is a Canadian entity implementing Sec.  126.18 of 
+the ITAR pursuant to the U.S.-Canadian Exchange of Letters regarding 
+Sec.  126.18 of the ITAR for which Canada has provided appropriate 
+implementation guidance;
+    (v) The entity is an Australian entity implementing the exemption 
+at paragraph 3.7b of the ITAR Agreements Guidelines; or
+    (vi) The entity is a Dutch entity implementing the exemption at 
+paragraph 3.7c of the ITAR Agreements Guidelines.
+    (d) Definitions--(1) Substantive contacts include regular travel to 
+countries in Country Group D:5; recent or continuing contact with 
+agents, brokers, and nationals of such countries; continued 
+demonstrated allegiance to such countries; maintenance of business 
+relationships with persons from such countries; maintenance of a 
+residence in such countries; receiving salary or other continuing 
+monetary compensation from such countries; or acts otherwise indicating 
+a risk of diversion.
+    (2) Permanent and regular employee is an individual who:
+    (i) Is permanently (i.e., for not less than a year) employed by an 
+entity, or
+    (ii) Is a contract employee who:
+    (A) Is in a long-term contractual relationship with the company 
+where the individual works at the entity's facilities or at locations 
+assigned by the entity (such as a remote site or on travel);
+    (B) Works under the entity's direction and control such that the 
+company must determine the individual's work schedule and duties;
+    (C) Works full time and exclusively for the entity; and
+    (D) Executes a nondisclosure certification for the company that he 
+or she will not disclose confidential information received as part of 
+his or her work for the entity.
+
+    Note to paragraph (d)(2): If the contract employee has been 
+seconded to the entity by a staffing agency, then the staffing 
+agency must not have any role in the work the individual performs 
+other than to provide the individual for that work. The staffing 
+agency also must not have access to any controlled ``technology'' or 
+source code other than that authorized by the applicable regulations 
+or a license.
+
+Supplement No. 1 to Part 734 [Removed and Reserved]
+
+0
+17. Supplement No. 1 to part 734 is removed and reserved.
+
+PART 740-- LICENSE EXCEPTIONS
+
+0
+18. The authority citation for part 740 continues to read as follows:
+
+    Authority: 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 22 
+U.S.C. 7201 et seq.; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 
+228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; Notice of 
+August 7, 2015, 80 FR 48233 (August 11, 2015).
+
+0
+19. In Sec.  740.9, paragraph (a)(3) is revised to read as follows:
+
+
+Sec.  740.9  Temporary imports, exports, reexports, and transfers (in-
+country) (TMP).
+
+* * * * *
+    (a) * * *
+    (3) ``Technology,'' regardless of media or format, may be exported, 
+reexported, or transferred (in-country) by or to a U.S. person, or a 
+foreign person employee of a U.S. person traveling or on temporary 
+assignment abroad, subject to the following restrictions:
+    (i) Foreign persons may only export, reexport, transfer (in 
+country) or receive such ``technology'' as they are authorized to 
+receive through a license, license exception other than TMP or because 
+no license is required.
+    (ii) ``Technology'' exported, reexported, or transferred under this 
+authorization may only be possessed or used by a U.S. person or 
+authorized foreign person. Sufficient security precautions must be 
+taken to prevent the unauthorized release of the ``technology.'' Such 
+security precautions may include encryption of the ``technology,'' the 
+use of secure network connections, such as Virtual Private Networks, 
+the use of passwords or other access restrictions on the electronic 
+device or media on which the ``technology'' is stored, and the use of 
+firewalls and other network security measures to prevent unauthorized 
+access.
+    (iii) The individual is an employee of the U.S. Government or is 
+directly employed by a U.S. person and not, e.g., by a foreign 
+subsidiary.
+    (iv) ``Technology'' authorized under this exception may not be used 
+for foreign production purposes or for technical assistance unless 
+authorized through a license or license exception other than TMP.
+* * * * *
+
+PART 750--APPLICATION PROCESSING, ISSUANCE, AND DENIAL
+
+0
+20. The authority citation for 15 CFR part 750 continues to read as 
+follows:
+
+    Authority: 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; Sec 
+1503, Pub. L. 108-11, 117 Stat. 559; E.O. 13026, 61 FR 58767, 3 CFR, 
+1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 
+783; E.O. 13637, 78 FR 16129, 3 CFR, 2013 Comp., p. 223; 
+Presidential Determination 2003-23, 68 FR 26459, 3 CFR, 2004 Comp., 
+p. 320; Notice of August 7, 2015, 80 FR 48233 (August 11, 2015).
+
+0
+21. Section 750.7 is amended by revising paragraph (a) to read as 
+follows:
+
+
+Sec.  750.7  Issuance of licenses.
+
+    (a) Scope. Unless limited by a condition set out in a license, the 
+export, reexport, or transfer (in-country) authorized by a license is 
+for the item(s), end-use(s), and parties described in the license 
+application and any letters of explanation. The applicant must inform 
+the other parties identified on the license, such as the ultimate 
+consignees and end users, of the license's scope and of the specific 
+conditions applicable to them. BIS grants licenses in reliance on 
+representations the applicant made in or submitted in connection with 
+the license application, letters of explanation, and other documents 
+submitted. A BIS license authorizing the release of ``technology'' to 
+an entity also authorizes the release of the same ``technology'' to the 
+entity's foreign persons who are permanent and regular employees (and 
+who are not proscribed persons) of the entity's facility or facilities 
+authorized on the license, except to the extent a license condition 
+limits or prohibits the release of the ``technology'' to foreign 
+persons of specific countries or country groups.
+* * * * *
+
+PART 772--DEFINITIONS OF TERMS
+
+0
+22. The authority citation for part 772 continues to read as follows:
+
+    Authority: 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; E.O. 
+13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; Notice of August 7, 
+2015, 80 FR 48233 (August 11, 2015).
+
+0
+23. Section 772.1 is amended by:
+0
+a. Adding in alphabetical order a definition for ``Access 
+information'';
+0
+b. Revising the definition of ``Export'';
+0
+c. Adding in alphabetical order definitions for ``Foreign person,'' 
+``Fundamental research,'' ``Proscribed person,'' and ``Publicly 
+available encryption software'';
+0
+d. Removing the definitions of ``Publicly available information'' and
+
+[[Page 35607]]
+
+``Publicly available technology and software'';
+0
+e. Adding in alphabetical order a definition for ``Published'';
+0
+f. Revising the definition of ``Reexport'';
+0
+g. Adding in alphabetical order a definition for ``Release'';
+0
+h. Revising the definition of ``Required'';
+0
+i. Removing the definition of ``Technical data''; and
+0
+j. Revising the definitions of ``Technology,'' and ``Transfer.''
+    The revisions and additions read as follows:
+
+
+Sec.  772.1  Definitions of terms as used in the Export Administration 
+Regulations (EAR).
+
+* * * * *
+    Access information. Information that allows access to encrypted 
+technology or encrypted software in an unencrypted form. Examples 
+include decryption keys, network access codes, and passwords.
+* * * * *
+    Export. See Sec.  734.13 of the EAR.
+* * * * *
+    Foreign person. Any natural person who is not a lawful permanent 
+resident of the United States, citizen of the United States, or any 
+other protected individual as defined by 8 U.S.C. 1324b(a)(3). It also 
+means any corporation, business association, partnership, trust, 
+society or any other entity or group that is not incorporated in the 
+United States or organized to do business in the United States, as well 
+as international organizations, foreign governments and any agency or 
+subdivision of a foreign government (e.g., diplomatic mission). 
+``Foreign person'' is synonymous with ``foreign national,'' as used in 
+the EAR, and ``foreign person'' as used in the International Traffic in 
+Arms Regulations (22 CFR 120.16). This definition does not apply to 
+part 760 of the EAR (Restrictive Trade Practices or Boycotts).
+* * * * *
+    Fundamental research. See Sec.  734.8 of the EAR.
+* * * * *
+    Proscribed person. A person who is prohibited from receiving the 
+items at issue or participating in a transaction that is subject to the 
+EAR without authorization under the EAR, such as persons on the Entity 
+List or denied persons.
+    Publicly available encryption software. See Sec.  740.13(e) of the 
+EAR.
+    Published. See Sec.  734.7 of the EAR.
+* * * * *
+    Reexport. See Sec.  734.14 of the EAR.
+    Release. See Sec.  734.15 of the EAR.
+* * * * *
+    Required. (General Technology Note) --As applied to ``technology'' 
+or ``software,'' refers to only that portion of ``technology'' or 
+``software'' which is peculiarly responsible for achieving or exceeding 
+the controlled performance levels, characteristics or functions. Such 
+``required'' ``technology'' or ``software'' may be shared by different 
+products. For example, assume product ``X'' is controlled on the CCL if 
+it operates at or above 400 MHz and is not controlled if it operates 
+below 400 MHz. If production technologies ``A,'' ``B,'' and ``C'' allow 
+production at no more than 399 MHz, then technologies ``A,'' ``B,'' and 
+``C'' are not ``required'' to produce the controlled product ``X''. If 
+technologies ``A,'' ``B,'' ``C,'' ``D,'' and ``E'' are used together, a 
+manufacturer can produce product ``X'' that operates at or above 400 
+MHz. In this example, technologies ``D'' and ``E'' are peculiarly 
+responsible for making the controlled product and are thus ``required'' 
+technology under the General Technology Note. (See the General 
+Technology Note.)
+
+    Note 1 to the definition of Required:  The ITAR and the EAR 
+often divide within each set of regulations or between each set of 
+regulations:
+    (a) Controls on parts, components, accessories, attachments, and 
+software; and
+    (b) Controls on the end items, systems, equipment, or other 
+items into which those parts, components, accessories, attachments, 
+and software are to be installed or incorporated.
+
+
+    Note 2 to the definition of Required:  The references to 
+``characteristics'' and ``functions'' are not limited to entries on 
+the CCL that use specific technical parameters to describe the scope 
+of what is controlled. The ``characteristics'' and ``functions'' of 
+an item listed are, absent a specific regulatory definition, a 
+standard dictionary's definition of the item. For example, ECCN 
+9A610.a controls military aircraft specially designed for a military 
+use that are not enumerated in USML paragraph VIII(a). No 
+performance level is identified in the entry, but the control 
+characteristic of the aircraft is that it is specially designed 
+``for military use.'' Thus, any technology, regardless of 
+significance, peculiar to making an aircraft ``for military use'' as 
+opposed to, for example, an aircraft controlled under ECCN 9A991.a, 
+would be technical data ``required'' for an aircraft specially 
+designed for military use thus controlled under ECCN 9E610.
+
+
+    Note 3 to the definition of Required:  Unclassified technology 
+not specifically enumerated on the USML is ``subject to the EAR'' if 
+it is ``required'' for the ``development,'' ``production,'' ``use,'' 
+operation, installation, maintenance, repair, overhaul, or 
+refurbishing (or other terms specified in ECCNs on the CCL that 
+control ``technology'') of a commodity or software that is subject 
+to the EAR. Thus, for example, if unclassified technology not 
+specifically enumerated on the USML is ``required'' for the 
+development or production of a 9A610.x aircraft component that is to 
+be integrated or installed in a USML VIII(a) aircraft, then the 
+``technology'' is controlled under ECCN 9E610, not USML VIII(i). 
+Conversely, technical data directly related to, for example, the 
+development or production of a component subject to the ITAR does 
+not become subject to the EAR merely because it is developed or 
+produced with equipment subject to the EAR.
+
+* * * * *
+    Technology. Technology means:
+    Information necessary for the ``development,'' ``production,'' 
+``use,'' operation, installation, maintenance, repair, overhaul, or 
+refurbishing (or other terms specified in ECCNs on the CCL that control 
+``technology'') of an item.
+    N.B.: Controlled ``technology'' is defined in the General 
+Technology Note and in the Commerce Control List (Supplement No. 1 to 
+part 774 of the EAR).
+
+    Note 1 to definition of Technology:  ``Technology'' may be in 
+any tangible or intangible form, such as written or oral 
+communications, blueprints, drawings, photographs, plans, diagrams, 
+models, formulae, tables, engineering designs and specifications, 
+computer-aided design files, manuals or documentation, electronic 
+media or information revealed through visual inspection;
+
+
+    Note 2 to definition of Technology:  The modification of the 
+design of an existing item creates a new item and technology for the 
+modified design is technology for the development or production of 
+the new item.
+
+* * * * *
+    Transfer. A shipment, transmission, or release of items subject to 
+the EAR either within the United States or outside the United States. 
+For In-country transfer/Transfer (in-country), see Sec.  734.16 of the 
+EAR.
+
+    Note to definition of Transfer:  This definition of ``transfer'' 
+does not apply to Sec.  750.10 of the EAR or Supplement No. 8 to 
+part 760 of the EAR. The term ``transfer'' may also be included on 
+licenses issued by BIS. In that regard, the changes that can be made 
+to a BIS license are the non-material changes described in Sec.  
+750.7(c) of the EAR. Any other change to a BIS license without 
+authorization is a violation of the EAR. See Sec. Sec.  750.7(c) and 
+764.2(e) of the EAR.
+
+* * * * *
+
+
+[[Page 35608]]
+
+
+    Dated: May 23, 2016.
+Kevin J. Wolf,
+Assistant Secretary for Export Administration.
+[FR Doc. 2016-12734 Filed 6-2-16; 8:45 am]
+ BILLING CODE 3510-33-P

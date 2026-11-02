@@ -1,0 +1,23 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 8D999；eCFR 2026-10-29〕
+
+8D999 “Software” “specially designed” for the operation of unmanned submersible vehicles used in the oil and gas industry.
+
+License Requirements
+
+Reason for Control: Foreign policy
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+Russian industry sector sanctions apply to entire entry | See § 746.8 for specific license requirements and license review policy.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

@@ -1,0 +1,29 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6B004；eCFR 2026-10-29〕
+
+6B004 Optical equipment, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: $5000
+
+GBS: Yes for 6B004.b
+
+List of Items Controlled
+
+Related Controls: This entry does not control microscopes.
+
+Related Definitions: N/A
+
+Items: a. Equipment for measuring absolute reflectance to an “accuracy” of equal to or better than 0.1% of the reflectance value;
+
+b. Equipment other than optical surface scattering measurement equipment, having an unobscured aperture of more than 10 cm, “specially designed” for the non-contact optical measurement of a non-planar optical surface figure (profile) to an “accuracy” of 2 nm or less (better) against the required profile.

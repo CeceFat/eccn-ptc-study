@@ -1,0 +1,13 @@
+〔15 CFR Part 774, Supp. No. 1, Category 5 Part 1 註記；eCFR 2026-10-29〕
+
+Part 1—Telecommunications
+
+Notes: 1. The control status of “components”, test and “production” equipment, and “software” therefor which are “specially designed” for telecommunications equipment or systems is determined in Category 5, Part 1.
+
+N.B.: For “lasers” “specially designed” for telecommunications equipment or systems, see ECCN 6A005.
+
+2. “Digital computers”, related equipment or “software”, when essential for the operation and support of telecommunications equipment described in this Category, are regarded as “specially designed” “components”, provided they are the standard models customarily supplied by the manufacturer. This includes operation, administration, maintenance, engineering or billing computer systems.
+
+3. Commodities in ECCN 5A001.j, and related “software” specified in 5D001.c (for 5A001.j) that are also controlled in ECCNs 5A002.a, 5A002.z.1, 5A002.z.6, 5A004.a, 5A004.b, 5A004.z, 5D002.c.1, 5D002.c.3, 5D002.z.6, 5D002.z.8, or z 5D002.z.9, remain controlled in Category 5—Part 2 by those entries. Category 5—Part 2 does not apply to elements of source code that implement functionality controlled by these Category 5 Part 1 ECCNs, or to any item subject to the EAR where Encryption Item (EI) functionality is absent, removed or otherwise non-existent.
+
+4. Items in ECCN 5A001.j, 5B001.a (for 5A001.j), related “software” specified in 5D001.a (for 5A001.j) and 5D001.c (for 5A001.j or 5B001.a (for 5A001.j)) and related “technology” specified in ECCN 5E001.a (for 5A001.j and 5D001.a (for 5A001.j)) that are also controlled for Surreptitious Listening (SL) reasons under another ECCN, will continue to be classified under the SL ECCN.

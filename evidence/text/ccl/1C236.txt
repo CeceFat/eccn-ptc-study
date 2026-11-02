@@ -1,0 +1,83 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C236；eCFR 2026-10-29〕
+
+1C236 Radionuclides appropriate for making neutron sources based on alpha-n reaction and products or devices containing such radionuclides (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NP, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NP applies to entire entry | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 1E001 (“development” and “production”) and 1E201 (“use”) for technology for items controlled by this entry. (2) Certain alpha-emitting radionuclides are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110).
+
+Related Definitions: N/A
+
+ECCN Controls: This entry does not control a product or device containing less than 3.7 GBq (100 millicuries) of activity.
+
+Items: a. Radionuclides identified in 1C236.a.1 in any of the forms described in 1C236.a.2:
+
+a.1. Radionuclides, as follows, appropriate for making neutron sources based on alpha-n reactions:
+
+a.1.a. Actinium 225;
+
+a.1.b. Actinium 227;
+
+a.1.c. Californium 253;
+
+a.1.d. Curium 240;
+
+a.1.e. Curium 241;
+
+a.1.f. Curium 242;
+
+a.1.g. Curium 243;
+
+a.1.h. Curium 244;
+
+a.1.i. Einsteinium 253;
+
+a.1.j. Einsteinium 254;
+
+a.1.k. Gadolinium 148;
+
+a.1.l. Plutonium 236;
+
+a.1.m. Plutonium 238;
+
+a.1.n. Polonium 208;
+
+a.1.o. Polonium 209;
+
+a.1.p. Polonium 210;
+
+a.1.q. Radium 223;
+
+a.1.r. Thorium 227;
+
+a.1.s. Thorium 228;
+
+a.1.t. Uranium 230;
+
+a.1.u. Uranium 232; and
+
+a.2. In any of the following forms:
+
+a.2.a. Elemental;
+
+a.2.b. Compounds having a total activity of 37 GBq (1 curie) per kg or greater; or
+
+a.2.c. Mixtures having a total activity of 37 GBq (1 curie) per kg or greater.
+
+b. Products or devices containing radionuclides identified in 1C236.a.1 in any of the forms described in 1C236.a.2.

@@ -1,0 +1,63 @@
+〔15 CFR Supplement No. 1 to Part 730；eCFR 2026-10-29〕
+
+Supplement No. 1 to Part 730—Information Collection Requirements Under the Paperwork Reduction Act: OMB Control Numbers
+
+This supplement lists the control numbers assigned to the information collection requirements for the Bureau of Industry and Security by the Office of Management and Budget (OMB), pursuant to the Paperwork Reduction Act of 1995. This supplement complies with the requirements of section 3506(c)(1)(B)(i) of the Paperwork Reduction Act requiring agencies to display current control numbers assigned by the Director of OMB for each agency information collection requirement.
+
+Collection number | Title | Reference in the EAR
+
+0694-0004 | Foreign Availability Procedures and Criteria | part 768.
+
+0694-0009 | Approval of Triangular Transactions Involving Commodities Covered by a U.S. Import Certificate | § 748.10(e).
+
+0694-0012 | Report of Requests for Restrictive Trade Practice or Boycott—Single or Multiple Transactions | part 760 and § 762.2(b).
+
+0694-0013 | Computers and Related Equipment EAR Supplement 2 to Part 748 | part 774.
+
+0694-0016 | Delivery Verification Certificate | §§ 748.13 and 762.2(b).
+
+0694-0017 | International Import Certificate | § 748.10.
+
+0694-0021 | Statement by Ultimate Consignee and Purchaser | §§ 748.11 and 762.2(b).
+
+0694-0026 | Short Supply Regulations—Petroleum Products | § 754.3.
+
+0694-0047 | Technology Letter of Explanation | Supplement No. 2 to part 748, paragraph (o)(2).
+
+0694-0058 | Procedure for Voluntary Self-Disclosure of Violations | §§ 762.2(b) and 764.5.
+
+0694-0073 | Export Controls of High Performance Computers | Supplement No. 2 to part 748, paragraph (c)(2), and § 762.2(b).
+
+0694-0088 | Simplified Network Application Processing+ System (SNAP+) and the Multipurpose Export License Application | parts 746 and 748, and § 762.2(b).
+
+0694-0093 | Import Certificates And End-User Certificates | §§ 748.9, 748.10, 762.5(d), 762.6 764.2(g)(2).
+
+0694-0096 | Five Year Records Retention Period | part 760, § 762.6(a).
+
+0694-0100 | Requests for Appointment of Technical Advisory Committee | Supplement No. 1 to part 730.
+
+0694-0102 | Registration of U.S. Agricultural Commodities For Exemption From Short Supply Limitations on Export, and Petitions For The Imposition of Monitoring Or Controls On Recyclable Metallic Materials; Public Hearings | §§ 754.6 and 754.7.
+
+0694-0107 | National Defense Authorization Act (NDAA) | §§ 740.7, 742.12.
+
+0694-0117 | Chemical Weapons Convention Provisions of the Export Administration Regulations (Schedule 1 Advance Notifications and Reports and Schedule 3 End-use Certificates) | part 745.
+
+0694-0122 | Licensing Responsibilities and Enforcement | §§ 744.15(b) and 748.4 and part 758.
+
+0694-0125 | BIS Seminar Evaluation | N/A
+
+0694-0126 | Export License Services—Transfer of License Ownership, Requests for a Duplicate License | § 750.9.
+
+0694-0129 | Export and Reexport Controls For Iraq | §§ 732.3, 738, 744.18, 746.3(b)(1), 750, 758, 762, 772, 774.
+
+0694-0132 | Voluntary Self-Disclosure of Antiboycott Violations | § 764.8.
+
+0694-0134 | Procedure for parties on the Entity List or the Unverified List to Request Removal or Modification of their Listing | §§ 744.15 and 744.16
+
+0694-0137 | License Exceptions and Exclusions | § 734.4, Supplement No. 2 to part 734, §§ 740.3(d), 740.4(c), 740.9(a)(2)(viii)(B), 740.9(c), 740.12(b)(7), 740.17, 740.18, Supp. No. 2 to part 740, §§ 742.15, 743.1, 743.3, 754.4, 762.2(b) and Supplement No. 1 to part 774.
+
+0607-0152 | Automated Export System (AES) Program | §§ 740.1(d), 740.3(a)(3), 754.4(c), 758.1, 758.2, and 758.3 of the EAR.
+
+[61 FR 12734, Mar. 25, 1996]
+
+Editorial Note:For Federal Register citations affecting supplement no. 1 to part 730, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

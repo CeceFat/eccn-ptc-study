@@ -1,0 +1,29 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3C004；eCFR 2026-10-29〕
+
+3C004 Hydrides of phosphorus, arsenic or antimony, having a purity better than 99.999%, even diluted in inert gases or hydrogen.
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: $3000
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definition: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.
+
+Note: This entry does not control hydrides containing 20% molar or more of inert gases or hydrogen.

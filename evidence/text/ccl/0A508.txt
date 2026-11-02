@@ -1,0 +1,47 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 0A508；eCFR 2026-10-29〕
+
+0A508 Semi-Automatic Shotguns as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, FC, CC, UN, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to semi-automatic shotguns with a barrel length less than 18 inches (45.72 cm) | NS Column 1.
+
+RS applies to semi-automatic shotguns with a barrel length less than 18 inches (45.72 cm) | RS Column 1.
+
+FC applies to entire entry | FC Column 1.
+
+CC applies to shotguns with a barrel length less than 24 in. (60.96 cm) and shotgun “components” controlled by this entry regardless of end user | CC Column 1.
+
+CC applies to shotguns with a barrel length greater than or equal to 24 in. (60.96 cm), regardless of end user | CC Column 2.
+
+CC applies to shotguns with a barrel length greater than or equal to 24 in. (60.96 cm) if for sale or resale to police or law enforcement | CC Column 3.
+
+UN applies to entire entry | See § 746.1 of the EAR for UN controls.
+
+AT applies to semi-automatic shotguns with a barrel length less than 18 inches (45.72 cm) | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+Special Conditions for STA
+
+License Exception STA may not be used for any shotguns with barrel length less than 18 inches controlled in 0A508, to any of the destinations listed in Country Group A:5 or A:6 (See supplement no.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) See USML Category I for shotguns that are fully automatic. (2) See ECCN 0A502 for non-semi-automatic shotguns. (3) See ECCN 0A509 for enumerated or otherwise described “parts,” “components,” devices, “accessories,” and “attachments” for ECCN 0A508. (4) See 0A501.d, .x, and .y for other “parts,” “components,” “accessories,” and “attachments” “specially designed” for 0A508. (5) See ECCNs 0A501 for non-semi-automatic firearms, 0A506 for semi-automatic rifles, and 0A507 for semi-automatic pistols.
+
+Related Definitions: N/A
+
+Items:
+
+a. Semi-automatic centerfire (non-rimfire) shotguns.
+
+b. Semi-automatic rimfire shotguns.

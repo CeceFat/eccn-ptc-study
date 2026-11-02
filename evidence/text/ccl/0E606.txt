@@ -1,0 +1,41 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 0E606；eCFR 2026-10-29〕
+
+0E606 “Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbushing of ground vehicles and related commodities in 0A606, 0B606, 0C606, or software in 0D606 (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, UN
+
+Control(s) | Country chart(see Supp. No. 1 to part 738)
+
+NS applies to entire entry, except 0E606.y | NS Column 1.
+
+RS applies to entire entry, except 0E606.y | RS Column 1.
+
+RS applies to 0E606.y | China, Russia, or Venezuela (see § 742.6(a)(7)).
+
+AT applies to entire entry | AT Column 1.
+
+UN applies to entire entry, except 0E606.y | See § 746.1(b) for UN controls.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any technology in 0D606.
+
+List of Items Controlled
+
+Related Controls: Technical data directly related to articles enumerated in USML Category VII are subject to the controls of USML paragraph VII(h).
+
+Related Definitions: N/A
+
+Items:
+
+a. “Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities enumerated or otherwise described in ECCN 0A606 (except for ECCNs 0A606.b or 0A606.y), 0B606, or 0C606.
+
+b. through x. [Reserved]
+
+y. Specific “technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul or refurbishing of commodities or software in ECCN 0A606.y or 0D606.y.

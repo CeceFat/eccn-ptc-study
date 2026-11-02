@@ -1,0 +1,37 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1B613；eCFR 2026-10-29〕
+
+1B613 Test, inspection, and “production” “equipment” and related commodities “specially designed” for the “development,” “production,” repair, overhaul, or refurbishing of commodities controlled by ECCN 1A613 or USML Category X, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, UN
+
+Control(s) | Country chart(See Supp. No. 1to part 738)
+
+NS applies to entire entry | NS Column 1
+
+RS applies to entire entry | RS Column 1
+
+AT applies to entire entry | AT Column 1
+
+UN applies to entire entry | See § 746.1(b) for UN controls
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: $1500
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in 1B613.
+
+List of Items Controlled
+
+Related Controls: See ECCN 0A919 for foreign-made “military commodities” that incorporate more than a de minimis amount of US-origin “600 series” controlled content.
+
+Related Definitions: N/A
+
+Items: a. Test, inspection, and “production” “equipment,” not controlled by USML Category X(c), that is “specially designed” for the “development,” “production,” repair, overhaul, or refurbishing of commodities controlled by ECCN 1A613 or USML Category X.
+
+b. Plasma pressure compaction (P2C) “equipment” “specially designed” for the “production” of ceramic or composite body armor plates controlled by ECCN 1A613 or USML Category X.

@@ -1,0 +1,55 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 4A001；eCFR 2026-10-29〕
+
+4A001 Electronic computers and related equipment, having any of the following (see List of Items Controlled), and “electronic assemblies” and “specially designed” “components” therefor.
+
+License Requirements
+
+Reason for Control: NS, MT, AT, NP
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2.
+
+MT applies to items in 4A001.a when the parameters in 4A101 are met or exceeded | MT Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+NP applies, unless a License Exception is available. See § 742.3(b) of the EAR for information on applicable licensing review policies | N/A.
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $5000 for 4A001.a; N/A for MT.
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any commodity in 4A001.a.2 to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) See also 4A101 and 4A994. Equipment designed or rated for transient ionizing radiation is “subject to the ITAR” (see 22 CFR parts 120 through 130). (2) The act of incorporating a radiation hardened integrated circuit into a computer that is specified under ECCN 4A994 or designated as EAR99 does not, in and of itself, cause the computer to meet the parameters of ECCN paragraph 4A001.a.2.
+
+Related Definitions: For the purposes of integrated circuits in 4A001.a.2, 5 × 10 3 Gy(Si) = 5 × 10 5 Rads (Si); 5 × 10 6 Gy (Si)/s = 5 × 10 8 Rads (Si)/s.
+
+Items:
+
+a. “Specially designed” to have any of the following:
+
+a.1. [Reserved]
+
+a.2. Radiation hardened to exceed any of the following specifications:
+
+a.2.a. A total dose of 5 × 10 3 Gy (Si);
+
+a.2.b. A dose rate upset of 5 × 10 6 Gy (Si)/s; or
+
+a.2.c. Single Event Upset of 1 × 10− 8 Error/bit/day;
+
+Note: 4A001.a.2 does not apply to computers “specially designed” for “civil aircraft” applications.
+
+b. [Reserved]

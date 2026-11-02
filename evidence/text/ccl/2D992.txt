@@ -1,0 +1,45 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2D992；eCFR 2026-10-29〕
+
+2D992 Specific “software”, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country chart(See Supp. No. 1to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. “Software” to provide “adaptive control” and having both of the following characteristics:
+
+a.1. For “flexible manufacturing units” (FMUs) which consist at least of equipment described in b.1 and b.2 of the definition of “flexible manufacturing unit” contained in part 772 of the EAR; and
+
+a.2. Capable of generating or modifying, in “real-time processing”, programs or data by using the signals obtained simultaneously by means of at least two detection techniques, such as:
+
+a.2.a. Machine vision (optical ranging);
+
+a.2.b. Infrared imaging;
+
+a.2.c. Acoustical imaging (acoustical ranging);
+
+a.2.d. Tactile measurement;
+
+a.2.e. Inertial positioning;
+
+a.2.f. Force measurement; and
+
+a.2.g. Torque measurement.
+
+Note: 2D992.a does not control “software” which only provides rescheduling of functionally identical equipment within “flexible manufacturing units” using pre-stored part programs and a pre-stored strategy for the distribution of the part programs.
+
+b. Reserved.

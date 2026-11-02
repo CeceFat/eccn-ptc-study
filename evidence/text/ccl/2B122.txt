@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2B122；eCFR 2026-10-29〕
+
+2B122 Centrifuges capable of imparting accelerations greater than 100 g and designed or modified to incorporate sliprings or integrated non-contact devices capable of transferring electrical power, signal information, or both.
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country chart(see Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See also 7B101.
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

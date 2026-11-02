@@ -1,0 +1,35 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1D607；eCFR 2026-10-29〕
+
+1D607 “Software” “specially designed” for the “development,” “production,” operation, or maintenance of items controlled by 1A607, 1B607 or 1C607 (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, UN
+
+Control(s) | Country chart (see Supp. No. 1 to Part 738)
+
+NS applies to entire entry, except “software” for 1C607.a.10, .a.11, .a.12, and .a.14 | NS Column 1.
+
+RS applies to entire entry | RS Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+UN applies to entire entry | See § 746.1(b) for UN controls.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in 1D607.
+
+List of Items Controlled
+
+Related Controls: (1) “Software” directly related to articles enumerated or otherwise described in USML Category XIV is subject to the ITAR (see 22 CFR § 121.1, Category XIV(m)). “Software” controlled by USML Category XIV(m) includes “software” directly related to any equipment containing reagents, algorithms, coefficients, software, libraries, spectral databases, or alarm set point levels developed under U.S. Department of Defense contract or funding for the detection, identification, warning or monitoring of items controlled in paragraphs (a) or (b) of USML Category XIV, or for chemical or biological agents specified by U.S. Department of Defense funding or contract. (2) See ECCN 0A919 for “military commodities” located and produced outside the United States that incorporate more than a de minimis amount of US-origin “600 series” controlled content.
+
+Related Definitions: N/A
+
+Items: a. “Software” “specially designed” for the “development,” “production,” operation, or maintenance of commodities controlled by ECCN 1A607, 1B607, or 1C607.
+
+b. [Reserved]

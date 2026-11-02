@@ -1,0 +1,65 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6A203；eCFR 2026-10-29〕
+
+6A203 High-speed cameras, imaging devices and “components” therefor, other than those controlled by 6A003 (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NP, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NP applies to entire entry | NP Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 6E001 (“development”), 6E002 (“production”), and 6E201 (“use”) for technology for items controlled under this entry. (2) Also see ECCN 6A003.a.3 and a.4. (3) The act of incorporating a radiation hardened integrated circuit into a TV camera designated as EAR99 does not, in and of itself, cause the TV camera to meet the parameters of ECCN paragraph 6A203.d.
+
+Related Definitions: N/A
+
+Items:
+
+a. Streak cameras and “specially designed” components therefor, as follows:
+
+a.1. Streak cameras with writing speeds greater than 0.5 mm/µs;
+
+a.2. Electronic streak cameras capable of 50 ns or less time resolution;
+
+a.3. Streak tubes for cameras described in 6A203.a.2;
+
+a.4. Plug-ins, “specially designed” for use with streak cameras having modular structures, that enable the performance characteristics described in 6A203.a.1 or .a.2;
+
+a.5. Synchronizing electronics units, and rotor assemblies consisting of turbines, mirrors and bearings, that are “specially designed” for cameras described in 6A203.a.1.
+
+b. Framing cameras and “specially designed” components therefor, as follows:
+
+b.1. Framing cameras with recording rates greater than 225,000 frames per second;
+
+b.2. Framing cameras capable of 50 ns or less frame exposure time;
+
+b.3. Framing tubes, and solid-state imaging devices, that have a fast image gating (shutter) time of 50 ns or less and are “specially designed” for cameras described in 6A203.b.1 or .b.2;
+
+b.4. Plug-ins, “specially designed” for use with framing cameras having modular structures, that enable the performance characteristics described in 6A203.b.1 or .b.2;
+
+b.5. Synchronizing electronic units, and rotor assemblies consisting of turbines, mirrors and bearings, that are “specially designed” for cameras described in 6A203.b.1 or .b.2.
+
+c. Solid-state or electron tube cameras and “specially designed” components therefor, as follows:
+
+c.1. Solid-state cameras, or electron tube cameras, with a fast image gating (shutter) time of 50 ns or less;
+
+c.2. Solid-state imaging devices, and image intensifiers tubes, that have a fast image gating (shutter) time of 50 ns or less and are “specially designed” for cameras described in 6A203.c.1;
+
+c.3. Electro-optical shuttering devices (Kerr or Pockels cells) with a fast image gating (shutter) time of 50 ns or less;
+
+c.4. Plug-ins, “specially designed” for use with cameras having modular structures, that enable the performance characteristics described in 6A203.c.1.
+
+Technical Note: High speed single frame cameras can be used alone to produce a single image of a dynamic event, or several such cameras can be combined in a sequentially-triggered system to produce multiple images of an event.
+
+d. Radiation-hardened TV cameras, or lenses therefor, “specially designed” or rated as radiation hardened to withstand a total radiation dose greater than 5 × 10 4 Gy (silicon) without operational degradation.
+
+Technical Note: The term Gy (silicon) refers to the energy in Joules per kilogram absorbed by an unshielded silicon sample when exposed to ionizing radiation.

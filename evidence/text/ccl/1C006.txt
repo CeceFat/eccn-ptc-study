@@ -1,0 +1,65 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C006；eCFR 2026-10-29〕
+
+1C006 Fluids and lubricating materials, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $3000
+
+GBS: Yes for 1C006.d
+
+List of Items Controlled
+
+Related Controls: See also 1C996.
+
+Related Definitions: N/A
+
+Items:
+
+a. [Reserved]
+
+b. Lubricating materials containing, as their principal ingredients, phenylene or alkylphenylene ethers or thio-ethers, or their mixtures, containing more than two ether or thio-ether functions or mixtures thereof.
+
+c. Damping or flotation fluids having all of the following:
+
+c.1. Purity exceeding 99.8%;
+
+c.2. Containing less than 25 particles of 200 µm or larger in size per 100 ml; and
+
+c.3. Made from at least 85% of any of the following:
+
+c.3.a. Dibromotetrafluoroethane (CAS 25497-30-7, 124-73-2, 27336-23-8);
+
+c.3.b. Polychlorotrifluoroethylene (oily and waxy modifications only); or
+
+c.3.c. Polybromotrifluoroethylene;
+
+d. Fluorocarbon fluids designed for electronic cooling and having all of the following:
+
+d.1. Containing 85% by weight or more of any of the following, or mixtures thereof:
+
+d.1.a. Monomeric forms of perfluoropolyalkylether-triazines or perfluoroaliphatic-ethers;
+
+d.1.b. Perfluoroalkylamines;
+
+d.1.c. Perfluorocycloalkanes; or
+
+d.1.d. Perfluoroalkanes;
+
+d.2. Density at 298 K (25 °C) of 1.5 g/ml or more;
+
+d.3. In a liquid state at 273 K (0 °C); and
+
+d.4. Containing 60% or more by weight of fluorine.
+
+Note: 1C006.d does not apply to materials specified and packaged as medical products.

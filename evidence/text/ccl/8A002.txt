@@ -1,0 +1,199 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 8A002；eCFR 2026-10-29〕
+
+8A002 Marine systems, equipment, “parts” and “components,” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $5000; N/A for 8A002.o.3.b
+
+GBS: Yes for manipulators for civil end uses (e.g., underwater oil, gas or mining operations) controlled by 8A002.i.2 and having 5 degrees of freedom of movement; and 8A002.r.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any commodity in 8A002.b, h, j, o.3, or p to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) See also 8A992 and for underwater communications systems, see Category 5, Part I—Telecommunications. (2) See also 8A992 for self-contained underwater breathing apparatus that is not controlled by 8A002 or released for control by the 8A002.q Note. (3) For electronic imaging systems “specially designed” or modified for underwater use incorporating image intensifier tubes specified by 6A002.a.2.a or 6A002.a.2.b, see 6A003.b.3. (4) For electronic imaging systems “specially designed” or modified for underwater use incorporating “focal plane arrays” specified by 6A002.a.3.g, see 6A003.b.4.c. (5) Section 744.9 imposes a license requirement on commodities described in 8A002.d if being exported, reexported, or transferred (in-country) for use by a military end-user or for incorporation into an item controlled by ECCN 0A919.
+
+Related Definitions: N/A
+
+Items:
+
+a. Systems, equipment, “parts” and “components,” “specially designed” or modified for submersible vehicles and designed to operate at depths exceeding 1,000 m, as follows:
+
+a.1. Pressure housings or pressure hulls with a maximum inside chamber diameter exceeding 1.5 m;
+
+a.2. Direct current propulsion motors or thrusters;
+
+a.3. Umbilical cables, and connectors therefor, using optical fiber and having synthetic strength members;
+
+a.4. “Parts” and “components” manufactured from material specified by ECCN 8C001;
+
+Technical Note: For the purposes of 8A002.a.4, this entry should not be defeated by the export of 'syntactic foam' controlled by 8C001 when an intermediate stage of manufacture has been performed and it is not yet in its final component form.
+
+b. Systems “specially designed” or modified for the automated control of the motion of submersible vehicles controlled by 8A001, using navigation data, having closed loop servo-controls and having any of the following:
+
+b.1. Enabling a vehicle to move within 10 m of a predetermined point in the water column;
+
+b.2. Maintaining the position of the vehicle within 10 m of a predetermined point in the water column; or
+
+b.3. Maintaining the position of the vehicle within 10 m while following a cable on or under the seabed;
+
+c. Fiber optic pressure hull penetrators;
+
+d. Underwater vision systems having all of the following:
+
+d.1. “Specially designed” or modified for remote operation with an underwater vehicle; and
+
+d.2. Employing any of the following techniques to minimize the effects of back scatter:
+
+d.2.a. Range-gated illuminators; or
+
+d.2.b. Range-gated “laser” systems;
+
+e. [Reserved]
+
+f. [Reserved]
+
+g. Light systems “specially designed” or modified for underwater use, as follows:
+
+g.1. Stroboscopic light systems capable of a light output energy of more than 300 J per flash and a flash rate of more than 5 flashes per second;
+
+g.2. Argon arc light systems “specially designed” for use below 1,000 m;
+
+h. “Robots” “specially designed” for underwater use, controlled by using a dedicated computer and having any of the following:
+
+h.1. Systems that control the “robot” using information from sensors which measure force or torque applied to an external object, distance to an external object, or tactile sense between the “robot” and an external object; or
+
+h.2. The ability to exert a force of 250 N or more or a torque of 250 Nm or more and using titanium based alloys or “composite” “fibrous or filamentary materials” in their structural members;
+
+i. Remotely controlled articulated manipulators “specially designed” or modified for use with submersible vehicles and having any of the following:
+
+i.1. Systems which control the manipulator using information from sensors which measure any of the following:
+
+i.1.a. Torque or force applied to an external object; or
+
+i.1.b. Tactile sense between the manipulator and an external object; or
+
+i.2. Controlled by proportional master-slave techniques and having 5 degrees of 'freedom of movement' or more;
+
+Technical Note: For the purposes of 8A002.i.2, only functions having proportionally related motion control using positional feedback are counted when determining the number of degrees of 'freedom of movement'.
+
+j. Air independent power systems “specially designed” for underwater use, as follows:
+
+j.1. Brayton or Rankine cycle engine air independent power systems having any of the following:
+
+j.1.a. Chemical scrubber or absorber systems, “specially designed” to remove carbon dioxide, carbon monoxide and particulates from recirculated engine exhaust;
+
+j.1.b. Systems “specially designed” to use a monoatomic gas;
+
+j.1.c. Devices or enclosures, “specially designed” for underwater noise reduction in frequencies below 10 kHz, or special mounting devices for shock mitigation; or
+
+j.1.d. Systems having all of the following:
+
+j.1.d.1. “Specially designed” to pressurize the products of reaction or for fuel reformation;
+
+j.1.d.2. “Specially designed” to store the products of the reaction; and
+
+j.1.d.3. “Specially designed” to discharge the products of the reaction against a pressure of 100 kPa or more;
+
+j.2. Diesel cycle engine air independent systems having all of the following:
+
+j.2.a. Chemical scrubber or absorber systems, “specially designed” to remove carbon dioxide, carbon monoxide and particulates from recirculated engine exhaust;
+
+j.2.b. Systems “specially designed” to use a monoatomic gas;
+
+j.2.c. Devices or enclosures, “specially designed” for underwater noise reduction in frequencies below 10 kHz, or special mounting devices for shock mitigation; and
+
+j.2.d. “Specially designed” exhaust systems that do not exhaust continuously the products of combustion;
+
+j.3. “Fuel cell” air independent power systems with an output exceeding 2 kW and having any of the following:
+
+j.3.a. Devices or enclosures, “specially designed” for underwater noise reduction in frequencies below 10 kHz, or special mounting devices for shock mitigation; or
+
+j.3.b. Systems having all of the following:
+
+j.3.b.1. “Specially designed” to pressurize the products of reaction or for fuel reformation;
+
+j.3.b.2. “Specially designed” to store the products of the reaction; and
+
+j.3.b.3. “Specially designed” to discharge the products of the reaction against a pressure of 100 kPa or more;
+
+j.4. Stirling cycle engine air independent power systems having all of the following:
+
+j.4.a. Devices or enclosures, “specially designed” for underwater noise reduction in frequencies below 10 kHz, or special mounting devices for shock mitigation; and
+
+j.4.b. “Specially designed” exhaust systems which discharge the products of combustion against a pressure of 100 kPa or more;
+
+k. [Reserved]
+
+l. [Reserved]
+
+m. [Reserved]
+
+n. [Reserved]
+
+o. Propellers, power transmission systems, power generation systems and noise reduction systems, as follows:
+
+o.1. [Reserved]
+
+o.2. Water-screw propeller, power generation systems or transmission systems, designed for use on vessels, as follows:
+
+o.2.a. Controllable-pitch propellers and hub assemblies, rated at more than 30 MW;
+
+o.2.b. Internally liquid-cooled electric propulsion motors with a power output exceeding 2.5 MW;
+
+o.2.c. “Superconductive” propulsion motors with a power output exceeding 0.1 MW;
+
+o.2.d. Power transmission shaft systems incorporating “composite” material “parts” or “components” and capable of transmitting more than 2 MW;
+
+o.2.e. Ventilated or base-ventilated propeller systems, rated at more than 2.5 MW;
+
+o.3. Noise reduction systems designed for use on vessels of 1,000 tonnes displacement or more, as follows:
+
+o.3.a. Systems that attenuate underwater noise at frequencies below 500 Hz and consist of compound acoustic mounts for the acoustic isolation of diesel engines, diesel generator sets, gas turbines, gas turbine generator sets, propulsion motors or propulsion reduction gears, “specially designed” for sound or vibration isolation and having an intermediate mass exceeding 30% of the equipment to be mounted;
+
+o.3.b. 'Active noise reduction or cancellation systems' or magnetic bearings, “specially designed” for power transmission systems;
+
+Technical Note: For the purposes of 8A002.o.3.b, 'active noise reduction or cancellation systems' incorporate electronic control systems capable of actively reducing equipment vibration by the generation of anti-noise or anti-vibration signals directly to the source.
+
+o.4. Permanent magnet electric propulsion motors “specially designed” for submersible vehicles, having a power output exceeding 0.1 MW.
+
+Note: 8A002.o.4. includes rim-driven propulsion systems.
+
+p. Pumpjet propulsion systems having all of the following:
+
+p.1. Power output exceeding 2.5 MW; and
+
+p.2. Using divergent nozzle and flow conditioning vane techniques to improve propulsive efficiency or reduce propulsion-generated underwater-radiated noise;
+
+q. Underwater swimming and diving equipment as follows;
+
+q.1. Closed circuit rebreathers;
+
+q.2. Semi-closed circuit rebreathers;
+
+Note: 8A002.q does not control individual rebreathers for personal use when accompanying their users.
+
+N.B. For equipment and devices “specially designed” for military use see ECCN 8A620.f.
+
+r. Diver deterrent acoustic systems “specially designed” or modified to disrupt divers and having a sound pressure level equal to or exceeding 190 dB (reference 1 µPa at 1 m) at frequencies of 200 Hz and below.
+
+Note 1: 8A002.r does not apply to diver deterrent systems based on under-water-explosive devices, air guns or combustible sources.
+
+Note 2: 8A002.r includes diver deterrent acoustic systems that use spark gap sources, also known as plasma sound sources.

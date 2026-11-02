@@ -1,0 +1,79 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 7A003；eCFR 2026-10-29〕
+
+7A003 'Inertial measurement equipment or systems', having any of the following.
+
+License Requirements
+
+Reason for Control: NS, MT, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1
+
+MT applies to commodities in 7A003.d that meet or exceed the parameters of 7A103 | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See also ECCNs 7A103, 7A611, and 7A994. (2) See USML Category XII(d) for guidance or navigation systems subject to the ITAR.
+
+Related Definitions: N/A
+
+Items:
+
+7A003 does not apply to 'inertial measurement equipment or systems' which are certified for use on “civil aircraft” by civil aviation authorities of one or more Wassenaar Arrangement Participating States, see Supplement No. 1 to part 743 of the EAR.
+
+Technical Notes: 1. For the purposes of 7A003, 'inertial measurement equipment or systems' incorporate accelerometers or gyroscopes to measure changes in velocity and orientation in order to determine or maintain heading or position without requiring an external reference once aligned. 'Inertial measurement equipment or systems' include:
+
+Attitude and Heading Reference Systems (AHRSs);
+
+Gyrocompasses;
+
+Inertial Measurement Units (IMUs);
+
+Inertial Navigation Systems (INSs);
+
+Inertial Reference Systems (IRSs);
+
+Inertial Reference Units (IRUs).
+
+2. For the purposes of 7A003, 'positional aiding references' independently provide position, and include:
+
+a. “Satellite navigation system”;
+
+b.”Data-Based Referenced Navigation” (“DBRN”).
+
+a. Designed for “aircraft”, land vehicles or vessels, providing position without the use of 'positional aiding references', and having any of the following “accuracies” subsequent to normal alignment:
+
+a.1. 0.8 nautical miles per hour (nm/hr) “Circular Error Probable” (“CEP”) rate or less (better);
+
+a.2. 0.5% distanced travelled “CEP” or less (better); or
+
+a.3. Total drift of 1 nautical mile “CEP” or less (better) in a 24 hr period;
+
+Technical Note: For the purposes of 7A003.a.1, 7A003.a.2 and 7A003.a.3, the performance parameters typically apply to 'inertia measurement equipment or systems' designed for “aircraft”, vehicles and vessels, respectively. These parameters result from the utilization of specialized non-'positional aiding references' (e.g., altimeter, odometer, velocity log). As a consequence, the specified performance values cannot be readily converted between these parameters. Equipment designed for multiple platforms are evaluated against each applicable entry 7A003.a.1, 7A003.a.2, or 7A003.a.3.
+
+b. Designed for “aircraft”, land vehicles or vessels, with an embedded 'positional aiding reference' and providing position after loss of all 'positional aiding references' for a period of up to 4 minutes, having an “accuracy” of less (better) than 10 meters “CEP”;
+
+Technical Note: For the purposes of 7A003.b, this entry refers to systems in which 'inertial measurement equipment or systems' and other independent 'positional aiding references' are built into a single unit (i.e., embedded) in order to achieve improved performance.
+
+c. Designed for “aircraft”, land vehicles or vessels, providing heading or True North determination and having any of the following:
+
+c.1. A maximum operating angular rate less (lower) than 500 deg/s and a heading “accuracy” without the use of 'positional aiding references' equal to or less (better) than 0.07 deg sec (Lat) (equivalent to 6 arc minutes rms at 45 degrees latitude); or
+
+c.2. A maximum operating angular rate equal to or greater (higher) than 500 deg/s and a heading “accuracy” without the use of 'positional aiding references' equal to or less (better) than 0.2 deg sec (Lat) (equivalent to 17 arc minutes rms at 45 degrees latitude);
+
+d. Providing acceleration measurements or angular rate measurements, in more than one dimension, and having any of the following:
+
+d.1. Performance specified by 7A001 or 7A002 along any axis, without the use of any aiding references; or
+
+d.2. Being “space-qualified” and providing angular rate measurements having an “angle random walk” along any axis of less (better) than or equal to 0.1 degree per square root hour.
+
+Note: 7A003.d.2 does not apply to 'inertial measurement equipment or systems' that contain “spinning mass gyros” as the only type of gyro.

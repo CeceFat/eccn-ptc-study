@@ -1,0 +1,47 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9A991；eCFR 2026-10-29〕
+
+9A991 “Aircraft,” n.e.s., and gas turbine engines not controlled by 9A001 or 9A101 and “parts” and “components,” n.e.s. (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT, UN
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1.
+
+UN applies to 9A991.a | See § 746.1(b) for UN controls.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Military aircraft, demilitarized (not specifically equipped or modified for military operation), as follows:
+
+a.1 Cargo aircraft bearing “C” designations and numbered C-45 through C-118 inclusive, C-121 through C-125 inclusive, and C-131, using reciprocating engines only.
+
+a.2 Trainer aircraft bearing “T” designations and using reciprocating engines or turboprop engines with less than 600 horsepower (s.h.p.).
+
+a.3 Utility aircraft bearing “U” designations and using reciprocating engines only.
+
+a.4 All liaison aircraft bearing an “L” designation.
+
+a.5 All observation aircraft bearing “O” designations and using reciprocating engines.
+
+b. Aircraft n.e.s.;
+
+c. Aero gas turbine engines, and “parts” and “components” “specially designed” therefor.
+
+Note: 9A991.c does not control aero gas turbine engines that are destined for use in civil “aircraft” and that have been in use in bona fide civil “aircraft” for more than eight years. If they have been in use in bona fide civil “aircraft” for more than eight years, such engines are controlled under 9A991.d.
+
+d. “Parts” and “components,” “specially designed” for “aircraft,” n.e.s.
+
+e. Pressurized aircraft breathing equipment, n.e.s.; and “parts” and “components” “specially designed” therefor, n.e.s.

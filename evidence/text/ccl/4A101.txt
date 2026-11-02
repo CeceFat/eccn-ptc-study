@@ -1,0 +1,33 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 4A101；eCFR 2026-10-29〕
+
+4A101 Analog computers, “digital computers” or digital differential analyzers, other than those controlled by 4A001 designed or modified for use in “missiles”, having any of the following (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: The act of incorporating a radiation hardened integrated circuit into a computer that is specified under ECCN 4A994 or designated as EAR99 does not, in and of itself, cause the computer to meet the parameters of ECCN paragraph 4A101.b.
+
+Related Definitions: N/A
+
+Items:
+
+a. Rated for continuous operation at temperatures from below 228 K (−45 °C) to above 328 K (+55 °C); or
+
+b. Designed as ruggedized or 'radiation hardened'.
+
+Note: For the purposes of 4A101, 'radiation hardened' means that the “part,” “component” or equipment is designed or rated to withstand radiation levels which meet or exceed a total irradiation dose of 5 × 10 5 rads (Si).

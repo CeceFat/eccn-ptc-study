@@ -1,0 +1,103 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3B992；eCFR 2026-10-29〕
+
+3B992 Equipment not controlled by 3B002, 3B993, or 3B994, for the inspection or testing of electronic “components” and materials, (see List of Items Controlled) and “specially designed” “parts,” “components” and “accessories” therefor.
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country chart(see Supp. No. 1to part 738)
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See also 3A992.a.
+
+Related Definitions: N/A
+
+Items:
+
+a. Equipment “specially designed” for the inspection or testing of electron tubes, optical elements and “specially designed” “parts” and “components” therefor controlled by 3A001 or 3A991;
+
+b. Equipment “specially designed” for the inspection or testing of semiconductor devices, integrated circuits and “electronic assemblies”, as follows, and systems incorporating or having the characteristics of such equipment:
+
+Note: 3B992.b also controls equipment used or modified for use in the inspection or testing of other devices, such as imaging devices, electro-optical devices, acoustic-wave devices.
+
+b.1. “Stored program controlled” inspection equipment for the automatic detection of defects, errors or contaminants of 0.6 micrometer or less in or on processed wafers, “substrates”, other than printed circuit boards or chips, using optical image acquisition techniques for pattern comparison;
+
+Note: 3B992.b.1 does not control general purpose scanning electron microscopes, except when “specially designed” and instrumented for automatic pattern inspection.
+
+b.2. “specially designed” “stored program controlled” measuring and analysis equipment, as follows:
+
+b.2.a. “specially designed” for the measurement of oxygen (O) or carbon (C) content in semiconductor materials;
+
+b.2.b. Equipment for line width measurement with a resolution of 1 micrometer or finer;
+
+b.2.c. “specially designed” flatness measurement instruments capable of measuring deviations from flatness of 10 micrometer or less with a resolution of 1 micrometer or finer.
+
+b.3. “Stored program controlled” wafer probing equipment having any of the following characteristics:
+
+b.3.a. Positioning accuracy finer than 3.5 micrometer;
+
+b.3.b. Capable of testing devices having more than 68 terminals; or
+
+b.3.c. Capable of testing at a frequency exceeding 1 GHz;
+
+b.4. Test equipment as follows:
+
+b.4.a. “Stored program controlled” equipment “specially designed” for testing discrete semiconductor devices and unencapsulated dice, capable of testing at frequencies exceeding 18 GHz;
+
+Technical Note: Discrete semiconductor devices include photocells and solar cells.
+
+b.4.b. “Stored program controlled” equipment “specially designed” for testing integrated circuits and “electronic assemblies” thereof, capable of functional testing:
+
+b.4.b.1. At a 'pattern rate' exceeding 20 MHz; or
+
+b.4.b.2. At a 'pattern rate' exceeding 10 MHz but not exceeding 20 MHz and capable of testing packages of more than 68 terminals.
+
+Note: 3B992.b.4.b does not control test equipment “specially designed” for testing:
+
+1. memories;
+
+2. “Assemblies” or a class of “electronic assemblies” for home and entertainment applications; and
+
+3. Electronic “parts,” “components,” “assemblies” and integrated circuits not controlled by 3A001 or 3A991 provided such test equipment does not incorporate computing facilities with “user accessible programmability.”
+
+Technical Note: For purposes of 3B992.b.4.b, 'pattern rate' is defined as the maximum frequency of digital operation of a tester. It is therefore equivalent to the highest data rate that a tester can provide in non-multiplexed mode. It is also referred to as test speed, maximum digital frequency or maximum digital speed.
+
+b.4.c. Equipment “specially designed” for determining the performance of focal-plane arrays at wavelengths of more than 1,200 nm, using “stored program controlled” measurements or computer aided evaluation and having any of the following characteristics:
+
+b.4.c.1. Using scanning light spot diameters of less than 0.12 mm;
+
+b.4.c.2. Designed for measuring photosensitive performance parameters and for evaluating frequency response, modulation transfer function, uniformity of responsivity or noise; or
+
+b.4.c.3. Designed for evaluating arrays capable of creating images with more than 32 × 32 line elements;
+
+b.5. Electron beam test systems designed for operation at 3 keV or below, or “laser” beam systems, for non-contactive probing of powered-up semiconductor devices having any of the following:
+
+b.5.a. Stroboscopic capability with either beam blanking or detector strobing;
+
+b.5.b. An electron spectrometer for voltage measurements with a resolution of less than 0.5 V; or
+
+b.5.c. Electrical tests fixtures for performance analysis of integrated circuits;
+
+Note: 3B992.b.5 does not control scanning electron microscopes, except when “specially designed” and instrumented for non-contactive probing of a powered-up semiconductor device.
+
+b.6. “Stored program controlled” multifunctional focused ion beam systems “specially designed” for manufacturing, repairing, physical layout analysis and testing of masks or semiconductor devices and having either of the following characteristics:
+
+b.6.a. Target-to-beam position feedback control precision of 1 micrometer or finer; or
+
+b.6.b. Digital-to-analog conversion accuracy exceeding 12 bit;
+
+b.7. Particle measuring systems employing “lasers” designed for measuring particle size and concentration in air having both of the following characteristics:
+
+b.7.a. Capable of measuring particle sizes of 0.2 micrometer or less at a flow rate of 0.02832 m 3 per minute or more; and
+
+b.7.b. Capable of characterizing Class 10 clean air or better.

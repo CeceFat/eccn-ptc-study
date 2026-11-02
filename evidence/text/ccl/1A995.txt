@@ -1,0 +1,29 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1A995；eCFR 2026-10-29〕
+
+1A995 Protective and detection equipment not “specially designed” for military use and not controlled by ECCN 1A004 or ECCN 2B351, as follows (see List of Items Controlled), and “parts” and “components” not “specially designed” for military use and not controlled by ECCN 1A004 or ECCN 2B351 therefor.
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related controls: See ECCNs 1A004, 2B351, and 2B352.
+
+Related Definitions: N/A
+
+Items: a. Personal radiation monitoring dosimeters;
+
+b. Equipment limited by design or function to protect against hazards specific to civil industries, such as mining, quarrying, agriculture, pharmaceuticals, medical, veterinary, environmental, waste management, or to the food industry.
+
+Note: This entry (1A995) does not control items for protection against chemical or biological agents that are consumer goods, packaged for retail sale or personal use, or medical products, such as latex exam gloves, latex surgical gloves, liquid disinfectant soap, disposable surgical drapes, surgical gowns, surgical foot covers, and surgical masks. Such items are classified as EAR99.

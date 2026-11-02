@@ -1,0 +1,55 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3A229；eCFR 2026-10-29〕
+
+3A229 Firing sets and equivalent high-current pulse generators for detonators controlled by 3A232 (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NP, AT, foreign policy
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NP applies to entire entry | NP Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+Russian industry sector sanctions apply to entire entry | See § 746.8 for specific license requirements and license review policy.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 3E001 and 1E001 (“development” and “production”) and 3E201 and 1E201 (“use”) for technology for items controlled under this entry. (2) See 1A007.a for explosive detonator firing sets designed to drive explosive detonators controlled by 1A007.b. (3) High explosives and related equipment for military use are “subject to the ITAR” (see 22 CFR parts 120 through 130).
+
+Related Definitions: N/A
+
+ECCN Controls: (1) Optically driven firing sets include both those employing laser initiation and laser charging. (2) Explosively driven firing sets include booth explosive ferroelectric and explosive ferromagnetic firing set types. (3) 3A229.b includes xenon flash-lamp drivers.
+
+Items:
+
+a. Detonator firing sets (initiation systems, firesets), including electronically-charged, explosively-driven and optically-driven firing sets designed to drive multiple controlled detonators controlled by 3A232;
+
+b. Modular electrical pulse generators (pulsers) having all of the following characteristics:
+
+b.1. Designed for portable, mobile, or ruggedized use;
+
+b.2. Capable of delivering their energy in less than 15 µs into loads of less than 40 Ω (ohms);
+
+b.3. Having an output greater than 100 A;
+
+b.4. No dimension greater than 30 cm;
+
+b.5. Weight less than 30 kg; and
+
+b.6. Specified for use over an extended temperature range 223 K (−50 °C) to 373 K (100 °C) or specified as suitable for aerospace applications.
+
+c. Micro-firing units having all of the following characteristics:
+
+c.1. No dimension greater than 35 mm;
+
+c.2. Voltage rating of equal to or greater than 1 kV; and
+
+c.3. Capacitance of equal to or greater than 100 nF.

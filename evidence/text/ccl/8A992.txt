@@ -1,0 +1,63 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 8A992；eCFR 2026-10-29〕
+
+8A992 Vessels, marine systems or equipment, not controlled by 8A001 or 8A002, and “specially designed” “parts” and “components” therefor, and marine boilers and “parts,” “components,” “accessories,” and “attachments” therefor (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT, Foreign policy
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1.
+
+Russian industry sector sanctions apply to entire entry | See § 746.8 for specific license requirements and license review policy.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: 1. See also 8A002. 2. Marine gas turbine engines are not controlled in paragraph .g of this entry. See ECCN 9A619 for possible controls on marine gas turbine engines specially designed for a military use. See ECCN 9A002 for possible controls on marine gas turbine engines not specially designed for a military use. Marine gas turbine engines subject to the EAR that are not controlled in ECCNs 9A002 or 9A619 are designated EAR99.
+
+Related Definitions: N/A
+
+Items:
+
+a. Underwater vision systems, as follows:
+
+a.1. Television systems (comprising camera, lights, monitoring and signal transmission equipment) having a limiting resolution when measured in air of more than 500 lines and “specially designed” or modified for remote operation with a submersible vehicle; or
+
+a.2. Underwater television cameras having a limiting resolution when measured in air of more than 700 lines;
+
+Technical Note: Limiting resolution in television is a measure of horizontal resolution usually expressed in terms of the maximum number of lines per picture height discriminated on a test chart, using IEEE Standard 208/1960 or any equivalent standard.
+
+b. Photographic still cameras “specially designed” or modified for underwater use, having a film format of 35 mm or larger, and having autofocusing or remote focusing “specially designed” for underwater use;
+
+c. Stroboscopic light systems, “specially designed” or modified for underwater use, capable of a light output energy of more than 300 J per flash;
+
+d. Other underwater camera equipment, n.e.s.;
+
+e. Other submersible systems, n.e.s.;
+
+f. Vessels, n.e.s., including inflatable boats, and “specially designed” “parts” and “components” therefor, n.e.s.;
+
+g. Marine engines (both inboard and outboard) and submarine engines, n.e.s.; and “specially designed” “parts” and “components” therefor, n.e.s.;
+
+h. Other self-contained underwater breathing apparatus (scuba gear) and related equipment, n.e.s.;
+
+i. Life jackets, inflation cartridges, compasses, wetsuits, masks, fins, weight belts, and dive computers;
+
+j. Underwater lights and propulsion equipment;
+
+k. Air compressors and filtration systems “specially designed” for filling air cylinders.
+
+l. Marine boilers designed to have any of the following characteristics:
+
+l.1. Heat release rate (at maximum rating) equal to or in excess of 190,000 BTU per hour per cubic foot of furnace volume; or
+
+l.2. Ratio of steam generated in pounds per hour (at maximum rating) to the dry weight of the boiler in pounds equal to or in excess of 0.83.
+
+m. Major “components,” “accessories,” and “attachments” for marine boilers described in 8A992.l.

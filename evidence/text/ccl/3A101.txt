@@ -1,0 +1,47 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3A101；eCFR 2026-10-29〕
+
+3A101 Electronic equipment, devices, “parts” and “components,” other than those controlled by 3A001, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See also ECCN 3A002.h for controls on analog-to-digital “electronic assemblies,” modules or equipment.
+
+Related Definitions: N/A
+
+Items: a. Analog-to-digital converters usable in “missiles,” and having any of the following characteristics:
+
+a.1. “Specially designed” to meet military specifications for ruggedized equipment;
+
+a.2. “Specially designed” for military use and being any of the following types:
+
+a.2.a. Analog-to-digital converter microcircuits which are radiation-hardened or have all of the following characteristics:
+
+a.2.a.1. Rated for operation in the temperature range from below −54 °C to above +125 °C; and
+
+a.2.a.2. Hermetically sealed; or
+
+a.2.b. Electrical input type analog-to-digital converter printed circuit boards or modules, having all of the following characteristics:
+
+a.2.b.1. Rated for operation in the temperature range from below −45 °C to above +80 °C; and
+
+a.2.b.2. Incorporating microcircuits identified in 3A101.a.2 .a;
+
+b. Accelerators capable of delivering electromagnetic radiation produced by bremsstrahlung from accelerated electrons of 2 MeV or greater, and systems containing those accelerators, usable for the “missiles” or the subsystems of “missiles”.
+
+Note: 3A101.b above does not include equipment “specially designed” for medical purposes.

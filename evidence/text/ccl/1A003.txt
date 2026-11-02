@@ -1,0 +1,29 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1A003；eCFR 2026-10-29〕
+
+1A003 Manufactures of non-“fusible” aromatic polyimides in film, sheet, tape or ribbon form having any of the following (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: $200
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: This entry does not control manufactures when coated or laminated with copper and designed for the production of electronic printed circuit boards. For “fusible” aromatic polyimides in any form, see 1C008.a.3.
+
+Related Definitions: N/A
+
+Items: a. A thickness exceeding 0.254 mm; or
+
+b. Coated or laminated with carbon, graphite, metals or magnetic substances.

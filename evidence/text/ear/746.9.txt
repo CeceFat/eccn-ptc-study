@@ -1,0 +1,31 @@
+〔15 CFR § 746.9；eCFR 2026-10-29〕
+
+§ 746.9 Syria.
+
+(a) License requirements. A license is required for the export or reexport to Syria of all items subject to the EAR, except food and medicine classified as EAR99 (food and medicine are defined in part 772 of the EAR). A license is required for the deemed export and deemed reexport, as described in §§ 734.13(b) and 734.14(b) of the EAR, respectively, of any technology or source code on the Commerce Control List (CCL) to a Syrian foreign national. Deemed exports and deemed reexports to Syrian foreign nationals involving technology or source code subject to the EAR but not listed on the CCL do not require a license.
+
+(b) License Exceptions. No License Exceptions to the license requirements set forth in paragraph (a) of this section are available for exports or reexports to Syria, except the following:
+
+(1) SPP for the export or reexport of “EAR99” items pursuant to § 740.5;
+
+(2) TMP for technology pursuant to the provisions in § 740.9(a)(3), containers pursuant to the provisions in § 740.9(a)(7), items for use by the news media pursuant to § 740.9(a)(9), exports to a U.S. person's foreign subsidiary, affiliate, or facility abroad pursuant to § 740.9(a)(10), and personal protective “equipment” pursuant to the provisions of § 740.9 (a)(11)(ii) of the EAR;
+
+(3) RPL pursuant to the provisions of § 740.10(a) of the EAR, provided that such exports will not support the Syrian police, military, or intelligence sensitive end users or uses pursuant to supplement no. 2 to 742;
+
+(4) GOV for exports or reexports under the United States Government authorization pursuant to § 740.11(b)(2), exports, reexports and transfers (in country) to “Cooperating Governments and the North Atlantic Treaty Organization” pursuant to the provisions of 740.11(c), and items for international inspections under the Chemical Weapons Convention pursuant to 740.11(d) of the EAR;
+
+(5) TSU for operation technology and software, sales technology, and software updates pursuant to the terms in § 740.13(a), (b), (c), and (g) of the EAR;
+
+(6) BAG for exports of personally-owned items by individuals leaving the United States as personal baggage pursuant to the terms of § 740.14(a) through (d) of the EAR;
+
+(7) AVS for temporary exports of U.S.-registered civil aircraft and vessels and temporary reexports of U.S. and foreign-registered civil aircraft and vessels to Syria on temporary sojourn pursuant to the terms of § 740.15(a) through (d) of the EAR provided that such export, reexport, or transfer (in-country) will not support the Syrian police, military, or intelligence end-users or end uses pursuant to Supp 2 to 742; and
+
+(8) CCD for the export or reexport of consumer communications devices pursuant to the provisions in § 740.19.
+
+(c) Licensing policy—(1) Presumption of approval licensing policy for certain commercial end uses and to support the Syrian people. License applications for exports and reexports of items on the CCL to Syria will be reviewed under a presumption of approval review policy for commercial end uses that support economic and business development in Syria or that support the Syrian people, including through the improvement or maintenance of telecommunications, water supply and sanitation, power generation, aviation, or other civil services that support peace and prosperity in Syria without making a significant contribution to the military potential of Syria or the ability of Syria to support acts of international terrorism.
+
+(2) Case-by-case licensing policy. License applications for exports and reexports of items on the CCL to Syria that are not described in paragraph (c)(1) of this section will be reviewed on a case-by-case basis to determine whether the items will be used in a manner consistent with U.S. national security and foreign policy purposes, including to promote peace and prosperity in Syria.
+
+Note 1 to paragraphs (c)(1) and (2): Items on the CCL will also be reviewed according to the license policies for the items set out in relevant sections of part 742 with the exception of items controlled for Anti-terrorism (AT). For AT items, see § 746.9(c). All end-use and end user controls set out in part 744 of the EAR will continue to apply.
+
+[76 FR 77117, Dec. 12, 2011, as amended at 78 FR 43973, July 23, 2013; 79 FR 32625, June 5, 2014; 82 FR 61157, Dec. 27, 2017; 90 FR 42320, Sept. 2, 2025]

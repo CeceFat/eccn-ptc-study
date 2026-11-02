@@ -1,0 +1,25 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6C992；eCFR 2026-10-29〕
+
+6C992 Optical sensing fibers not controlled by 6A002.d.3 that are modified structurally to have a ‘ beat length’ of less than 500 mm (high birefringence) or optical sensor materials not described in 6C002.b and having a zinc content of equal to or more than 6% by ‘ mole fraction.’
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: (1) ‘Mole fraction’ is defined as the ratio of moles of ZnTe to the sum of the moles of CdTe and ZnTe present in the crystal. (2) ‘Beat length’ is the distance over which two orthogonally polarized signals, initially in phase, must pass in order to achieve a 2 Pi radian(s) phase difference.
+
+Items: The list of items controlled is contained in the ECCN heading.

@@ -1,0 +1,49 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3A901；eCFR 2026-10-29〕
+
+3A901 Electronic items, not specified by ECCN 3A001, as follows (see List of Items Controlled).
+
+Reason for Control: NS, RS, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+
+RS applies to entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: For related “software” see ECCN 3D901 and for “technology” see ECCN 3E901.
+
+Related Definitions: N/A
+
+Items:
+
+a. Complementary Metal Oxide Semiconductor (CMOS) integrated circuits, not specified by 3A001.a.2, designed to operate at an ambient temperature equal to or less (better) than 4.5 K (−268.65 °C).
+
+Technical Note: For the purposes of 3A901.a, CMOS integrated circuits are also referred to as cryogenic CMOS or cryo-CMOS.
+
+b. Parametric signal amplifiers having all of the following:
+
+b.1. Designed for operation at an ambient temperature below 1 K (−272.15 °C);
+
+b.2. Designed for operation at any frequency from 2 GHz up to and including 15 GHz; and
+
+b.3. A noise figure less (better) than 0.015 dB at any frequency from 2 GHz up to and including 15 GHz at 1 K (−272.15 °C).
+
+Note: For the purposes of 3A901.b, parametric signal amplifiers include Travelling Wave Parametric Amplifiers (TWPAs).
+
+Technical Note: For the purposes of 3A901.b, parametric signal amplifiers may also be referred to as Quantum-limited amplifiers (QLAs).

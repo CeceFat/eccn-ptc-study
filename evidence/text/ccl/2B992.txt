@@ -1,0 +1,43 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2B992；eCFR 2026-10-29〕
+
+2B992 Non-“numerically controlled” machine tools for generating optical quality surfaces, (see List of Items Controlled) and “specially designed” “parts” and “components” therefor.
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Turning machines using a single point cutting tool and having all of the following characteristics:
+
+a.1. Slide positioning accuracy less (better) than 0.0005 mm per 300 mm of travel;
+
+a.2. Bidirectional slide positioning repeatability less (better) than 0.00025 mm per 300 mm of travel;
+
+a.3. Spindle “run out” and “camming” less (better) than 0.0004 mm total indicator reading (TIR);
+
+a.4. Angular deviation of the slide movement (yaw, pitch and roll) less (better) than 2 seconds of arc, TIR, over full travel; and
+
+a.5. Slide perpendicularity less (better) than 0.001 mm per 300 mm of travel;
+
+Technical Note: The bidirectional slide positioning repeatability (R) of an axis is the maximum value of the repeatability of positioning at any position along or around the axis determined using the procedure and under the conditions specified in part 2.11 of ISO 230/2: 1988.
+
+b. Fly cutting machines having all of the following characteristics:
+
+b.1. Spindle “run out” and “camming” less (better) than 0.0004 mm TIR; and
+
+b.2. Angular deviation of slide movement (yaw, pitch and roll) less (better) than 2 seconds of arc, TIR, over full travel.

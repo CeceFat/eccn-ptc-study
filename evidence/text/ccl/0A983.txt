@@ -1,0 +1,25 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 0A983；eCFR 2026-10-29〕
+
+0A983 “Specially designed” implements of torture, including thumbscrews, thumbcuffs, fingercuffs, spiked batons, and “specially designed” “parts,” “components” and “accessories,” n.e.s.
+
+License Requirements
+
+Reason for Control: CC
+
+Control(s): CC applies to entire entry. A license is required for ALL destinations, regardless of end-use. Accordingly, a column specific to this control does not appear on the Commerce Country Chart. (See part 742 of the EAR for additional information.)
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.
+
+Note to ECCN 0A983. In this ECCN, “torture” has the meaning set forth in Section 2340(1) of Title 18, United States Code.

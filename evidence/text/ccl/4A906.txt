@@ -1,0 +1,79 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 4A906；eCFR 2026-10-29〕
+
+4A906 Quantum computers and related “electronic assemblies,” and “components” therefor, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+
+RS applies to the entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: See ECCN 4D906 for related “software” controls for the “development” or “production” of this ECCN. See ECCN 4E906 for related “technology” controls for the “development” or “production” of this ECCN.
+
+Related Definitions: N/A
+
+Items:
+
+a. Quantum computers, as follows:
+
+a.1. Quantum computers supporting 34 or more, but fewer than 100, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 10−4;
+
+a.2. Quantum computers supporting 100 or more, but fewer than 200, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 10−3;
+
+a.3. Quantum computers supporting 200 or more, but fewer than 350, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 2 × 10−3;
+
+a.4. Quantum computers supporting 350 or more, but fewer than 500, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 3 × 10−3;
+
+a.5. Quantum computers supporting 500 or more, but fewer than 700, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 4 × 10−3;
+
+a.6. Quantum computers supporting 700 or more, but fewer than 1,100, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 5 × 10−3;
+
+a.7. Quantum computers supporting 1,100 or more, but fewer than 2,000, 'fully controlled', 'connected' and 'working' 'physical qubits', and having a 'C-NOT error' of less than or equal to 6 × 10−3;
+
+a.8. Quantum computers supporting 2,000 or more 'fully controlled', 'connected' and 'working' 'physical qubits';
+
+b. Qubit devices and qubit circuits, containing or supporting arrays of 'physical qubits', and “specially designed” for items specified by 4A906.a;
+
+c. Quantum control components and quantum measurement devices, “specially designed” for items specified by 4A906.a;
+
+Note 1: 4A906 applies to circuit model (or gate-based) and one-way (or measurement-based) quantum computers. This entry does not apply to adiabatic (or annealing) quantum computers.
+
+Note 2: Items specified by 4A906 may not necessarily physically contain any qubits. For example, quantum computers based on photonic schemes do not permanently contain a physical item that can be identified as a qubit. Instead, the photonic qubits are generated while the computer is operating and then later discarded.
+
+Note 3: Items specified by 4A906.b include semiconductor, superconducting, and photonic qubit chips and chip arrays; surface ion trap arrays; other qubit confinement technologies; and coherent interconnects between such items.
+
+Note 4: 4A906.c applies to items designed for calibrating, initializing, manipulating or measuring the resident qubits of a quantum computer.
+
+Technical Notes: For the purposes of 4A906:
+
+1. A 'physical qubit' is a two-level quantum system used to represent the elementary unit of quantum logic by means of manipulations and measurements that are not error corrected. 'Physical qubits' are distinguished from logical qubits, in that logical qubits are error-corrected qubits comprised of many 'physical qubits'.
+
+2. 'Fully controlled' means the 'physical qubit' can be calibrated, initialized, gated, and read out, as necessary.
+
+3. 'Connected' means that two-qubit gate operations can be performed between any arbitrary pair of the available 'working' 'physical qubits'. This does not necessarily entail all-to-all connectivity.
+
+4. 'Working' means that the 'physical qubit' performs universal quantum computational work according to the system specifications for qubit operational fidelity.
+
+5. Supporting 34 or more 'fully controlled', 'connected', 'working' 'physical qubits' refers to the capability of a quantum computer to confine, control, measure and process the quantum information embodied in 34 or more 'physical qubits'.
+
+6. 'C-NOT error' is the average physical gate error for the nearest-neighbor two-'physical qubit' Controlled-NOT (C-NOT) gates.

@@ -1,0 +1,33 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9E993；eCFR 2026-10-29〕
+
+9E993 Other “technology”, not described by 9E003, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Rotor blade tip clearance control systems employing active compensating casing “technology” limited to a design and development data base; or
+
+b. Gas bearing for turbine engine rotor assemblies.
+
+EAR99 Items subject to the EAR that are not elsewhere specified in this CCL Category or in any other category in the CCL are designated by the number EAR99.
+
+[63 FR 2459, Jan. 15, 1998]
+
+Editorial Notes:1. For Federal Register citations affecting supplement no. 1 to part 774, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+
+Editorial Notes:2. At 88 FR 71936, Oct. 18, 2023, § supplement no. 1 to part 774 was amended by revising 9A005; however, the amendment could not be incorporated due to missing text.

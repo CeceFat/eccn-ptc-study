@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>方法與證據 · 出口管制產品分類 自學站</title>
+<meta name="description" content="本站怎麼蒐集、解析與查核官方來源：證據包結構、工具、來源總表（含雜湊值），以及官方指引本身的品質警語。">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-in">
+    <a class="brand" href="index.html">出口管制產品分類<small>EAR ECCN × 台灣軍商兩用清單 · 自學站</small></a>
+    <nav class="main">
+      <a href="about.html">About</a>
+      <a href="start.html">入門</a>
+      <a href="index.html">總覽</a>
+      <a href="method.html">分類方法</a>
+      <a href="cat5p2.html">加密 5P2</a>
+      <a href="cat3.html">半導體 Cat 3</a>
+      <a href="taiwan.html">台灣制度</a>
+      <a href="cases.html">產品演練</a>
+      <a href="tech.html">技術與視同出口</a>
+      <a href="evidence.html">方法與證據</a>
+      <a href="quiz.html">自我檢測</a>
+    </nav>
+    <button class="theme-btn" data-theme-toggle aria-label="切換深淺色">☾</button>
+  </div>
+</header>
+
+<div class="wrap"><main class="page wide">
+
+<p class="kicker" style="margin-top:34px">方法與證據</p>
+<h1>每一句都要點得回原文</h1>
+<p class="lede">
+本站所有結論都建立在官方原文上。原文全部下載、記錄網址與 SHA-256，轉成純文字後放在 <code>evidence/text/</code>；
+網頁上每一段引文都由程式逐字比對過。這一頁說明怎麼做、做到哪裡，以及官方材料本身有哪些要小心的地方。
+</p>
+
+<h2 id="scope">版本與範圍</h2>
+<div class="grid c3">
+  <div class="card stat"><b>2026-10-29</b><span>EAR 版本日（eCFR versioner API，15 CFR 730–774 共 18 個 Part）</span></div>
+  <div class="card stat"><b>115-02-11</b><span>台灣軍商兩用清單公告日（經貿字第11550200140號）</span></div>
+  <div class="card stat"><b>2026-11-02</b><span>其餘來源抓取日（Federal Register、BIS、DOJ、全國法規資料庫、貿易署）</span></div>
+</div>
+<p style="margin-top:14px">沒有收錄的：瓦聖那協議與歐盟清單原文、BIS 的個案分類與諮詢意見（不公開）、付費資料庫、產業標準文件。台灣貿易署的兩份簡報與一份手冊只存本機、不重新散布（站上不引用其文字）。</p>
+
+<h2 id="pipeline">證據包與工具</h2>
+<div class="tbl-wrap"><table>
+  <thead><tr><th>步驟</th><th>工具</th><th>產出</th></tr></thead>
+  <tbody>
+    <tr><td>下載</td><td><code>evidence/tools/fetch_sources.py</code></td><td><code>evidence/sources/</code> 原檔、<code>evidence/registry.json</code>（網址、日期、大小、SHA-256）</td></tr>
+    <tr><td>EAR 切檔</td><td><code>evidence/tools/parse_ecfr.py</code></td><td>每條一檔 <code>text/ear/</code>、每個 ECCN 一檔 <code>text/ccl/</code>、索引 <code>data/ccl_index.json</code></td></tr>
+    <tr><td>其他文件轉文字</td><td><code>evidence/tools/parse_docs.py</code></td><td><code>text/fr</code>、<code>bis</code>、<code>doj</code>、<code>tw</code>（每檔第一行是座標標頭）</td></tr>
+    <tr><td>台灣清單切檔</td><td><code>evidence/tools/parse_tw_list.py</code></td><td>每個管制號碼一檔 <code>text/twl/</code>、索引 <code>data/tw_index.json</code>、對照 <code>data/eccn_tw_map.json</code></td></tr>
+    <tr><td>引文查核</td><td><code>evidence/tools/verify_quotes.py</code></td><td>逐段比對網頁上的 <code>.q</code> 與 <code>.en</code> 引文，任何一段找不到即失敗</td></tr>
+  </tbody>
+</table></div>
+<p>文字處理只做兩件事，都不改變行號：一、刪除 GPO 全文夾帶的 NUL 等控制字元；二、把中文 PDF 抽字產生的 CJK 相容表意字（例如「不」被抽成 U+F967）換回標準字。原檔維持下載時的樣子，雜湊值可以核對。</p>
+
+<h2 id="warnings">官方材料的品質警語</h2>
+<p>讀官方指引時最容易出錯的地方，是把過期的說明頁當成現行條文。以下每一項都附原文；條文以 eCFR 為準。</p>
+
+<div class="flag"><b>1　BIS 除外註記說明頁仍寫 WPAN 的 30／100 公尺條件</b>
+  <div class="q" data-file="bis/encryption-decontrol.txt" data-cite="BIS, Decontrol notes 說明頁（2026-11-02 抓取）">f.2. The cryptographic capability is limited to a nominal operating range not exceeding 30 meters according to the manufacturer’s specifications, or not exceeding 100 meters according to the manufacturer’s specifications for equipment that cannot interconnect with more than seven devices;</div>
+  <div class="q" data-file="fr/2021-05481.txt" data-cite="86 FR 16482（2021-03-29）前言">This rule also expands the scope of paragraph f (wireless ``personal area network'' functionality) of the 5A002.a exclusion Note 2 by removing the limitations on range and number of connections specified in the two subparagraphs of paragraph f.</div>
+</div>
+
+<div class="flag"><b>2　ENC 摘要表（2017 年版）仍把加密晶片列在 (b)(3)</b>
+  <div class="q" data-file="bis/740-17-enc-table.txt" data-cite="BIS, ENC/Mass Market 740.17 Table">(i) Encryption components: chips,</div>
+  <div class="q" data-file="bis/enc-wa2019-changes-table.txt" data-cite="BIS, Summary of changes (2021 rule)">The rule moved “mass market” “components,” ‘executable software’, toolsets, and toolkits from Section 740.17(b)(3)(i) to (b)(1).</div>
+  <p style="margin:6px 0 0">大眾市場晶片在 2021 年後走 (b)(1) 並列入年度自我分類報告；非大眾市場晶片才留在 (b)(3)(i)(A)。</p>
+</div>
+
+<div class="flag"><b>3　Flowchart 1 仍要求公開原始碼寄 email 通知；Flowchart 2 寫成「Part 3」</b>
+  <div class="q" data-file="bis/flowchart1.txt" data-cite="BIS, Flowchart 1">an email notification per || 742.15(b) is required.</div>
+  <div class="q" data-file="bis/enc-wa2019-changes-table.txt" data-cite="BIS, Summary of changes (2021 rule)">eliminated the e-mail notification requirement for ‘publicly available’ encryption source code</div>
+  <p style="margin:6px 0 0">2021 年後只剩實作 non-standard cryptography 的公開原始碼需要通知。Flowchart 2 的方框寫著：</p>
+  <div class="q" data-file="bis/flowchart2.txt" data-cite="BIS, Flowchart 2">Cat. 5, Part 3 –mass</div>
+  <p style="margin:6px 0 0">密碼學註解是 Category 5 <b>Part 2</b> 的 Note 3，沒有 Part 3。</p>
+</div>
+
+<div class="flag"><b>4　加密 FAQ 沿用舊的除外註記字母</b>
+  <div class="q" data-file="bis/encryption-faqs.txt" data-cite="BIS, Encryption FAQs">would not be released by the OAM decontrol notes || (l) or (m), or the Note to 5D002.c.</div>
+  <div class="q" data-file="bis/encryption-faqs.txt" data-cite="BIS, Encryption FAQs, Q.13">Does Decontrol Note (j) cover Single Board Computers (SBC)?</div>
+  <p style="margin:6px 0 0">現行 Note 2 只有 a 到 j：OAM 是 h，通用運算設備是 i，j 是「互聯民用工業應用」。FAQ 的字母要先換算再讀。</p>
+</div>
+
+<div class="flag"><b>5　速查表用的是舊的門檻措辭</b>
+  <div class="q" data-file="bis/cat5p2-quick-reference.txt" data-cite="BIS, Cat. 5 Part 2 Quick Reference Guide（2017 年版）">having 'in excess of 56 bits of symmetric cryptographic strength key || length, or equivalent'</div>
+  <div class="q" data-file="ccl/5A002.txt" data-cite="ECCN 5A002.a（現行）">Designed or modified to use 'cryptography for data confidentiality' having a 'described security algorithm'</div>
+  <p style="margin:6px 0 0">現行條文以「described security algorithm」界定，並把後量子演算法也列入（技術註解 2.c）。</p>
+</div>
+
+<div class="flag"><b>6　BIS 的 2021 規則摘要把引註打錯</b>
+  <div class="q" data-file="bis/enc-wa2019-changes-table.txt" data-cite="BIS, Summary of changes (2021 rule)">As part of a final rule published on March 29, 2021 (86 FR 168482)</div>
+  <p style="margin:6px 0 0">正確是 86 FR 16482（同一份文件標題就寫對了）。</p>
+</div>
+
+<div class="flag"><b>7　3A090 註解 1 的 d 段與規則前言方向相反</b>　見<a href="cat3.html#note1d">半導體 Cat 3</a>，兩邊原文並列。</div>
+
+<h2 id="sources">來源總表</h2>
+<p>由 <code>evidence/registry.json</code> 即時產生。「存檔」連到本站保存的原檔；「文字」是引文比對用的純文字檔。</p>
+<div class="toolbar">
+  <input type="search" id="q" placeholder="篩選：標題、編號、發布者…">
+  <span class="count" id="cnt"></span>
+</div>
+<div class="tbl-wrap"><table id="src">
+  <thead><tr><th>類別</th><th>標題</th><th>發布者</th><th>抓取</th><th>大小</th><th>SHA-256</th><th>連結</th></tr></thead>
+  <tbody><tr><td colspan="7">載入中…</td></tr></tbody>
+</table></div>
+<p style="font-size:13.5px;color:var(--muted)">類別代碼：A 法規與清單本文（EAR、ITAR、台灣法令與清單）、B 主管機關指引、C Federal Register 規則或台灣預告文件、D 執法案例。EAR 的 18 個 Part 已切成條文與 ECCN 檔，請從各頁的「在原文中查看」進入。</p>
+
+<footer class="site">
+  <p>法規版本：美國 EAR 取自 eCFR（版本日 2026-10-29）；台灣軍商兩用清單為 115-02-11 經貿字第11550200140號公告附件。</p>
+  <p>個人自學整理，不是法律意見。美國聯邦政府著作屬公共領域；我國法令與公文依著作權法第 9 條不得為著作權之標的。</p>
+</footer>
+
+</main></div>
+
+<script src="assets/app.js"></script>
+<script>
+(function () {
+  "use strict";
+  var TEXTDIR = { "us-fr": "fr", "us-bis": "bis", "us-doj": "doj", "tw-law": "tw", "tw-trade": "tw" };
+  var rows = [];
+  function kb(n) { return n >= 1048576 ? (n / 1048576).toFixed(1) + " MB" : Math.max(1, Math.round(n / 1024)) + " KB"; }
+  function textPath(dest) {
+    var p = dest.split("/");
+    if (p[0] !== "sources" || !TEXTDIR[p[1]]) return null;
+    return TEXTDIR[p[1]] + "/" + p[p.length - 1].replace(/\.[^.]+$/, "") + ".txt";
+  }
+  function render(filter) {
+    var f = (filter || "").toLowerCase(), n = 0, html = "";
+    rows.forEach(function (r) {
+      var hay = (r.id + " " + r.title + " " + (r.publisher || "") + " " + (r.class || "")).toLowerCase();
+      if (f && hay.indexOf(f) < 0) return;
+      n++;
+      var local = r.dest.indexOf("local-only/") === 0;
+      var links = '<a href="' + esc(r.url) + '" rel="noopener">官方</a>';
+      if (!local) links += ' · <a href="evidence/' + esc(r.dest) + '">存檔</a>';
+      var tp = textPath(r.dest);
+      if (tp) links += ' · <a href="#" data-open="' + esc(tp) + '" data-title="' + esc(r.title) + '">文字</a>';
+      if (local) links += ' · <span class="tag">僅本機</span>';
+      html += "<tr><td><span class=\"tag\">" + esc(r.class || "") + "</span></td><td>" + esc(r.title) +
+        (r.note ? '<br><span style="font-size:12.5px;color:var(--muted)">' + esc(r.note) + "</span>" : "") +
+        "</td><td>" + esc(r.publisher || "") + "</td><td class=\"num\">" + esc(r.retrieved || "") +
+        "</td><td class=\"num\">" + (r.bytes ? kb(r.bytes) : "") + "</td><td><code>" + esc((r.sha256 || "").slice(0, 12)) +
+        "</code></td><td>" + links + "</td></tr>";
+    });
+    document.querySelector("#src tbody").innerHTML = html || '<tr><td colspan="7">沒有符合的來源</td></tr>';
+    document.getElementById("cnt").textContent = n + " / " + rows.length + " 筆";
+  }
+  fetch("evidence/registry.json").then(function (r) { return r.json(); }).then(function (d) {
+    rows = d.sort(function (a, b) { return (a.class + a.id).localeCompare(b.class + b.id); });
+    render("");
+  }).catch(function () {
+    document.querySelector("#src tbody").innerHTML = '<tr><td colspan="7">讀取失敗；請改用 GitHub Pages 網址，或直接開啟 <a href="evidence/registry.json">registry.json</a>。</td></tr>';
+  });
+  document.getElementById("q").addEventListener("input", function () { render(this.value); });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3D005；eCFR 2026-10-29〕
+
+3D005 “Software” “specially designed” to restore normal operation of a microcomputer, “microprocessor microcircuit” or “microcomputer microcircuit” within 1 ms after an Electromagnetic Pulse (EMP) or Electrostatic Discharge (ESD) disruption, without loss of continuation of operation.
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship or transmit “software” to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items:
+
+The list of items controlled is contained in the ECCN heading.

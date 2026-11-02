@@ -1,0 +1,9 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9D018；eCFR 2026-10-29〕
+
+9D018 “Software” for the “use” of equipment controlled by 9A018.
+
+(a) See ECCN 9D610 for “software” related to aircraft, refuelers, ground equipment, parachutes, harnesses, instrument flight trainers and “parts”, “accessories,” and “attachments” for the forgoing that, immediately prior to October 15, 2013, were classified under 9A018.a.1, .a.3, .c, .d, .e, or .f.
+
+(b) See ECCN 9D619 for “software” related to military trainer aircraft turbo prop engines and “parts” and “components” therefor that, immediately prior to October 15, 2013, were classified under ECCN 9A018.a.2 or .a.3.
+
+(c) Software related to certain armored ground transport vehicles that prior to January 6, 2014 were classified under ECCN 9A018.b is EAR99 (See 0D606).

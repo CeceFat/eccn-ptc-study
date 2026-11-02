@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9B006；eCFR 2026-10-29〕
+
+9B006 Acoustic vibration test equipment capable of producing sound pressure levels of 160 Db or more (referenced to 20 uPa) with a rated output of 4 kW or more at a test cell temperature exceeding 1,273 K (1,000 °C), and “specially designed” quartz heaters therefor.
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: $3000
+
+GBS: Yes
+
+List of Items Controlled
+
+Related Controls: See also 9B106. Note that some items in 9B006 may also be controlled under 9B106
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

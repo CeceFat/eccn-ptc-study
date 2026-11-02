@@ -1,0 +1,309 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6A001；eCFR 2026-10-29〕
+
+6A001 Acoustic systems, equipment and “components,” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $3000; N/A for 6A001.a.1.b.1 object detection and location systems having a transmitting frequency below 5 kHz or a sound pressure level exceeding 210 dB (reference 1 µPa at 1 m) for equipment with an operating frequency in the band from 2 kHz to 30 kHz inclusive; 6A001.a.1.e, 6A001.a.2.a.1, a.2.a.2, 6A001.a.2.a.3, a.2.a.5, a.2.a.6, 6A001.a.2.b; processing equipment controlled by 6A001.a.2.c, and “specially designed” for real-time application with towed acoustic hydrophone arrays; a.2.e.1, a.2.e.2; and bottom or bay cable systems controlled by 6A001.a.2.f and having processing equipment “specially designed” for real-time application with bottom or bay cable systems.
+
+GBS: Yes for 6A001.a.1.b.4.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship commodities in 6A001.a.1.b, 6A001.a.1.e or 6A001.a.2 (except .a.2.a.4) to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: See also 6A991.
+
+Related Definitions: N/A
+
+Items:
+
+a. Marine acoustic systems, equipment and “specially designed” “components” therefor, as follows:
+
+a.1. Active (transmitting or transmitting-and-receiving) systems, equipment and “specially designed” “components” therefor, as follows:
+
+Note: 6A001.a.1 does not control equipment as follows:
+
+a. Depth sounders operating vertically below the apparatus, not including a scanning function exceeding ± 20°, and limited to measuring the depth of water, the distance of submerged or buried objects or fish finding;
+
+b. Acoustic beacons, as follows:
+
+1. Acoustic emergency beacons;
+
+2. Pingers “specially designed” for relocating or returning to an underwater position.
+
+a.1.a. Acoustic seabed survey equipment as follows:
+
+a.1.a.1. Surface vessel survey equipment designed for sea bed topographic mapping and having all of the following:
+
+a.1.a.1.a. Designed to take measurements at an angle exceeding 20° from the vertical;
+
+a.1.a.1.b. Designed to measure seabed topography at seabed depths exceeding 600 m;
+
+a.1.a.1.c.'Sounding resolution' less than 2; and
+
+a.1.a.1.d. 'Enhancement' of the depth “accuracy” through compensation for all the following:
+
+a.1.a.1.d.1. Motion of the acoustic sensor;
+
+a.1.a.1.d.2. In-water propagation from sensor to the seabed and back; and
+
+a.1.a.1.d.3. Sound speed at the sensor;
+
+Technical Notes: 1. For the purposes of 6A001.a.1.a.1.c, 'sounding resolution' is the swath width (degrees) divided by the maximum number of soundings per swath.
+
+2. For the purposes of 6A001.a.1.a, 'enhancement' includes the ability to compensate by external means.
+
+a.1.a.2. Underwater survey equipment designed for seabed topographic mapping and having any of the following:
+
+Technical Note: For the purposes of 6A001.a.1.a.2, the acoustic sensor pressure rating determines the depth rating.
+
+a.1.a.2.a. Having all of the following:
+
+a.1.a.2.a.1. Designed or modified to operate at depths exceeding 300 m; and
+
+a.1.a.2.a.2. 'Sounding rate' greater than 3,800 m/s; or
+
+Technical Note: For the purposes of 6A001.a.1.a.2.a.2, 'sounding rate' is the product of the maximum speed (m/s) at which the sensor can operate and the maximum number of soundings per swath assuming 100% coverage. For systems that produce soundings in two directions (3D sonars), the maximum of the 'sounding rate' in either direction should be used.
+
+a.1.a.2.b. Survey equipment, not specified by 6A001.a.1.a.2.a, having all of the following:
+
+a.1.a.2.b.1. Designed or modified to operate at depths exceeding 100 m;
+
+a.1.a.2.b.2. Designed to take measurements at an angle exceeding 20° from the vertical;
+
+a.1.a.2.b.3. Having any of the following:
+
+a.1.a.2.b.3.a. Operating frequency below 350 kHz; or
+
+a.1.a.2.b.3.b. Designed to measure seabed topography at a range exceeding 200 m from the acoustic sensor; and
+
+a.1.a.2.b.4. 'Enhancement' of the depth “accuracy” through compensation of all of the following:
+
+a.1.a.2.b.4.a. Motion of the acoustic sensor;
+
+a.1.a.2.b.4.b. In-water propagation from sensor to the seabed and back; and
+
+a.1.a.2.b.4.c. Sound speed at the sensor.
+
+a.1.a.3. Side Scan Sonar (SSS) or Synthetic Aperture Sonar (SAS), designed for seabed imaging and having all of the following, and “specially designed” transmitting and receiving acoustic arrays therefor:
+
+a.1.a.3.a. Designed or modified to operate at depths exceeding 500 m; and
+
+a.1.a.3.b. An 'area coverage rate' of greater than 570 m 2/s while operating at the maximum range that it can operate with an 'along track resolution' of less than 15 cm; and
+
+a.1.a.3.c. An 'across track resolution' of less than 15 cm;
+
+Technical Notes: For the purposes of 6A001.a.1.a.3:
+
+1. 'Area coverage rate' (m2/s) is twice the product of the sonar range (m) and the maximum speed (m/s) at which the sensor can operate at that range.
+
+2. 'Along track resolution' (cm), for SSS only, is the product of azimuth (horizontal) beamwidth (degrees) and sonar range (m) and 0.873.
+
+3. 'Across track resolution' (cm) is 75 divided by the signal bandwidth (kHz).
+
+a.1.b Systems or transmitting and receiving arrays, designed for object detection or location, having any of the following:
+
+a.1.b.1. A transmitting frequency below 10 kHz;
+
+a.1.b.2. Sound pressure level exceeding 224dB (reference 1 µPa at 1 m) for equipment with an operating frequency in the band from 10 kHz to 24 kHz inclusive;
+
+a.1.b.3. Sound pressure level exceeding 235 dB (reference 1 µPa at 1 m) for equipment with an operating frequency in the band between 24 kHz and 30 kHz;
+
+a.1.b.4. Forming beams of less than 1° on any axis and having an operating frequency of less than 100 kHz;
+
+a.1.b.5. Designed to operate with an unambiguous display range exceeding 5,120 m; or
+
+a.1.b.6. Designed to withstand pressure during normal operation at depths exceeding 1,000 m and having transducers with any of the following:
+
+a.1.b.6.a. Dynamic compensation for pressure; or
+
+a.1.b.6.b. Incorporating other than lead zirconate titanate as the transduction element;
+
+a.1.c. Acoustic projectors, including transducers, incorporating piezoelectric, magnetostrictive, electrostrictive, electrodynamic or hydraulic elements operating individually or in a designed combination and having any of the following:
+
+Notes: 1. The control status of acoustic projectors, including transducers, “specially designed” for other equipment is determined by the control status of the other equipment.
+
+2. 6A001.a.1.c does not control electronic sources that direct the sound vertically only, or mechanical (e.g., air gun or vapor-shock gun) or chemical (e.g., explosive) sources.
+
+3. Piezoelectric elements specified in 6A001.a.1.c include those made from lead-magnesium-niobate/lead-titanate (Pb(Mg1/3Nb2/3)O3-PbTiO3, or PMN-PT) single crystals grown from solid solution or lead-indium-niobate/lead-magnesium niobate/lead-titanate (Pb(In1/2Nb1/2)O3-Pb(Mg1/3Nb2/3)O3-PbTiO3, or PIN-PMN-PT) single crystals grown from solid solution.
+
+a.1.c.1. Operating at frequencies below 10 kHz and having any of the following:
+
+a.1.c.1.a. Not designed for continuous operation at 100% duty cycle and having a radiated 'free-field Source Level (SLRMS)' exceeding (10log(f) + 169.77)dB (reference 1 µPa at 1 m) where f is the frequency in Hertz of maximum Transmitting Voltage Response (TVR) below 10 kHz; or
+
+a.1.c.1.b. Designed for continuous operation at 100% duty cycle and having a continuously radiated 'free-field Source Level (SLRMS)' at 100% duty cycle exceeding (10log(f) + 159.77)dB (reference 1 µPa at 1 m) where f is the frequency in Hertz of maximum Transmitting Voltage Response (TVR) below 10 kHz; or
+
+Technical Note: For the purposes of 6A001.a.1.c.1, the 'free-field Source Level (SLRMS)' is defined along the maximum response axis and in the far field of the acoustic projector. It can be obtained from the Transmitting Voltage Response using the following equation: SLRMS = (TVR + 20log VRMS) dB (ref 1µPa at 1 m), where SLRMS is the source level, TVR is the Transmitting Voltage Response and VRMS is the Driving Voltage of the Projector.
+
+a.1.c.2. [Reserved]
+
+N.B. See 6A001.a.1.c.1 for items previously specified in 6A001.a.1.c.2.
+
+a.1.c.3. Side-lobe suppression exceeding 22 dB;
+
+a.1.d. Acoustic systems and equipment, designed to determine the position of surface vessels or underwater vehicles and having all of the following, and “specially designed” “components” therefor:
+
+a.1.d.1. Detection range exceeding 1,000 m; and
+
+a.1.d.2. Determined position error of less than 10 m rms (root mean square) when measured at a range of 1,000 m;
+
+Note: 6A001.a.1.d includes:
+
+a. Equipment using coherent “signal processing” between two or more beacons and the hydrophone unit carried by the surface vessel or underwater vehicle;
+
+b. Equipment capable of automatically correcting speed-of-sound propagation errors for calculation of a point.
+
+a.1.e. Active individual sonars, “specially designed” or modified to detect, locate and automatically classify swimmers or divers, having all of the following, and “specially designed” transmitting and receiving acoustic arrays therefor:
+
+a.1.e.1. Detection range exceeding 530 m;
+
+a.1.e.2. Determined position error of less than 15 m rms (root mean square) when measured at a range of 530 m; and
+
+a.1.e.3. Transmitted pulse signal bandwidth exceeding 3 kHz;
+
+N.B.: For diver detection systems “specially designed” or modified for military use, see the U.S. Munitions List in the International Traffic in Arms Regulations (ITAR) (22 CFR part 121).
+
+Note: For 6A001.a.1.e, where multiple detection ranges are specified for various environments, the greatest detection range is used.
+
+a.2. Passive systems, equipment and “specially designed” “components” therefor, as follows:
+
+Note: 6A001.a.2 also applies to receiving equipment, whether or not related in normal application to separate active equipment, and “specially designed” components therefor.
+
+a.2.a. Hydrophones having any of the following:
+
+Note: The control status of hydrophones “specially designed” for other equipment is determined by the control status of the other equipment.
+
+Technical Notes: For the purposes of 6A001.a.2.a:
+
+1. Hydrophones consist of one or more sensing elements producing a single acoustic output channel. Those that contain multiple elements can be referred to as a hydrophone group.
+
+2. Underwater acoustic transducers designed to operate as passive receivers are hydrophones.
+
+a.2.a.1. Incorporating continuous flexible sensing elements;
+
+a.2.a.2. Incorporating flexible assemblies of discrete sensing elements with either a diameter or length less than 20 mm and with a separation between elements of less than 20 mm;
+
+a.2.a.3. Having any of the following sensing elements:
+
+a.2.a.3.a. Optical fibers;
+
+a.2.a.3.b. 'Piezoelectric polymer films' other than polyvinylidene-fluoride (PVDF) and its co-polymers {P(VDF-TrFE) and P(VDF-TFE)};
+
+a.2.a.3.c. 'Flexible piezoelectric composites';
+
+a.2.a.3.d. Lead-magnesium- niobate/lead-titanate (i.e., Pb(Mg1/3Nb2/3)O3-PbTiO3, or PMN-PT) piezoelectric single crystals grown from solid solution; or
+
+a.2.a.3.e. Lead-indium-niobate/lead-magnesium niobate/lead-titanate (i.e., Pb(In1/2Nb1/2)O3-Pb(Mg1/3Nb2/3)O3-PbTiO3, or PIN-PMN-PT) piezoelectric single crystals grown from solid solution;
+
+a.2.a.4. A 'hydrophone sensitivity' better than −180dB at any depth with no acceleration compensation;
+
+a.2.a.5. Designed to operate at depths exceeding 35 m with acceleration compensation; or
+
+a.2.a.6. Designed for operation at depths exceeding 1,000 m and having a 'hydrophone sensitivity' better than −230 dB below 4 kHz;
+
+Technical Notes: 1. For the purposes of 6A001.a.2.a.3.b, 'piezoelectric polymer film' sensing elements consist of polarized polymer film that is stretched over and attached to a supporting frame or spool (mandrel).
+
+2. For the purposes of 6A001.a.2.a.3.c, 'flexible piezoelectric composite' sensing elements consist of piezoelectric ceramic particles or fibers combined with an electrically insulating, acoustically transparent rubber, polymer or epoxy compound, where the compound is an integral part of the sensing elements.
+
+3. For the purposes of 6A001.a.2.a, 'hydrophone sensitivity' is defined as twenty times the logarithm to the base 10 of the ratio of rms output voltage to a 1 V rms reference, when the hydrophone sensor, without a pre-amplifier, is placed in a plane wave acoustic field with an rms pressure of 1 µPa. For example, a hydrophone of −160 dB (reference 1 V per µPa) would yield an output voltage of 10−8 V in such a field, while one of −180 dB sensitivity would yield only 10−9 V output. Thus, −160 dB is better than −180 dB.
+
+a.2.b. Towed acoustic hydrophone arrays having any of the following:
+
+Technical Note: For the purposes of 6A001.a.2.b, hydrophones arrays consist of a number of hydrophones providing multiple acoustic output channels.
+
+a.2.b.1. Hydrophone group spacing of less than 12.5 m or 'able to be modified' to have hydrophone group spacing of less than 12.5 m;
+
+a.2.b.2. Designed or 'able to be modified' to operate at depths exceeding 35m;
+
+Technical Note: For the purposes of 6A001.a.2.b.2, 'able to be modified' in 6A001.a.2.b means having provisions to allow a change of the wiring or interconnections to alter hydrophone group spacing or operating depth limits. These provisions are: spare wiring exceeding 10% of the number of wires, hydrophone group spacing adjustment blocks or internal depth limiting devices that are adjustable or that control more than one hydrophone group.
+
+a.2.b.3. Heading sensors controlled by 6A001.a.2.d;
+
+a.2.b.4. Longitudinally reinforced array hoses;
+
+a.2.b.5. An assembled array of less than 40 mm in diameter;
+
+a.2.b.6. [Reserved];
+
+a.2.b.7. Hydrophone characteristics controlled by 6A001.a.2.a; or
+
+a.2.b.8. Accelerometer-based hydro-acoustic sensors specified by 6A001.a.2.g;
+
+a.2.c. Processing equipment, “specially designed” for towed acoustic hydrophone arrays, having “user-accessible programmability” and time or frequency domain processing and correlation, including spectral analysis, digital filtering and beamforming using Fast Fourier or other transforms or processes;
+
+a.2.d. Heading sensors having all of the following:
+
+a.2.d.1. An “accuracy” of better than ± 0.5°; and
+
+a.2.d.2. Designed to operate at depths exceeding 35 m or having an adjustable or removable depth sensing device in order to operate at depths exceeding 35 m;
+
+N.B.: For inertial heading systems, see 7A003.c.
+
+a.2.e. Bottom or bay-cable hydrophone arrays having any of the following:
+
+a.2.e.1. Incorporating hydrophones controlled by 6A001.a.2.a;
+
+a.2.e.2. Incorporating multiplexed hydrophone group signal modules having all of the following characteristics:
+
+a.2.e.2.a. Designed to operate at depths exceeding 35 m or having an adjustable or removal depth sensing device in order to operate at depths exceeding 35 m; and
+
+a.2.e.2.b. Capable of being operationally interchanged with towed acoustic hydrophone array modules; or
+
+a.2.e.3. Incorporating accelerometer-based hydro-acoustic sensors specified by 6A001.a.2.g;
+
+a.2.f. Processing equipment, “specially designed” for bottom or bay cable systems, having “user-accessible programmability” and time or frequency domain processing and correlation, including spectral analysis, digital filtering and beamforming using Fast Fourier or other transforms or processes;
+
+a.2.g. Accelerometer-based hydro-acoustic sensors having all of the following:
+
+a.2.g.1. Composed of three accelerometers arranged along three distinct axes;
+
+a.2.g.2. Having an overall 'acceleration sensitivity' better than 48 dB (reference 1,000 mV rms per 1g);
+
+a.2.g.3. Designed to operate at depths greater than 35 meters; and
+
+a.2.g.4. Operating frequency below 20 kHz;
+
+Note: 6A001.a.2.g does not apply to particle velocity sensors or geophones.
+
+Technical Notes: 1. For the purposes of 6A001.a.2.g, accelerometer-based hydro-acoustic sensors are also known as vector sensors.
+
+2. For the purposes of 6A001.a.2.g.2, 'acceleration sensitivity' is defined as twenty times the logarithm to the base 10 of the ratio of rms output voltage to a 1 V rms reference, when the hydro-acoustic sensor, without a preamplifier, is placed in a plane wave acoustic field with an rms acceleration of 1 g (i.e., 9.81 m/s2).
+
+b. Correlation-velocity and Doppler-velocity sonar log equipment designed to measure the horizontal speed of the equipment carrier relative to the sea bed, as follows:
+
+b.1. Correlation-velocity sonar log equipment having any of the following characteristics:
+
+b.1.a. Designed to operate at distances between the carrier and the sea bed exceeding 500 m; or
+
+b.1.b. Having speed “accuracy” better than 1% of speed;
+
+b.2. Doppler-velocity sonar log equipment having speed “accuracy” better than 1% of speed;
+
+Note 1: 6A001.b does not apply to depth sounders limited to any of the following: a. Measuring the depth of water;
+
+b. Measuring the distance of submerged or buried objects; or
+
+c. Fish finding.
+
+Note 2: 6A001.b does not apply to equipment “specially designed” for installation on surface vessels.
+
+c. [Reserved]
+
+N.B.: For diver deterrent acoustic systems, see 8A002.r.

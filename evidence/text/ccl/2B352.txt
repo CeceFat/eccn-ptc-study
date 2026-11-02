@@ -1,0 +1,159 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2B352；eCFR 2026-10-29〕
+
+2B352 Equipment Capable of Use in Handling Biological Materials, as Follows (See List of Items Controlled).
+
+License Requirements
+
+Reason for Control: CB, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+CB applies to entire entry | CB Column 2.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See ECCNs 1A004 and 1A995 for protective equipment that is not covered by this entry. Also see ECCN 9A120 for controls on certain “UAV” systems designed or modified to dispense an aerosol and capable of carrying elements of a payload in the form of a particulate or liquid, other than fuel “parts” or “components” of such vehicles, of a volume greater than 20 liters.
+
+Related Definitions: (1) “Lighter than air vehicles”—balloons and airships that rely on hot air or on lighter-than-air gases, such as helium or hydrogen, for their lift. (2) “UAVs”—Unmanned Aerial Vehicles. (3) “VMD”—Volume Median Diameter.
+
+Items:
+
+a. Containment facilities and related equipment, as follows:
+
+a.1. Complete containment facilities at P3 or P4 containment level.
+
+Technical Note to 2B352.a.1: P3 or P4 (BL3, BL4, L3, L4) containment levels are as specified in the WHO Laboratory Biosafety Manual (3rd edition, Geneva, 2004).
+
+a.2. Equipment designed for fixed installation in containment facilities specified in paragraph a.1 of this ECCN, as follows:
+
+a.2.a. Double-door pass-through decontamination autoclaves;
+
+a.2.b. Breathing air suit decontamination showers;
+
+a.2.c. Mechanical-seal or inflatable-seal walkthrough doors.
+
+b. Fermenters and components as follows:
+
+b.1. Fermenters capable of cultivation of micro-organisms or of live cells for the production of viruses or toxins, without the propagation of aerosols, having a total internal volume of 20 liters or greater.
+
+b.2. Components designed for such fermenters, as follows:
+
+b.2.a. Cultivation chambers designed to be sterilized or disinfected in situ;
+
+b.2.b. Cultivation chamber holding devices; or
+
+b.2.c. Process control units capable of simultaneously monitoring and controlling two or more fermentation system parameters (e.g., temperature, pH, nutrients, agitation, dissolved oxygen, air flow, foam control).
+
+Technical Notes to 2B352.b: 1. Fermenters include bioreactors (including single-use (disposable) bioreactors), chemostats and continuous-flow systems.
+
+2. Cultivation chamber holding devices controlled by 2B352.b.2.b include single-use cultivation chambers with rigid walls.
+
+c. Centrifugal separators capable of continuous separation, without the propagation of aerosols, having a flow rate greater than 100 liters per hour, as follows:
+
+c.1. Centrifugal separators having all of the following characteristics:
+
+c.1.a. One or more sealing joints within the steam containment area;
+
+c.1.b. Components of polished stainless steel or titanium; and
+
+c.1.c. Capable of in-situ steam sterilization in a closed state.
+
+c.2. Single-use centrifugal separators, in which all components that come in direct contact with the substances being processed are disposable or single-use.
+
+Technical Note to 2B352.c: Centrifugal separators and single-use centrifugal separators include decanters.
+
+d. Cross (tangential) flow filtration equipment and “accessories”, as follows:
+
+d.1. Cross (tangential) flow filtration equipment capable of separation of microorganisms, viruses, toxins or cell cultures having all of the following characteristics:
+
+d.1.a. A total filtration area equal to or greater than 1 square meter (1 m 2); and
+
+d.1.b. Having any of the following characteristics:
+
+d.1.b.1. Capable of being sterilized or disinfected in-situ; or
+
+d.1.b.2. Using disposable or single-use filtration “parts” or “components”.
+
+N.B.: 2B352.d.1 does not control reverse osmosis and hemodialysis equipment, as specified by the manufacturer.
+
+d.2. Cross (tangential) flow filtration “parts” or “components” (e.g., modules, elements, cassettes, cartridges, units or plates) with filtration area equal to or greater than 0.2 square meters (0.2 m 2) for each “part” or “component” and designed for use in cross (tangential) flow filtration equipment controlled by 2B352.d.1.
+
+Technical Note: In this ECCN, “sterilized” denotes the elimination of all viable microbes from the equipment through the use of either physical (e.g., steam) or chemical agents. “Disinfected” denotes a process to reduce the number of microorganisms, but not usually of bacterial spores, through the use of chemical agents, without necessarily killing or removing all organisms.
+
+e. Steam, gas or vapor sterilizable freeze-drying equipment with a condenser capacity of 10 kg of ice or greater in 24 hours (10 liters of water or greater in 24 hours) and less than 1000 kg of ice in 24 hours (less than 1,000 liters of water in 24 hours).
+
+f. Spray-drying equipment capable of drying toxins or pathogenic microorganisms having all of the following characteristics:
+
+f.1. A water evaporation capacity of ≥0.4 kg/h and ≤400 kg/h;
+
+f.2. The ability to generate a typical mean product particle size of ≤10 micrometers with existing fittings or by minimal modification of the spray-dryer with atomization nozzles enabling generation of the required particle size; and
+
+f.3. Capable of being sterilized or disinfected in situ.
+
+g. Protective and containment equipment, as follows:
+
+g.1. Protective full or half suits, or hoods dependent upon a tethered external air supply and operating under positive pressure.
+
+Technical Note to 2B352.g.1: 2B352.g.1 does not control suits designed to be worn with self-contained breathing apparatus.
+
+g.2. Biocontainment chambers, isolators, or biological safety cabinets having all of the following characteristics, for normal operation:
+
+g.2.a. Fully enclosed workspace where the operator is separated from the work by a physical barrier;
+
+g.2.b. Able to operate at negative pressure;
+
+g.2.c. Means to safely manipulate items in the workspace; and
+
+g.2.d. Supply and exhaust air to and from the workspace is high-efficiency particulate air (HEPA) filtered.
+
+Note 1 to 2B352.g.2: 2B352.g.2 controls class III biosafety cabinets, as specified in the WHO Laboratory Biosafety Manual (3rd edition, Geneva, 2004) or constructed in accordance with national standards, regulations or guidance.
+
+Note 2 to 2B352.g.2: 2B352.g.2 controls any isolator having all of the characteristics described in 2B352.g.2.a through g.2.d, regardless of its intended use and its designation, except for medical isolators “specially designed” for barrier nursing or transportation of infected patients.
+
+h. Aerosol inhalation equipment designed for aerosol challenge testing with microorganisms, viruses or toxins, as follows:
+
+h.1. Whole-body exposure chambers having a capacity of 1 cubic meter or greater;
+
+h.2. Nose-only exposure apparatus utilizing directed aerosol flow and having a capacity for the exposure of 12 or more rodents, or two or more animals other than rodents, and closed animal restraint tubes designed for use with such apparatus.
+
+i. Spraying or fogging systems and “parts” and “components” therefor, as follows:
+
+i.1. Complete spraying or fogging systems, “specially designed” or modified for fitting to aircraft, “lighter than air vehicles,” or “UAVs,” capable of delivering, from a liquid suspension, an initial droplet “VMD” of less than 50 microns at a flow rate of greater than 2 liters per minute;
+
+i.2. Spray booms or arrays of aerosol generating units, “specially designed” or modified for fitting to aircraft, “lighter than air vehicles,” or “UAVs,” capable of delivering, from a liquid suspension, an initial droplet “VMD” of less than 50 microns at a flow rate of greater than 2 liters per minute;
+
+i.3. Aerosol generating units “specially designed” for fitting to the systems as specified in paragraphs i.1 and i.2 of this ECCN.
+
+Technical Notes to 2B352.i: 1. Aerosol generating units are devices “specially designed” or modified for fitting to aircraft and include nozzles, rotary drum atomizers and similar devices.
+
+2. This ECCN does not control spraying or fogging systems, “parts” and “components,” as specified in 2B352.i, that are demonstrated not to be capable of delivering biological agents in the form of infectious aerosols.
+
+3. Droplet size for spray equipment or nozzles “specially designed” for use on aircraft or “UAVs” should be measured using either of the following methods (pending the adoption of internationally accepted standards):
+
+a. Doppler laser method,
+
+b. Forward laser diffraction method.
+
+j. Nucleic acid assemblers and synthesizers that are both:
+
+j.1 Partly or entirely automated; and
+
+j.2. Designed to generate continuous nucleic acids greater than 1.5 kilobases in length with error rates less than 5% in a single run.
+
+k. Peptide synthesizers that are both:
+
+k.1 Partly or entirely automated; and
+
+k.2 Capable of generating peptides at a 'system synthesis scale' of 1 mmol or greater.
+
+Technical Note to 2B352.k: 'System synthesis scale' denotes the maximum amount of peptide (mmol) that can be produced by the instrument using the largest compatible reaction vessels (L). For multiple peptides produced in parallel, this is the sum of the largest compatible reaction vessels (L).
+
+N.B. to paragraph .k: See ECCN 2B350 for other chemical reaction vessels or reactors.

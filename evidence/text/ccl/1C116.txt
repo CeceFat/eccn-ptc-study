@@ -1,0 +1,47 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C116；eCFR 2026-10-29〕
+
+1C116 Maraging steels having both of the following (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: MT, NP, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+NP applies to items that meet or exceed the parameters of 1C216 | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 1E001 (“development” and “production”) and 1E101 (“use”) for technology for items controlled by this entry. (2) Also see ECCN 1C216. (3) Maraging steel, in physical forms and finished products and “specially designed” or prepared for use in separating uranium isotopes, is subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110).
+
+Related Definitions: N/A
+
+Items: a. Having an ultimate tensile strength, measured at 20 °C, equal to or greater than:
+
+a.1. 0.9 GPa in the solution annealed stage; or
+
+a.2. 1.5 GPa in the precipitation hardened stage; and
+
+b. Any of the following forms:
+
+b.1 Sheet, plate or tubing with a wall or plate thickness equal to or less than 5.0 mm;
+
+or
+
+b.2 Tubular forms with a wall thickness equal to or less than 50 mm and having an inner diameter equal to or greater than 270 mm.
+
+Technical Note: Maraging steels are iron alloys that are generally:
+
+a. Characterized by high nickel, very low carbon content and use substitutional elements or precipitates to produce strengthening and age-hardening of the alloy; and
+
+b. Subjected to heat treatment cycles to facilitate the martensitic transformation process (solution annealed stage) and subsequently age hardened (precipitation hardened stage).

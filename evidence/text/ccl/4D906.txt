@@ -1,0 +1,35 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 4D906；eCFR 2026-10-29〕
+
+4D906 “Software” “specially designed” or modified for the “development” or “production” of commodities controlled by 4A906.b or 4A906.c.
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+
+RS applies to the entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+Special Reporting: Deemed exports and deemed reexports of “software” specified in this ECCN are subject to reporting requirements in accordance with § 743.8 of the EAR.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: See ECCN 4E906 for related “technology” controls for the “development” or “production” of this ECCN.
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

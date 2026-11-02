@@ -1,0 +1,129 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 0A606；eCFR 2026-10-29〕
+
+0A606 Ground vehicles and related commodities, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, UN
+
+Control(s) | Country Chart(See Supp. No. 1 to part 738)
+
+NS applies to entire entry, except 0A606.b and .y | NS Column 1
+
+NS applies to 0A606.b | NS Column 2
+
+RS applies to entire entry, except 0A606.b and .y | RS Column 1
+
+RS applies to 0A606.b | RS Column 2
+
+RS applies to 0A606.y | China, Russia, or Venezuela (see § 742.6(a)(7))
+
+AT applies to entire entry | AT Column 1
+
+UN applies to entire entry, except 0A606.y | See § 746.1(b) for UN controls
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $1500
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: (1) Paragraph (c)(1) of License Exception STA (§ 740.20(c)(1) of the EAR) may not be used for any item in 0A606.a, unless determined by BIS to be eligible for License Exception STA in accordance with § 740.20(g) (License Exception STA eligibility requests for 9x515 and “600 series” items). (2) Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in 0A606.
+
+List of Items Controlled
+
+Related Controls: (1) The ground vehicles, other articles, technical data (including software) and services described in 22 CFR part 121, Category VII are subject to the jurisdiction of the International Traffic in Arms Regulations. (2) See ECCN 0A919 for foreign-made “military commodities” that incorporate more than a de minimis amount of U.S.-origin “600 series” controlled content.
+
+Related Definitions: N/A
+
+Items:
+
+a. Ground vehicles, whether manned or unmanned, “specially designed” for a military use and not enumerated or otherwise described in USML Category VII.
+
+Note 1 to paragraph a: For purposes of paragraph a, “ground vehicles” include (i) tanks and armored vehicles manufactured prior to 1956 that have not been modified since 1955 and that do not contain a functional weapon or a weapon capable of becoming functional through repair; (ii) military railway trains except those that are armed or are “specially designed” to launch missiles; (iii) unarmored military recovery and other support vehicles; (iv) unarmored, unarmed vehicles with mounts or hard points for firearms of .50 caliber or less; and (v) trailers “specially designed” for use with other ground vehicles enumerated in USML Category VII or ECCN 0A606.a, and not separately enumerated or otherwise described in USML Category VII. For purposes of this note, the term “modified” does not include incorporation of safety features required by law, cosmetic changes (e.g., different paint or repositioning of bolt holes) or addition of “parts” or “components” available prior to 1956.
+
+Note 2 to paragraph a: A ground vehicle's being “specially designed” for military use for purposes of determining controls under paragraph .a. entails a structural, electrical or mechanical feature involving one or more “components” that are “specially designed” for military use. Such “components” include:
+
+a. Pneumatic tire casings of a kind “specially designed” to be bullet-proof;
+
+b. Armored protection of vital “parts” (e.g., fuel tanks or vehicle cabs);
+
+c. Special reinforcements or mountings for weapons;
+
+d. Black-out lighting.
+
+b. Other ground vehicles, “parts” and “components,” as follows:
+
+b.1. Unarmed vehicles that are derived from civilian vehicles and that have all of the following:
+
+b.1.a. Manufactured or fitted with materials or “components” other than reactive or electromagnetic armor to provide ballistic protection equal to or better than level III (National Institute of Justice standard 0108.01, September 1985) or “equivalent standards”;
+
+b.1.b. A transmission to provide drive to both front and rear wheels simultaneously, including those for vehicles having additional wheels for load bearing purposes whether driven or not;
+
+b.1.c. Gross vehicle weight rating (GVWR) greater than 4,500 kg; and
+
+b.1.d. Designed or modified for off-road use.
+
+b.2. “Parts” and “components” having all of the following:
+
+b.2.a. “Specially designed” for vehicles specified in paragraph .b.1 of this entry; and
+
+b.2.b. Providing ballistic protection equal to or better than level III (National Institute of Justice standard 0108.01, September 1985) or “equivalent standards”.
+
+Note 1 to paragraph b: Ground vehicles otherwise controlled by 0A606.b.1 that contain reactive or electromagnetic armor are subject to the controls of USML Category VII.
+
+Note 2 to paragraph b: ECCN 0A606.b.1 does not control civilian vehicles “specially designed” for transporting money or valuables.
+
+Note 3 to paragraph b: “Unarmed” means not having installed weapons, installed mountings for weapons, or special reinforcements for mounts for weapons.
+
+c. Air-cooled diesel engines and engine blocks for armored vehicles that weigh more than 40 tons.
+
+d. Fully automatic continuously variable transmissions for tracked combat vehicles.
+
+e. Deep water fording kits “specially designed” for ground vehicles controlled by ECCN 0A606.a or USML Category VII.
+
+f. Self-launching bridge “components” not enumerated in USML Category VII(g) “specially designed” for deployment by ground vehicles enumerated in USML Category VII or this ECCN.
+
+g. through w. [Reserved]
+
+x. “Parts,” “components,” “accessories,” and “attachments” that are “specially designed” for a commodity enumerated or otherwise described in ECCN 0A606 (other than 0A606.b or 0A606.y) or a defense article enumerated in USML Category VII and not elsewhere specified on the USML or in 0A606.y.
+
+Note 1: Forgings, castings, and other unfinished products, such as extrusions and machined bodies, that have reached a stage in manufacture where they are clearly identifiable by mechanical properties, material composition, geometry, or function as commodities controlled by ECCN 0A606.x are controlled by ECCN 0A606.x.
+
+Note 2: “Parts,” “components,” “accessories” and “attachments” enumerated in USML paragraph VII(g) are subject to the controls of that paragraph. “Parts,” “components,” “accessories” and “attachments” described in ECCN 0A606.y are subject to the controls of that paragraph.
+
+y. Specific “parts,” “components,” “accessories,” and “attachments” “specially designed” for a commodity enumerated or otherwise described in this ECCN (other than ECCN 0A606.b) or for a defense article in USML Category VII and not elsewhere specified on the USML or the CCL, as follows, and “parts,” “components,” “accessories,” and “attachments” “specially designed” therefor:
+
+y.1. Brake discs, rotors, drums, calipers, cylinders, pads, shoes, lines, hoses, vacuum boosters, and parts therefor;
+
+y.2. Alternators and generators;
+
+y.3. Axles;
+
+y.4. Batteries;
+
+y.5. Bearings (e.g., ball, roller, wheel);
+
+y.6. Cables, cable assembles, and connectors;
+
+y.7. Cooling system hoses;
+
+y.8. Hydraulic, fuel, oil, and air filters, not controlled by ECCN 1A004;
+
+y.9. Gaskets and o-rings;
+
+y.10. Hydraulic system hoses, fittings, couplings, adapters, and valves;
+
+y.11. Latches and hinges;
+
+y.12. Lighting systems, fuses, and “components;”
+
+y.13. Pneumatic hoses, fittings, adapters, couplings, and valves;
+
+y.14. Seats, seat assemblies, seat supports, and harnesses;
+
+y.15 Tires, except run flat; and
+
+y.16 Windows, except those for armored vehicles.

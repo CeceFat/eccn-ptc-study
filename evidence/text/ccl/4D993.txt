@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 4D993；eCFR 2026-10-29〕
+
+4D993 “Program” proof and validation “software,” “software” allowing the automatic generation of “source codes,” and operating system “software” that are “specially designed” for “real-time processing” equipment (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country chart(see Supp. No. 1to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: “Global interrupt latency time” is the time taken by the computer system to recognize an interrupt due to the event, service the interrupt and perform a context switch to an alternate memory-resident task waiting on the interrupt.
+
+Items: a. “Program” proof and validation “software” using mathematical and analytical techniques and designed or modified for “programs” having more than 500,000 “source code” instructions;
+
+b. “Software” allowing the automatic generation of “source codes” from data acquired online from external sensors described in the Commerce Control List; or
+
+c. Operating system “software” “specially designed” for “real-time processing” equipment that guarantees a “global interrupt latency time” of less than 20 microseconds.

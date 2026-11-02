@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>技術與視同出口 · 出口管制產品分類 自學站</title>
+<meta name="description" content="E 類技術怎麼被管：技術的定義、視同出口與視同再出口、不受 EAR 管的公開資訊、de minimis 與外國直接產品規則，以及一件 EDA 工具執法案的正確讀法。">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-in">
+    <a class="brand" href="index.html">出口管制產品分類<small>EAR ECCN × 台灣軍商兩用清單 · 自學站</small></a>
+    <nav class="main">
+      <a href="about.html">About</a>
+      <a href="start.html">入門</a>
+      <a href="index.html">總覽</a>
+      <a href="method.html">分類方法</a>
+      <a href="cat5p2.html">加密 5P2</a>
+      <a href="cat3.html">半導體 Cat 3</a>
+      <a href="taiwan.html">台灣制度</a>
+      <a href="cases.html">產品演練</a>
+      <a href="tech.html">技術與視同出口</a>
+      <a href="evidence.html">方法與證據</a>
+      <a href="quiz.html">自我檢測</a>
+    </nav>
+    <button class="theme-btn" data-theme-toggle aria-label="切換深淺色">☾</button>
+  </div>
+</header>
+
+<div class="wrap"><main class="page">
+
+<p class="kicker" style="margin-top:34px">技術與視同出口</p>
+<h1>技術不用裝箱也算出口</h1>
+<p class="lede">
+晶片出貨有報單，技術外流沒有。EAR 把「讓外國人看到或聽到受管技術」本身定義成出口或再出口，
+所以 IC 設計公司的管制重點常常不在倉庫，而在設計資料庫的權限、跨國研發的協作與員工的國籍。
+</p>
+
+<div class="goal">
+  <p class="kicker">讀完這頁你會</p>
+  <ul>
+    <li>用 EAR 的定義說清楚「技術」「開發」「生產」「使用」「必要」。</li>
+    <li>分辨視同出口（在美國境內）與視同再出口（在第三國境內），以及 §734.20 的例外條件。</li>
+    <li>知道哪些資訊根本不受 EAR 管：已公開、專利公開、標準制定活動。</li>
+    <li>知道外國技術混入美國技術時，什麼情況沒有 de minimis。</li>
+    <li>讀懂一件 EDA 工具執法案到底違反了什麼。</li>
+  </ul>
+</div>
+
+<h2 id="defs">先把定義讀準</h2>
+<div class="q" data-file="ear/772.1.txt" data-cite="15 CFR § 772.1 “Technology”">Information necessary for the “development,” “production,” “use,” operation, installation, maintenance, repair, overhaul, or refurbishing (or other terms specified in ECCNs on the CCL that control “technology”) of an item.</div>
+<div class="q" data-file="ear/772.1.txt" data-cite="15 CFR § 772.1 “Technology”, Note 1">“Technology” may be in any tangible or intangible form, such as written or oral communications, blueprints, drawings, photographs, plans, diagrams, models, formulae, tables, engineering designs and specifications, computer-aided design files, manuals or documentation, electronic media or information revealed through visual inspection;</div>
+<div class="q" data-file="ear/772.1.txt" data-cite="15 CFR § 772.1 “Development”">“Development” is related to all stages prior to serial production, such as: design, design research, design analyses, design concepts, assembly and testing of prototypes, pilot production schemes, design data, process of transforming design data into a product, configuration design, integration design, layouts.</div>
+<div class="q" data-file="ear/772.1.txt" data-cite="15 CFR § 772.1 “Required”">As applied to “technology” or “software,” refers to only that portion of “technology” or “software” which is peculiarly responsible for achieving or exceeding the controlled performance levels, characteristics or functions.</div>
+<div class="infer">
+  <b>推論</b>　「required」是技術管制的過濾器：只有「獨特地負責達到受管性能」的那部分技術受管。對晶片公司而言，同一份設計資料庫裡，讓 DSP 核心達到每週期超過八個 16 位元乘加的微架構資料可能是 3E002.c，而周邊 GPIO 的設計資料不是。
+  分類技術時要切到這個粒度，否則不是過度管制（整個資料庫鎖死），就是漏管。
+</div>
+
+<h2 id="deemed">視同出口與視同再出口</h2>
+<div class="q" data-file="ear/734.13.txt" data-cite="15 CFR § 734.13(a)(2)">Releasing or otherwise transferring “technology” or source code (but not object code) to a foreign person in the United States (a “deemed export”);</div>
+<div class="q" data-file="ear/734.14.txt" data-cite="15 CFR § 734.14(b)">Any release outside of the United States of “technology” or source code subject to the EAR to a foreign person of another country is a deemed reexport to the foreign person's most recent country of citizenship or permanent residency, except as described in § 734.20.</div>
+<div class="q" data-file="ear/734.15.txt" data-cite="15 CFR § 734.15(a)">Visual or other inspection by a foreign person of items that reveals “technology” or source code subject to the EAR to a foreign person; or || Oral or written exchanges with a foreign person of “technology” or source code in the United States or abroad.</div>
+<p>視同再出口對台灣公司最直接：在台灣境內把<b>受 EAR 管</b>的技術給第三國籍員工看，等於再出口到他的國籍國。§734.20 給了三種不算視同再出口的情形，其中 (c) 對非 A:5 國籍的正式員工，要求一整套篩選機制：</p>
+<div class="q" data-file="ear/734.20.txt" data-cite="15 CFR § 734.20(c)(5)(ii)(B)">Screens the employee for substantive contacts with countries listed in Country Group D:5 (see supplement no. 1 to part 740 of the EAR). Although nationality does not, in and of itself, prohibit access to “technology” or source code subject to the EAR, an employee who has substantive contacts with foreign persons from countries listed in Country Group D:5 shall be presumed to raise a risk of diversion, unless BIS determines otherwise;</div>
+<div class="q" data-file="ear/734.20.txt" data-cite="15 CFR § 734.20(c)(5)(ii)(D)">Maintains records of such screenings for the longer of five years or the duration of the individual's employment with the entity; and</div>
+<p>加密儲存則有一條安全港：符合端對端加密等條件、且不是故意存放在 D:5 國家的技術，傳送或存放本身不算出口：</p>
+<div class="q" data-file="ear/734.18.txt" data-cite="15 CFR § 734.18(c)">The ability to access “technology” or “software” in encrypted form that satisfies the criteria set forth in paragraph (a)(5) of this section does not constitute the release or export of such “technology” or “software.”</div>
+
+<h2 id="notsubject">不受 EAR 管的資訊</h2>
+<div class="tbl-wrap"><table>
+  <thead><tr><th>類型</th><th>條文</th><th>要點</th></tr></thead>
+  <tbody>
+    <tr><td>已公開（published）</td><td>§734.7(a)</td><td>不限制再散布地公開，例如公開網站、公開研討會；但 5D002 加密軟體另有限制（§734.7(b)）</td></tr>
+    <tr><td>基礎研究</td><td>§734.8</td><td>成果預期公開的研究</td></tr>
+    <tr><td>專利與公開申請案</td><td>§734.10(a)</td><td>已公開的專利文件內容</td></tr>
+    <tr><td>標準制定活動</td><td>§734.10(b)</td><td>限 EAR99、AT-only，及特定 5D002／5E002 加密技術；標準須公開或預期公開</td></tr>
+  </tbody>
+</table></div>
+<div class="q" data-file="ear/734.10.txt" data-cite="15 CFR § 734.10(a)(1)">A patent or an open (published) patent application available from or at any patent office;</div>
+<div class="q" data-file="ear/734.10.txt" data-cite="15 CFR § 734.10(b)(2)">Is for a “published” standard; or || Occurs with the intent that the resulting standard will be “published.”</div>
+<p>標準活動的豁免是一步步放寬的：2020 年先只對特定實體清單公司、在標準組織內開放；2022 年改成對全部實體清單、以「標準相關活動」界定；2024 年再移到 §734.10(b)，直接規定為不受 EAR 管。</p>
+<div class="q" data-file="fr/2024-15810.txt" data-cite="89 FR 58265 (2024-07-18), SUMMARY">export controls and associated compliance concerns do not impede the participation and leadership of U.S. companies in legitimate standards-</div>
+<div class="infer">
+  <b>推論</b>　對標準必要專利的工作者，這三條放在一起看很有用：寫進標準提案、專利公開文件的技術內容不受 EAR 管；但提案「之前」的內部模擬資料、實作細節不在豁免內。
+  何時算「published」要逐份文件判斷，不能以「反正最後會進標準」概括。
+</div>
+
+<h2 id="deminimis">外國技術混入美國技術：de minimis 與 FDP</h2>
+<p>一般情形下，外國製技術混入的美國受控技術在 10% 或 25% 以下可以不受 EAR 管，而且要先提出一次性報告。加密技術是例外：</p>
+<div class="q" data-file="ear/734.4.txt" data-cite="15 CFR § 734.4(a)(2)">Foreign produced encryption technology that incorporates U.S. origin encryption technology controlled by ECCN 5E002 is subject to the EAR regardless of the amount of U.S. origin content.</div>
+<div class="q" data-file="ear/734.4.txt" data-cite="15 CFR § 734.4(c)(3)">Before you may rely upon the de minimis exclusion for foreign-made technology commingled with controlled U.S.-origin technology, you must file a one-time report.</div>
+<p>外國直接產品規則（FDP）則是另一條路：外國產品若是特定美國技術或軟體的「直接產品」，或由這類技術做出的廠房生產，送往特定目的地或用途時也受 EAR 管。對晶片設計公司最相關的三條：</p>
+<div class="tbl-wrap"><table>
+  <thead><tr><th>規則</th><th>產品範圍（摘要）</th><th>目的地／用途</th></tr></thead>
+  <tbody>
+    <tr><td>國家安全 FDP §734.9(b)</td><td>需書面保證（TSR 前提）的美國技術或軟體之直接產品，且產品本身受 NS 管制</td><td>D:1、E:1、E:2</td></tr>
+    <tr><td>先進運算 FDP §734.9(h)</td><td>3D/3E/4D/4E/5D/5E 特定項目之直接產品，且產品為 3A090、4A090 或 .z 段</td><td>全球（含併入非 EAR99 產品）等</td></tr>
+    <tr><td>超級電腦 FDP §734.9(i)</td><td>同上技術範圍之直接產品</td><td>中國或澳門的超級電腦用途</td></tr>
+  </tbody>
+</table></div>
+<div class="q" data-file="ear/734.9.txt" data-cite="15 CFR § 734.9(b)(2)">A foreign-produced item meets the country scope of this paragraph if its destination is listed in Country Group D:1, E:1, or E:2</div>
+
+<h2 id="cadence">案例：EDA 工具執法案到底違反什麼</h2>
+<p>2025 年 7 月，一家美國 EDA 公司就出口設計工具給中國一所軍事院校，與司法部達成認罪協議，並與 BIS 和解民事責任。這案子常被拿來談「技術出口」，但從官方新聞稿看，它的核心是<b>實體清單</b>，不是視同出口。</p>
+<div class="q" data-file="doj/cadence-doj-press-release.txt" data-cite="DOJ 新聞稿 25-793（2025-07-28）">Cadence, Cadence China, and their employees exported, reexported, and transferred in-country U.S.-origin EDA tools to CSCC in the PRC, despite having knowledge that CSCC was an alias for NUDT.</div>
+<div class="q" data-file="doj/cadence-doj-press-release.txt" data-cite="DOJ 新聞稿 25-793">NUDT personnel downloaded EDA software and IP technology from Cadence’s download portals while Cadence and Cadence China, through its employees, had knowledge that NUDT had been added to the Entity List.</div>
+<p>實體清單上，這所院校的條目把別名直接列出，許可要求涵蓋所有受 EAR 管的項目：</p>
+<div class="q" data-file="ear/744-supp-4.txt" data-cite="15 CFR 744 Supp. No. 4（Entity List），China 欄 NUDT 條目">National University of Defense Technology (NUDT), a.k.a., the following three aliases: —Central South CAD Center; —CSCC; and —Hunan Guofang Keji University. || For all items subject to the EAR.</div>
+<div class="q" data-file="doj/cadence-doj-press-release.txt" data-cite="DOJ 新聞稿 25-793">Cadence will pay aggregate net criminal and civil penalties and forfeiture totaling more than $140 million.</div>
+<div class="infer">
+  <b>推論：這案子教的四件事</b>
+  <ol style="margin:6px 0 0">
+    <li>分類不是終點。實體清單的許可要求涵蓋「所有受 EAR 管的項目」，連 EAR99 都包含；ECCN 判得再準，也不能取代對象篩選。</li>
+    <li>別名篩選。清單已經把 CSCC 列為別名，問題出在明知仍交易。</li>
+    <li>子公司的境內移轉與下載入口都是出口路徑：員工到客戶場域安裝硬體、客戶從下載入口抓軟體與 IP，都在指控事實裡。</li>
+    <li>新聞稿沒有列出所涉項目的 ECCN；本站不推測。它也不是在美國境內對外國人揭露技術的「視同出口」案型。</li>
+  </ol>
+</div>
+
+<h2 id="tw">台灣側：清單有「技術」，法條沒有「視同出口」</h2>
+<p>台灣清單的名稱就是「軍商兩用貨品及<b>技術</b>出口管制清單」，各類都有 E 段技術，也有與 EAR 相同精神的一般技術註解：</p>
+<div class="q" data-file="tw/dual-use-and-military-lists-1150211.txt" data-cite="軍商兩用貨品及技術出口管制清單，一般技術註解">受管制貨品於〝開發〞、〝生產〞或〝使用〞所〝需要〞之〝技術〞， 雖使用於非管制貨品，仍應受管制。</div>
+<div class="q" data-file="tw/dual-use-and-military-lists-1150211.txt" data-cite="軍商兩用貨品及技術出口管制清單，一般技術註解">本清單管制之〝技術〞移轉，不適用於〝公共領域〞資訊、〝基礎科學研究〞，或專利申請最低需求之資訊。</div>
+<p>但貿易法對「貿易」的定義是以貨品為核心：</p>
+<div class="q" data-file="tw/trade-act-J0090004.txt" data-cite="貿易法第2條">本法所稱貿易，指貨品之輸出入行為及有關事項。 || 前項貨品，包括附屬其上之商標權、專利權、著作權及其他已立法保護之智慧財產權。</div>
+<div class="infer">
+  <b>推論</b>　本站收集的貿易法與管理辦法條文中，沒有對應 EAR「視同出口／視同再出口」的規定；純無形的技術傳遞（電郵、雲端、口頭）在台灣制度下如何認定「輸出」，條文文字無法確定，本站不下結論。
+  實務上台灣公司同時要處理兩件事：EAR 對「受 EAR 管的技術」的視同再出口（例如混入美國 5E002 技術時沒有 de minimis），以及台灣清單 E 段技術在有形載體輸出時的許可。
+</div>
+
+<div class="selfcheck">
+  <p class="kicker">自我檢測</p>
+  <ol>
+    <li>台灣公司在新竹讓一位第三國籍工程師讀取一份受 EAR 管的 3E002 技術文件，EAR 上怎麼定性？有哪些例外可以主張？</li>
+    <li>為什麼「我們的加密 IP 只有 5% 是美國的」不能用來主張 de minimis？</li>
+    <li>上面的 EDA 案中，如果涉案工具都是 EAR99，結論會不會改變？為什麼？</li>
+  </ol>
+</div>
+
+<footer class="site">
+  <p>法規版本：美國 EAR 取自 eCFR（版本日 2026-10-29）；台灣軍商兩用清單為 115-02-11 經貿字第11550200140號公告附件。全部來源、抓取日與雜湊值見 <a href="evidence.html#sources">來源總表</a>。</p>
+  <p>個人自學整理，不是法律意見。美國聯邦政府著作屬公共領域；我國法令與公文依著作權法第 9 條不得為著作權之標的。</p>
+</footer>
+
+</main></div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

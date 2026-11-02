@@ -1,0 +1,37 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 0A998；eCFR 2026-10-29〕
+
+0A998 Oil and gas exploration equipment, software, and data, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: Foreign policy
+
+Control(s) | Country chart
+
+Russian industry sector sanction applies to entire entry | See § 746.8 for specific license requirements and license review policy.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items:
+
+a. Oil and gas exploration data, e.g., seismic analysis data.
+
+b. Hydraulic fracturing items, as follows:
+
+b.1. Hydraulic fracturing design and analysis software and data.
+
+b.2. Hydraulic fracturing 'proppant,' 'fracking fluid,' and chemical additives therefor.
+
+Technical Note: A 'proppant' is a solid material, typically treated sand or man-made ceramic materials, designed to keep an induced hydraulic fracture open, during or following a fracturing treatment. It is added to a 'fracking fluid' which may vary in composition depending on the type of fracturing used, and can be gel, foam or slickwater-based.
+
+b.3. High pressure pumps.

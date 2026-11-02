@@ -1,0 +1,47 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 0A506；eCFR 2026-10-29〕
+
+0A506 Semi-Automatic Rifles as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, FC, UN, AT
+
+Control(s) | Country chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1.
+
+RS applies to entire entry | RS Column 1.
+
+FC applies to entire entry | FC Column 1.
+
+UN applies to entire entry | See § 746.1 of the EAR for UN controls.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+Special Conditions for STA
+
+License Exception STA may not be used for ECCN 0A506, to any of the destinations listed in Country Group A:5 or A:6 (See supplement no.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) See USML Category I for firearms that are fully automatic, and magazines with a capacity of greater than 50 rounds. (2) See ECCN 0A507 for semi-automatic pistols, excluding pistols built with, e.g., AR- or AK-style receivers (frames), which are controlled under ECCN 0A506. (3) See ECCN 0A508 for semi-automatic shotguns and ECCN 0A502 for certain “parts” and “components” for semi-automatic shotguns that are not controlled by 0A509.a or .c. (4) See ECCN 0A509 for enumerated or otherwise described “parts,” “components,” devices, “accessories,” and “attachments” for ECCNs 0A506, 0A507, and 0A508. (5) See 0A501.c, .d, .x, and .y for other “parts,” “components,” “accessories,” and “attachments” “specially designed” for 0A506 and 0A507, or 0A508. (6) See ECCN 0A501 for non-semi-automatic firearms (except 0A502 shotguns) and related commodities that are subject to the EAR. (7) See ECCN 0A502 for non-automatic shotguns and their “parts” and “components” that are subject to the EAR and certain “parts” and “components” for semi-automatic shotguns that are not controlled by 0A509.a or .c. (8) See ECCN 0A504 and USML Category XII for controls on optical sighting devices.
+
+Related Definitions: N/A
+
+Items:
+
+a. Semi-automatic centerfire (non-rimfire) rifles equal to .50 caliber (12.7 mm) or less.
+
+b. Semi-automatic rimfire rifles equal to .50 caliber (12.7 mm) or less.
+
+Note 1 to 0A506.a and .b: “Parts” and “components” that are “specially designed” for a commodity classified under .a or .b of this entry, except those controlled under ECCN 0A509, are controlled under ECCN 0A501.c, .d, .x, or .y.
+
+Technical Note 1 to 0A506: Firearms described in 0A506 include those chambered for the .50 BMG cartridge.
+
+Technical Note 2 to 0A506: Firearms described in 0A506 include pistols built with, e.g., AR- or AK-style receivers (frames).

@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2E201；eCFR 2026-10-29〕
+
+2E201 “Technology” according to the General Technology Note for the “use” of equipment or “software” controlled by 2A225, 2A226, 2B001, 2B006, 2B007.b, 2B007.c, 2B201, 2B204, 2B206, 2B207, 2B209, 2B225 to 2B233, 2D002, 2D201 or 2D202 for NP reasons.
+
+License Requirements
+
+Reason for Control: NP, CB, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NP applies to entire entry | NP Column 1.
+
+CB applies to “technology” for valves controlled by 2A226 that meet or exceed the technical parameters in 2B350.g | CB Column 2.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: Also see 2E290 and 2E991.
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9A003；eCFR 2026-10-29〕
+
+9A003 “Specially designed” assemblies or “components”, incorporating any of the “technologies” controlled by 9E003.a, 9E003.h, 9E003.i, or 9E003.k, for any of the following aero gas turbine engines (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $5000
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definition: N/A
+
+Items:
+
+a. Controlled by 9A001; or
+
+b. Whose design or production origins are either not from a Wassenaar Participating State (see Supplement No. 1 to part 743 of the EAR) or unknown to the manufacturer.

@@ -1,0 +1,43 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3E003；eCFR 2026-10-29〕
+
+3E003 Other “technology” for the “development” or “production” of the following (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart(See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: Yes, except .f and .g
+
+List of Items Controlled
+
+Related Controls: See 3E001 for Silicon-On-Insulation (SOI) technology for the “development” or “production” related to radiation hardening of integrated circuits.
+
+Related Definitions: N/A
+
+Items:
+
+a. Vacuum microelectronic devices;
+
+b. Hetero-structure semiconductor electronic devices such as high electron mobility transistors (HEMT), hetero-bipolar transistors (HBT), quantum well and super lattice devices;
+
+Note: 3E003.b does not control “technology” for high electron mobility transistors (HEMT) operating at frequencies lower than 31.8 GHz and hetero-junction bipolar transistors (HBT) operating at frequencies lower than 31.8 GHz.
+
+c. “Superconductive” electronic devices;
+
+d. Substrates of diamond for electronic components;
+
+e. Substrates of Silicon-On-Insulator (SOI) for integrated circuits in which the insulator is Silicon Dioxide (SiO2);
+
+f. Substrates of Silicon Carbide (SiC) for electronic components;
+
+g. “Vacuum electronic devices” operating at frequencies of 31.8 GHz or higher;
+
+h. Substrates of Gallium Oxide (Ga2O3) for electronic components.

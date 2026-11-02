@@ -1,0 +1,75 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9A604；eCFR 2026-10-29〕
+
+9A604 Commodities related to launch vehicles, missiles, and rockets (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, MT, AT, UN
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1.
+
+RS applies to entire entry | RS Column 1.
+
+MT applies to 9A604.c, .d, and .f | MT Column 1.
+
+RS applies to 9A604.y | China, Russia, or Venezuela (see § 742.6(a)(7)).
+
+AT applies to entire entry | AT Column 1.
+
+UN applies to entire entry | See § 746.1(b) for UN controls.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in this ECCN 9A604.
+
+List of Items Controlled
+
+Related Controls: (1) Launch vehicles, missiles, and rockets are subject to the ITAR (see USML Category IV). (2) See ECCN 0A919 for foreign-made “military commodities” that incorporate more than a de minimis amount of U.S.-origin “600 series” controlled content. (3) Thermal batteries for USML Category IV items are subject to the ITAR (see USML Category XIII).
+
+Related Definitions: N/A
+
+Items:
+
+a. through b. [Reserved]
+
+c. “Components” “specially designed” for ramjet, scramjet, pulse jet, or combined cycle engines described in USML Category IV, including devices to regulate combustion in such commodities.
+
+d. “Components” “specially designed” for hybrid rocket motors described in USML Category IV usable in rockets, missiles, or unmanned aerial vehicles capable of a range equal to or greater than 300 km.
+
+e. “Components” “specially designed” for pressure gain combustion-based propulsion systems described in USML Category IV.
+
+f. Composite structures, laminates and manufactures thereof “specially designed” for the following items described in USML Category IV:
+
+f.1. Systems capable of a range equal to or greater than 300 km;
+
+f.2. Individual rocket stages usable in 9A604.f.1. systems;
+
+f.3. Solid propellant rocket motors or hybrid rocket motors having a total impulse capacity equal to or greater than 8.41 × 10 5 Ns; or
+
+f.4. Liquid propellant rocket engines integrated, or designed or modified to be integrated, into a liquid propellant propulsion system which has a total impulse capacity equal to or greater than 8.41 × 10 5 Ns.
+
+f.5. Thrust vector control systems usable in rockets, space launch vehicles (SLVs), and missiles capable of delivering at least a 500 kg payload to a range of at least 300 km.
+
+f.6. Re-entry vehicles or warhead heat shields usable in rockets, SLVs, and missiles capable of delivering at least a 500 kg payload to a range of at least 300 km.
+
+f.7. Safing, arming, fuzing, and firing components usable in rockets, SLVs, and missiles capable of delivering at least a 500 kg payload to a range of at least 300 km.
+
+g. through w. [Reserved]
+
+x. “Parts,” “components,” “accessories,” and “attachments” that are “specially designed” for a commodity subject to control in paragraphs .a through .d of this ECCN, or a defense article described in USML Category IV, and not specified elsewhere on the USML or in 9A604.y.
+
+Note to 9A604.x: “Parts,” “components,” “accessories,” and “attachments” specified in USML Category IV(h) are subject to the controls of that paragraph.
+
+y. Specific “parts,” “components,” “accessories,” and “attachments” “specially designed” for a commodity subject to control in this entry, ECCN 9A604, or for a defense article in USML Category IV and not elsewhere specified on the USML or on the CCL, and other commodities, as follows, and “parts,” “components,” “accessories,” and “attachments” “specially designed” therefor:
+
+y.1. “Parts” and minor “components” for landing leg assemblies; and
+
+y.2. [RESERVED]

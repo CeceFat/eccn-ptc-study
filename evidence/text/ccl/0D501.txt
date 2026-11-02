@@ -1,0 +1,33 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 0D501；eCFR 2026-10-29〕
+
+0D501 “Software” “specially designed” for the “development,” “production,” operation, or maintenance of commodities controlled by 0A501, 0A506, 0A507, 0A509 or 0B501.
+
+License Requirements
+
+Reason for Control: NS, RS, UN, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry except “software” for commodities in ECCN 0A501.y or equipment in ECCN 0B501 for commodities in ECCN 0A501.y | NS Column 1.
+
+RS applies to entire entry except “software” for commodities in ECCN 0A501.y or equipment in ECCN 0B501 for commodities in ECCN 0A501.y | RS Column 1.
+
+UN applies to entire entry | See § 746.1 of the EAR for UN controls.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+Special Conditions for STA
+
+License Exception STA may not be used for any “software” in ECCN 0D501, to any of the destinations listed in Country Group A:6 (See supplement no.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: See USML Category I for “software” directly related to articles described in USML Category I.
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in this ECCN heading.

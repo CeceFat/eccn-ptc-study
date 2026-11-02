@@ -1,0 +1,97 @@
+〔U.S. BIS｜Summary of changes to License Exception ENC (2021 rule)｜抓取 2026-11-02｜https://www.bis.gov/media/documents/table-changes-enc-wa2019-rule-final-version.pdf〕
+
+Elimination of Reporting Requirements for Certain Encryption Items, 86 FR 16482 (March 29, 2021)
+
+As part of a final rule published on March 29, 2021 (86 FR 168482) (March 29, 2021 rule) that also
+implemented decisions from the Wassenaar Arrangement’s December 2019 Plenary meeting, BIS
+amended various provisions in the Export Administration Regulations (EAR), 15 C.F.R. Parts 730-774,
+related to certain encryption items in Category 5 - Part 2 (“Information Security”), including by
+eliminating reporting requirements in order to reduce exporters’ regulatory burdens. In particular, the
+changes affect aspects of License Exception Encryption commodities, software, and technology (ENC),
+Section 740.17 of the EAR.
+
+For certain products described in Section 740.17(b)(1) of the EAR, an annual self-classification report in
+accordance with Section 740.17(e)(3) of the EAR is required. For products described in Section
+740.17(b)(1) of the EAR classified by BIS via a commodity classification request (CCATS), a self-
+classification report is not required. For items described by Section 740.17(b)(2) of the EAR and specified
+items described in Section 740.17(b)(3) of the EAR, a classification request (CCATS) per Section 740.17(d)
+of the EAR is required to make use of the License Exception ENC for export. Also, certain publicly
+available source code items have an email notification requirement pursuant to Sections 742.15(b) and
+740.9 (c)(8) of the EAR.
+
+In summary, the March 29, 2021 rule made the following changes:
+
+(1) eliminated the e-mail notification requirement for ‘publicly available’ encryption source code
+(Section 742.15(b)) and beta test encryption software (Section 740.9(c)(8)), except for ‘publicly
+available’ encryption source code and beta test encryption software implementing “non-standard
+cryptography”;
+
+(2) eliminated the self-classification reporting requirement for certain ‘mass market’ encryption
+products under Section 740.17(b)(1); and
+
+(3) allows self-classification reporting for ECCN 5A992.c or 5D992.c components of ‘mass market’
+products (and their ‘executable software’). See Section 740.17(e)(3). The rule moved “mass market”
+“components,” ‘executable software’, toolsets, and toolkits from Section 740.17(b)(3)(i) to (b)(1). Of
+those four categories of items, only “mass market” “components” and ‘executable software’ remain
+subject to self-classification reporting. Mass market toolsets and toolkits are no longer subject to self-
+classification reporting.
+
+Note: Non-“mass market” “components,” toolsets, and toolkits remain in Section 740.17(b)(3), which
+requires submission of a classification and specifies a 30-day waiting period prior to use of License
+Exception ENC.
+
+The March 29, 2021 rule did not change any of the License Exception ENC classification or self-
+classification reporting requirements for any non-‘mass market’ encryption items controlled under
+ECCNs 5A002, 5B002 or 5D002; or for any encryption item (‘mass market’ or not) that implements “non-
+standard cryptography”.
+The following table summarizes the changes made to reporting requirements by the March 29, 2021
+rule and also highlights reporting requirements that remain unchanged.
+
+ECCN/Authorization               Before March 29, 2021 rule        After March 29, 2021 rule
+                                 Fell under EAR Section            Falls under EAR Section
+5x992.c –mass market items       740.17(b)(1) -Required self-      740.17(b)(1) - No self-
+described in 740.17(b)(1)        classification report or          classification report or
+                                 classification.                   classification required.
+X= A for hardware or D for
+software                         Fell under EAR Section            Falls under EAR Section
+5x992.c – mass market chips,     740.17(b)(3) and required a       740.17(b)(1) -- Require self-
+chipsets, electronic assemblies  classification.                   classification report or
+and field programmable logic                                       classification.
+devices (except for items        Fell under EAR Section
+implementing “non-standard       740.17(b)(3) and required a       Falls under EAR Section
+cryptography”)                   classification.                   740.17(b)(1) - No self-
+5x992.c – mass market                                              classification report or
+cryptographic libraries,         EAR Section 740.17(b)(1) -        classification required.
+modules, development kits and    Required self-classification
+toolkits (except for items       report or classification.         No change.
+implementing “non-standard       EAR Section 740.17(b)(3) -
+cryptography”)                   Required a classification and     No change.
+5x002.a – encryption items       specifies a 30 day wait period
+described in EAR Section         prior to use of ENC.
+740.17(b)(1)
+5x002.a –non-mass market
+chips, chipsets, electronic
+assemblies, field programmable
+logic devices, cryptographic
+libraries, modules, development
+kits, and toolkits
+
+5x002.a and 5x992.c items with   EAR Section 740.17(b)(3) -        No change.
+“non-standard cryptography       Required a classification and
+described in 740.17(b)(3)        specifies a 30 day wait period    Based on update to Section
+                                 prior to use of ENC.              742.15(b)- “Publicly available”
+5x002 – “publicly available”     EAR Section 742.15(b)- “publicly  encryption source code and
+encryption source code and       available” encryption source      corresponding object code no
+beta test encryption software    code and corresponding object     longer require email
+(except for items implementing   code required email               notification.
+“non-standard cryptography”)     notification.
+                                                                   Based on update to Section
+5x002 - Items described in EAR   EAR Section 740.9(b)(8) - beta    740.9(b)(8)- Beta test
+Section 740.17(b)(2)             test encryption software -        encryption software no longer
+                                 required email notification       requires email notification.
+                                                                   No change
+                                 Required a classification under
+                                 EAR Section 740.17(b)(2) and
+                                 specifies a 30 day wait period
+                                 prior to use of ENC.
+

@@ -1,0 +1,25 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3D991；eCFR 2026-10-29〕
+
+3D991 “Software” “specially designed” for the “development,” “production” or “use” of electronic devices, “parts” or “components” controlled by 3A991, general purpose electronic equipment controlled by 3A992, or manufacturing and test equipment controlled by 3B991 and 3B992; or “software” “specially designed” for the “use” of equipment controlled by 3B001.g and .h.
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating “information security” functionality, and associated “software” and “technology” for the “production” or “development” of such microprocessors.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

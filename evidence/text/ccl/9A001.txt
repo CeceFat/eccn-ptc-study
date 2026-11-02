@@ -1,0 +1,45 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9A001；eCFR 2026-10-29〕
+
+9A001 Aero gas turbine engines having any of the following (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, MT, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1
+
+MT applies to only to those engines that meet the characteristics listed in 9A101 | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See also 9A101 and 9A991.
+
+Related Definitions: N/A
+
+Items:
+
+a. Incorporating any of the “technologies” controlled by 9E003.a, 9E003.h, or 9E003.i;
+
+Note 1: 9A001 does not control aero gas turbine engines which meet all of the following:
+
+a. Certified by the civil aviation authority in a country listed in Supplement No. 1 to Part 743; and
+
+b. Intended to power non-military manned “aircraft” for which any of the following has been issued by a Wassenaar Arrangement Participating State listed in Supplement No. 1 to Part 743 for the “aircraft” with this specific engine type:
+
+b.1. A civil type certificate; or
+
+b.2. An equivalent document recognized by the International Civil Aviation Organization (ICAO).
+
+Note 2: 9A001 does not apply to aero gas turbine engines designed for Auxiliary Power Units (APUs) approved by the civil aviation authority in a Wassenaar Arrangement Participating State (see Supplement No. 1 to part 743 of the EAR).
+
+b. [Reserved]

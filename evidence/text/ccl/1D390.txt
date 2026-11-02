@@ -1,0 +1,25 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1D390；eCFR 2026-10-29〕
+
+1D390 “Software” for process control that is specifically configured to control or initiate “production” of chemicals controlled by 1C350.
+
+License Requirements
+
+Reason for Control: CB, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+CB applies to entire entry | CB Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: See Section 772.1 of the EAR for the definitions of “software,” “program,” and “microprogram.”
+
+Items: The list of items controlled is contained in the ECCN heading.

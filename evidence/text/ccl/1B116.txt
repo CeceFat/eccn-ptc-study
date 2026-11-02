@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1B116；eCFR 2026-10-29〕
+
+1B116 “Specially Designed” nozzles for producing pyrolitically derived materials formed on a mold, mandrel or other substrate from precursor gases which decompose in the 1,573 K (1,300 °C) to 3,173 K (2,900 °C) temperature range at pressures of 130 Pa to 20 kPa.
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

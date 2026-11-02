@@ -1,0 +1,29 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3A227；eCFR 2026-10-29〕
+
+3A227 High-voltage direct current power supplies, having both of the following characteristics (see List of Items Controlled), excluding items that are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110).
+
+License Requirements
+
+Reason for Control: NP, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NP applies to entire entry | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 3E001 (“development” and “production”) and 3E201 (“use”) for technology for items controlled under this entry. (2) Also see ECCN 3A226. (3) Direct current power supplies “specially designed” or prepared for use in separating uranium isotopes are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110).
+
+Related Definitions: N/A
+
+Items: a. Capable of continuously producing, over a time period of 8 hours, 20 kV or greater with current output of 1 A or greater; and
+
+b. Current or voltage stability better than 0.1% over a time period of 8 hours.

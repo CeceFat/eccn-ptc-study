@@ -1,0 +1,39 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3C002；eCFR 2026-10-29〕
+
+3C002 Resist materials as follows (see List of Items Controlled) and “substrates” coated with the following resists.
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart(see Supp. No. 1to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $3,000
+
+GBS: Yes for 3C002.a provided that they are not also controlled by 3C002.b through .e.
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Resists designed for semiconductor lithography as follows:
+
+a.1. Positive resists adjusted (optimized) for use at wavelengths less than 193 nm but equal to or greater than 15 nm;
+
+a.2. Resists adjusted (optimized) for use at wavelengths less than 15 nm but greater than 1 nm;
+
+b. All resists designed for use with electron beams or ion beams, with a sensitivity of 0.01 µcoulomb/mm 2 or better;
+
+c. [Reserved]
+
+d. All resists optimized for surface imaging technologies;
+
+e. All resists designed or optimized for use with imprint lithography equipment specified by 3B001.f.2 that use either a thermal or photo-curable process.

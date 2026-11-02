@@ -1,0 +1,51 @@
+〔15 CFR Part 774, Supp. No. 1, Category 5 Part 2 註記；eCFR 2026-10-29〕
+
+Part 2—“Information Security”
+
+Note 1: [Reserved]
+
+Note 2: Category 5—Part 2, “information security” products, when accompanying their user for the user's personal use or as tools of trade, are eligible for License Exceptions TMP or BAG, subject to the terms and conditions of these license exceptions.
+
+Note 3: Cryptography Note: ECCNs 5A002, 5D002.a.1, .b, .c.1, z.1, z.5, and z.6, do not control items as follows:
+
+a. Items meeting all of the following:
+
+1. Generally available to the public by being sold, without restriction, from stock at retail selling points by means of any of the following:
+
+a. Over-the-counter transactions;
+
+b. Mail order transactions;
+
+c. Electronic transactions; or
+
+d. Telephone call transactions;
+
+2. The cryptographic functionality cannot be easily changed by the user;
+
+3. Designed for installation by the user without further substantial support by the supplier; and
+
+4. When necessary, details of the items are accessible and will be provided, upon request, to the appropriate authority in the exporter's country in order to ascertain compliance with conditions described in paragraphs a.1 through a.3 of this Note;
+
+b. Hardware components or 'executable software', of existing items described in paragraph a. of this Note, that have been designed for these existing items, and meeting all of the following:
+
+1. “Information security” is not the primary function or set of functions of the component or 'executable software';
+
+2. The component or 'executable software' does not change any cryptographic functionality of the existing items, or add new cryptographic functionality to the existing items;
+
+3. The feature set of the component or 'executable software' is fixed and is not designed or modified to customer specification; and
+
+4. When necessary, as determined by the appropriate authority in the exporter's country, details of the component or 'executable software', and details of relevant end-items are accessible and will be provided to the authority upon request, in order to ascertain compliance with conditions described above.
+
+Technical Note: For the purpose of the Cryptography Note, 'executable software' means “software” in executable form, from an existing hardware component excluded from 5A002, by the Cryptography Note.
+
+Note: 'Executable software' does not include complete binary images of the “software” running on an end-item.
+
+Note to the Cryptography Note: 1. To meet paragraph a. of Note 3, all of the following must apply:
+
+a. The item is of potential interest to a wide range of individuals and businesses; and
+
+b. The price and information about the main functionality of the item are available before purchase without the need to consult the vendor or supplier. A simple price inquiry is not considered to be a consultation.
+
+2. In determining eligibility of paragraph a. of Note 3, BIS may take into account relevant factors such as quantity, price, required technical skill, existing sales channels, typical customers, typical use or any exclusionary practices of the supplier.
+
+N.B. to Note 3 (Cryptography Note): You must submit a classification request or self-classification report to BIS for certain mass market encryption commodities and software eligible for the Cryptography Note employing a key length greater than 64 bits for the symmetric algorithm (or, for commodities and software not implementing any symmetric algorithms, employing a key length greater than 768 bits for asymmetric algorithms described by Technical note 2.b to 5A002.a or greater than 128 bits for elliptic curve algorithms, or any asymmetric algorithm described by Technical Note 2.c to 5A002.a) in accordance with the requirements of § 740.17(b) of the EAR in order to be released from the “EI” and “NS” controls of ECCN 5A002 or 5D002. For mass market commodities and software that do not require a self-classification report pursuant to § 740.17(b) and (e)(3) of the EAR, such items are also released from “EI” and “NS” controls and controlled under ECCN 5A992 or 5D992.

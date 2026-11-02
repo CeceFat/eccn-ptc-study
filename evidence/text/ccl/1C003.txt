@@ -1,0 +1,51 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C003；eCFR 2026-10-29〕
+
+1C003 Magnetic metals, of all types and of whatever form, having any of the following (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $3000
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items:
+
+a. Initial relative permeability of 120,000 or more and a thickness of 0.05 mm or less;
+
+Technical Note: For the purposes of 1C003.a, measurement of initial relative permeability must be performed on fully annealed materials.
+
+b. Magnetostrictive alloys having any of the following:
+
+b.1. A saturation magnetostriction of more than 5 × 104−4; or
+
+b.2. A magnetomechanical coupling factor (k) of more than 0.8; or
+
+c. Amorphous or 'nanocrystalline' alloy strips, having all of the following:
+
+c.1. A composition having a minimum of 75% by weight of iron, cobalt or nickel;
+
+c.2. A saturation magnetic induction (Bs) of 1.6 T or more; and
+
+c.3. Any of the following:
+
+c.3.a. A strip thickness of 0.02 mm or less; or
+
+c.3.b. An electrical resistivity of 2 × 10−4 ohm cm or more.
+
+Technical Note: For the purposes of 1C003.c, 'nanocrystalline' materials are those materials having a crystal grain size of 50 nm or less, as determined by X-ray diffraction.

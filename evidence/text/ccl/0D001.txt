@@ -1,0 +1,21 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 0D001；eCFR 2026-10-29〕
+
+0D001 “Software” “specially designed” or modified for the “development,” “production,” or “use” of commodities described in 0A002. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+
+Heading Note: Certain “software” for the “development,” “production,” or “use” of nuclear related commodities is subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110).
+
+License Requirements
+
+Control(s): “Software” for items described in 0A002 is “subject to the ITAR” (see 22 CFR parts 120 through 130).
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: The List of Items Controlled is contained in the ECCN heading.

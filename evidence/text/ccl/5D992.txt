@@ -1,0 +1,49 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 5D992；eCFR 2026-10-29〕
+
+5D992 “Information Security” “software,” not controlled by 5D002, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: RS, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+RS applies to “software” controlled by 5D992.z.1 | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+
+RS applies to “software” controlled by 5D992.z.2 | To or within the United Arab Emirates or destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating “information security” functionality, and associated “software” and “technology” for the “production” or “development” of such microprocessors.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+NAC/ACA: Yes, for 5D992.z.
+
+AIA: Yes for 5D992.z.1
+
+ACM: Yes for 5D992.z
+
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 5D992.z.
+
+List of Items Controlled
+
+Related Controls: (1) This entry does not control “software” designed or modified to protect against malicious computer damage, e.g., viruses, where the use of “cryptography” is limited to authentication, digital signature and/or the decryption of data or files. (2) See also ECCNs 3D001 as it applies to “software” for commodities controlled by 3A001.z and 3A090, and 4D001 as it applies to “software” for commodities controlled by 4A003.z, 4A004.z, and 4A005.z.
+
+Related Definitions: N/A
+
+Items:
+
+a. [Reserved]
+
+b. [Reserved]
+
+c. “Software” classified as mass market encryption software in accordance with § 740.17(b) of the EAR.
+
+d. through y. [Reserved]
+
+z.1 Other software that is described in 5D992 and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a; or
+
+z.2 Other software that is described in 5D992 and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b.

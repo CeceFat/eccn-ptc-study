@@ -1,0 +1,101 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3A090；eCFR 2026-10-29〕
+
+3A090 Integrated circuits as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: RS, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+RS applies to 3A090.a | To or within any destination worldwide, see § 742.6(a)(6)(iii)(A) of the EAR.
+
+RS applies to 3A090.b | To or within the United Arab Emirates or destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
+
+RS applies to 3A090.c | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(6)(i)(B) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+NAC/ACA: Yes, for 3A090.a, if the item is not designed or marketed for use in datacenters and has a 'total processing performance' of 4800 or more; yes, for 3A090.b, if the item is designed or marketed for use in datacenters. N/A for 3A090.c.
+
+HBM: Yes, for 3A090.c. See § 740.25 of the EAR.
+
+AIA: Yes, for 3A090.a.
+
+ACM: Yes
+
+LPP: Yes, for 3A090.a.
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 3D001, 3E001, 5D002.z, and 5D992.z for associated technology and software controls. (2) See ECCNs 3A001.z, 5A002.z, 5A004.z, and 5A992.z.
+
+Related Definitions: N/A
+
+Items:
+
+a. Integrated circuits having one or more digital processing units having either of the following:
+
+a.1. A 'total processing performance' of 4800 or more; or
+
+a.2. A 'total processing performance' of 1600 or more and a 'performance density' of 5.92 or more.
+
+Note 1 to 3A090.a: When a “front-end fabricator” or “OSAT” company is seeking to export, reexport, or transfer (in-country) an “applicable advanced logic integrated circuit,” there is a presumption that the item is 3A090.a and designed or marketed for datacenters. If the “front-end fabricator” or “OSAT” company cannot overcome this presumption, then it must comply with all license requirements applicable to items specified in 3A090.a. However, this presumption does not apply to any entity other than the “front-end fabricator” or “OSAT” company. A “front-end fabricator” or “OSAT” company can overcome this presumption in any of the following three ways outlined in paragraphs a. through c. of this Note 1.
+
+a. If the designer of the “applicable advanced logic integrated circuit” is an approved or authorized integrated circuit designer, then a datasheet or other attestation of the 'total processing performance' and the 'performance density' from the approved or authorized integrated circuit designer indicating that the IC is not specified in 3A090.a will overcome the presumption for the “front-end fabricator” or “OSAT” company that the IC is specified in ECCN 3A090.a.
+
+(1) Approved integrated circuit designers are listed in supplement no. 6 to this part of the EAR;
+
+(2) Prior to December 31, 2026, authorized integrated circuit designers include all integrated circuit designers:
+
+(i) Headquartered in Taiwan or a destination specified in Country Group A:1 or A:5, that are neither located in nor have an ultimate parent headquartered in Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR; and
+
+(ii) That have agreed to submit applicable information described in § 743.9(b) to the “front-end fabricator,” which the “front-end fabricator” must then report to BIS.
+
+(3) After December 31, 2026, authorized integrated circuit designers include any integrated circuit designer that both meets the criteria specified in subparagraph (2) and has submitted an application to become an approved integrated circuit designer. However, any company deemed an authorized IC designer after December 31, 2026, will cease to be an authorized IC designer 180 days after the submission of its application to become an approved IC designer.
+
+b. If the integrated circuit die is packaged by the “front-end fabricator” at a location outside of Macau or a destination specified in Country Group D:5 in supplement no. 1 to part 740, then the attestation of the “front-end fabricator” that (a) the “aggregated approximated transistor count” of the final packaged IC is below 30 billion transistors, or (b) the final packaged IC does not contain high-bandwidth memory and that the “aggregated approximated transistor count” of the final packaged IC is below (i) 35 billion transistors for any exports, reexports, or transfers (in-country) completed in 2027; or (ii) 40 billion transistors for any exports, reexports, or transfers (in-country) completed in 2029 or thereafter, then this overcomes the presumption by the “front-end fabricator” or “OSAT” company that the IC is specified in ECCN 3A090.a.
+
+c. If the integrated circuit is packaged by an approved “OSAT” company listed in supplement no. 7 to part 740 of the EAR, then the attestation of the approved “OSAT” company that (a) the “aggregated approximated transistor count” of the final packaged IC is below 30 billion transistors, or (b) the final packaged IC does not contain high-bandwidth memory and that the “aggregated approximated transistor count” of the final packaged IC is below (i) 35 billion transistors for any exports, reexports, or transfers (in-country) completed in 2027; or (ii) 40 billion transistors for any exports, reexports, or transfers (in-country) completed in 2029 or thereafter, then this overcomes the presumption by the “front-end fabricator” or “OSAT” company that the IC is specified in ECCN 3A090.a.
+
+d. It is not sufficient for the “front-end fabricator” or “OSAT” company to confirm the ECCN by relying on the attestation of the end user or other party to the transaction, except under one of the three ways enumerated in paragraphs a. through c. of this note. In the absence of an attestation of the 'total processing performance' and the 'performance density' by an approved integrated circuit designer listed in supplement no. 6 to part 740 of the EAR, the “front-end fabricator” or “OSAT” company must presume that any logic integrated circuit produced using the “16/14 nanometer node” or below, or using a non-planar transistor architecture and destined for a commodity with an (a) “aggregated approximated transistor count” of the final packaged IC is below 30 billion transistors, or (b) the final packaged IC does not contain high-bandwidth memory and that the “aggregated approximated transistor count” of the final packaged IC is below (i) 35 billion transistors for any exports, reexports, or transfers (in-country) completed in 2027; or (ii) 40 billion transistors for any exports, reexports, or transfers (in-country) completed in 2029 or thereafter, or where the “aggregated approximated transistor count,” of the final, packaged integrated circuit cannot be confirmed by the “front-end fabricator,” or an approved “OSAT” company listed in supplement no. 7 to part 740 of the EAR, is specified in ECCN 3A090.a and designed or marketed for a datacenter.
+
+Technical Note 1 to 3A090.a: The 'approximated transistor count' of a die is the 'transistor density' of the die multiplied by the area of the die measured in square millimeters. The 'transistor density' of the die is the number of transistors that can be fabricated per square millimeter for the process node used to manufacture the die. To calculate the number of 'approximated transistor count' of a die, a “front end fabricator” or “OSAT” company has two options. First, the “front end fabricator” or “OSAT” company may take the transistor density of the process node used to manufacture the die and multiply this density by the area of the die. This number may be significantly higher than the true transistor count, but if the result is below the relevant transistor threshold, then the “front end fabricator” or “OSAT” company can be confident that the die in question will not exceed that threshold. Second, to adjudicate edge cases, the “front end fabricator” or “OSAT” company may use standard design verification tools to estimate the number of (both active and passive) transistors on the die using the GDS file.
+
+b. Integrated circuits having one or more digital processing units having either of the following:
+
+b.1. A 'total processing performance' of 2400 or more and less than 4800 and a 'performance density' of 1.6 or more and less than 5.92, or
+
+b.2. A 'total processing performance' of 1600 or more and a 'performance density' of 3.2 or more and less than 5.92.
+
+Note 2 to 3A090.a and 3A090.b: 3A090.a and 3A090.b do not apply to items that are not designed or marketed for use in datacenters and do not have a 'total processing performance' of 4800 or more. For 3A090.a and 3A090.b items that are not designed or marketed for use in datacenters and that have a 'total processing performance' of 4800 or more, see license exceptions NAC and ACA.
+
+Note 3 to 3A090.a and 3A090.b: Integrated circuits specified by 3A090 include graphical processing units (GPUs), tensor processing units (TPUs), neural processors, in-memory processors, vision processors, text processors, co-processors/accelerators, adaptive processors, field-programmable logic devices (FPLDs), and application-specific integrated circuits (ASICs). Examples of integrated circuits are in the Note to 3A001.a.
+
+Note 4 to 3A090.a and 3A090.b: For integrated circuits that are excluded from ECCN 3A090 under Note 2 or 3 to 3A090, those ICs are also not applicable for classifications made under ECCNs 3A001.z, 4A003.z, 4A004.z, 4A005.z, 4A090, 5A002.z, 5A004.z, 5A992.z, 5D002.z, or 5D992.z because those other CCL classifications are based on the incorporation of an integrated circuit that meets the control parameters under ECCN 3A090 or otherwise meets or exceeds the control parameters or ECCNs 3A090 or 4A090. The performance parameters under ECCN 3A090.c are not used for determining whether an item is classified in a .z ECCN. See the Related Controls paragraphs of ECCNs 3A001.z, 4A003.z, 4A004.z, 4A005.z, 4A090, 5A002.z, 5A004.z, 5A992.z, 5D002.z, or 5D992.z.
+
+Technical Note 2 to 3A090.a and 3A090.b: 1. 'Total processing performance' ('TPP') is 2 × 'MacTOPS' × 'bit length of the operation', aggregated over all processing units on the integrated circuit.
+
+a. For purposes of 3A090, 'MacTOPS' is the theoretical peak number of Tera (1012) operations per second for multiply-accumulate computation (D = A × B + C).
+
+b. The 2 in the 'TPP' formula is based on industry convention of counting one multiply-accumulate computation, D = A × B + C, as 2 operations for purpose of datasheets. Therefore, 2 × MacTOPS may correspond to the reported TOPS or FLOPS on a datasheet.
+
+c. For purposes of 3A090, 'bit length of the operation' for a multiply-accumulate computation is the largest bit-length of the inputs to the multiply operation.
+
+d. Aggregate the TPPs for each processing unit on the integrated circuit to arrive at a total. 'TPP' = TPP1 + TPP2 + . . . . + TPPn (where n is the number or processing units on the integrated circuit).
+
+2. The rate of 'MacTOPS' is to be calculated at its maximum value theoretically possible. The rate of 'MacTOPS' is assumed to be the highest value the manufacturer claims in annual or brochure for the integrated circuit. For example, the 'TPP' threshold of 4800 can be met with 600 tera integer operations (or 2 × 300 'MacTOPS') at 8 bits or 300 tera FLOPS (or 2 × 150 'MacTOPS') at 16 bits. If the integrated circuit is designed for MAC computation with multiple bit lengths that achieve different 'TPP' values, the highest 'TPP' value should be evaluated against parameters in 3A090.
+
+3. For integrated circuits specified by 3A090 that provide processing of both sparse and dense matrices, the 'TPP' values are the values for processing of dense matrices (e.g., without sparsity).
+
+4. 'Performance density' is 'TPP' divided by 'applicable die area'. For purposes of 3A090, 'applicable die area' is measured in millimeters squared and includes all die area of logic dies manufactured with a process node that uses a non-planar transistor architecture.
+
+c. High bandwidth memory (HBM) having a 'memory bandwidth density' greater than 2 gigabytes per second per square millimeter.
+
+Technical Note 1 to 3A090.c: 'Memory bandwidth density' is the memory bandwidth measured in gigabytes per second divided by the area of the package or stack measured in square millimeters. In the case where a stack is contained in a package, use the memory bandwidth of the packaged device and the area of the package. High bandwidth memory (HBM) includes dynamic random access memory integrated circuits, regardless of whether they conform to the JEDEC standards for high bandwidth memory (HBM), provided they have a 'memory bandwidth density' greater than 2 gigabytes per second per square millimeter. This control does not cover co-packaged integrated circuits with both HBM and logic integrated circuit where the dominant function of the co-packaged integrated circuit is processing. It does include HBM permanently affixed to a logic integrated circuit designed as a control interface and incorporating a physical layer (PHY) function.

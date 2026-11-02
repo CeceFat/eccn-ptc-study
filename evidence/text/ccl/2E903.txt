@@ -1,0 +1,39 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2E903；eCFR 2026-10-29〕
+
+2E903 “Technology”, not specified elsewhere, for the “development” or “production” of 'coating systems' having all of the following: (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+
+RS applies to entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items:
+
+a. Designed to protect ceramic “matrix” “composite” materials specified by ECCN 1C007 from corrosion; and
+
+b. Designed to operate at temperatures exceeding 1,373.15 K (1,100 °C).
+
+Technical Note: For the purposes of 2E903, 'coating systems' consist of one or more layers (e.g., bond, interlayer, top coat) of material deposited on the substrate.

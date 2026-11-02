@@ -1,0 +1,37 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C241；eCFR 2026-10-29〕
+
+1C241 Rhenium and alloys containing rhenium (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NP, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NP applies to entire entry | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Rhenium and alloys containing rhenium, as follows, having both of the characteristics described in 1C241.b:
+
+a.1. Alloys containing 90% by weight or more of rhenium;
+
+a.2. Alloys containing 90% by weight or more of any combination of rhenium and tungsten; and
+
+b. Having both of the following characteristics:
+
+b.1. In forms with a hollow cylindrical symmetry (including cylinder segments) with an inside diameter between 100 mm and 300 mm; and
+
+b.2. A mass greater than 20 kg.

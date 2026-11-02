@@ -1,0 +1,41 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 0D617；eCFR 2026-10-29〕
+
+0D617 “Software” “specially designed” for the “development,” “production,” operation, or maintenance of commodities controlled by 0A617, “equipment” controlled by 0B617, or materials controlled by 0C617 (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, UN
+
+Control(s) | Country chart(see Supp. No. 1 to part 738)
+
+NS applies to entire entry, except 0D617.y | NS Column 1.
+
+RS applies to entire entry, except 0D617.y | RS Column 1.
+
+RS applies to 0D617.y | China, Russia, or Venezuela (see § 742.6(a)(7)).
+
+AT applies to entire entry | AT Column 1.
+
+UN applies to entire entry, except 0D617.y | See § 746.1(b) for UN controls.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any “software” in 0D617.
+
+List of Items Controlled
+
+Related Controls: (1) “Software” directly related to articles controlled by USML Category XIII is subject to the control of USML paragraph XIII(l). (2) See ECCN 0A919 for foreign-made “military commodities” that incorporate more than a de minimis amount of U.S.-origin “600 series” controlled content.
+
+Related Definitions: N/A
+
+Items:
+
+a. “Software” (other than “software” controlled in paragraph .y of this entry) “specially designed” for the “development,” “production,” operation or maintenance of commodities controlled by ECCNs 0A617 (except 0A617.y), 0B617, or 0C617.
+
+b. to x. [Reserved].
+
+y. Specific “software” “specially designed” for the “production,” “development,” operation or maintenance of commodities controlled by ECCN 0A617.y.

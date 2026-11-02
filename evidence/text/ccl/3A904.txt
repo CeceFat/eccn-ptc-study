@@ -1,0 +1,39 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3A904；eCFR 2026-10-29〕
+
+3A904 Cryogenic cooling systems and components, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+
+RS applies to the entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No. 1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: See ECCN 3E901 for related technology controls for the “development” or “production” of this ECCN.
+
+Related Definitions: N/A
+
+Items:
+
+a. Systems rated to provide a cooling power greater than or equal to 600 µW at or below a temperature of 0.1 K (−273.05 °C) for a period of greater than 48 hours;
+
+b. Two-stage pulse tube cryocoolers rated to maintain a temperature below 4 K (−269.15 °C) and provide a cooling power greater than or equal to 1.5 W at or below a temperature of 4.2 K (−268.95 °C).

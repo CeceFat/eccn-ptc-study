@@ -1,0 +1,59 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 4A005；eCFR 2026-10-29〕
+
+4A005 “Systems,” “equipment,” and “components” therefor, “specially designed” or modified for the generation, command and control, or delivery of “intrusion software” (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1.
+
+RS applies to items controlled by 4A005.z.1 | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+
+RS applies to items controlled by 4A005.z.2 | To or within the United Arab Emirates or destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+APP: N/A
+
+ACE: Yes, except to Country Group E:1 or E:2. See § 740.22 of the EAR for eligibility criteria.
+
+NAC/ACA: Yes, for 4A005.z.
+
+AIA: Yes for 4A005.z.1
+
+ACM: Yes for 4A005.z
+
+LPP: Yes for 4A005.z.1
+
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 4A005.z.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship items specified by ECCN 4A005.
+
+List of Items Controlled
+
+Related Controls: (1) Defense articles described in USML Category XI(b), and software directly related to a defense article, are “subject to the ITAR” (see 22 CFR parts 120 through 130). (2) See also ECCN 4A090.
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading, except for the commodities controlled under 4A005.z.
+
+a. through y. [Reserved]
+
+z.1. Commodities that are specified in 4A005 that also meet or exceed the performance parameters in 4A090.a.
+
+z.2 Commodities that are specified in 4A005 that also meet or exceed the performance parameters in 4A090.b.

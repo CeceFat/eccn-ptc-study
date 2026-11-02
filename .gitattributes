@@ -1,0 +1,2 @@
+# 原始下載檔保持位元組不變，SHA-256 才能和 evidence/registry.json 核對
+evidence/sources/** -text

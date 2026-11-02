@@ -1,0 +1,43 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2E002；eCFR 2026-10-29〕
+
+2E002 “Technology” according to the General Technology Note for the “production” of equipment controlled by 2A (except 2A983, 2A984, 2A991, or 2A994), or 2B (except 2B991, 2B993, 2B996, 2B997, 2B998, or 2B999).
+
+License Requirements
+
+Reason for Control: NS, MT, NP, CB, AT
+
+Control(s) | Country chart(see Supp. No. 1 to part 738)
+
+NS applies to “technology” for equipment controlled by 2A001, 2B001 to 2B009 | NS Column 1
+
+MT applies to “technology” for equipment controlled by 2B004, 2B009, 2B104, 2B105, 2B109, 2B116, 2B117, or 2B119 to 2B122 for MT reasons | MT Column 1
+
+NP applies to “technology” for equipment controlled by 2A225, 2A226, 2B001, 2B004, 2B006, 2B007, 2B009, 2B104, 2B109, 2B116, 2B201, 2B204, 2B206, 2B207, 2B209, 2B225 to 2B233 for NP reasons | NP Column 1
+
+NP applies to “technology” for equipment controlled by 2A290 or 2A291 for NP reasons | NP Column 2
+
+CB applies to “technology” for equipment Controlled by 2B350 to 2B352 and for valves controlled by 2A226 having the characteristics of those controlled by 2B350.g | CB Column 2
+
+AT applies to entire entry | AT Column 1
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: Yes, except N/A for MT
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship or transmit “technology” according to the General Technology Note for the “production” of equipment as follows: ECCN 2B001 entire entry; or “Numerically controlled” or manual machine tools as specified in 2B003 to any of the destinations listed in Country Group A:6 (See Supplement No. 1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items:
+
+The list of items controlled is contained in the ECCN heading.

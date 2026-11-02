@@ -1,0 +1,434 @@
+<html>
+<head>
+<title>Federal Register, Volume 89 Issue 248 (Friday, December 27, 2024)</title>
+</head>
+<body><pre>
+[Federal Register Volume 89, Number 248 (Friday, December 27, 2024)]
+[Rules and Regulations]
+[Pages 105448-105450]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2024-30723]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Parts 742, 743, and 774
+
+[Docket No. 241204-0310]
+RIN 0694-AJ60
+
+
+Commerce Control List Additions and Revisions; Implementation of 
+Controls on Advanced Technologies Consistent With Controls Implemented 
+by International Partners; Correction
+
+AGENCY: Bureau of Industry and Security, Department of Commerce.
+
+ACTION: Correcting amendment.
+
+-----------------------------------------------------------------------
+
+SUMMARY: On September 6, 2024, BIS published in the Federal Register an 
+interim final rule entitled ``Commerce Control List Additions and 
+Revisions; Implementation of Controls on Advanced Technologies 
+Consistent with Controls Implemented by International Partners'' (RIN 
+0694-AJ60) that contained inadvertent errors. This rule corrects those 
+errors.
+
+DATES: This rule is effective December 27, 2024.
+
+FOR FURTHER INFORMATION CONTACT: 
+    For general questions contact: Sharron Cook at 202-482-2440 or 
+<a href="/cdn-cgi/l/email-protection#0e5c5e4a3c4e6c677d206a616d20696178"><span class="__cf_email__" data-cfemail="e2b0b2a6d0a2808b91cc868d81cc858d94">[email&#160;protected]</span></a>.
+    For technical questions contact:
+    Category 2: Sean Ghannadian at 202-482-3429 or 
+<a href="/cdn-cgi/l/email-protection#88dbede9e6a6cfe0e9e6e6e9ece1e9e6c8eae1fba6ece7eba6efe7fe"><span class="__cf_email__" data-cfemail="96c5f3f7f8b8d1fef7f8f8f7f2fff7f8d6f4ffe5b8f2f9f5b8f1f9e0">[email&#160;protected]</span></a>.
+    Category 3: Carlos Monroy at 202-482-3246 or 
+<a href="/cdn-cgi/l/email-protection#6a290b18060519442705041805132a080319440e0509440d051c"><span class="__cf_email__" data-cfemail="f7b496859b9884d9ba989985988eb7959e84d9939894d9909881">[email&#160;protected]</span></a>.
+    Category 4: Aaron Amundson at 202-482-0707 or 
+<a href="/cdn-cgi/l/email-protection#420323302d2c6c032f372c26312d2c02202b316c262d216c252d34"><span class="__cf_email__" data-cfemail="327353405d5c1c735f475c56415d5c72505b411c565d511c555d44">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+Background
+
+    On September 6, 2024, BIS published in the Federal Register the 
+interim final rule ``Commerce Control List Additions and Revisions; 
+Implementation of Controls on Advanced Technologies Consistent with 
+Controls Implemented by International Partners'' (RIN 0694-AJ60) (89 FR 
+72926). That rule contained inadvertent errors in Sec. Sec.  742.4, 
+742.6, and 743.7 of the Export Administration Regulations (15 CFR parts 
+730 through 774) (EAR) and in Export Control Classification Numbers 
+(ECCNs) 2B910 and 3C908 of the Commerce Control List (CCL) in 
+supplement no. 1 to part 774 of the EAR.
+
+Corrections
+
+    In column 1 of 89 FR 72938, under the section heading ``Sec.  742.4 
+National security,'' there is an incorrect citation. This rule amends 
+the regulatory text in Sec.  742.4(a)(5)(ii)(A) by replacing the 
+reference to ``general order no. 4'' with ``general order no. 6.''
+    In columns 1 and 2 of 89 FR 72938, also under the section heading 
+``Sec.  742.4 National security,'' the paragraph designations in Sec.  
+742.4 are incorrect. This rule revises paragraph (a)(5)(ii)(B)(1) to 
+clarify the reference to quantum items eligible for the deemed export 
+and deemed reexport exclusion by breaking the ``technology'' 
+parenthetical referencing ECCNs 4D906 and 4E906 into separate list 
+entries for ECCN 4D906 and ECCN 4E906.
+    In column 3 of 89 FR 72938, under the section heading ``Sec.  742.6 
+Regional stability,'' there is an incorrect citation in Sec.  
+742.6(a)(10)(ii)(A). This rule amends Sec.  742.6(a)(10)(ii)(A) by 
+replacing the reference to ``general order no. 4'' with ``general order 
+no. 6.''
+    In column 2 of 89 FR 72939, under the part heading ``Part 743--
+Special Reporting and Notification'', the paragraph designations in 
+Sec.  743.7 are incorrect. This rule amends Sec.  743.7 by 
+redesignating paragraphs (c)(1)(A) through (C) as paragraphs (c)(1)(i) 
+through (iii), and redesignating paragraphs (c)(2)(A) through (D) as 
+paragraphs (c)(2)(i) through (iv).
+    In column 2 of 89 FR 72940, in the CCL of the EAR, ECCN 2B910.d 
+contains an error. This rule corrects ECCN 2B910.d by replacing the 
+citation to 2B010.c with 2B910.c.
+    In column 1 of 89 FR 72951, in the CCL of the EAR, the license 
+requirement table in ECCN 3C908 contains inadvertent errors (i.e., the 
+duplication of the Regional Stability (RS) license requirement 
+paragraph and omission of an Anti-terrorism (AT) license requirement 
+paragraph). This rule corrects ECCN 3C908 by removing the duplicate RS 
+license requirement paragraph and adding the missing AT license 
+requirement paragraph.
+
+Export Control Reform Act of 2018
+
+    On August 13, 2018, the President signed into law the John S. 
+McCain National Defense Authorization Act for Fiscal Year 2019, which 
+included the Export Control Reform Act of 2018 (ECRA) (codified, as 
+amended, at 50 U.S.C. 4801-4852). ECRA provides the legal basis for 
+BIS's principal authorities and serves as the authority under which BIS 
+issues this rule. In particular, Section 1753 of ECRA (50 U.S.C. 4812) 
+authorizes the regulation of exports, reexports, and transfers (in-
+country) of items subject to U.S. jurisdiction. Further, Section 
+1754(a)(1)-(16) of ECRA (50 U.S.C. 4813(a)(1)-(16))
+
+[[Page 105449]]
+
+authorizes, inter alia, the establishment of a list of controlled 
+items; the prohibition of unauthorized exports, reexports, and 
+transfers (in-country); the requirement of licenses or other 
+authorizations for exports, reexports, and transfers (in-country) of 
+controlled items; apprising the public of changes in policy, 
+regulations, and procedures; and any other action necessary to carry 
+out ECRA that is not otherwise prohibited by law. Pursuant to section 
+1762(a) of ECRA (50 U.S.C. 4821(a)), these changes can be imposed in a 
+final rule without prior notice and comment. The revisions, including 
+the addition of the missing AT license requirement paragraph to ECCN 
+3C908, made through this rulemaking fall within the authorizations 
+conferred by ECRA as described above.
+
+Rulemaking Requirements
+
+    1. This correction has not been designated a ``significant 
+regulatory action'' under section 3(f) of Executive Order 12866, as 
+amended by Executive Order 14094.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to, nor shall any person be subject to a penalty 
+for failure to comply with, a collection of information subject to the 
+requirements of the Paperwork Reduction Act of 1995 (PRA) (44 U.S.C. 
+3501-3521), unless that collection of information displays a currently 
+valid Office of Management and Budget (OMB) Control Number. This rule 
+involves collections currently approved by OMB under the following 
+control numbers:
+    <bullet> 0694-0088, ``Simplified Network Application Processing 
+System,'' which carries a burden-hour estimate of 29.6 minutes for a 
+manual or electronic submission;
+    <bullet> 0694-0137 ``License Exceptions and Exclusions,'' which 
+carries a burden-hour estimate average of 1.5 hours per submission 
+(Note: submissions for License Exceptions are rarely required);
+    <bullet> 0694-0096 ``Five Year Records Retention Period,'' which 
+carries a burden-hour estimate of less than 1 minute; and
+    <bullet> 0607-0152 ``Automated Export System (AES) Program,'' which 
+carries a burden-hour estimate of 3 minutes per electronic submission.
+    Additional information regarding these collections of information--
+including all background materials--can be found at: <a href="https://www.reginfo.gov/public/do/PRAMain">https://www.reginfo.gov/public/do/PRAMain</a> and using the search function to 
+enter either the title of the collection or the OMB Control Number.
+    3. This rule does not contain policies with federalism implications 
+as that term is defined in Executive Order 13132.
+    4. Pursuant to section 1762 of ECRA (50 U.S.C. 4821), this action 
+is exempt from the Administrative Procedure Act (APA) (5 U.S.C. 553) 
+requirements for notice of proposed rulemaking, opportunity for public 
+participation and delay in effective date. While Section 1762 of ECRA 
+provides sufficient authority for such an exemption, this action is 
+also independently exempt from these APA requirements because it 
+involves a military or foreign affairs function of the United States (5 
+U.S.C. 553(a)(1)).
+    5. Because a notice of proposed rulemaking and an opportunity for 
+public comment are not required to be given for this rule by 5 U.S.C. 
+553, or by any other law, the analytical requirements of the Regulatory 
+Flexibility Act (5 U.S.C. 601, et seq.) are not applicable. 
+Accordingly, no regulatory flexibility analysis is required, and none 
+has been prepared.
+
+List of Subjects
+
+15 CFR Part 742
+
+    Exports, Terrorism.
+
+15 CFR Part 743
+
+    Administrative practice and procedure, Exports, Reporting and 
+recordkeeping.
+
+15 CFR Part 774
+
+    Exports, Reporting and recordkeeping requirements.
+
+
+0
+Accordingly, parts 742, 743, and 774 of the EAR (15 CFR parts 730 
+through 774) are corrected by making the following correcting 
+amendments:
+
+PART 742--CONTROL POLICY--CCL BASED CONTROLS
+
+0
+1. The authority citation for part 742 continues to read as follows:
+
+    Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; 22 U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 
+U.S.C. 7201 et seq.; 22 U.S.C. 7210; Sec. 1503, Pub. L. 108-11, 117 
+Stat. 559; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; E.O. 
+12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 FR 
+59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 61 FR 58767, 3 CFR, 
+1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 
+783; Presidential Determination 2003-23, 68 FR 26459, 3 CFR, 2004 
+Comp., p. 320; Notice of November 1, 2023, 88 FR 75475 (November 3, 
+2023).
+
+
+0
+2. Section 742.4 is amended by:
+0
+a. Removing the phase ``general order no. 4'' and adding in its place 
+``general order no. 6'' in paragraph (a)(5)(ii)(A); and
+0
+b. Revising paragraph (a)(5)(ii)(B)(1).
+    The revision reads as follows:
+
+
+Sec.  742.4  National security.
+
+* * * * *
+    (a) * * *
+    (5) * * *
+    (ii) * * *
+    (B) * * *
+    (1) Limited exclusion. There is a limited deemed export or deemed 
+reexport exclusion from the license requirements in paragraph (a)(5)(i) 
+of this section for the following ``software'' or ``technology'' ECCNs 
+unless for foreign persons whose most recent citizenship or permanent 
+residency is a destination specified in Country Group D:1 or D:5: ECCNs 
+2D910; 2E910; 3D001 (``software'' for ``EUV'' masks and reticles in 
+ECCN 3B001.q); 3D901 (for ``software'' for quantum items in ECCNs 
+3A901.b and 3B904 and for scanning electron microscopes (SEM) in ECCN 
+3B903); 3D907 ``software'' designed to extract ``GDSII'' or equivalent 
+data; 3E001 (``technology'' for ``EUV'' masks and reticles in ECCN 
+3B001.q); and 3E901 (for ``technology'' for quantum items in 3A901, 
+3A904, 3B904, 3C907, 3C908, and 3C909, and for SEMs in ECCN 3B903); 
+3E905 (``technology'' according to the General Technology Note for the 
+``development'' or ``production'' of integrated circuits or devices, 
+using ``Gate all-around Field-Effect Transistor'' (``GAAFET'') 
+structures); 4D906 ``software'' (for quantum items in 4A906), and 4E906 
+``technology'' (for quantum items in ECCNs 4A906 or 4D906).
+* * * * *
+
+
+Sec.  742.6  [Amended]
+
+0
+3. Section 742.6 is amended by removing the phase ``general order no. 
+4'' and adding in its place ``general order no. 6'' in paragraph 
+(a)(10)(ii)(A).
+
+PART 743--SPECIAL REPORTING AND NOTIFICATION
+
+0
+4. The authority citation for part 743 continues to read as follows:
+
+    Authority:  50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 
+783; E.O. 13637, 78 FR 16129, 3 CFR, 2014 Comp., p. 223; 78 FR 
+16129.
+
+
+Sec.  743.7   [Amended]
+
+0
+5. Section 743.7 is amended by:
+0
+a. Redesignating paragraphs (c)(1)(A) through (C) as paragraphs 
+(c)(1)(i) through (iii); and
+0
+b. Redesignating paragraphs (c)(2)(A) through (D) as paragraphs 
+(c)(2)(i) through (iv).
+
+[[Page 105450]]
+
+PART 774--THE COMMERCE CONTROL LIST
+
+0
+6. The authority citation for part 774 continues to read as follows:
+
+    Authority:  50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; 10 U.S.C. 8720; 10 U.S.C. 8730(e); 22 U.S.C. 
+287c, 22 U.S.C. 3201 et seq.; 22 U.S.C. 6004; 42 U.S.C. 2139a; 15 
+U.S.C. 1824; 50 U.S.C. 4305; 22 U.S.C. 7201 et seq.; 22 U.S.C. 7210; 
+E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 
+FR 44025, 3 CFR, 2001 Comp., p. 783.
+
+
+0
+7. Supplement no. 1 to part 774 is amended by revising ECCNs 2B910 and 
+3C908 to read as follows:
+
+Supplement No. 1 to Part 774--The Commerce Control List
+
+* * * * *
+2B910 Additive manufacturing equipment, designed to produce metal or 
+metal alloy components, having all of the following (see List of 
+Items Controlled), and ``specially designed'' ``components'' 
+therefor.
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+ 
+                                              Country chart  (see Supp.
+                Control(s)                       No. 1  to part 738)
+ 
+NS applies to entire entry................  Worldwide control.
+                                            See Sec.   742.4(a)(5) and
+                                             (b)(10) of the EAR.
+RS applies to entire entry................  Worldwide control.
+                                            See Sec.   742.6(a)(10) and
+                                             (b)(11) of the EAR.
+AT applies to entire entry................  AT Column 1.
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: N/A
+GBS: N/A
+IEC: Yes, see Sec.  740.2(a)(22) and Sec.  740.24 of the EAR.
+
+Special Conditions for STA
+
+    STA: License Exception STA may not be used to ship any item in 
+this ECCN to any of the destinations listed in Country Group A:5 or 
+A:6 (See Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+    Related Controls: For related ``technology'' see ECCN 2E910.
+    Related Definitions: N/A
+    Items:
+
+    a. Having at least one of the following consolidation sources:
+    a.1. ``Laser'';
+    a.2. Electron beam; or
+    a.3. Electric arc;
+    b. Having a controlled process atmosphere of any of the 
+following:
+    b.1. Inert gas; or
+    b.2. Vacuum (equal to or less than 100 Pa);
+    c. Having any of the following `in-process monitoring' equipment 
+in a `co-axial configuration' or `paraxial configuration':
+    c.1. Imaging camera with a peak response in the wavelength range 
+exceeding 380 nm but not exceeding 14,000 nm;
+    c.2. Pyrometer designed to measure temperatures greater than 
+1,273.15K (1,000 [deg]C); or
+    c.3. Radiometer or spectrometer with a peak response in the 
+wavelength range exceeding 380 nm but not exceeding 3,000 nm; and
+    d. A closed loop control system designed to modify the 
+consolidation source parameters, build path, or equipment settings 
+during the build cycle in response to feedback from `in-process 
+monitoring' equipment specified in 2B910.c.
+    Technical Notes:
+    For the purposes of 2B910:
+    1. `In-process monitoring', also known as in-situ process 
+monitoring, pertains to the observation and measurement of the 
+additive manufacturing process including electromagnetic, or 
+thermal, emissions from the melt pool.
+    2. `Co-axial configuration', also known as on-axis or inline 
+configuration, pertains to one or more sensors that are mounted in 
+an optical path shared by the ``laser'' consolidation source.
+    3. `Paraxial configuration' pertains to one or more sensors that 
+are physically mounted onto or integrated into the ``laser'', 
+electron beam, or electric arc consolidation source component.
+    4. For both `co-axial configuration' and `paraxial 
+configuration', the field of view of the sensor(s) is fixed to the 
+moving reference frame of the consolidation source and moves in the 
+same scan trajectories of the consolidation source throughout the 
+build process.
+* * * * *
+3C908 Fluorides, hydrides, chlorides, of silicon or germanium, 
+containing any of the following (See List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+ 
+                                              Country chart  (see Supp.
+                Control(s)                       No. 1  to part 738)
+ 
+NS applies to entire entry................  Worldwide control.
+                                            See Sec.   742.4(a)(5) and
+                                             (b)(10) of the EAR.
+RS applies to entire entry................  Worldwide control.
+                                            See Sec.   742.6(a)(10) and
+                                             (b)(11) of the EAR.
+AT applies to entire entry................  AT Column 1.
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: N/A
+GBS: N/A
+IEC: Yes, see Sec.  740.2(a)(22) and Sec.  740.24 of the EAR.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any item in this 
+ECCN to any of the destinations listed in Country Group A:5 or A:6 
+(See Supplement No. 1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: See ECCN 3E901 for related technology controls for 
+the ``development'' or ``production'' of this ECCN.
+Related Definitions: N/A
+Items:
+
+    a. Silicon having an isotopic impurity less than 0.08% of 
+silicon isotopes other than silicon-28 or silicon-30; or
+    b. Germanium having an isotopic impurity less than 0.08% of 
+germanium isotopes other than germanium-70, germanium-72, germanium-
+74, or germanium-76.
+* * * * *
+
+Matthew S. Borman,
+Principal Deputy Assistant Secretary for Strategic Trade and Economic 
+Security.
+[FR Doc. 2024-30723 Filed 12-26-24; 8:45 am]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

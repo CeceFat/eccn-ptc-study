@@ -1,0 +1,215 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3A002；eCFR 2026-10-29〕
+
+3A002 General purpose “electronic assemblies,” modules and equipment, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, MT, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+MT applies to 3A002.h when the parameters in 3A101.a.2.b are met or exceeded | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+Reporting Requirements: See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $3000: 3A002.a, .e, .f, and .g
+
+$5000: 3A002.c to .d, and .h (unless controlled for MT);
+
+GBS: Yes, for 3A002.h (unless controlled for MT)
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any item in 3A002.g.1 to any of the destinations listed in Country Group A:6 (See Supplement No. 1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: See Category XV(e)(9) of the USML for certain “space-qualified” atomic frequency standards “subject to the ITAR” (see 22 CFR parts 120 through 130). See also 3A101, 3A992 and 9A515.x.
+
+Related Definitions: Constant percentage bandwidth filters are also known as octave or fractional octave filters.
+
+Items:
+
+a. Recording equipment and oscilloscopes, as follows:
+
+a.1. to a.5. [Reserved]
+
+N.B.: For waveform digitizers and transient recorders, see 3A002.h.
+
+a.6. Digital data recorders having all of the following:
+
+a.6.a. A sustained 'continuous throughput' of more than 6.4 Gbit/s to disk or solid-state drive memory; and
+
+a.6.b. “Signal processing” of the radio frequency signal data while it is being recorded;
+
+Technical Notes: For the purposes of 3A002.a.6:
+
+1. For recorders with a parallel bus architecture, the 'continuous throughput' rate is the highest word rate multiplied by the number of bits in a word.
+
+2. 'Continuous throughput' is the fastest data rate the instrument can record to disk or solid-state drive memory without the loss of any information while sustaining the input digital data rate or digitizer conversion rate.
+
+a.7. Real-time oscilloscopes having a vertical root-mean-square (rms) noise voltage of less than 2% of full-scale at the vertical scale setting that provides the lowest noise value for any input 3dB bandwidth of 60 GHz or greater per channel;
+
+Note: 3A002.a.7 does not apply to equivalent-time sampling oscilloscopes.
+
+b. [Reserved]
+
+c. “Signal analyzers” as follows:
+
+c.1. “Signal analyzers” having a 3 dB resolution bandwidth (RBW) exceeding 40 MHz anywhere within the frequency range exceeding 31.8 GHz but not exceeding 37 GHz;
+
+c.2. “Signal analyzers” having a Displayed Average Noise Level (DANL) less (better) than −150 dBm/Hz anywhere within the frequency range exceeding 43.5 GHz but not exceeding 90 GHz;
+
+c.3. “Signal analyzers” having a frequency exceeding 90 GHz;
+
+c.4. “Signal analyzers” having all of the following:
+
+c.4.a. 'Real-time bandwidth' exceeding 170 MHz; and
+
+c.4.b. Having any of the following:
+
+c.4.b.1. 100% probability of discovery, with less than a 3 dB reduction from full amplitude due to gaps or windowing effects, of signals having a duration of 15 µs or less; or
+
+c.4.b.2. A 'frequency mask trigger' function, with 100% probability of trigger (capture) for signals having a duration of 15 µs or less;
+
+Technical Notes: 1. For the purposes of 3A002.c.4.a, 'real-time bandwidth' is the widest frequency range for which the analyzer can continuously transform time-domain data entirely into frequency-domain results, using a Fourier or other discrete time transform that processes every incoming time point, without a reduction of measured amplitude of more than 3 dB below the actual signal amplitude caused by gaps or windowing effects, while outputting or displaying the transformed data.
+
+2. For the purposes of 3A002.c.4.b.1., probability of discovery is also referred to as probability of intercept or probability of capture.
+
+3. For the purposes of 3A002.c.4.b.1, the duration for 100% probability of discovery is equivalent to the minimum signal duration necessary for the specified level measurement uncertainty.
+
+4. For the purposes of 3A002.c.4.b.2, a 'frequency mask trigger' is a mechanism where the trigger function is able to select a frequency range to be triggered on as a subset of the acquisition bandwidth while ignoring other signals that may also be present within the same acquisition bandwidth. A 'frequency mask trigger' may contain more than one independent set of limits.
+
+Note: 3A002.c.4 does not apply to those “signal analyzers” using only constant percentage bandwidth filters (also known as octave or fractional octave filters).
+
+c.5. [Reserved]
+
+d. Signal generators having any of the following:
+
+d.1. Specified to generate pulse-modulated signals having all of the following, anywhere within the frequency range exceeding 31.8 GHz but not exceeding 37 GHz:
+
+d.1.a. 'Pulse duration' of less than 25 ns; and
+
+d.1.b. On/off ratio equal to or exceeding 65 dB;
+
+d.2. An output power exceeding 100 mW (20 dBm) anywhere within the frequency range exceeding 43.5 GHz but not exceeding 90 GHz;
+
+d.3. A “frequency switching time” as specified by any of the following:
+
+d.3.a. [Reserved]
+
+d.3.b. Less than 100 µs for any frequency change exceeding 2.2 GHz within the frequency range exceeding 4.8 GHz but not exceeding 31.8 GHz;
+
+d.3.c. [Reserved]
+
+d.3.d. Less than 500 µs for any frequency change exceeding 550 MHz within the frequency range exceeding 31.8 GHz but not exceeding 37 GHz;
+
+d.3.e. Less than 100 µs for any frequency change exceeding 2.2 GHz within the frequency range exceeding 37 GHz but not exceeding 75 GHz; or
+
+d.3.f. [Reserved]
+
+d.3.g. Less than 100 µs for any frequency change exceeding 5.0 GHz within the frequency range exceeding 75 GHz but not exceeding 90 GHz.
+
+d.4. A single sideband (SSB) phase noise, in dBc/Hz, specified as being any of the following:
+
+d.4.a. Less (better) than −(126 + 20 log10 F−20log10f) for anywhere within the range of 10 Hz ≤ F ≤ 10 kHz anywhere within the frequency range exceeding 3.2 GHz but not exceeding 90 GHz; or
+
+d.4.b. Less (better) than −(206−20log10f) for anywhere within the range of 10 kHz < F ≤ 100 kHz anywhere within the frequency range exceeding 3.2 GHz but not exceeding 90 GHz;
+
+Technical Note: For the purposes of 3A002.d.4, F is the offset from the operating frequency in Hz and f is the operating frequency in MHz.
+
+d.5. An 'RF modulation bandwidth' of digital baseband signals as specified by any of the following:
+
+d.5.a. Exceeding 2.2 GHz within the frequency range exceeding 4.8 GHz but not exceeding 31.8 GHz;
+
+d.5.b. Exceeding 550 MHz within the frequency range exceeding 31.8 GHz but not exceeding 37 GHz;
+
+d.5.c. Exceeding 2.2 GHz within the frequency range exceeding 37 GHz but not exceeding 75 GHz;
+
+d.5.d. Exceeding 5.0 GHz within the frequency range exceeding 75 GHz but not exceeding 90 GHz; or
+
+Technical Note: For the purposes of 3A002.d.5, 'RF modulation bandwidth' is the Radio Frequency (RF) bandwidth occupied by a digitally encoded baseband signal modulated onto an RF signal. It is also referred to as information bandwidth or vector modulation bandwidth. I/Q digital modulation is the technical method for producing a vector-modulated RF output signal, and that output signal is typically specified as having an 'RF modulation bandwidth'.
+
+d.6. A maximum frequency exceeding 90 GHz;
+
+Note 1: For the purposes of 3A002.d, signal generators include arbitrary waveform and function generators.
+
+Note 2: 3A002.d does not control equipment in which the output frequency is either produced by the addition or subtraction of two or more crystal oscillator frequencies, or by an addition or subtraction followed by a multiplication of the result.
+
+Technical Notes: 1. For the purposes of 3A002.d, the maximum frequency of an arbitrary waveform or function generator is calculated by dividing the sample rate, in samples/second, by a factor of 2.5.
+
+2. For the purposes of 3A002.d.1.a, 'pulse duration' is defined as the time interval from the point on the leading edge that is 50% of the pulse amplitude to the point on the trailing edge that is 50% of the pulse amplitude.
+
+e. Network analyzers having any of the following:
+
+e.1. An output power exceeding 31.62 mW (15 dBm) anywhere within the operating frequency range exceeding 43.5 GHz but not exceeding 90 GHz;
+
+e.2. An output power exceeding 1 mW (0 dBm) anywhere within the operating frequency range exceeding 90 GHz but not exceeding 110 GHz;
+
+e.3. 'Nonlinear vector measurement functionality' at frequencies exceeding 50 GHz but not exceeding 110 GHz; or
+
+Technical Note: For the purposes of 3A002.e.3, 'nonlinear vector measurement functionality' is an instrument's ability to analyze the test results of devices driven into the large-signal domain or the non-linear distortion range.
+
+e.4. A maximum operating frequency exceeding 110 GHz;
+
+f. Microwave test receivers having all of the following:
+
+f.1. Maximum operating frequency exceeding 110 GHz; and
+
+f.2. Being capable of measuring amplitude and phase simultaneously;
+
+g. Atomic frequency standards being any of the following:
+
+g.1. “Space-qualified”;
+
+g.2. Non-rubidium and having a long-term stability less (better) than 1 × 10−11/month; or
+
+g.3. Non-“space-qualified” and having all of the following:
+
+g.3.a. Being a rubidium standard;
+
+g.3.b. Long-term stability less (better) than 1 × 10−11/month; and
+
+g.3.c. Total power consumption of less than 1 Watt.
+
+h. “Electronic assemblies,” modules or equipment, specified to perform all of the following:
+
+h.1. Analog-to-digital conversions meeting any of the following:
+
+h.1.a. A resolution of 8 bit or more, but less than 10 bit, with a “sample rate” greater than 1.3 Giga Samples Per Second (GSPS);
+
+h.1.b. A resolution of 10 bit or more, but less than 12 bit, with a “sample rate” greater than 1.0 GSPS;
+
+h.1.c. A resolution of 12 bit or more, but less than 14 bit, with a “sample rate” greater than 1.0 GSPS;
+
+h.1.d. A resolution of 14 bit or more but less than 16 bit, with a “sample rate” greater than 400 Mega Samples Per Second (MSPS); or
+
+h.1.e. A resolution of 16 bit or more with a “sample rate” greater than 180 MSPS; and
+
+h.2. Any of the following:
+
+h.2.a. Output of digitized data;
+
+h.2.b. Storage of digitized data; or
+
+h.2.c. Processing of digitized data;
+
+N.B.: Digital data recorders, oscilloscopes, “signal analyzers,” signal generators, network analyzers and microwave test receivers, are specified by 3A002.a.6, 3A002.a.7, 3A002.c, 3A002.d, 3A002.e and 3A002.f, respectively.
+
+Technical Notes: For the purposes of 3A002.h:
+
+1. A resolution of n bit corresponds to a quantization of 2 n levels.
+
+2. The resolution of the ADC is the number of bits of the digital output of the ADC that represents the measured analog input word. Effective Number of Bits (ENOB) is not used to determine the resolution of the ADC.
+
+3. For non-interleaved multiple-channel “electronic assemblies”, modules, or equipment, the “sample rate” is not aggregated and the “sample rate” is the maximum rate of any single channel.
+
+4. For interleaved channels on multiple-channel “electronic assemblies”, modules, or equipment, the “sample rates” are aggregated and the “sample rate” is the maximum combined total rate of all the interleaved channels.
+
+Note: 3A002.h includes ADC cards, waveform digitizers, data acquisition cards, signal acquisition boards and transient recorders.

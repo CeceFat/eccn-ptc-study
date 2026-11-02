@@ -1,0 +1,43 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 4A090；eCFR 2026-10-29〕
+
+4A090 Computers as follows (see List of Items Controlled) and related equipment, “electronic assemblies,” and “components” therefor.
+
+License Requirements
+
+Reason for Control: RS, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+RS applies to 4A090.a | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+
+RS applies to 4A090.b | To or within the United Arab Emirates or destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+NAC/ACA: Yes
+
+AIA: Yes for 4A090.a
+
+ACM: Yes
+
+LPP: Yes for 4A090.a
+
+List of Items Controlled
+
+Related Controls: (1) For associated “software” for commodities in this ECCN, see 4D090, 5D002.z, and 5D992.z and for associated “technology” for commodities in this ECCN, see 4E001. (2) Also ECCNs 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, and 5A992.z.
+
+Related Definitions: N/A
+
+Items:
+
+a. Computers, “electronic assemblies,” and “components” containing integrated circuits, any of which meets or exceeds the limits in 3A090.a.
+
+b. Computers, “electronic assemblies,” and “components” containing integrated circuits, any of which meets or exceeds the limits in 3A090.b.
+
+Technical Note: For purposes of 4A090.a and .b, computers include “digital computers,” “hybrid computers,” and analog computers.

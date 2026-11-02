@@ -1,0 +1,243 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9A004；eCFR 2026-10-29〕
+
+9A004 Space launch vehicles and “spacecraft,” “spacecraft buses,” “spacecraft payloads,” “spacecraft” on-board systems or equipment, terrestrial equipment, and air-launch platforms, and “sub-orbital craft,” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to 9A004 .g, .r, .u, and .w | NS Column 1.
+
+NS applies to 9A004.s, .v, and .x | NS Column 2.
+
+RS applies to 9A004.y | China, Russia, or Venezuela (see § 742.6(a)(7)).
+
+AT applies to 9A004.g, .s, .u, .v, .w, .x, and .y | AT Column 1.
+
+License Requirement Note: ECCN 9A004.a through .f apply to certain space launch vehicles, spacecraft, spacecraft buses, spacecraft payloads, on-board systems or equipment, and terrestrial equipment. They are described in ECCN 9A004.a through .f in order to harmonize 9A004 with the Wassenaar Arrangement Dual-Use List, even though the controls for these items are found under ECCN 9A515 and direct exporters, reexporters, and transferors to see USML Category IV for 9A004.a. See UMSL Category IV for 9A004.a. See ECCN 9A515 for 9A004.b through .f, and .h. See this ECCN 9A004 for .g, .h, .r, and .u through .y.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See also 9A104, 9A515, and 9B515. (2) See ECCNs 9E001 (“development”) and 9E002 (“production”) for technology for items controlled by this entry. (3) See USML Categories IV for the space launch vehicles and XV for other spacecraft that are “subject to the ITAR.”
+
+Related Definition: N/A
+
+Items:
+
+a. Space launch vehicles.
+
+b. “Spacecraft.”
+
+c. “Spacecraft buses.”
+
+d. “Spacecraft payloads” incorporating items specified by 3A001.b.1.a.4 or z (if also described in 3A001.b.1.a.4), 3A002.g, 5A001.a.1, .b.3, 5A002.c, z.3 or z.8, .e, z.5, 6A002.a.1, a.2, .b, .d, 6A003.b, 6A004.c, .e, 6A008.d, .e, .k, .l or 9A010.c.
+
+e. On-board systems or equipment, “specially designed” for “spacecraft” and having any of the following functions:
+
+e.1. 'Command and telemetry data handling;'
+
+Note 1 to 9A004.e.1: For the purpose of 9A004.e.1, 'command and telemetry data handling' includes bus data management, storage, and processing.
+
+e.2. 'Payload data handling;' or
+
+Note 2 to 9A004.e.2: For the purpose of 9A004.e.2, 'payload data handling' includes payload data management, storage, and processing.
+
+e.3. 'Attitude and orbit control;'
+
+Note 3 to 9A004.e.3: For the purpose of 9A004.e.3, 'attitude and orbit control' includes sensing and actuation to determine and control the position and orientation of a “spacecraft.”
+
+f. Terrestrial equipment specially designed for “spacecraft,” as follows:
+
+f.1. Telemetry and telecommand equipment “specially designed” for any of the following data processing functions:
+
+f.1.a. Telemetry data processing of frame synchronization and error corrections, for monitoring of operational status (also known as health and safe status) of the “spacecraft bus;” or
+
+f.1.b. Command data processing for formatting command data being sent to the “spacecraft” to control the “spacecraft bus;”
+
+f.2. Simulators “specially designed” for 'verification of operational procedures' of “spacecraft”.
+
+Technical Note: For the purposes of 9A004.f.2, 'verification of operational procedures' is any of the following:
+
+1. Command sequence confirmation;
+
+2. Operational training;
+
+3. Operational rehearsals; or
+
+4. Operational analysis.
+
+g. “Aircraft” “specially designed” or modified to be air-launch platforms for space launch vehicles or “sub-orbital craft.”
+
+h. “Sub-orbital craft.”
+
+i. through q. [Reserved]
+
+r. In-space habitats, other than the International Space Station (ISS).
+
+Note 4 to 9A004.r: In-space habitats are considered the commercial equivalent of a space station because it is used for persons conducting experiments or space tourism activities.
+
+s. “Parts,” “components,” “accessories,” and “attachments” that are “specially designed” for in-space habitats in 9A004.r and that are NOT:
+
+s.1. Described on the USML;
+
+s.2. Described in ECCN 7A004 or 7A104;
+
+s.3. Described in an ECCN containing “space-qualified” as a control criterion (refer to 9A515.x.4); or
+
+s.4 Described in 9A001, 9A002, 9A003, 9A515, or 9A991.
+
+t. [Reserved]
+
+u. The James Webb Space Telescope (JWST) being operated under the supervision of the U.S. National Aeronautics and Space Administration (NASA).
+
+v. “Parts,” “components,” “accessories,” and “attachments” that are “specially designed” for the James Webb Space Telescope and that are NOT:
+
+v.1. Described on the USML;
+
+v.2. Microelectronic circuits;
+
+v.3. Described in ECCN 7A004 or 7A104; or
+
+v.4. Described in an ECCN containing “space-qualified” as a control criterion (refer to 9A515.x.4).
+
+w. The International Space Station being operated under the supervision of the U.S. National Aeronautics and Space Administration.
+
+x. “Parts,” “components,” “accessories,” and “attachments” that are “specially designed” for the International Space Station.
+
+y. Items that would otherwise be within the scope of ECCN 9A004.s or .x but that have been identified in an interagency-cleared commodity classification (CCATS) pursuant to § 748.3(e) as warranting control in 9A004.y.
+
+y.1. Discrete electronic components not specified in 9A515.e;
+
+y.2. Thermistors for spacecraft applications;
+
+y.3. RF microwave bandpass ceramic filters (e.g., Dielectric Resonator Bandpass Filters);
+
+y.4. Hall effect sensors for spacecraft applications;
+
+y.5. Subminiature (SMA and SMP) plugs and connectors, TNC plugs and cable and connector assemblies with SMA plugs and connectors for spacecraft applications;
+
+y.6. Flight cable assemblies for spacecraft applications;
+
+y.7. Public address (PA) systems;
+
+y.8. Audio selector panels;
+
+y.9. Spacecraft crew, passenger, or participant lavatories and body waste management systems;
+
+y.10. Spacecraft crew, passenger, or participant hygiene facilities and systems;
+
+y.11. Spacecraft crew, passenger, or participant crew rest equipment or sleeping quarters;
+
+y.12. Spacecraft crew, passenger, or participant galleys or food preparation or serving systems;
+
+y.13. Spacecraft crew, passenger, or participant entertainment systems;
+
+y.14. Spacecraft crew, passenger, or participant exercise systems;
+
+y.15. Spacecraft crew, passenger, or participant laundry systems;
+
+y.16. Spacecraft crew, passenger, or participant safety systems not including launch abort systems/launch escape systems, ejector seats, spacesuits, flight suits, helmets, or parts and components therefor;
+
+y.17. Spacecraft crew, passenger, or participant storage units, facilities, or systems (for items related to human safety, welfare, and health);
+
+y.18. Spacecraft crew, passenger, or participant medical facilities or health-related systems for monitoring, evaluating, or assessing, or for providing treatments;
+
+y.19. Spacecraft crew, passenger, or participant information systems (e.g., personal laptops and phones);
+
+y.20. Name plates, identification plates, and identification systems;
+
+y.21. Internal, external, and emergency lighting systems;
+
+y.22. Humidity and CO2 removal systems;
+
+y.23. Potable water storage systems;
+
+y.24. Water regeneration systems;
+
+y.25. Air filters, filter networks, or air quality systems;
+
+y.26. Space heaters, temperature sensors, or thermostats for human habitation;
+
+y.27. Environmental control systems for human habitation;
+
+y.28. Spacecraft environmental control systems (e.g., air conditioner, air distribution, air filtration and sanitation, CO2 removal, cabin pressure control, dehumidifier, fire suppression system, nitrogen oxygen recharge system, heater systems, thermostats);
+
+y.29. Plant growth systems;
+
+y.30. Fire extinguishers;
+
+y.31. Flame, smoke, or CO2 detectors;
+
+y.32. Fire suppression systems;
+
+y.33. Spacecraft crew, passenger, or participant seats and parts and components;
+
+y.34. Spaceflight crew, passenger, or participant ejection seat mounted survival aids;
+
+y.35. Spaceflight crew, passenger, or participant life rafts;
+
+y.36. Spacecraft crew, passenger, or participant locator beacons;
+
+y.37. Spacecraft crew, passenger, or participant mirrors;
+
+y.38. Spacecraft crew, passenger, or participant windows;
+
+y.39. Spacecraft locator beacons;
+
+y.40. Viewing windows on non-crewed spacecraft;
+
+y.41. Hydraulic, pneumatic, oil, fuel, gas, propellant, fluid, and thermal control fluid reservoirs, filters, filter assemblies, tubing, lines, hoses, check valves, and quick disconnects, and associated fittings, couplings, clamps, brackets, adapters, valves, gaskets, and shims;
+
+y.42. Gauges and indicators;
+
+y.43. Filtered and unfiltered panel knobs, indicators, annunciator panels, switches, buttons and dials;
+
+y.44. Energy dissipating pads for cargo or crew;
+
+y.45. Bracket adapters for bus and payload structures;
+
+y.46. Latches and hinges;
+
+y.47. Boom assemblies;
+
+y.48. Multiplexor and Demultiplexors (MUX & DEMUX);
+
+y.49. Switches, switch bank assemblies, beam select switches, transfer switch assemblies, switch matrices, thermal switches;
+
+y.50. Magnetic torque bars;
+
+y.51. Filters, filter networks;
+
+y.52. Network switches;
+
+y.53. Antenna feed horns;
+
+y.54. Diplexers, modulators, demodulators;
+
+y.55. Backshells, pins, and contacts;
+
+y.56. Measurement devices;
+
+y.57. Non Propulsive landing systems (e.g., skids, inflatable);
+
+y.58. Electrical connectors;
+
+y.59. Electric fans;
+
+y.60. Microphones;
+
+y.61. Speakers;
+
+y.62. Circuit breakers; and
+
+y.63. Printed circuit boards.
+
+Note 5 to 9A004: An item operating on any celestial body other than Earth is treated as if it is on Earth for classification purposes on the CCL.

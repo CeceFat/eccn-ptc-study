@@ -1,0 +1,159 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9A610；eCFR 2026-10-29〕
+
+9A610 Military Aircraft and Related Commodities, Other Than Those Enumerated in 9A991.a (See List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, MT, AT, UN
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry except: 9A610.b; parts and components controlled in 9A610.x if being exported or reexported for use in an aircraft controlled in 9A610.b; and 9A610.y | NS Column 1.
+
+RS applies to entire entry except: 9A610.b; parts and components controlled in 9A610.x if being exported or reexported for use in an aircraft controlled in 9A610.b; and 9A610.y | RS Column 1.
+
+RS applies to 9A610.y | China, Russia, or Venezuela (see § 742.6(a)(7)).
+
+MT applies to 9A610.t, .u, .v, and .w and to “Unmanned Aerial Vehicles” (“UAVs”) and Remotely Piloted Vehicles (RPVs) in 9A610.a that are capable of a maximum range of at least 300 kilometers (km), regardless of payload | MT Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+UN applies to entire entry except 9A610.y | See § 746.1(b) for UN controls.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $1,500
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: (1) Paragraph (c)(1) of License Exception STA (§ 740.20(c)(1) of the EAR) may not be used for any item in 9A610.a (i.e., “end item” military aircraft), unless determined by BIS to be eligible for License Exception STA in accordance with § 740.20(g) (License Exception STA eligibility requests for 9x515 and “600 series” items). (2) License Exception STA may not be used to ship commodities in 9A610.a that are controlled for missile technology (MT) reasons that have a payload capability of at least 500 kg to a range of at least 300 km to any of the destinations listed in Country Groups A:5 or A:6 (See supplement no.1 to part 740 of the EAR). (3) Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in 9A610.
+
+List of Items Controlled
+
+Related Controls: (1) See U.S. Munitions List Category VIII. (2) See ECCN 0A919 for controls on foreign-made “military commodities” that incorporate more than a de minimis amount of U.S.-origin “600 series” controlled content. (3) See USML Category XIX and ECCN 9A619 for controls on military aircraft gas turbine engines and related items.
+
+Related Definitions: In paragraph .y of this entry, the term 'fluid' includes liquids and gases.
+
+Items:
+
+a. 'Military Aircraft' “specially designed” for a military use that are not enumerated in USML paragraph VIII(a).
+
+Note 1: For purposes of paragraph .a the term 'military aircraft' means the LM-100J aircraft and any aircraft “specially designed” for a military use that are not enumerated in USML paragraph VIII(a). The term includes: Trainer aircraft; cargo aircraft; utility fixed wing aircraft; military helicopters; observation aircraft; military non-expansive balloons and other lighter-than-air aircraft; unarmed military aircraft,” unmanned aerial vehicles” (“UAVs”), and remotely piloted vehicles (RPVs), regardless of origin or designation. Aircraft with modifications made to incorporate safety of flight features or other FAA or NTSB modifications such as transponders and air data recorders are “unmodified” for the purposes of this paragraph .a.
+
+Note 2: 9A610.a does not control 'military aircraft' or “lighter-than-air vehicles” that:
+
+a. Were first manufactured before 1946;
+
+b. Do not incorporate defense articles enumerated or otherwise described on the U.S. Munitions List, unless the items are required to meet safety or airworthiness standards of civil aviation authorities of a country listed in Country Group A:1; and
+
+c. Do not incorporate weapons enumerated or otherwise described on the U.S. Munitions List, unless inoperable and incapable of being returned to operation.
+
+b. L-100 aircraft manufactured prior to 2013.
+
+c.-d. [Reserved]
+
+e. Mobile aircraft arresting and engagement runway systems for aircraft controlled by either USML Category VIII(a) or ECCN 9A610.a.
+
+f. Pressure refueling equipment and equipment that facilitates operations in confined areas, “specially designed” for aircraft controlled by either USML paragraph VIII(a) or ECCN 9A610.a.
+
+g. Aircrew life support equipment, aircrew safety equipment and other devices for emergency escape from aircraft controlled by either USML paragraph VIII(a) or ECCN 9A610.a.
+
+h. Parachutes, paragliders, complete parachute canopies, harnesses, platforms, electronic release mechanisms, “specially designed” for use with aircraft controlled by either USML paragraph VIII(a) or ECCN 9A610.a, and “equipment” “specially designed” for military high altitude parachutists, such as suits, special helmets, breathing systems, and navigation equipment.
+
+i. Controlled opening equipment or automatic piloting systems, designed for parachuted loads.
+
+j. Ground effect machines (GEMS), including surface effect machines and air cushion vehicles, “specially designed” for use by a military.
+
+k. through s. [Reserved]
+
+t. Composite structures, laminates, and manufactures thereof “specially designed” for unmanned aerial vehicles controlled under USML Category VIII(a) with a range equal to or greater than 300 km.
+
+Note to paragraph .t: Composite structures, laminates, and manufactures thereof “specially designed” for unmanned aerial vehicles controlled under USML Category VIII(a) with a maximum range less than 300 km are controlled in paragraph .x of this entry.
+
+u. Apparatus and devices “specially designed” for the handling, control, activation and non-ship-based launching of “UAVs” controlled by either USML paragraph VIII(a) or ECCN 9A610.a, and capable of a range equal to or greater than 300 km.
+
+Note to paragraph .u: Apparatus and devices “specially designed” for the handling, control, activation and non-ship-based launching of “UAVs” controlled by either USML paragraph VIII(a) or ECCN 9A610.a with a maximum range less than 300 km are controlled in paragraph .x of this entry.
+
+v. Radar altimeters designed or modified for use in “UAVs” controlled by either USML paragraph VIII(a) or ECCN 9A610.a., and capable of delivering at least 500 kilograms payload to a range of at least 300 km.
+
+Note to paragraph .v: Radar altimeters designed or modified for use in “UAVs” controlled by either USML paragraph VIII(a) or ECCN 9A610.a. that are not capable of delivering at least 500 kilograms payload to a range of at least 300 km are controlled in paragraph .x of this entry.
+
+w.1. Pneumatic hydraulic, mechanical, electro-optical, or electromechanical flight control systems (including fly-by-wire and fly-by-light systems) and attitude control equipment designed or modified for “UAVs” controlled by either USML paragraph VIII(a) or ECCN 9A610.a., and capable of delivering at least 500 kilograms payload to a range of at least 300 km.
+
+Note to paragraph .w.1: Pneumatic, hydraulic, mechanical, electro-optical, or electromechanical flight control systems (including fly-by-wire and fly-by-light systems) and attitude control equipment designed or modified for “UAVs” controlled by either USML paragraph VIII(a) or ECCN 9A610.a., not capable of delivering at least 500 kilograms payload to a range of at least 300 km are controlled in paragraph .x of this entry.
+
+w.2. Flight control servo valves designed or modified for the systems in 9A610.w.1. and designed or modified to operate in a vibration environment greater than 10g rms over the entire range between 20Hz and 2 kHz.
+
+Note to paragraph .w: Paragraphs 9A610.w.1. and 9A610.w.2. include the systems, equipment and valves designed or modified to enable operation of manned aircraft as unmanned aerial vehicles.
+
+x. “Parts,” “components,” “accessories,” and “attachments” that are “specially designed” for a commodity enumerated or otherwise described in ECCN 9A610 (except for 9A610.y) or a defense article enumerated or otherwise described in USML Category VIII and not elsewhere specified on the USML or in 9A610.y, 9A619.y, or 3A611.y.
+
+y. Specific “parts,” “components,” “accessories,” and “attachments” “specially designed” for a commodity subject to control in this entry, ECCN 9A619, or for a defense article in USML Categories VIII or XIX and not elsewhere specified in the USML or the CCL, and other aircraft commodities “specially designed” for a military use, as follows, and “parts,” “components,” “accessories,” and “attachments” “specially designed” therefor:
+
+y.1. Aircraft tires;
+
+y.2. Analog gauges and indicators;
+
+y.3. Audio selector panels;
+
+y.4. Check valves for hydraulic and pneumatic systems;
+
+y.5. Crew rest equipment;
+
+y.6. Ejection seat mounted survival aids;
+
+y.7. Energy dissipating pads for cargo (for pads made from paper or cardboard);
+
+y.8. Fluid filters and filter assemblies;
+
+y.9. Galleys;
+
+y.10. Fluid hoses, straight and unbent lines (for a commodity subject to control in this entry or defense article in USML Category VIII), and fittings, couplings, clamps (for a commodity subject to control in this entry or defense article in USML Category VIII) and brackets therefor;
+
+y.11. Lavatories;
+
+y.12. Life rafts;
+
+y.13. Magnetic compass, magnetic azimuth detector;
+
+y.14. Medical litter provisions;
+
+y.15. Cockpit or cabin mirrors;
+
+y.16. Passenger seats including palletized seats;
+
+y.17. Potable water storage systems;
+
+y.18. Public address (PA) systems;
+
+y.19. Steel brake wear pads (does not include sintered mix or carbon/carbon materials);
+
+y.20. Underwater locator beacons;
+
+y.21. Urine collection bags/pads/cups/pumps;
+
+y.22. Windshield washer and wiper systems;
+
+y.23. Filtered and unfiltered panel knobs, indicators, switches, buttons, and dials;
+
+y.24. Lead-acid and Nickel-Cadmium batteries;
+
+y.25. Propellers, propeller systems, and propeller blades used with reciprocating engines;
+
+y.26. Fire extinguishers;
+
+y.27. Flame and smoke/CO2 detectors;
+
+y.28. Map cases;
+
+y.29. 'Military Aircraft' that were first manufactured from 1946 to 1955 that do not incorporate defense articles enumerated or otherwise described on the U.S. Munitions List, unless the items are required to meet safety or airworthiness standards of a Wassenaar Arrangement Participating State; and do not incorporate weapons enumerated or otherwise described on the U.S. Munitions List, unless inoperable and incapable of being returned to operation;
+
+y.30. “Parts,” “components,” “accessories,” and “attachments,” other than electronic items or navigation equipment, for use in or with a commodity controlled by ECCN 9A610.h;
+
+y.31. Identification plates and nameplates;
+
+y.32. Fluid manifolds; and
+
+y.33. Brackets, carrying cases, controllers, cables and adapters, chargers, docks, mounts, propellers, propeller systems, and propeller blades for “UAVs” and RPVs described in 9A610.a.

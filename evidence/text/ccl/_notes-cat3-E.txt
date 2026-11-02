@@ -1,0 +1,7 @@
+〔15 CFR Part 774, Supp. No. 1, cat3 Group E 開頭註記；eCFR 2026-10-29〕
+
+E. “Technology”
+
+Note 1 to Cat 3 Product Group E: 3E001 and 3E905 do not apply to 'Process Design Kits' ('PDKs') unless they include libraries implementing functions or technologies for items specified by 3A001.
+
+Technical Note: For the purposes of 3E001 and 3E905, a 'Process Design Kit' ('PDK') is a software tool provided by a semiconductor manufacturer to ensure that the required design practices and rules are taken into account in order to successfully produce a specific integrated circuit design in a specific semiconductor process, in accordance with technological and manufacturing constraints (each semiconductor manufacturing process has its particular 'PDK').

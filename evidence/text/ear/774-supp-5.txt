@@ -1,0 +1,31 @@
+〔15 CFR Supplement No. 5 to Part 774；eCFR 2026-10-29〕
+
+Supplement No. 5 to Part 774—Items Classified Under ECCNS 0A521, 0B521, 0C521, 0D521 and 0E521
+
+The following table lists items subject to the EAR that are not listed elsewhere in the CCL, but which the Department of Commerce, with the concurrence of the Departments of Defense and State, has identified warrant control for export or reexport because the items provide at least a significant military or intelligence advantage to the United States or for foreign policy reasons.
+
+Item descriptor.Note: The description must match by model number or a broader descriptor that does not necessarily need to be company specific | Date of initial orsubsequentBIS classification(ID = initial date;SD = subsequent date) | Date when the item will be designated EAR99, unless reclassified in another ECCN or the 0Y521 classification is reissued | Item-specific licenseexception eligibility
+
+0A521. Systems, Equipment and Components
+
+No. 1 [Reserved] | [Reserved] | [Reserved] | [Reserved]
+
+0B521. Test, Inspection and Production Equipment
+
+[Reserved]
+
+0C521. Materials
+
+No. 1 XBS Epoxy system designed to obfuscate critical technology components against x-ray and terahertz microscopy imaging attempts | November 16, 2015 (ID) | November 16, 2016 | License Exception GOV under § 740.11(b)(2)(ii) only
+
+No. 2 [Reserved] | [Reserved] | [Reserved] | [Reserved]
+
+0D521. Software
+
+No. 1 Geospatial imagery “software” “specially designed” for training a Deep Convolutional Neural Network to automate the analysis of geospatial imagery and point clouds, and having all of the following:1. Provides a graphical user interface that enables the user to identify objects (e.g., vehicles, houses, etc.) from within geospatial imagery and point clouds in order to extract positive and negative samples of an object of interest;2. Reduces pixel variation by performing scale, color, and rotational normalization on the positive samples;3. Trains a Deep Convolutional Neural Network to detect the object of interest from the positive and negative samples; and4. Identifies objects in geospatial imagery using the trained Deep Convolutional Neural Network by matching the rotational pattern from the positive samples with the rotational pattern of objects in the geospatial imagery.Technical Note: A point cloud is a collection of data points defined by a given coordinate system. A point cloud is also known as a digital surface model. | January 6, 2020 (ID) | January 6, 2023 | License Exception GOV under § 740.11(b)(2)(ii) only.
+
+0E521. Technology
+
+No. 1 [Reserved] | [Reserved] | [Reserved] | [Reserved]
+
+[80 FR 70678, Nov. 16, 2015, as amended at 81 FR 52328, Aug. 8, 2016; 83 FR 14583, Apr. 5, 2018; 85 FR 461, Jan. 6, 2020; 86 FR 462, Jan. 6, 2021; 87 FR 730, Jan. 6, 2022]

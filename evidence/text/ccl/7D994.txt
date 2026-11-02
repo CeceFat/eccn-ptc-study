@@ -1,0 +1,23 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 7D994；eCFR 2026-10-29〕
+
+7D994 “Software”, n.e.s., for the “development”, “production”, or “use” of navigation, airborne communication and other avionics.
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

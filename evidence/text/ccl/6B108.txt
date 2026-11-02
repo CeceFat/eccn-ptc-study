@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6B108；eCFR 2026-10-29〕
+
+6B108 Systems, other than those controlled by 6B008, “specially designed” for radar cross section measurement usable for rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km and their subsystems.
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

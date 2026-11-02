@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>分類方法 · 出口管制產品分類 自學站</title>
+<meta name="description" content="產品技術分類（PTC）的固定順序：先判斷是否受 EAR 管、管轄歸屬，再依 Supp. 4 審查順序逐項比對；附分類決定書範本。">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-in">
+    <a class="brand" href="index.html">出口管制產品分類<small>EAR ECCN × 台灣軍商兩用清單 · 自學站</small></a>
+    <nav class="main">
+      <a href="about.html">About</a>
+      <a href="start.html">入門</a>
+      <a href="index.html">總覽</a>
+      <a href="method.html">分類方法</a>
+      <a href="cat5p2.html">加密 5P2</a>
+      <a href="cat3.html">半導體 Cat 3</a>
+      <a href="taiwan.html">台灣制度</a>
+      <a href="cases.html">產品演練</a>
+      <a href="tech.html">技術與視同出口</a>
+      <a href="evidence.html">方法與證據</a>
+      <a href="quiz.html">自我檢測</a>
+    </nav>
+    <button class="theme-btn" data-theme-toggle aria-label="切換深淺色">☾</button>
+  </div>
+</header>
+
+<div class="wrap"><main class="page">
+
+<p class="kicker" style="margin-top:34px">分類方法</p>
+<h1>分類不是查表，是一套固定順序</h1>
+<p class="lede">
+ECCN 不是用關鍵字搜出來的。EAR 自己規定了判斷順序：先問這東西歸不歸 EAR 管、歸哪個機關管，
+再從類別、產品群一路往下比對，最後才落到 EAR99。台灣的鑑定走另一套程序，但比對的對象（清單條文）結構幾乎相同。
+</p>
+
+<div class="goal">
+  <p class="kicker">讀完這頁你會</p>
+  <ul>
+    <li>說出 EAR 分類的七個步驟（第 0 步「是否受 EAR 管」＋ Supp. 4 的 Step 1–6）。</li>
+    <li>分清「specially designed」的 catch（抓進來）與 release（放出去），知道專利說明書的陳述會被當成證據。</li>
+    <li>知道向 BIS 申請分類（CCATS）與向台灣申請鑑定各要準備什麼。</li>
+    <li>會用本頁的分類決定書範本，寫出可以被別人查核的結論。</li>
+  </ul>
+</div>
+
+<h2 id="step0">第 0 步：這個東西受不受 EAR 管</h2>
+<p>EAR 只管「subject to the EAR」的項目。美國原產品在哪裡都受管；外國製品則要看是否含美國受控成分超過 de minimis 比例，或是否屬於外國直接產品規則（FDP）的範圍。</p>
+<div class="q" data-file="ear/734.3.txt" data-cite="15 CFR § 734.3(a)(2)">All U.S. origin items wherever located;</div>
+<div class="q" data-file="ear/734.3.txt" data-cite="15 CFR § 734.3(a)(3)">Foreign-made commodities that incorporate controlled U.S.-origin commodities, foreign-made commodities that are ‘bundled’ with controlled U.S.-origin software, foreign-made software that is commingled with controlled U.S.-origin software, and foreign-made technology that is commingled with controlled U.S.-origin technology:</div>
+<p>反過來，有些資訊根本不受 EAR 管。其中一項與專利工作直接相關：</p>
+<div class="q" data-file="ear/734.3.txt" data-cite="15 CFR § 734.3(b)(3)(iv)">Appear in patents or open (published) patent applications available from or at any patent office, unless covered by an invention secrecy order, or are otherwise patent information or are for a standards-related activity as described in § 734.10;</div>
+<p>另外要記得，BIS 的分類結果不等於「確認受 EAR 管」：</p>
+<div class="q" data-file="ear/734.3.txt" data-cite="15 CFR § 734.3(d)">Commodity classification determinations and advisory opinions issued by BIS are not, and may not be relied upon as, determinations that the items in question are “subject to the EAR,”</div>
+<div class="infer">
+  <b>推論</b>　台灣設計、台灣製造的晶片，要先過三道門才談得上 ECCN：是否含美國受控成分超過 de minimis（§734.4）、是否落入某條 FDP 規則（§734.9）、是否混入美國技術。
+  三道都沒過，EAR 就管不到它；但台灣的戰略性高科技貨品制度是另一套獨立義務，照樣要看台灣清單。兩邊要分開判斷，不能互相代替。
+  de minimis 與 FDP 的細節放在<a href="tech.html#deminimis">技術與視同出口</a>頁。
+</div>
+
+<h2 id="jurisdiction">第 1 步：管轄——ITAR 優先</h2>
+<p>EAR 的審查順序第一句就把 ITAR 擺在前面：被美國軍品清單（USML）列舉的東西，不歸 EAR 管。</p>
+<div class="q" data-file="ear/774-supp-4.txt" data-cite="15 CFR 774 Supp. No. 4(a)">As described in EAR § 734.3, the EAR govern only items “subject to the EAR,” e.g., items not subject to the exclusive jurisdiction of another agency.</div>
+<p>消費性與網通晶片通常不會碰到 ITAR，例外是衛星導航：政府用解密、特定天線與飛彈用途的 GNSS 接收設備在 USML 第 XII 類。細節見<a href="cases.html#gnss">產品演練：GNSS 接收晶片</a>。</p>
+
+<h2 id="order">第 2–7 步：CCL 審查順序（Supp. 4 to Part 774）</h2>
+<ol class="path">
+  <li><h3>Step 1　找類別（0–9）</h3>
+    <div class="q" data-file="ear/774-supp-4.txt" data-cite="Supp. No. 4(a)(1)">review the general characteristics of the item. This will usually guide you to the appropriate category (0 through 9) on the CCL.</div></li>
+  <li><h3>Step 2　找產品群（A–E）</h3>
+    <div class="q" data-file="ear/774-supp-4.txt" data-cite="Supp. No. 4(a)(2)">determine which product group within the CCL category or categories—i.e., A, B, C, D, or E—is applicable to the item.</div>
+    <p class="meta">A 系統／設備／零組件、B 測試檢驗生產設備、C 材料、D 軟體、E 技術。晶片是 A，韌體與 SDK 是 D，設計文件與製程資料是 E。</p></li>
+  <li><h3>Step 3　先看 600 系列與 9x515</h3>
+    <p>這兩組是從 ITAR 移過來的軍品與太空項目，EAR 讓它們優先於一般 ECCN。</p></li>
+  <li><h3>Step 4　「specially designed」的抓與放</h3>
+    <p>只要條文用了 specially designed，就要先跑 §772.1 定義的 (a) 段（catch）再跑 (b) 段（release）。下一節細講。</p></li>
+  <li><h3>Step 5　同一產品群內逐條比對</h3>
+    <p>從產品群第一條開始，每個 ECCN 都比對一次參數；不是找到第一個像的就停。</p></li>
+  <li><h3>Step 6　都不符合才是 EAR99</h3>
+    <div class="q" data-file="ear/774-supp-4.txt" data-cite="Supp. No. 4(a)(6)">If the item is not described under any ECCN of any category of the CCL, then the item is designated as EAR99. EAR99 items may require a license if destined for a prohibited or restricted end user, end use or destination.</div></li>
+</ol>
+<div class="flag">
+  <b>注意</b>　「AT only」不等於 EAR99。x99x 這一類（例如 3A991、5A991、7A994）是有編號的 ECCN，只是管制理由只有反恐（AT）。
+  含 25 MHz 以上微控制器的晶片很多都落在 3A991.a.2，而不是 EAR99。見<a href="cat3.html#3a991">半導體 Cat 3</a>。
+</div>
+
+<h2 id="specially">「specially designed」：先抓、再放</h2>
+<p>這個定義決定了大量零組件的命運。(a) 段把東西抓進來：</p>
+<div class="q" data-file="ear/772.1.txt" data-cite="15 CFR § 772.1 “Specially designed” (a)(1)">As a result of “development” has properties peculiarly responsible for achieving or exceeding the performance levels, characteristics, or functions in the relevant ECCN or U.S. Munitions List (USML) paragraph; or</div>
+<div class="q" data-file="ear/772.1.txt" data-cite="15 CFR § 772.1 “Specially designed” (a)(2)">Is a “part,” “component,” “accessory,” “attachment,” or “software” for use in or with a commodity or defense article ‘enumerated’ or otherwise described on the CCL or the USML.</div>
+<p>(b) 段六種情形把它放出去。對晶片設計公司最常用的是 (b)(3)（與已量產的非管制品同功能、同性能）和 (b)(5)（通用目的開發）：</p>
+<div class="tbl-wrap"><table>
+  <thead><tr><th>release 款</th><th>要件（摘要）</th><th>典型用途</th></tr></thead>
+  <tbody>
+    <tr><td>(b)(1)</td><td>已經被 CJ 或 §748.3(e) 的跨部會 CCATS 認定為不含 specially designed 參數的 ECCN 或 EAR99</td><td>有官方前案時</td></tr>
+    <tr><td>(b)(2)</td><td>螺絲、墊片、彈簧、導線、焊料等通用件</td><td>五金件</td></tr>
+    <tr><td>(b)(3)</td><td>與量產中、未被列舉（或僅 AT）的品項同功能、同性能、同或等效的 form 與 fit</td><td>沿用既有平台的衍生料號</td></tr>
+    <tr><td>(b)(4)</td><td>開發時即知會用於受控品，也會用於非列舉或僅 AT 的品項</td><td>多用途零組件</td></tr>
+    <tr><td>(b)(5)</td><td>開發時沒有針對特定產品或產品類型</td><td>通用 IC</td></tr>
+    <tr><td>(b)(6)</td><td>開發時即知只用於 AT-only 或 EAR99 品項</td><td>消費性專用件</td></tr>
+  </tbody>
+</table></div>
+<p>(b)(4) 到 (b)(6) 都看「開發當時知道什麼」，而且要有當時的文件佐證：</p>
+<div class="q" data-file="ear/772.1.txt" data-cite="15 CFR § 772.1 “Specially designed”, Note to paragraphs (b)(4), (b)(5) and (b)(6)">For a commodity or software to be not “specially designed” on the basis of paragraphs (b)(4), (b)(5) or (b)(6), documents contemporaneous with its “development,” in their totality, must establish the elements of paragraphs (b)(4), (b)(5) or (b)(6). Such documents may include concept design information, marketing plans, declarations in patent applications,</div>
+<div class="infer">
+  <b>推論</b>　專利說明書寫「本發明適用於某某系統」不只是權利範圍問題，也會成為分類證據。說明書把用途寫得太窄或太軍事化，可能讓 (b)(5) 的「通用目的」站不住；
+  寫成通用架構、列舉民用實施例，則和 release 的方向一致。這是專利與出口管制交會的一個具體點，起草時值得一起看。
+</div>
+
+<h2 id="routes">三條分類途徑與兩個官方程序</h2>
+<p>BIS 的說明頁先提醒一件常被搞混的事：</p>
+<div class="q" data-file="bis/classify-your-item.txt" data-cite="BIS, Classify your item">An ECCN is distinct from and entirely unrelated to either a Schedule B number or a Harmonized Tariff System (HTS) code.</div>
+<div class="q" data-file="bis/classify-your-item.txt" data-cite="BIS, Classify your item">There are three ways to determine whether your item is described in an ECCN on the Commerce Control List.</div>
+<p>三條路是：問製造商、自行分類（照 Supp. 4）、向 BIS 申請分類（CCATS）。申請時一次最多六項，而且申請人要自己先給建議分類與理由：</p>
+<div class="q" data-file="ear/748.3.txt" data-cite="15 CFR § 748.3(b)(1)">Each Classification Request must be limited to six items.</div>
+<div class="q" data-file="ear/748.3.txt" data-cite="15 CFR § 748.3(b)(2)">You must provide a recommended classification in Block 22(a) and explain the basis for your recommendation based on the technical parameters specified in the appropriate ECCN in Block 24.</div>
+<p>台灣對應的是「鑑定」。管理辦法第 5 條由經濟部會同有關機關成立專責小組，其職掌包括：</p>
+<div class="q" data-file="tw/shtc-regulations-J0090013.txt" data-cite="戰略性高科技貨品輸出入管理辦法 第5條第1款">鑑定存疑之輸出入戰略性高科技貨品。</div>
+<div class="q" data-file="tw/shtc-classification-fee-J0090034.txt" data-cite="經濟部受理戰略性高科技貨品鑑定收費標準 第3條">申請一項貨品之鑑定，其費用以一件計之，每件收費新臺幣二千元整。本標準所適用鑑定，以書面鑑定為原則，實物鑑定為例外。</div>
+
+<h2 id="factsheet">事實清單：從 BIS 的加密技術問卷改寫</h2>
+<p>分類卡住，九成是事實不夠。BIS 為加密品設計的技術問卷（Supp. 6 to Part 742）其實是一份很好的「該問研發什麼」清單。第一題就問加密用在哪裡：</p>
+<div class="q" data-file="ear/742-supp-6.txt" data-cite="15 CFR 742 Supp. No. 6(a)(3)">Describe how encryption is used in the product and the categories of encrypted data (e.g., stored data, communications, management data, and internal data).</div>
+<div class="tbl-wrap"><table>
+  <thead><tr><th>問題（本站改寫）</th><th>對應判斷</th><th>出處</th></tr></thead>
+  <tbody>
+    <tr><td>加密保護的是什麼資料？只有認證、完整性、DRM 嗎？</td><td>是否構成「資料機密性密碼學」（5A002.a 技術註解 1）</td><td>Supp. 6 (a)(3)</td></tr>
+    <tr><td>用哪些演算法、金鑰長度、模式？</td><td>是否達「described security algorithm」</td><td>Supp. 6 (b)(1)</td></tr>
+    <tr><td>金鑰怎麼產生與管理？</td><td>金鑰管理是否只服務於被排除的功能</td><td>Supp. 6 (b)(2)</td></tr>
+    <tr><td>有沒有自創、未公開的演算法或協定？</td><td>non-standard cryptography → §740.17(b)(3)(ii)</td><td>Supp. 6 (b)(3)</td></tr>
+    <tr><td>支援哪些通訊與密碼協定（802.11、TLS、IPsec…）？</td><td>WPAN 除外、網路基礎設施等分流</td><td>Supp. 6 (b)(6)</td></tr>
+    <tr><td>使用者能否改動演算法、金鑰管理與金鑰空間？</td><td>密碼學註解 a.2、§740.17(b)(2)</td><td>Supp. 6 (b)(7)</td></tr>
+    <tr><td>加密功能是否來自第三方 IP 或晶片？</td><td>美國成分、de minimis、元件分類</td><td>Supp. 6 (b)(8)</td></tr>
+    <tr><td>是否為依客戶規格客製？</td><td>密碼學註解 b.3、§740.17(b)(2)(i)(C)</td><td>Supp. 6 (c)(3)</td></tr>
+  </tbody>
+</table></div>
+
+<h2 id="memo">分類決定書範本</h2>
+<p>本站「產品演練」頁的每個案例都用這個格式。重點是把<b>事實</b>、<b>條文</b>、<b>推論</b>分開寫，讓覆核的人知道哪一句可以去查、哪一句是判斷。</p>
+<div class="tbl-wrap"><table>
+  <thead><tr><th>欄位</th><th>寫什麼</th></tr></thead>
+  <tbody>
+    <tr><td>標的</td><td>料號、版本、硬體／韌體／SDK／技術文件分開列</td></tr>
+    <tr><td>事實</td><td>規格表、架構圖、演算法清單；每項註明來源文件與版本</td></tr>
+    <tr><td>法規版本</td><td>EAR eCFR 版本日；台灣清單公告日與文號</td></tr>
+    <tr><td>第 0 步</td><td>是否受 EAR 管：美國原產？de minimis？FDP？</td></tr>
+    <tr><td>管轄</td><td>是否在 USML；若否，寫明比對過的 USML 類別</td></tr>
+    <tr><td>逐步審查</td><td>Step 1–6；每個被排除的 ECCN 寫出排除理由與條文</td></tr>
+    <tr><td>結論</td><td>ECCN（到最細段落）＋管制理由；台灣管制號碼或「非清單項目」</td></tr>
+    <tr><td>後續義務</td><td>例如 §740.17(e)(3) 年度自我分類報告、台灣輸出許可</td></tr>
+    <tr><td>未決事實</td><td>還缺什麼、問誰、何時回覆</td></tr>
+    <tr><td>覆核</td><td>撰寫人、覆核人、日期；規格或法規改版時重審</td></tr>
+  </tbody>
+</table></div>
+
+<div class="selfcheck">
+  <p class="kicker">自我檢測</p>
+  <ol>
+    <li>一顆台灣設計、台灣製造、完全沒有美國成分的晶片，EAR 的 ECCN 對它有什麼意義？（提示：§734.3、§734.4、§734.9）</li>
+    <li>某 ECCN 寫「specially designed parts and components therefor」。你的零件符合 (a)(2)，接下來要做什麼？</li>
+    <li>3A991 與 EAR99 的差別在哪？為什麼這個差別會影響對特定最終用途的審查？</li>
+  </ol>
+</div>
+
+<footer class="site">
+  <p>法規版本：美國 EAR 取自 eCFR（版本日 2026-10-29）；台灣軍商兩用清單為 115-02-11 經貿字第11550200140號公告附件。全部來源、抓取日與雜湊值見 <a href="evidence.html#sources">來源總表</a>。</p>
+  <p>個人自學整理，不是法律意見。美國聯邦政府著作屬公共領域；我國法令與公文依著作權法第 9 條不得為著作權之標的。</p>
+</footer>
+
+</main></div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

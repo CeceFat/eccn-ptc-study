@@ -1,0 +1,77 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 4A994；eCFR 2026-10-29〕
+
+4A994 Computers, “electronic assemblies” and related equipment, not controlled by 4A001 or 4A003, and “specially designed” “parts” and “components” therefor (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) For associated “software” for commodities in this ECCN, see 4D994 and for associated “technology” for commodities in this ECCN, see 4E992. (2) See also ECCNs 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, and 5A992.z.
+
+Related Definitions: N/A
+
+Items:
+
+Note 1: The control status of the “digital computers” and related equipment described in 4A994 is determined by the control status of other equipment or systems provided:
+
+a. The “digital computers” or related equipment are essential for the operation of the other equipment or systems;
+
+b. The “digital computers” or related equipment are not a “principal element” of the other equipment or systems; and
+
+N.B. 1: The control status of “signal processing” or “image enhancement” equipment “specially designed” for other equipment with functions limited to those required for the other equipment is determined by the control status of the other equipment even if it exceeds the “principal element” criterion.
+
+N.B. 2: For the control status of “digital computers” or related equipment for telecommunications equipment, see Category 5, Part 1 (Telecommunications).
+
+c. The “technology” for the “digital computers” and related equipment is determined by 4E.
+
+a. Electronic computers and related equipment, and “electronic assemblies” and “specially designed” “parts” and “components” therefor, rated for operation at an ambient temperature above 343 K (70 °C);
+
+b. “Digital computers”, including equipment of “signal processing” or image enhancement”, having an “Adjusted Peak Performance” (“APP”) equal to or greater than 0.0128 Weighted TeraFLOPS (WT);
+
+c. “Electronic assemblies” that are “specially designed” or modified to enhance performance by aggregation of processors, as follows:
+
+c.1. Designed to be capable of aggregation in configurations of 16 or more processors;
+
+c.2. [Reserved];
+
+Note 1: 4A994.c applies only to “electronic assemblies” and programmable interconnections with a “APP” not exceeding the limits in 4A994.b, when shipped as unintegrated “electronic assemblies”. It does not apply to “electronic assemblies” inherently limited by nature of their design for use as related equipment controlled by 4A994.k.
+
+Note 2: 4A994.c does not control any “electronic assembly” “specially designed” for a product or family of products whose maximum configuration does not exceed the limits of 4A994.b.
+
+d. [Reserved];
+
+e. [Reserved];
+
+f. Equipment for “signal processing” or “image enhancement” having an “Adjusted Peak Performance” (“APP”) equal to or greater than 0.0128 Weighted TeraFLOPS WT;
+
+g. [Reserved];
+
+h. [Reserved];
+
+i. Equipment containing “terminal interface equipment” exceeding the limits in 5A991;
+
+j. Equipment “specially designed” to provide external interconnection of “digital computers” or associated equipment that allows communications at data rates exceeding 80 Mbyte/s.
+
+Note: 4A994.j does not control internal interconnection equipment (e.g., backplanes, buses) passive interconnection equipment, “network access controllers” or “communication channel controllers”.
+
+k. “Hybrid computers” and “electronic assemblies” and “specially designed” “parts” and “components” therefor containing analog-to-digital converters having all of the following characteristics:
+
+k.1. 32 channels or more; and
+
+k.2. A resolution of 14 bit (plus sign bit) or more with a conversion rate of 200,000 conversions/s or more.
+
+l. Computers, “electronic assemblies,” and “components,” n.e.s., containing integrated circuits, any of which meets or exceeds the limit of ECCN 3A991.p.
+
+Technical Note: For the purposes of 4A994.l, computers include “digital computers,” “hybrid computers,” and analog computers.

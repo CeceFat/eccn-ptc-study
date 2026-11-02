@@ -1,0 +1,57 @@
+〔U.S. BIS｜Flowchart 2: Classified in Category 5, Part 2｜抓取 2026-11-02｜https://www.bis.gov/media/documents/new-v2-flowchart2.pdf〕
+
+                  FLOWCHART 2: CLASSIFIED IN
+                CATEGORY 5, PART 2 OF THE EAR
+
+THIS ITEM IS CONTROLLED UNDER CATEGORY 5, PART 2 OF THE EAR
+
+                            (CONTINUED FROM FLOWCHART 1)
+
+                  Is the item
+
+described in Note 3,                                Yes
+Cat. 5, Part 3 –mass
+
+market (and not
+
+                  described by
+
+740.17(b)(2) and
+
+                  (b)3)(iii)?
+
+                                          No                   5A992.c, 5D992.c
+                                                        (5E992.b – “use” technology)
+          5A002/5B002/5D002/5E002                   See 740.17 table for authorizations
+   See License Exception ENC 740.17 table
+(Other License Exception available for export                  and requirements
+                                                    *IF <64 sym/768 asym/128 e. curve,
+     may include TMP. BAG, GOV, or LVS)
+                                                           then not in Cat. 5, Part 2
+
+     Is the                                    Yes  No submission
+  transaction
+ described in                                       requirement to BIS to
+  740.17(a)?
+                                                    export
+ No
+                                                            Submit a Classification
+  Is the item                                           Request to BIS. Semi‐annual
+ described in
+ 740.17(b)(2)                                  Yes sales report also required
+ or (b)(3)(iii)?
+                                                          Reminder: Not eligible for
+ No                                                       Mass Market – Note 3 of
+
+  Is the item                                                     Cat. 5, Part 2
+ described in
+740.17(b)(3)(i),                               Yes Submit a Classification
+   (ii) or (iv)?
+                                                               Request to BIS.
+ No
+                                                     The item is described in
+                                                    740.17(b)(1)‐ Self‐Classify
+
+                                                       Submit Annual self‐
+                                                       classification report
+

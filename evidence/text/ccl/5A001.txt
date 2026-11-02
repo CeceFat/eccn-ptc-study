@@ -1,0 +1,217 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 5A001；eCFR 2026-10-29〕
+
+5A001 Telecommunications systems, equipment, “components” and “accessories,” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, SL, AT
+
+Control(s) | Country chart (see Supp. No.1 to part 738)
+
+NS applies to 5A001.a, b.5, .e, .f.3 and .h | NS Column 1.
+
+NS applies to 5A001.b (except .b.5), .c, .d, .f (except f.3), .g, and .j | NS Column 2.
+
+SL applies to 5A001.f.1 | A license is required for all destinations, as specified in § 742.13 of the EAR. Accordingly, a column specific to this control does not appear on the Commerce Country Chart (Supplement No. 1 to Part 738 of the EAR). Note to SL paragraph: This licensing requirement does not supersede, nor does it implement, construe or limit the scope of any criminal statute, including, but not limited to the Omnibus Safe Streets Act of 1968, as amended.
+
+AT applies to entire entry | AT Column 1.
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A for 5A001.a, b.5, .e, f.3 and .h; $5000 for 5A001.b.1, .b.2, .b.3, .b.6, .d, f.2, f.4, and .g; $3000 for 5A001.c.
+
+GBS: Yes, except 5A001.a, b.5, e, and h.
+
+ACE: Yes for 5A001.j, except to Country Group E:1 or E:2. See § 740.22 of the EAR for eligibility criteria.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any commodity in 5A001.j to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No. 1 to part 740 of the EAR), or any commodity in 5A001.b.3, .b.5 or .h to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) See USML Category XI for controls on direction-finding “equipment” including types of “equipment” in ECCN 5A001.e and any other military or intelligence electronic “equipment” that is “subject to the ITAR.” (2) See USML Category XI(a)(4)(iii) for controls on electronic attack and jamming “equipment” defined in 5A001.f and .h that are subject to the ITAR. (3) The act of incorporating a radiation hardened integrated circuit into telecommunications equipment that is specified under ECCN 5A991 or designated as EAR99 does not, in and of itself, cause the telecommunications equipment to meet the specifications of ECCN paragraph 5A001.a.2. (4) See also ECCNs 5A101, 5A980, and 5A991.
+
+a. Any type of telecommunications equipment having any of the following characteristics, functions or features:
+
+a.1. “Specially designed” to withstand transitory electronic effects or electromagnetic pulse effects, both arising from a nuclear explosion;
+
+a.2. Specially hardened to withstand gamma, neutron or ion radiation;
+
+a.3. “Specially designed” to operate below 218 K (−55 °C); or
+
+a.4. “Specially designed” to operate above 397 K (124 °C);
+
+Note: 5A001.a.3 and 5A001.a.4 apply only to electronic equipment.
+
+b. Telecommunication systems and equipment, and “specially designed” “components” and “accessories” therefor, having any of the following characteristics, functions or features:
+
+b.1 Being underwater untethered communications systems having any of the following:
+
+b.1.a. An acoustic carrier frequency outside the range from 20 kHz to 60 kHz;
+
+b.1.b. Using an electromagnetic carrier frequency below 30 kHz; or
+
+b.1.c. Using electronic beam steering techniques; or
+
+b.1.d. Using “lasers” or light-emitting diodes (LEDs), with an output wavelength greater than 400 nm and less than 700 nm, in a “local area network”;
+
+b.2. Being radio equipment operating in the 1.5 MHz to 87.5 MHz band and having all of the following:
+
+b.2.a.. Automatically predicting and selecting frequencies and “total digital transfer rates” per channel to optimize the transmission; and
+
+b.2.b. Incorporating a linear power amplifier configuration having a capability to support multiple signals simultaneously at an output power of 1 kW or more in the frequency range of 1.5 MHz or more but less than 30 MHz, or 250 W or more in the frequency range of 30 MHz or more but not exceeding 87.5 MHz, over an “instantaneous bandwidth” of one octave or more and with an output harmonic and distortion content of better than −80 dB;
+
+b.3. Being radio equipment employing “spread spectrum” techniques, including “frequency hopping” techniques, not controlled in 5A001.b.4 and having any of the following:
+
+b.3.a. User programmable spreading codes; or
+
+b.3.b. A total transmitted bandwidth which is 100 or more times the bandwidth of any one information channel and in excess of 50 kHz;
+
+Note: 5A001.b.3.b does not control radio equipment “specially designed” for use with any of the following:
+
+a. Civil cellular radio-communications systems; or
+
+b. Fixed or mobile satellite Earth stations for commercial civil telecommunications.
+
+Note: 5A001.b.3 does not control equipment operating at an output power of 1 W or less.
+
+b.4. Being radio equipment employing ultra-wideband modulation techniques, having user programmable channelizing codes, scrambling codes, or network identification codes and having any of the following:
+
+b.4.a. A bandwidth exceeding 500 MHz; or
+
+b.4.b. A “fractional bandwidth” of 20% or more;
+
+b.5. Being digitally controlled radio receivers having all of the following:
+
+b.5.a. More than 1,000 channels;
+
+b.5.b. A 'channel switching time' of less than 1 ms;
+
+b.5.c. Automatic searching or scanning of a part of the electromagnetic spectrum; and
+
+b.5.d. Identification of the received signals or the type of transmitter; or
+
+Note: 5A001.b.5 does not control radio equipment “specially designed” for use with civil cellular radio-communications systems.
+
+Technical Note: For the purposes of 5A001.b.5.b, 'channel switching time' means the time (i.e., delay) to change from one receiving frequency to another, to arrive at or within ±0.05% of the final specified receiving frequency. Items having a specified frequency range of less than ±0.05% around their center frequency are defined to be incapable of channel frequency switching.
+
+b.6. Employing functions of digital “signal processing” to provide 'voice coding' output at rates of less than 700 bit/s.
+
+Technical Notes: 1. For variable rate 'voice coding', 5A001.b.6 applies to the 'voice coding' output of continuous speech.
+
+2. For the purposes of 5A001.b.6, 'voice coding' is defined as the technique to take samples of human voice and then convert these samples of human voice into a digital signal taking into account specific characteristics of human speech.
+
+c. Optical fibers of more than 500 m in length and specified by the manufacturer as being capable of withstanding a 'proof test' tensile stress of 2 × 10 9 N/m 2 or more;
+
+N.B.: For underwater umbilical cables, see 8A002.a.3.
+
+Technical Note: For the purposes of 5A001.c, 'proof test' is the on-line or off-line production screen testing that dynamically applies a prescribed tensile stress over a 0.5 to 3 m length of fiber at a running rate of 2 to 5 m/s while passing between capstans approximately 150 mm in diameter. The ambient temperature is a nominal 293 K (20 °C) and relative humidity 40%. Equivalent national standards may be used for executing the proof test.
+
+d. “Electronically steerable phased array antennae” as follows:
+
+d.1. Rated for operation above 31.8 GHz, but not exceeding 57 GHz, and having an Effective Radiated Power (ERP) equal to or greater than +20 dBm (22.15 dBm Effective Isotropic Radiated Power (EIRP));
+
+d.2. Rated for operation above 57 GHz, but not exceeding 66 GHz, and having an ERP equal to or greater than +24 dBm (26.15 dBm EIRP);
+
+d.3. Rated for operation above 66 GHz, but not exceeding 90 GHz, and having an ERP equal to or greater than +20 dBm (22.15 dBm EIRP);
+
+d.4. Rated for operation above 90 GHz;
+
+Note 1: 5A001.d does not control 'electronically steerable phased array antennae' for landing systems with instruments meeting ICAO standards covering Microwave Landing Systems (MLS).
+
+Note 2: 5A001.d does not apply to antennae “specially designed” for any of the following:
+
+a. Civil cellular or WLAN radio-communications systems;
+
+b. IEEE 802.15 or wireless HDMI; or
+
+c. Fixed or mobile satellite earth stations for commercial civil telecommunications.
+
+Technical Note: For the purposes of 5A001.d, 'electronically steerable phased array antenna' is an antenna which forms a beam by means of phase coupling, (i.e., the beam direction is controlled by the complex excitation coefficients of the radiating elements) and the direction of that beam can be varied (both in transmission and reception) in azimuth or in elevation, or both, by application of an electrical signal.
+
+e. Radio direction finding equipment operating at frequencies above 30 MHz and having all of the following, and “specially designed” “components” therefor:
+
+e.1. “Instantaneous bandwidth” of 10 MHz or more; and
+
+e.2. Capable of finding a Line Of Bearing (LOB) to non-cooperating radio transmitters with a signal duration of less than 1 ms;
+
+f. Mobile telecommunications interception or jamming equipment, and monitoring equipment therefor, as follows, and “specially designed” “components” therefor:
+
+f.1. Interception equipment designed for the extraction of voice or data, transmitted over the air interface;
+
+f.2. Interception equipment not specified in 5A001.f.1, designed for the extraction of client device or subscriber identifiers (e.g., IMSI, TIMSI or IMEI), signaling, or other metadata transmitted over the air interface;
+
+f.3. Jamming equipment “specially designed” or modified to intentionally and selectively interfere with, deny, inhibit, degrade or seduce mobile telecommunication services and performing any of the following:
+
+f.3.a. Simulate the functions of Radio Access Network (RAN) equipment;
+
+f.3.b. Detect and exploit specific characteristics of the mobile telecommunications protocol employed (e.g., GSM); or
+
+f.3.c. Exploit specific characteristics of the mobile telecommunications protocol employed (e.g., GSM);
+
+f.4. Radio Frequency (RF) monitoring equipment designed or modified to identify the operation of items specified in 5A001.f.1, 5A001.f.2 or 5A001.f.3.
+
+Note: 5A001.f.1 and 5A001.f.2 do not apply to any of the following:
+
+a. Equipment “specially designed” for the interception of analog Private Mobile Radio (PMR), IEEE 802.11 WLAN;
+
+b. Equipment designed for mobile telecommunications network operators; or
+
+c. Equipment designed for the “development” or “production” of mobile telecommunications equipment or systems.
+
+N.B. 1: See also the International Traffic in Arms Regulations (ITAR) (22 CFR parts 120-130). For items specified by 5A001.f.1 (including as previously specified by 5A001.i), see also 5A980 and the U.S. Munitions List (22 CFR part 121).
+
+N.B. 2: For radio receivers see 5A001.b.5.
+
+g. Passive Coherent Location (PCL) systems or equipment, “specially designed” for detecting and tracking moving objects by measuring reflections of ambient radio frequency emissions, supplied by non-radar transmitters.
+
+Technical Note: For the purposes of 5A001.g, non-radar transmitters may include commercial radio, television or cellular telecommunications base stations.
+
+Note: 5A001.g. does not control:
+
+a. Radio-astronomical equipment; or
+
+b. Systems or equipment, that require any radio transmission from the target.
+
+h. Counter Improvised Explosive Device (IED) equipment and related equipment, as follows:
+
+h.1. Radio Frequency (RF) transmitting equipment, not specified by 5A001.f, designed or modified for prematurely activating or preventing the initiation of Improvised Explosive Devices (IEDs);
+
+h.2. Equipment using techniques designed to enable radio communications in the same frequency channels on which co-located equipment specified by 5A001.h.1 is transmitting.
+
+N.B.: See also Category XI of the International Traffic in Arms Regulations (ITAR) (22 CFR parts 120-130).
+
+i. [Reserved]
+
+N.B.: See 5A001.f.1 for items previously specified by 5A001.i.
+
+j. IP network communications surveillance systems or equipment, and “specially designed” components therefor, having all of the following:
+
+j.1. Performing all of the following on a carrier class IP network (e.g., national grade IP backbone):
+
+j.1.a. Analysis at the application layer (e.g., Layer 7 of Open Systems Interconnection (OSI) model (ISO/IEC 7498-1));
+
+j.1.b. Extraction of selected metadata and application content (e.g., voice, video, messages, attachments); and
+
+j.1.c. Indexing of extracted data; and
+
+j.2. Being “specially designed” to carry out all of the following:
+
+j.2.a. Execution of searches on the basis of “hard selectors”; and
+
+j.2.b. Mapping of the relational network of an individual or of a group of people.
+
+Note: 5A001.j does not apply to “systems” or “equipment”, “specially designed” for any of the following:
+
+a. Marketing purpose;
+
+b. Network Quality of Service (QoS); or
+
+c. Quality of Experience (QoE).
+
+N.B.: See also the International Traffic in Arms Regulations (ITAR) (22 CFR parts 120-130). Defense articles described in USML Category XI(b) are “subject to the ITAR.”

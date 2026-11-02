@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C996；eCFR 2026-10-29〕
+
+1C996 Hydraulic fluids containing synthetic hydrocarbon oils, not controlled by 1C006, having all the following characteristics (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control:AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. A flash point exceeding 477 K (204 °C);
+
+b. A pour point at 239 K (−-34 °C) or less;
+
+c. A viscosity index of 75 or more; and
+
+d. A thermal stability at 616 K (343 °C).

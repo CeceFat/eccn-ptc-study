@@ -1,0 +1,79 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9E515；eCFR 2026-10-29〕
+
+9E515 “Technology” “required” for the “development,” “production,” operation, installation, repair, overhaul, or refurbishing of “spacecraft” and related commodities, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, MT, RS, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry except 9E515.x and .y | NS Column 1.
+
+RS applies to entire entry except 9E515.x and .y | RS Column 1.
+
+MT applies to technology for items in 9A515.d, .e.2, .h, and 9B515.a controlled for MT reasons | MT Column 1.
+
+NS applies to 9E515.x | NS Column 2.
+
+RS applies to 9E515.x | RS Column 2.
+
+RS applies to 9E515.y, except to Russia for use in, with, or for the International Space Station (ISS), including launch to the ISS | China, Russia, or Venezuela (see § 742.6(a)(7)).
+
+AT applies to entire entry | AT Column 1.
+
+License Requirement Note: The Commerce Country Chart is not used for determining license requirements for “technology” classified ECCN 9E515.f. See § 742.6(a)(9), which specifies that such “technology” is subject to a worldwide license requirement, except to Australia, Canada, and the United Kingdom.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+Special Conditions for STA
+
+STA: (1) Paragraph (c)(1) of License Exception STA (§ 740.20(c)(1) of the EAR) may not be used for ECCN 9E515.b, .d, .e, or .f unless determined by BIS to be eligible for License Exception STA in accordance with § 740.20(g) (License Exception STA eligibility requests for certain 9x515 and “600 series” items). (2) Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any “technology” in 9E515.
+
+List of Items Controlled
+
+Related Controls: Technical data directly related to articles described in USML Category XV are subject to the ITAR. See also ECCNs 3E001, 3E003, 6E001, and 6E002 for specific “space-qualified” items. See ECCNs 9E001 and 9E002 for technology for the International Space Station, the James Webb Space Telescope (JWST) and “parts,” “components,” “accessories,” and “attachments” “specially designed” therefor. See USML Category XV for controls on technical data and defense services related to launch vehicle integration.
+
+Related Definitions: N/A
+
+Items:
+
+a. “Technology” “required” for the “development,” “production,” installation, repair (including on-orbit anomaly resolution and analysis beyond established procedures), overhaul, or refurbishing of commodities controlled by ECCN 9A515 (except 9A515.a.1, a.2, a.3, a.4, .b, .d, .e, or .g), ECCN 9B515, or “software” controlled by ECCN 9D515.a.
+
+b. “Technology” “required” for the “development,” “production,” failure analysis or anomaly resolution of software controlled by ECCN 9D515.b.
+
+c. [Reserved]
+
+d. “Technology” “required” for the “development,” “production,” operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.d.
+
+e. “Technology” “required” for the “development,” “production,” failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.e.
+
+f. “Technology” “required” for the “development,” “production,” installation, repair (including on-orbit anomaly resolution and analysis beyond established procedures), overhaul, or refurbishing of commodities controlled by ECCN 9A515.a.1, a.2, a.3, a.4, or .g.
+
+g. through w. [Reserved]
+
+x. “Technology” “required” for the “development,” “production,” operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.x.
+
+y. Specific “technology” “required” for the “production,” “development,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities or software enumerated in ECCN 9A515.y or 9D515.y.
+
+Note 1: [Reserved]
+
+Note 2: Activities and technology/technical data directly related to or required for the spaceflight (e.g., sub-orbital, orbital, lunar, interplanetary, or otherwise beyond Earth orbit) passenger or participant experience, regardless of whether the passenger or participant experience is for space tourism, scientific or commercial research, commercial manufacturing/production activities, educational, media, or commercial transportation purposes, are not subject to the ITAR or the EAR. Such activities and technology/technical data include those directly related to or required for:
+
+(i) “Spacecraft” access, ingress, and egress, including the operation of all “spacecraft” doors, hatches, and airlocks;
+
+(ii) Physiological training (e.g., human-rated centrifuge training or parabolic flights, pressure suit or spacesuit training/operation);
+
+(iii) Medical evaluation or assessment of the spaceflight passenger or participant;
+
+(iv) Training for and operation by the passenger or participant of health and safety related hardware (e.g., seating, environmental control and life support, hygiene facilities, food preparation, exercise equipment, fire suppression, communications equipment, safety-related clothing or headgear) or emergency procedures;
+
+(v) Viewing of the interior and exterior of the spacecraft or terrestrial mock-ups;
+
+(vi) Observing “spacecraft” operations (e.g., pre-flight checks, landing, in-flight status);
+
+(vii) Training in “spacecraft” or terrestrial mock-ups for connecting to or operating passenger or participant equipment used for purposes other than operating the “spacecraft”; or
+
+(viii) Donning, wearing or utilizing the passenger's or participant's flight suit, pressure suit or spacesuit, and personal equipment.

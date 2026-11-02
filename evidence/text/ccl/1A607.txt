@@ -1,0 +1,79 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1A607；eCFR 2026-10-29〕
+
+1A607 Military dissemination “equipment” for riot control agents, military detection and protection “equipment” for toxicological agents (including chemical, biological, and riot control agents), and related commodities (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, UN
+
+Control(s) | Country chart (see Supp. No. 1 to Part 738)
+
+NS applies to entire entry | NS Column 1.
+
+RS applies to entire entry | RS Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+UN applies to entire entry | See § 746.1(b) for UN controls.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in 1A607.
+
+List of Items Controlled
+
+Related Controls: (1) Vaccines identified in ECCN 1C991 are not controlled by this ECCN. (2) See 22 CFR 121.1 (USML), Category XIV(h), for vaccines that are subject to the ITAR. (3) Protection and detection equipment and related items identified in ECCN 1A004, 1A995, or 2B351 are not controlled by this ECCN. (4) See 22 CFR 121.1 (USML), Category XIV(f), for dissemination, detection and protection equipment that is subject to the ITAR. (5) See ECCN 0A919 for “military commodities” located and produced outside the United States that incorporate more than a de minimis amount of US-origin “600 series” controlled content.
+
+Related Definitions: N/A
+
+Items: a. through d. [Reserved]
+
+e. “Equipment” “specially designed” for military use and for the dissemination of any of the riot control agents controlled in ECCN 1C607.a.
+
+f. Protection “equipment” (including air conditioning units, protective coatings, and protective clothing):
+
+f.1. Not controlled by USML Category XIV(f); and
+
+f.2. “Specially designed” for military use and for defense against:
+
+f.2.1. Materials specified by USML Category XIV (a) or (b); or
+
+f.2.2. Riot control agents controlled in 1C607.a.
+
+g. Decontamination “equipment”:
+
+g.1. Not controlled by USML Category XIV(f); and
+
+g.2. “Specially designed” for military use and for decontamination of objects contaminated with materials controlled by USML Category XIV(a) or (b).
+
+h. “Equipment”:
+
+h.1. Not controlled by USML Category XIV(f); and
+
+h.2. “Specially designed” for military use and for the detection or identification of:
+
+h.2.1. Materials specified by USML Category XIV(a) or (b); or
+
+h.2.2. Riot control agents controlled by ECCN 1C607.a.
+
+i. [Reserved]
+
+j. “Equipment” “specially designed” to:
+
+j.1. Interface with a detector, shelter, vehicle, vessel, or aircraft controlled by the USML or a “600 series” ECCN; and
+
+j.2. Collect and process samples of articles controlled in USML Category XIV(a) or (b).
+
+k. Medical countermeasures that are “specially designed” for military use (including pre- and post-treatments, antidotes, and medical diagnostics) and “specially designed” to counter chemical agents controlled by the USML Category XIV(a).
+
+Note: Examples of “equipment” controlled by this entry are barrier and non-barrier creams and filled autoinjectors (e.g., combopens where one injector contains 2-PAM and the other atropine) if “specially designed” to counter such agents.
+
+l. through w. [Reserved]
+
+x. “Parts,” “components,” “accessories,” and “attachments” that are “specially designed” for a commodity controlled by ECCN 1A607.e, .f, .g, .h, or .j or for a defense article controlled by USML Category XIV(f) and that are not enumerated or otherwise described elsewhere in the USML.

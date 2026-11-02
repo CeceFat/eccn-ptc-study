@@ -1,0 +1,29 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1A231；eCFR 2026-10-29〕
+
+1A231 Target assemblies and components for the production of tritium as follows (See List of Items Controlled):
+
+License Requirements
+
+Reason for Control: NP, AT
+
+Control(s) | Country chart(see supplement No. 1 to part 738)
+
+NP applies to entire entryAT applies to entire entry | NP Column 1AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See ECCNs 1E001 (“production”) and 1E201 (“use”) for technology for items controlled by this entry.
+
+Related Definitions: N/A
+
+Items: a. Target assemblies made of or containing lithium enriched in the lithium-6 isotope “specially designed” for the “production” of tritium through irradiation, including insertion in a nuclear reactor;
+
+b. Components “specially designed” for the target assemblies specified in item a.
+
+Technical Note to ECCN 1A231.b.: Components “specially designed” for target assemblies for the “production” of tritium may include lithium pellets, tritium getters, and specially-coated cladding.

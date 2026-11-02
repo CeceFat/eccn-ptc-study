@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 0E504；eCFR 2026-10-29〕
+
+0E504 “Technology” “required” for the “development” or “production” of commodities controlled by 0A504 that incorporate a focal plane array or image intensifier tube.
+
+License Requirements
+
+Reason for Control: RS, UN, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+RS applies to entire entry | RS Column 1.
+
+UN applies to entire entry | See § 746.1(b) of the EAR for UN controls.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+Special Conditions for STA
+
+License Exception STA may not be used for “technology” in ECCN 0E504, to any of the destinations listed in Country Group A:5 or A:6 (See supplement no.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

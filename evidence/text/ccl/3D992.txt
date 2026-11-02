@@ -1,0 +1,53 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3D992；eCFR 2026-10-29〕
+
+3D992 “Software” for the “development” or “production” of commodities specified in 3B001.a.4, c, d, f.1, f.5, f.6, k to n, p.2, p.4, r, or 3B002.c and “software” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+NS applies to the entire entry | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.4(a)(4) of the EAR.
+
+RS applies to the entire entry | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(6)(i) of the EAR.
+
+NS applies to “software” for equipment controlled by 3B001.c.1.a or c.1.c | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+
+RS applies to “software” for equipment controlled by 3B001.c.1.a or c.1.c | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+IEC: Yes, for “software” for equipment controlled by 3B001.c.1.a and 3B001.c.1.c, see § 740.2(a)(22) and § 740.24 of the EAR.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship or transmit “software” specified in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See supplement no.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: For additional controls that apply to this ECCN, see also § 744.11(a)(2)(v) and (a)(3) and § 744.23(a)(4)(iii) of the EAR.
+
+Related Definitions: N/A
+
+Items:
+
+a. “Software” “specially designed” for the “development” or “production,” of commodities specified in 3B001.a.4, c, d, f.1, f.5, f.6, k to n, p.2, p.4, r, or 3B002.c.
+
+b. 'Electronic Computer-Aided Design' ('ECAD') “software” designed for the integration of multiple dies into a 'multi-chip' integrated circuit, and having all of the following:
+
+b.1. Floor planning; and
+
+b.2. Co-design or co-simulation of die and package.
+
+Technical Note: For the purposes of 3D992.b, 'multi-chip' includes multi-die and multi-chiplet.
+
+c. “Software” not specified by 3D992.a designed or modified to perform all of the following in or with deep-ultraviolet immersion photolithography equipment:
+
+c.1. Decrease the minimum resolvable feature specified by 3B001.f.1.b; and
+
+c.2. Decrease the maximum 'dedicated chuck overlay' of deep-ultraviolet immersion lithography equipment below or equal to 1.5 nm.

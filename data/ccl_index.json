@@ -1,0 +1,4468 @@
+[
+{
+"eccn": "0A002",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Power generating or propulsion equipment “specially designed” for use with space, marine or mobile “nuclear reactors”. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "0A501",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Firearms (except 0A502 shotguns, 0A506 semi-automatic rifles, 0A507 semi-automatic pistols, and 0A508 semi-automatic shotguns) and related commodities (except semi-automatic related commodities enumerated or otherwise described in Eccn 0A509 for Eccns 0A506, 0A507, or 0A508) as follows (see List of "
+},
+{
+"eccn": "0A502",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Shotguns (except 0A508 semi-automatic shotguns) and related commodities (except semi-automatic related commodities enumerated or otherwise described in ECCN 0A509 for ECCN 0A508) as follows (see List of Items controlled)."
+},
+{
+"eccn": "0A503",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Discharge type arms; non-lethal or less-lethal grenades and projectiles, and “specially designed” “parts” and “components” of those projectiles; and devices to administer electric shock, for example, stun guns, shock batons, shock shields, electric cattle prods, immobilization guns and projectiles; "
+},
+{
+"eccn": "0A504",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Optical sighting devices for firearms (including shotguns controlled by 0A502); and “components” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0A505",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Ammunition as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0A506",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Semi-Automatic Rifles as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0A507",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Semi-Automatic Pistols as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0A508",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Semi-Automatic Shotguns as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0A509",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Certain “parts,” “components,” devices, “accessories,” and “attachments” for items controlled under ECCNs 0A506, 0A507, and 0A508 as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0A521",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Any commodity subject to the EAR that is not listed elsewhere in the CCL, but which is controlled for export because it provides at least a significant military or intelligence advantage to the United States or for foreign policy reasons."
+},
+{
+"eccn": "0A602",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Guns and Armament as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0A604",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Commodities related to military explosive devices and charges (see List of Items Controlled)."
+},
+{
+"eccn": "0A606",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Ground vehicles and related commodities, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0A614",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Military training “equipment,” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0A617",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Miscellaneous “Equipment,” Materials, and Related Commodities (See List of Items Controlled)."
+},
+{
+"eccn": "0A919",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "“Military commodities” located and produced outside the United States as follows (see list of items controlled)"
+},
+{
+"eccn": "0A977",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Water cannon systems for riot or crowd control, and “parts” and “components” “specially designed” therefor."
+},
+{
+"eccn": "0A978",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Law enforcement striking weapons, including saps, police batons, side handle batons, tonfas, sjamboks, and whips."
+},
+{
+"eccn": "0A979",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Police helmets and shields; and “specially designed” “components,” n.e.s."
+},
+{
+"eccn": "0A980",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Horses by sea."
+},
+{
+"eccn": "0A981",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Equipment designed for the execution of human beings as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0A982",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Law enforcement restraint devices, including leg irons, shackles, and handcuffs; straight jackets; stun cuffs; shock belts; shock sleeves; multipoint restraint devices such as restraint chairs; and “specially designed” “parts,” “components” and “accessories,” n.e.s."
+},
+{
+"eccn": "0A983",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "“Specially designed” implements of torture, including thumbscrews, thumbcuffs, fingercuffs, spiked batons, and “specially designed” “parts,” “components” and “accessories,” n.e.s."
+},
+{
+"eccn": "0A998",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Oil and gas exploration equipment, software, and data, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0A999",
+"cat": "0",
+"part": null,
+"group": "A",
+"title": "Specific Processing Equipment, as Follows (See List of Items Controlled)."
+},
+{
+"eccn": "0B501",
+"cat": "0",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and production “equipment” and related commodities for the “development” or “production” of commodities enumerated or otherwise described in ECCNs 0A501, 0A506, 0A507, or 0A509 or USML Category I as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0B505",
+"cat": "0",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and production “equipment” and related commodities “specially designed” for the “development” or “production” of commodities enumerated or otherwise described in ECCN 0A505 or USML Category III, except equipment for the hand loading of cartridges and shotgun shells, as follows (see"
+},
+{
+"eccn": "0B521",
+"cat": "0",
+"part": null,
+"group": "B",
+"title": "Any commodity subject to the EAR that is not listed elsewhere in the CCL, but which is controlled for export because it provides at least a significant military or intelligence advantage to the United States or for foreign policy reasons."
+},
+{
+"eccn": "0B602",
+"cat": "0",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and production “equipment” and related commodities “specially designed” for the “development” or “production” of commodities enumerated or otherwise described in ECCN 0A602 or USML Category II as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0B604",
+"cat": "0",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and production “equipment” and related commodities “specially designed” for the “development,” “production,” repair, overhaul, or refurbishing of commodities in ECCN 0A604 or related defense articles in USML Category IV (see List of Items Controlled)."
+},
+{
+"eccn": "0B606",
+"cat": "0",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and production “equipment” and related commodities, not enumerated on the USML, “specially designed” for the “development,” “production,” repair, overhaul, or refurbishing of commodities enumerated or otherwise described in ECCN 0A606 or USML Category VII (see List of Items Control"
+},
+{
+"eccn": "0B614",
+"cat": "0",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and production “equipment” for military training “equipment” and “specially designed” “parts,” “components,” “accessories” and “attachments” therefor, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0B617",
+"cat": "0",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and production “equipment” and related commodities “specially designed” for the “development,” “production,” repair, overhaul, or refurbishing of commodities enumerated or otherwise described in ECCN 0A617 or USML Category XIII, and “parts,” “components,” “accessories,” and “attach"
+},
+{
+"eccn": "0B999",
+"cat": "0",
+"part": null,
+"group": "B",
+"title": "Specific Processing Equipment, as Follows (See List of Items Controlled)."
+},
+{
+"eccn": "0C521",
+"cat": "0",
+"part": null,
+"group": "C",
+"title": "Any material subject to the EAR that is not listed elsewhere in the CCL, but which is controlled for export because it provides at least a significant military or intelligence advantage to the United States or for foreign policy reasons."
+},
+{
+"eccn": "0C606",
+"cat": "0",
+"part": null,
+"group": "C",
+"title": "Materials “specially designed” for commodities controlled by ECCN 0A606 not elsewhere specified in the USML (see List of Items Controlled)."
+},
+{
+"eccn": "0C617",
+"cat": "0",
+"part": null,
+"group": "C",
+"title": "Miscellaneous Materials “Specially Designed” for Military Use (see List of Items Controlled)."
+},
+{
+"eccn": "0D001",
+"cat": "0",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “development,” “production,” or “use” of commodities described in 0A002. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "0D501",
+"cat": "0",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production,” operation, or maintenance of commodities controlled by 0A501, 0A506, 0A507, 0A509 or 0B501."
+},
+{
+"eccn": "0D505",
+"cat": "0",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production,” operation, or maintenance of commodities controlled by 0A505 or 0B505."
+},
+{
+"eccn": "0D521",
+"cat": "0",
+"part": null,
+"group": "D",
+"title": "Any software subject to the EAR that is not listed elsewhere in the CCL, but which is controlled for export because it provides at least a significant military or intelligence advantage to the United States or for foreign policy reasons."
+},
+{
+"eccn": "0D602",
+"cat": "0",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production,” operation or maintenance of commodities controlled by 0A602 or 0B602 as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0D604",
+"cat": "0",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production,” operation, or maintenance of commodities controlled by ECCN 0A604 or 0B604 (see List of Items Controlled)."
+},
+{
+"eccn": "0D606",
+"cat": "0",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production,” operation, or maintenance of ground vehicles and related commodities controlled by 0A606, 0B606, or 0C606 (see List of Items Controlled)."
+},
+{
+"eccn": "0D614",
+"cat": "0",
+"part": null,
+"group": "D",
+"title": "“Software” related to military training “equipment,” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0D617",
+"cat": "0",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production,” operation, or maintenance of commodities controlled by 0A617, “equipment” controlled by 0B617, or materials controlled by 0C617 (see List of Items Controlled)."
+},
+{
+"eccn": "0D977",
+"cat": "0",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production” or “use” of commodities controlled by 0A977."
+},
+{
+"eccn": "0D999",
+"cat": "0",
+"part": null,
+"group": "D",
+"title": "Specific Software, as Follows (See List of Items Controlled)."
+},
+{
+"eccn": "0E001",
+"cat": "0",
+"part": null,
+"group": "E",
+"title": "“Technology,” according to the Nuclear Technology Note, for the “development,” “production,” or “use” of items described in 0A002, or 0D001."
+},
+{
+"eccn": "0E501",
+"cat": "0",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, or overhaul of commodities controlled by 0A501, 0A506, 0A507, 0A509, or 0B501 as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0E502",
+"cat": "0",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development” or “production” of commodities controlled by 0A502, 0A508, or 0A509.a or .d."
+},
+{
+"eccn": "0E504",
+"cat": "0",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development” or “production” of commodities controlled by 0A504 that incorporate a focal plane array or image intensifier tube."
+},
+{
+"eccn": "0E505",
+"cat": "0",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by 0A505."
+},
+{
+"eccn": "0E521",
+"cat": "0",
+"part": null,
+"group": "E",
+"title": "Any technology subject to the EAR that is not listed elsewhere in the CCL, but which is controlled for export because it provides at least a significant military or intelligence advantage to the United States or for foreign policy reasons."
+},
+{
+"eccn": "0E602",
+"cat": "0",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by 0A602 or 0B602, or “software” controlled by 0D602 as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0E604",
+"cat": "0",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by ECCN 0A604 or 0B604, or “software” controlled by ECCN 0D604 (see List of Items Controlled)."
+},
+{
+"eccn": "0E606",
+"cat": "0",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbushing of ground vehicles and related commodities in 0A606, 0B606, 0C606, or software in 0D606 (see List of Items Controlled)."
+},
+{
+"eccn": "0E614",
+"cat": "0",
+"part": null,
+"group": "E",
+"title": "“Technology,” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "0E617",
+"cat": "0",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by ECCN 0A617, “equipment” controlled by 0B617, or materials controlled by 0C617, or “software” controlled by ECCN 0D617 (see List of Items C"
+},
+{
+"eccn": "0E977",
+"cat": "0",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development” or “production” of commodities controlled by 0A977."
+},
+{
+"eccn": "0E982",
+"cat": "0",
+"part": null,
+"group": "E",
+"title": "“Technology” exclusively for the “development” or “production” of equipment controlled by 0A982 or 0A503."
+},
+{
+"eccn": "1A001",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "“Parts” and “components” made from fluorinated compounds, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1A002",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "“Composite” structures or laminates, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1A003",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Manufactures of non-“fusible” aromatic polyimides in film, sheet, tape or ribbon form having any of the following (see List of Items Controlled)."
+},
+{
+"eccn": "1A004",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Protective and detection equipment and “components”, not “specially designed” for military use, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1A005",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Body armor and “specially designed” “components” therefor, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1A006",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Equipment, “specially designed” or modified for the disposal of Improvised Explosive Devices (IEDs), as follows (see List of Items Controlled), and “specially designed” “components” and “accessories” therefor."
+},
+{
+"eccn": "1A007",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Equipment and devices, “specially designed” to initiate charges and devices containing “energetic materials,” by electrical means, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1A008",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Charges, devices and “components”, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1A101",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Devices for reduced observables such as radar reflectivity, ultraviolet/infrared signatures and acoustic signatures, for applications usable in rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km or their complete subsystems."
+},
+{
+"eccn": "1A102",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Resaturated pyrolized carbon-carbon “parts” and “components” designed for rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "1A202",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Composite structures, other than those controlled by 1A002, in the form of tubes and having both of the following characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "1A225",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Platinized catalysts “specially designed” or prepared for promoting the hydrogen isotope exchange reaction between hydrogen and water for the recovery of tritium from heavy water or for the production of heavy water."
+},
+{
+"eccn": "1A226",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Specialized packings, which may be used in separating heavy water from ordinary water, having both of the following characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "1A227",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "High-density (lead glass or other) radiation shielding windows, having all of the following characteristics (see List of Items Controlled), and “specially designed” frames therefor."
+},
+{
+"eccn": "1A231",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Target assemblies and components for the production of tritium as follows (See List of Items Controlled):"
+},
+{
+"eccn": "1A290",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Depleted uranium (any uranium containing less than 0.711% of the isotope U-235) in shipments of more than 1,000 kilograms in the form of shielding contained in X-ray units, radiographic exposure or teletherapy devices, radioactive thermoelectric generators, or packaging for the transportation of rad"
+},
+{
+"eccn": "1A607",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Military dissemination “equipment” for riot control agents, military detection and protection “equipment” for toxicological agents (including chemical, biological, and riot control agents), and related commodities (see List of Items Controlled)."
+},
+{
+"eccn": "1A613",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Armored and protective “equipment” and related commodities, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1A984",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Chemical agents, including tear gas formulation containing 1 percent or less of orthochlorobenzalmalononitrile (CS), or 1 percent or less of chloroacetophenone (CN), except in individual containers with a net weight of 20 grams or less; liquid pepper except when packaged in individual containers wit"
+},
+{
+"eccn": "1A985",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Fingerprinting powders, dyes, and inks."
+},
+{
+"eccn": "1A995",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Protective and detection equipment not “specially designed” for military use and not controlled by ECCN 1A004 or ECCN 2B351, as follows (see List of Items Controlled), and “parts” and “components” not “specially designed” for military use and not controlled by ECCN 1A004 or ECCN 2B351 therefor."
+},
+{
+"eccn": "1A999",
+"cat": "1",
+"part": null,
+"group": "A",
+"title": "Specific Processing Equipment, n.e.s., as Follows (See List of Items Controlled)."
+},
+{
+"eccn": "1B001",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Equipment for the production or inspection of “composite” structures or laminates controlled by 1A002 or “fibrous or filamentary materials” controlled by 1C010, as follows (see List of Items Controlled), and “specially designed” “components” and “accessories” therefor."
+},
+{
+"eccn": "1B002",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Equipment designed to produce metal alloy powder or particulate materials and having any of the following (see List of Items Controlled)."
+},
+{
+"eccn": "1B003",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Tools, dies, molds or fixtures, for “superplastic forming” or “diffusion bonding” titanium, aluminum or their alloys, “specially designed” for the manufacture of any of the following (see List of Items Controlled)."
+},
+{
+"eccn": "1B018",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Items on the Wassenaar Arrangement Munitions List (see List of Items Controlled)."
+},
+{
+"eccn": "1B101",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Equipment, other than that controlled by 1B001, for the “production” of structural composites, fibers, prepregs or preforms, usable for rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km and their subsystems, as follows (see List of Items Co"
+},
+{
+"eccn": "1B102",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Metal powder “production equipment,” other than that specified in 1B002, and “parts” and “components” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1B115",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "“Equipment, other than that controlled in 1B002 or 1B102, for the “production” of propellant or propellant constituents (see List of Items Controlled), and “specially designed” “parts” and “components” therefor."
+},
+{
+"eccn": "1B116",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "“Specially Designed” nozzles for producing pyrolitically derived materials formed on a mold, mandrel or other substrate from precursor gases which decompose in the 1,573 K (1,300 °C) to 3,173 K (2,900 °C) temperature range at pressures of 130 Pa to 20 kPa."
+},
+{
+"eccn": "1B117",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Batch mixers having all of the following (see List of Items Controlled), and “specially designed” “parts” and “components” therefor."
+},
+{
+"eccn": "1B118",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Continuous mixers having all of the following (see List of Items Controlled), and “specially designed” “parts” and “components” therefor."
+},
+{
+"eccn": "1B119",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Fluid energy mills usable for grinding or milling propellant or propellant constituents specified in 1C011.a, 1C011.b or 1C111, or on the U.S. Munitions List, and “specially designed” “parts” and “components” therefor."
+},
+{
+"eccn": "1B201",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Filament winding machines (other than those controlled by ECCN 1B001 or 1B101) and related equipment, as described in this ECCN (see List of Items Controlled)."
+},
+{
+"eccn": "1B225",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Electrolytic cells for fluorine production with a production capacity greater than 250 g of fluorine per hour."
+},
+{
+"eccn": "1B226",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Electromagnetic isotope separators designed for, or equipped with, single or multiple ion sources capable of providing a total ion beam current of 50 mA or greater."
+},
+{
+"eccn": "1B228",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Hydrogen cryogenic distillation columns having all of the characteristics described in this ECCN (see List of Items Controlled)."
+},
+{
+"eccn": "1B230",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Pumps capable of circulating solutions of concentrated or dilute potassium amide catalyst in liquid ammonia (KNH2/NH3), having all of the following characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "1B231",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Tritium facilities or plants, and equipment therefor, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1B232",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Turboexpanders or turboexpander-compressor sets having both of the following characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "1B233",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Lithium isotope separation facilities or plants, and systems and equipment therefor (see List of Items Controlled)."
+},
+{
+"eccn": "1B234",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "High explosive containment vessels, chambers, containers, and other similar containment devices, not enumerated in ECCN 1B608 or in USML Category IV or V of the ITAR, designed for the testing of high explosives or explosive devices and having both of the characteristics described in this ECCN (see L"
+},
+{
+"eccn": "1B607",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Military test, inspection, and production “equipment” and related commodities “specially designed” for the “development,” “production,” repair, overhaul, or refurbishing of commodities identified in ECCN 1A607 or 1C607, or defense articles enumerated or otherwise described in USML Category XIV (see "
+},
+{
+"eccn": "1B608",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and production “equipment” and related commodities “specially designed” for the “development,” “production,” repair, overhaul, or refurbishing of commodities enumerated in ECCN 1C608 or USML Category V (see List of Items Controlled)."
+},
+{
+"eccn": "1B613",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and “production” “equipment” and related commodities “specially designed” for the “development,” “production,” repair, overhaul, or refurbishing of commodities controlled by ECCN 1A613 or USML Category X, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1B999",
+"cat": "1",
+"part": null,
+"group": "B",
+"title": "Specific processing equipment, n.e.s., as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C001",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Materials “specially designed” for absorbing electromagnetic radiation, or intrinsically conductive polymers, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C002",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Metal alloys, metal alloy powder and alloyed materials, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C003",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Magnetic metals, of all types and of whatever form, having any of the following (see List of Items Controlled)."
+},
+{
+"eccn": "1C004",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Uranium titanium alloys or tungsten alloys with a “matrix” based on iron, nickel or copper, having all of the following (see List of Items Controlled)."
+},
+{
+"eccn": "1C005",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "“Superconductive” “composite” conductors in lengths exceeding 100 m or with a mass exceeding 100 g, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C006",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Fluids and lubricating materials, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C007",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Ceramic powders, ceramic “matrix” “composite” materials and 'precursor materials,' as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C008",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Non-fluorinated polymeric substances as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C009",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Unprocessed fluorinated compounds as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C010",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "“Fibrous or filamentary materials” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C011",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Metals and compounds, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C018",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Commercial charges and devices containing energetic materials on the Wassenaar Arrangement Munitions List and certain chemicals."
+},
+{
+"eccn": "1C101",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Materials for Reduced Observables such as Radar Reflectivity, Ultraviolet/Infrared Signatures and Acoustic Signatures (i.e., Stealth Technology), Other than Those Controlled by 1C001, for applications usable in rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or"
+},
+{
+"eccn": "1C102",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Resaturated pyrolized carbon-carbon materials designed for space launch vehicles specified in 9A004 or sounding rockets specified in 9A104. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "1C107",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Graphite and Ceramic Materials, Other Than Those Controlled by 1C007, Which Can be Machined to Any of the Following Products as Follows (See List of Items Controlled)."
+},
+{
+"eccn": "1C111",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Propellants and constituent chemicals for propellants, other than those specified in 1C011, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C116",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Maraging steels having both of the following (see List of Items Controlled)."
+},
+{
+"eccn": "1C117",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Materials for the fabrication of missile “parts” or “components” for rockets or missiles capable of achieving a “range” equal to or greater than 300 km, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C118",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Titanium-stabilized duplex stainless steel (Ti-DSS), having all of the following characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "1C202",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Alloys other than those controlled by 1C002.b.3 or 1C002.b.4 as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C210",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "“Fibrous or filamentary materials” or prepregs, other than those controlled by 1C010.a, .b or .e, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C216",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Maraging steel, other than that controlled by 1C116, “capable of” an ultimate tensile strength of 1,950 MPa or more, at 293 K (20 °C)."
+},
+{
+"eccn": "1C225",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Boron enriched in the boron-10 ( 10B) isotope to greater than its natural isotopic abundance, as follows: elemental boron, compounds, mixtures containing boron, manufactures thereof, waste or scrap of any of the foregoing."
+},
+{
+"eccn": "1C226",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Tungsten, tungsten carbide, and alloys containing more than 90% tungsten by weight, having both of the following characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "1C227",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Calcium having both of the following characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "1C228",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Magnesium having both of the following characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "1C229",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Bismuth having both of the following characteristics (see List of Items Controlled)"
+},
+{
+"eccn": "1C230",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Beryllium metal, alloys containing more than 50% beryllium by weight, beryllium compounds, manufactures thereof, and waste or scrap of any of the foregoing."
+},
+{
+"eccn": "1C231",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Hafnium metal, hafnium alloys and compounds containing more than 60% hafnium by weight, manufactures thereof, and waste or scrap of any of the foregoing."
+},
+{
+"eccn": "1C232",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Helium-3 ( 3He), mixtures containing helium-3, and products or devices containing any of the foregoing."
+},
+{
+"eccn": "1C233",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Lithium enriched in the lithium-6 ( 6 Li) isotope to greater than its natural isotopic abundance, and products or devices containing enriched lithium, as follows: elemental lithium, alloys, compounds, mixtures containing lithium, manufactures thereof, and waste or scrap of any of the foregoing."
+},
+{
+"eccn": "1C234",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Zirconium with a hafnium content of less than 1 part hafnium to 500 parts zirconium by weight, as follows: metal, alloys containing more than 50% zirconium by weight, compounds, manufactures thereof, and waste or scrap of any of the foregoing."
+},
+{
+"eccn": "1C235",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Tritium, tritium compounds, mixtures containing tritium in which the ratio of tritium to hydrogen atoms exceeds 1 part in 1,000, and products or devices containing any of the foregoing."
+},
+{
+"eccn": "1C236",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Radionuclides appropriate for making neutron sources based on alpha-n reaction and products or devices containing such radionuclides (see List of Items Controlled)."
+},
+{
+"eccn": "1C237",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Radium-226 ( 226Ra), radium-226 alloys, radium-226 compounds, mixtures containing radium-226, manufactures thereof, and products or devices containing any of the foregoing."
+},
+{
+"eccn": "1C239",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "High explosives, other than those controlled by the U.S. Munitions List, or substances or mixtures containing more than 2% by weight thereof, with a crystal density greater than 1.8 g/cm 3 and having a detonation velocity greater than 8,000 m/s."
+},
+{
+"eccn": "1C240",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Nickel powder or porous nickel metal, other than nickel powder or porous nickel metal, specially prepared for the manufacture of gaseous diffusion barriers subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110), as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C241",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Rhenium and alloys containing rhenium (see List of Items Controlled)."
+},
+{
+"eccn": "1C298",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Graphite and deuterium that is intended for use other than in a nuclear reactor, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C350",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Chemicals that may be used as precursors for toxic chemical agents (see List of Items Controlled)."
+},
+{
+"eccn": "1C351",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Human and animal pathogens and “toxins,” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C353",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Genetic elements and genetically modified organisms, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C354",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Plant pathogens, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C355",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Chemical Weapons Convention (CWC) Schedule 2 and 3 chemicals and families of chemicals not controlled by ECCN 1C350 or “subject to the ITAR” (see 22 CFR parts) (see List of Items Controlled)."
+},
+{
+"eccn": "1C395",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Mixtures and Medical, Analytical, Diagnostic, and Food Testing Kits Not Controlled by ECCN 1C350, as follows (See List of Items Controlled)."
+},
+{
+"eccn": "1C607",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Tear Gases, Riot Control Agents and materials for the detection and decontamination of chemical warfare agents (see List of Items Controlled)."
+},
+{
+"eccn": "1C608",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "“Energetic materials” and related commodities (see List of Items Controlled)."
+},
+{
+"eccn": "1C980",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Inorganic chemicals listed in Supplement No. 1 to part 754 of the EAR that were produced or derived from the Naval Petroleum Reserves (NPR) or became available for export as a result of an exchange of any NPR produced or derived commodities."
+},
+{
+"eccn": "1C982",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Other petroleum products listed in Supplement No. 1 to part 754 of the EAR that were produced or derived from the Naval Petroleum Reserves (NPR) or became available for export as a result of an exchange of any NPR produced or derived commodities."
+},
+{
+"eccn": "1C983",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Natural gas liquids and other natural gas derivatives listed in Supplement No. 1 to part 754 of the EAR that were produced or derived from the Naval Petroleum Reserves (NPR) or became available for export as a result of an exchange of any NPR produced or derived commodities."
+},
+{
+"eccn": "1C984",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Manufactured gas and synthetic natural gas (except when commingled with natural gas and thus subject to export authorization from the Department of Energy) listed in Supplement No. 1 to part 754 of the EAR that were produced or derived from the Naval Petroleum Reserves (NPR) or became available for "
+},
+{
+"eccn": "1C988",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Unprocessed western red cedar (thuja plicata) logs and timber, and rough, dressed and worked lumber containing wane, as described in § 754.4 of the EAR."
+},
+{
+"eccn": "1C990",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Fibrous and filamentary materials, not controlled by 1C010 or 1C210, for use in “composite” structures and with a specific modulus of 3.18 × 10 6 m or greater and a specific tensile strength of 7.62 × 10 4 m or greater."
+},
+{
+"eccn": "1C991",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Vaccines, immunotoxins, medical products, diagnostic and food testing kits, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C992",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Commercial charges and devices containing energetic materials, n.e.s. and nitrogen trifluoride in a gaseous state (see List of Items Controlled)."
+},
+{
+"eccn": "1C995",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Mixtures not controlled by ECCN 1C350, ECCN 1C355 or ECCN 1C395 that contain chemicals controlled by ECCN 1C350 or ECCN 1C355 and medical, analytical, diagnostic, and food testing kits not controlled by ECCN 1C350 or ECCN 1C395 that contain chemicals controlled by ECCN 1C350.d, as follows (see List "
+},
+{
+"eccn": "1C996",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Hydraulic fluids containing synthetic hydrocarbon oils, not controlled by 1C006, having all the following characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "1C997",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Ammonium Nitrate, Including Fertilizers and Fertilizer Blends Containing More Than 15% by Weight Ammonium Nitrate, Except Liquid Fertilizers (Containing Any Amount of Ammonium Nitrate) or Dry Fertilizers Containing Less Than 15% by Weight Ammonium Nitrate."
+},
+{
+"eccn": "1C998",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Non-fluorinated polymeric substances, not controlled by 1C008, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1C999",
+"cat": "1",
+"part": null,
+"group": "C",
+"title": "Specific Materials, n.e.s., as Follows (See List of Items Controlled)."
+},
+{
+"eccn": "1D001",
+"cat": "1",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “development”, “production” or “use” of equipment controlled by 1B001 to 1B003."
+},
+{
+"eccn": "1D002",
+"cat": "1",
+"part": null,
+"group": "D",
+"title": "“Software” for the “development” of organic “matrix”, metal “matrix” or carbon “matrix” laminates or “composites”."
+},
+{
+"eccn": "1D003",
+"cat": "1",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified to enable equipment to perform the functions of equipment controlled under 1A004.c or 1A004.d."
+},
+{
+"eccn": "1D018",
+"cat": "1",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed“ or modified for the “development,” “production,” or “use” of items controlled by 1B018.b."
+},
+{
+"eccn": "1D101",
+"cat": "1",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the operation or maintenance of commodities controlled by 1B101, 1B102, 1B115, 1B117, 1B118, or 1B119."
+},
+{
+"eccn": "1D103",
+"cat": "1",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for reduced observables such as radar reflectivity, ultraviolet/infrared signatures and acoustic signatures, for applications usable in rockets, missiles, or unmanned aerial vehicles capable of delivering at least a 500 kg payload to a “range” equal to or greater than"
+},
+{
+"eccn": "1D201",
+"cat": "1",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “use” of items controlled by 1B201."
+},
+{
+"eccn": "1D390",
+"cat": "1",
+"part": null,
+"group": "D",
+"title": "“Software” for process control that is specifically configured to control or initiate “production” of chemicals controlled by 1C350."
+},
+{
+"eccn": "1D607",
+"cat": "1",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production,” operation, or maintenance of items controlled by 1A607, 1B607 or 1C607 (see List of Items Controlled)."
+},
+{
+"eccn": "1D608",
+"cat": "1",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production,” operation, or maintenance of commodities controlled by 1B608 or 1C608 (see List of Items Controlled)."
+},
+{
+"eccn": "1D613",
+"cat": "1",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production,” operation, or maintenance of commodities controlled by 1A613 or 1B613, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1D993",
+"cat": "1",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production” or “use” of materials controlled by 1C210.b, or 1C990."
+},
+{
+"eccn": "1D999",
+"cat": "1",
+"part": null,
+"group": "D",
+"title": "Specific Software, n.e.s., as Follows (See List of Items Controlled)."
+},
+{
+"eccn": "1E001",
+"cat": "1",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “development” or “production” of items controlled by 1A002, 1A003, 1A004, 1A005, 1A006.b, 1A007, 1A008 1A101, 1A231, 1B (except 1B608, 1B613 or 1B999), or 1C (except 1C355, 1C608, 1C980 to 1C984, 1C988, 1C990, 1C991, 1C995 to 1C999)."
+},
+{
+"eccn": "1E002",
+"cat": "1",
+"part": null,
+"group": "E",
+"title": "Other “technology” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1E101",
+"cat": "1",
+"part": null,
+"group": "E",
+"title": "“Technology”, in accordance with the General Technology Note, for the “use” of commodities and “software” controlled by 1A101, 1A102, 1B001, 1B101, 1B102, 1B115 to 1B119, 1C001, 1C007, 1C011, 1C101, 1C107, 1C111, 1C116, 1C117, 1C118, 1D001, 1D101, or 1D103."
+},
+{
+"eccn": "1E102",
+"cat": "1",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “development” of software controlled by 1D001, 1D101 or 1D103."
+},
+{
+"eccn": "1E103",
+"cat": "1",
+"part": null,
+"group": "E",
+"title": "“Technical data” (including processing conditions) and procedures for the regulation of temperature, pressure or atmosphere in autoclaves or hydroclaves, when used for the “production” of “composites” or partially processed “composites”, usable for equipment or materials specified in 1C007, 1C102, 1"
+},
+{
+"eccn": "1E104",
+"cat": "1",
+"part": null,
+"group": "E",
+"title": "“Technology” for the “production” of pyrolytically derived materials formed on a mold, mandrel or other substrate from precursor gases which decompose in the 1,573 K (1,300 °C) to 3,173 K (2,900 °C) temperature range at pressures of 130 Pa (1 mm Hg) to 20 kPa (150 mm Hg), including “technology” for "
+},
+{
+"eccn": "1E201",
+"cat": "1",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “use” of items controlled by 1A002, 1A007, 1A202, 1A225 to 1A227, 1A231, 1B201, 1B225, 1B226, 1B228 to 1B232, 1B233.b, 1B234, 1C002.b.3 and b.4, 1C010.a, 1C010.b, 1C010.e.1, 1C202, 1C210, 1C216, 1C225 to 1C237, 1C239 to 1C241 or 1D201."
+},
+{
+"eccn": "1E202",
+"cat": "1",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “development” or “production” of goods controlled by 1A202 or 1A225 to 1A227."
+},
+{
+"eccn": "1E203",
+"cat": "1",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “development” or “production” of “software” controlled by 1D201."
+},
+{
+"eccn": "1E350",
+"cat": "1",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the “General Technology Note” for facilities designed or intended to produce chemicals controlled by 1C350."
+},
+{
+"eccn": "1E351",
+"cat": "1",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the “General Technology Note” for the disposal of chemicals or microbiological materials controlled by 1C350, 1C351, 1C353, or 1C354."
+},
+{
+"eccn": "1E355",
+"cat": "1",
+"part": null,
+"group": "E",
+"title": "Technology for the production of Chemical Weapons Convention (CWC) Schedule 2 and 3 chemicals, as follows (see List of Items Controlled):"
+},
+{
+"eccn": "1E607",
+"cat": "1",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of items controlled by ECCN 1A607, 1B607, 1C607, or 1D607 (see List of Items Controlled)."
+},
+{
+"eccn": "1E608",
+"cat": "1",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of equipment controlled in 1B608 or materials controlled by 1C608 (see List of Items Controlled)."
+},
+{
+"eccn": "1E613",
+"cat": "1",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by 1A613 or 1B613 or “software” controlled by 1D613, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "1E994",
+"cat": "1",
+"part": null,
+"group": "E",
+"title": "“Technology” for the “development”, “production”, or “use” of fibrous and filamentary materials controlled by 1C990."
+},
+{
+"eccn": "1E998",
+"cat": "1",
+"part": null,
+"group": "E",
+"title": "“Technology” for the “development” or “production” of processing equipment controlled by 1B999, and materials controlled by 1C996, 1C997, 1C998, or 1C999."
+},
+{
+"eccn": "2A001",
+"cat": "2",
+"part": null,
+"group": "A",
+"title": "Anti-friction bearings, bearing systems and “components,” as follows, (see List of Items Controlled)."
+},
+{
+"eccn": "2A101",
+"cat": "2",
+"part": null,
+"group": "A",
+"title": "Radial Ball Bearings Having all Tolerances Specified in Accordance With ISO 492 Tolerance Class 2 (or ANSI/ABMA Std 20 Tolerance Class ABEC-9 or Other National Equivalents), or Better and Having all of the Following Characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "2A225",
+"cat": "2",
+"part": null,
+"group": "A",
+"title": "Crucibles made of materials resistant to liquid actinide metals (see List of Items Controlled)."
+},
+{
+"eccn": "2A226",
+"cat": "2",
+"part": null,
+"group": "A",
+"title": "Valves having all of the following characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "2A290",
+"cat": "2",
+"part": null,
+"group": "A",
+"title": "Generators and other equipment “specially designed”, prepared, or intended for use with nuclear plants."
+},
+{
+"eccn": "2A291",
+"cat": "2",
+"part": null,
+"group": "A",
+"title": "Equipment, except items controlled by 2A290, related to nuclear material handling and processing and to nuclear reactors, and “parts,” “components” and “accessories” therefor (see List of Items Controlled)."
+},
+{
+"eccn": "2A983",
+"cat": "2",
+"part": null,
+"group": "A",
+"title": "Explosives or detonator detection equipment, both bulk and trace based, consisting of an automated device, or combination of devices for automated decision making to detect the presence of different types of explosives, explosive residue, or detonators; and “parts” and “components,” n.e.s."
+},
+{
+"eccn": "2A984",
+"cat": "2",
+"part": null,
+"group": "A",
+"title": "Concealed object detection equipment operating in the frequency range from 30 GHz to 3000 GHz and having a spatial resolution of 0.1 milliradian up to and including 1 milliradian at a standoff distance of 100 meters; and “parts” and “components,” n.e.s."
+},
+{
+"eccn": "2A991",
+"cat": "2",
+"part": null,
+"group": "A",
+"title": "Bearings and bearing systems not controlled by 2A001 (see List of Items Controlled)."
+},
+{
+"eccn": "2A992",
+"cat": "2",
+"part": null,
+"group": "A",
+"title": "Piping, fittings and valves made of, or lined with stainless, copper-nickel alloy or other alloy steel containing 10% or more nickel and/or chromium."
+},
+{
+"eccn": "2A993",
+"cat": "2",
+"part": null,
+"group": "A",
+"title": "Pumps designed to move molten metals by electromagnetic forces."
+},
+{
+"eccn": "2A994",
+"cat": "2",
+"part": null,
+"group": "A",
+"title": "Portable electric generators and “specially designed” “parts” and “components”."
+},
+{
+"eccn": "2A999",
+"cat": "2",
+"part": null,
+"group": "A",
+"title": "Specific Processing Equipment, n.e.s., as Follows (See List of Items Controlled)."
+},
+{
+"eccn": "2B001",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Machine tools and any combination thereof, for removing (or cutting) metals, ceramics or “composites”, which, according to the manufacturer's technical specifications, can be equipped with electronic devices for “numerical control”; as follows (see List of Items Controlled)."
+},
+{
+"eccn": "2B002",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Numerically controlled optical finishing machine tools equipped for selective material removal to produce non-spherical optical surfaces having all of the following characteristics (See List of Items Controlled)."
+},
+{
+"eccn": "2B003",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "“Numerically controlled” machine tools, “specially designed” for the shaving, finishing, grinding or honing of hardened (Rc = 40 or more) spur, helical and double-helical gears having all of the following."
+},
+{
+"eccn": "2B004",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Hot “isostatic presses” having all of the characteristics described in the List of Items Controlled, and “specially designed” “components” and “accessories” therefor."
+},
+{
+"eccn": "2B005",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Equipment “specially designed” for the deposition, processing and in-process control of inorganic overlays, coatings and surface modifications, as follows, for substrates specified in column 2, by processes shown in column 1 in the “Materials Processing Table; Deposition Techniques” following 2E003."
+},
+{
+"eccn": "2B006",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Dimensional inspection or measuring systems, equipment, position feedback units and “electronic assemblies”, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "2B007",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "“Robots” having any of the following characteristics described in the List of Items Controlled and “specially designed” controllers and “end-effectors” therefor."
+},
+{
+"eccn": "2B008",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "'Compound rotary tables' and “tilting spindles”, “specially designed” for machine tools, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "2B009",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Spin-forming machines and flow-forming machines, which, according to the manufacturer's technical specifications, can be equipped with “numerical control” units or a computer control and having all of the following characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "2B018",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Equipment on the Wassenaar Arrangement Munitions List."
+},
+{
+"eccn": "2B104",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "“Isostatic presses”, other than those controlled by 2B004, having all of the following characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "2B105",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Chemical vapor deposition (CVD) furnaces, other than those controlled by 2B005.a, designed or modified for the densification of carbon-carbon composites."
+},
+{
+"eccn": "2B109",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Flow-forming machines, other than those controlled by 2B009, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "2B116",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Vibration test systems and equipment, usable for rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km and their subsystems, and “parts” and “components” therefor, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "2B117",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Equipment and process controls, other than those controlled by 2B004, 2B005.a, 2B104 or 2B105, designed or modified for the densification and pyrolysis of structural composite rocket nozzles and reentry vehicle nose tips."
+},
+{
+"eccn": "2B119",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Balancing machines and related equipment, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "2B120",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Motion simulators or rate tables (equipment capable of simulating motion), having all of the following characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "2B121",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Positioning tables (equipment capable of precise rotary position in any axis), other than those controlled in 2B120, having all the following characteristics (See List of Items Controlled)."
+},
+{
+"eccn": "2B122",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Centrifuges capable of imparting accelerations greater than 100 g and designed or modified to incorporate sliprings or integrated non-contact devices capable of transferring electrical power, signal information, or both."
+},
+{
+"eccn": "2B201",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Machine tools, and any combination thereof, other than those controlled by 2B001, for removing or cutting metals, ceramics or “composites,” which, according to manufacturer's technical specifications, can be equipped with electronic devices for simultaneous “contouring control” in two or more axes."
+},
+{
+"eccn": "2B204",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "“Isostatic presses”, other than those controlled by 2B004 or 2B104, and related equipment, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "2B206",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Dimensional inspection machines, instruments or systems, other than those described in 2B006, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "2B207",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "“Robots”, “end-effectors” and control units, other than those controlled by 2B007, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "2B209",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Flow forming machines, spin forming machines capable of flow forming functions, other than those controlled by 2B009 or 2B109, and mandrels, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "2B225",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Remote manipulators that can be used to provide remote actions in radiochemical separation operations or hot cells, having either of the following characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "2B226",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Controlled atmosphere (vacuum or inert gas) induction furnaces, and power supplies therefor, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "2B227",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Vacuum or other controlled atmosphere metallurgical melting and casting furnaces and related equipment, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "2B228",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Rotor fabrication and assembly equipment, rotor straightening equipment, bellows-forming mandrels and dies, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "2B229",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Centrifugal multiplane balancing machines, fixed or portable, horizontal or vertical, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "2B230",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "All types of “pressure transducers” capable of measuring absolute pressures and having all of the characteristics described in this ECCN (see List of Items Controlled)."
+},
+{
+"eccn": "2B231",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Vacuum pumps having all of the characteristics described in this ECCN (see List of Items Controlled)."
+},
+{
+"eccn": "2B232",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "High-velocity gun systems (propellant, gas, coil, electromagnetic, and electrothermal types, and other advanced systems) capable of accelerating projectiles to 1.5 km/s or greater."
+},
+{
+"eccn": "2B233",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Bellows-sealed scroll-type compressors and bellows-sealed scroll-type vacuum pumps having all of the characteristics described in this ECCN (see List of Items Controlled)."
+},
+{
+"eccn": "2B350",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Chemical manufacturing facilities and equipment, except valves controlled by 2A226, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "2B351",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Toxic gas monitors and monitoring systems, and their dedicated detecting “parts” and “components” (i.e., detectors, sensor devices, and replaceable sensor cartridges), as follows, except those systems and detectors controlled by ECCN 1A004.c (see List of Items Controlled)."
+},
+{
+"eccn": "2B352",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Equipment Capable of Use in Handling Biological Materials, as Follows (See List of Items Controlled)."
+},
+{
+"eccn": "2B910",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Additive manufacturing equipment, designed to produce metal or metal alloy components, having all of the following (see List of Items Controlled), and “specially designed” “components” therefor."
+},
+{
+"eccn": "2B991",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Numerical control units for machine tools and “numerically controlled” machine tools, n.e.s. (see List of Items Controlled)."
+},
+{
+"eccn": "2B992",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Non-“numerically controlled” machine tools for generating optical quality surfaces, (see List of Items Controlled) and “specially designed” “parts” and “components” therefor."
+},
+{
+"eccn": "2B993",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Gearmaking and/or finishing machinery not controlled by 2B003 capable of producing gears to a quality level of better than AGMA 11."
+},
+{
+"eccn": "2B996",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Dimensional inspection or measuring systems or equipment not controlled by 2B006 or 2B206, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "2B997",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "“Robots” not controlled by 2B007 or 2B207 that are capable of employing feedback information in real-time processing from one or more sensors to generate or modify “programs” or to generate or modify numerical program data."
+},
+{
+"eccn": "2B998",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Assemblies, circuit boards or inserts “specially designed” for machine tools controlled by 2B991, or for equipment controlled by 2B993, 2B996 or 2B997."
+},
+{
+"eccn": "2B999",
+"cat": "2",
+"part": null,
+"group": "B",
+"title": "Specific Processing Equipment, n.e.s., as Follows (See List of Items Controlled)."
+},
+{
+"eccn": "2D001",
+"cat": "2",
+"part": null,
+"group": "D",
+"title": "“Software”, other than that controlled by 2D002, as follows (See list of Items Controlled)."
+},
+{
+"eccn": "2D002",
+"cat": "2",
+"part": null,
+"group": "D",
+"title": "“Software” for electronic devices, even when residing in an electronic device or system, enabling such devices or systems to function as a “numerical control” unit, capable of coordinating simultaneously more than 4 axes for “contouring control”."
+},
+{
+"eccn": "2D003",
+"cat": "2",
+"part": null,
+"group": "D",
+"title": "“Software”, designed or modified for the operation of equipment specified by 2B002, that converts optical design, workpiece measurements and material removal functions into “numerical control” commands to achieve the desired workpiece form."
+},
+{
+"eccn": "2D018",
+"cat": "2",
+"part": null,
+"group": "D",
+"title": "“Software” for the “development,” “production,” or “use” of equipment controlled by 2B018."
+},
+{
+"eccn": "2D101",
+"cat": "2",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “use” of equipment controlled by 2B104, 2B105, 2B109, 2B116, 2B117, or 2B119 to 2B122."
+},
+{
+"eccn": "2D201",
+"cat": "2",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “use” of equipment controlled by 2B204, 2B206, 2B207, 2B209, 2B227, or 2B229."
+},
+{
+"eccn": "2D202",
+"cat": "2",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “development”, “production” or “use” of equipment controlled by 2B201."
+},
+{
+"eccn": "2D290",
+"cat": "2",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “development,” “production,” or “use” of items controlled by 2A290 or 2A291."
+},
+{
+"eccn": "2D351",
+"cat": "2",
+"part": null,
+"group": "D",
+"title": "Dedicated “software” for toxic gas monitors and monitoring systems, and their dedicated detecting “parts” and “components,” controlled by ECCN 2B351."
+},
+{
+"eccn": "2D352",
+"cat": "2",
+"part": null,
+"group": "D",
+"title": "“Software” designed for nucleic acid assemblers and synthesizers controlled by 2B352.j that is capable of designing and building functional genetic elements from digital sequence data."
+},
+{
+"eccn": "2D910",
+"cat": "2",
+"part": null,
+"group": "D",
+"title": "“Software”, not specified elsewhere, “specially designed” or modified for the “development” or “production” of equipment specified in ECCN 2B910."
+},
+{
+"eccn": "2D983",
+"cat": "2",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “development”, “production” or “use” of equipment controlled by 2A983."
+},
+{
+"eccn": "2D984",
+"cat": "2",
+"part": null,
+"group": "D",
+"title": "“Software” “required” for the “development”, “production” or “use” of concealed object detection equipment controlled by 2A984."
+},
+{
+"eccn": "2D991",
+"cat": "2",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development”, “production”, or “use” of equipment controlled by 2B991, 2B993, or 2B996, 2B997, and 2B998."
+},
+{
+"eccn": "2D992",
+"cat": "2",
+"part": null,
+"group": "D",
+"title": "Specific “software”, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "2D993",
+"cat": "2",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “development,” “production,” or “use” of items controlled by 2A992 or 2A993."
+},
+{
+"eccn": "2D994",
+"cat": "2",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development” or “production” of portable electric generators controlled by 2A994."
+},
+{
+"eccn": "2E001",
+"cat": "2",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “development” of equipment or “software” controlled by 2A (except 2A983, 2A984, 2A991, or 2A994), 2B (except 2B991, 2B993, 2B996, 2B997, 2B998, or 2B999), or 2D (except 2D983, 2D984, 2D991, 2D992, or 2D994)."
+},
+{
+"eccn": "2E002",
+"cat": "2",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “production” of equipment controlled by 2A (except 2A983, 2A984, 2A991, or 2A994), or 2B (except 2B991, 2B993, 2B996, 2B997, 2B998, or 2B999)."
+},
+{
+"eccn": "2E003",
+"cat": "2",
+"part": null,
+"group": "E",
+"title": "Other “technology”, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "2E018",
+"cat": "2",
+"part": null,
+"group": "E",
+"title": "“Technology” for the “use” of equipment controlled by 2B018."
+},
+{
+"eccn": "2E101",
+"cat": "2",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “use” of equipment or “software” controlled by 2B004, 2B009, 2B104, 2B105, 2B109, 2B116, 2B117, 2B119 to 2B122, 2D001, 2D002 or 2D101."
+},
+{
+"eccn": "2E201",
+"cat": "2",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “use” of equipment or “software” controlled by 2A225, 2A226, 2B001, 2B006, 2B007.b, 2B007.c, 2B201, 2B204, 2B206, 2B207, 2B209, 2B225 to 2B233, 2D002, 2D201 or 2D202 for NP reasons."
+},
+{
+"eccn": "2E290",
+"cat": "2",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “use” of equipment controlled by 2A290 or 2A291."
+},
+{
+"eccn": "2E301",
+"cat": "2",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the “General Technology Note” for the “use” of items controlled by 2B350, 2B351 and 2B352."
+},
+{
+"eccn": "2E903",
+"cat": "2",
+"part": null,
+"group": "E",
+"title": "“Technology”, not specified elsewhere, for the “development” or “production” of 'coating systems' having all of the following: (see List of Items Controlled)."
+},
+{
+"eccn": "2E910",
+"cat": "2",
+"part": null,
+"group": "E",
+"title": "“Technology”, not specified elsewhere, “specially designed” or modified for the “development” or “production” of equipment specified in ECCN 2B910."
+},
+{
+"eccn": "2E983",
+"cat": "2",
+"part": null,
+"group": "E",
+"title": "“Technology” “specially designed” or modified for the “development”, “production” or “use” of equipment controlled by 2A983, or the “development” of software controlled by 2D983."
+},
+{
+"eccn": "2E984",
+"cat": "2",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development”, “production” or “use” of equipment controlled by 2A984 or “required” for the “development” of “software” controlled by 2D984."
+},
+{
+"eccn": "2E991",
+"cat": "2",
+"part": null,
+"group": "E",
+"title": "“Technology” for the “use” of equipment controlled by 2B991, 2B993, 2B996, or 2B997."
+},
+{
+"eccn": "2E993",
+"cat": "2",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “use” of equipment controlled by 2A992 or 2A993."
+},
+{
+"eccn": "2E994",
+"cat": "2",
+"part": null,
+"group": "E",
+"title": "“Technology” for the “use” of portable electric generators controlled by 2A994."
+},
+{
+"eccn": "3A001",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Electronic items as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3A002",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "General purpose “electronic assemblies,” modules and equipment, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3A003",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Spray cooling thermal management systems employing closed loop fluid handling and reconditioning equipment in a sealed enclosure where a dielectric fluid is sprayed onto electronic “components” using “specially designed” spray nozzles that are designed to maintain electronic “components” within thei"
+},
+{
+"eccn": "3A069",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Specific Laboratory Equipment as Follows (See List of Items Controlled)"
+},
+{
+"eccn": "3A090",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Integrated circuits as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3A101",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Electronic equipment, devices, “parts” and “components,” other than those controlled by 3A001, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3A201",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Electronic “parts” and “components,” other than those controlled by 3A001, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3A225",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Frequency changers (a.k.a. converters or inverters) and generators, except those subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110), that are usable as a variable frequency or fixed frequency motor drive and have all of the characteristics described "
+},
+{
+"eccn": "3A226",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "High-power direct current power supplies having both of the following characteristics (see List of Items Controlled), excluding items that are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110)."
+},
+{
+"eccn": "3A227",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "High-voltage direct current power supplies, having both of the following characteristics (see List of Items Controlled), excluding items that are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110)."
+},
+{
+"eccn": "3A228",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Switching devices, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3A229",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Firing sets and equivalent high-current pulse generators for detonators controlled by 3A232 (see List of Items Controlled)."
+},
+{
+"eccn": "3A230",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "High-speed pulse generators, and pulse heads therefor, having both of the following characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "3A231",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Neutron generator systems, including tubes, having both of the characteristics described in this ECCN (see List of Items Controlled)."
+},
+{
+"eccn": "3A232",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Detonators and multipoint initiation systems, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3A233",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Mass spectrometers, capable of measuring ions of 230 u or greater and having a resolution of better than 2 parts in 230, and ion sources therefor, excluding items that are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110)."
+},
+{
+"eccn": "3A234",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Striplines to provide low inductance path to detonators with the following characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "3A611",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Military electronics, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3A901",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Electronic items, not specified by ECCN 3A001, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3A904",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Cryogenic cooling systems and components, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3A980",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Voice print identification and analysis equipment and “specially designed” “components” therefor, n.e.s."
+},
+{
+"eccn": "3A981",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Polygraphs (except biomedical recorders designed for use in medical facilities for monitoring biological and neurophysical responses); fingerprint analyzers, cameras and equipment, n.e.s.; automated fingerprint and identification retrieval systems, n.e.s.; psychological stress analysis equipment; el"
+},
+{
+"eccn": "3A991",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Electronic devices, and “components” not controlled by 3A001."
+},
+{
+"eccn": "3A992",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "General purpose electronic equipment, not controlled by 3A002, as Follows (See List of Items Controlled)."
+},
+{
+"eccn": "3A999",
+"cat": "3",
+"part": null,
+"group": "A",
+"title": "Specific Processing Equipment, n.e.s., as Follows (See List of Items Controlled)."
+},
+{
+"eccn": "3B001",
+"cat": "3",
+"part": null,
+"group": "B",
+"title": "Equipment for the manufacturing of semiconductor devices, materials, or related equipment, as follows (see List of Items Controlled) and “specially designed” “components” and “accessories” therefor."
+},
+{
+"eccn": "3B002",
+"cat": "3",
+"part": null,
+"group": "B",
+"title": "Test or inspection equipment “specially designed” for testing or inspecting finished or unfinished semiconductor devices as follows (see List of Items Controlled) and “specially designed” “components” and “accessories” therefor."
+},
+{
+"eccn": "3B611",
+"cat": "3",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and production commodities for military electronics, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3B903",
+"cat": "3",
+"part": null,
+"group": "B",
+"title": "Scanning Electron Microscope (SEM) equipment designed for imaging semiconductor devices or integrated circuits, having all of the following (See List of Items Controlled)."
+},
+{
+"eccn": "3B904",
+"cat": "3",
+"part": null,
+"group": "B",
+"title": "Cryogenic wafer probing “equipment”, having all of the following (see List of Items Controlled)."
+},
+{
+"eccn": "3B991",
+"cat": "3",
+"part": null,
+"group": "B",
+"title": "Equipment not controlled by 3B001, 3B993, or 3B994, for the manufacture of electronic “parts,” “components,” and materials, and “specially designed” “parts,” “components,” and “accessories” therefor."
+},
+{
+"eccn": "3B992",
+"cat": "3",
+"part": null,
+"group": "B",
+"title": "Equipment not controlled by 3B002, 3B993, or 3B994, for the inspection or testing of electronic “components” and materials, (see List of Items Controlled) and “specially designed” “parts,” “components” and “accessories” therefor."
+},
+{
+"eccn": "3B993",
+"cat": "3",
+"part": null,
+"group": "B",
+"title": "Specified semiconductor manufacturing equipment as follows (see list of items controls), and “specially designed” “components” and “accessories” therefor."
+},
+{
+"eccn": "3B994",
+"cat": "3",
+"part": null,
+"group": "B",
+"title": "Semiconductor manufacturing equipment that enables “advanced-node integrated circuit” production, as follows (see list of items controls), and “specially designed” “components” and “accessories” therefor."
+},
+{
+"eccn": "3C001",
+"cat": "3",
+"part": null,
+"group": "C",
+"title": "Hetero-epitaxial materials consisting of a “substrate” having stacked epitaxially grown multiple layers of any of the following (see List of Items Controlled)."
+},
+{
+"eccn": "3C002",
+"cat": "3",
+"part": null,
+"group": "C",
+"title": "Resist materials as follows (see List of Items Controlled) and “substrates” coated with the following resists."
+},
+{
+"eccn": "3C003",
+"cat": "3",
+"part": null,
+"group": "C",
+"title": "Organo-inorganic compounds as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3C004",
+"cat": "3",
+"part": null,
+"group": "C",
+"title": "Hydrides of phosphorus, arsenic or antimony, having a purity better than 99.999%, even diluted in inert gases or hydrogen."
+},
+{
+"eccn": "3C005",
+"cat": "3",
+"part": null,
+"group": "C",
+"title": "High resistivity materials as follows (See List of Items Controlled)."
+},
+{
+"eccn": "3C006",
+"cat": "3",
+"part": null,
+"group": "C",
+"title": "Materials, not specified by 3C001, consisting of a “substrate” specified by 3C005 with at least one epitaxial layer of Silicon Carbide (SiC), Gallium Nitride (GaN), Aluminum Nitride (AlN), Aluminum Gallium Nitride (AlGaN), Gallium Oxide (Ga2O3) or diamond."
+},
+{
+"eccn": "3C907",
+"cat": "3",
+"part": null,
+"group": "C",
+"title": "Epitaxial materials consisting of a “substrate” having at least one epitaxially grown layer of any of the following (see List of Items Controlled)."
+},
+{
+"eccn": "3C908",
+"cat": "3",
+"part": null,
+"group": "C",
+"title": "Fluorides, hydrides, chlorides, of silicon or germanium, containing any of the following (See List of Items Controlled)."
+},
+{
+"eccn": "3C909",
+"cat": "3",
+"part": null,
+"group": "C",
+"title": "Silicon, silicon oxides, germanium or germanium oxides, containing any of the following (see List of Items Controlled)."
+},
+{
+"eccn": "3C992",
+"cat": "3",
+"part": null,
+"group": "C",
+"title": "Positive resists designed for semiconductor lithography specially adjusted (optimized) for use at wavelengths between 370 and 193 nm."
+},
+{
+"eccn": "3D001",
+"cat": "3",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development” or “production” of commodities controlled by 3A001.b to 3A002.h, 3A090, or 3B (except 3B001.a.4, c, d, f.1, f.5, k to n, p.2, p.4, r, 3B002.c, 3B903, 3B904, 3B991, 3B992, 3B993, or 3B994)."
+},
+{
+"eccn": "3D002",
+"cat": "3",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “use” of equipment controlled by 3B001.a to .f, or 3B002."
+},
+{
+"eccn": "3D003",
+"cat": "3",
+"part": null,
+"group": "D",
+"title": "'Computational lithography' “software” “specially designed” for the “development” of patterns on “EUV”-lithography masks or reticles."
+},
+{
+"eccn": "3D004",
+"cat": "3",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development” of equipment controlled by 3A003."
+},
+{
+"eccn": "3D005",
+"cat": "3",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” to restore normal operation of a microcomputer, “microprocessor microcircuit” or “microcomputer microcircuit” within 1 ms after an Electromagnetic Pulse (EMP) or Electrostatic Discharge (ESD) disruption, without loss of continuation of operation."
+},
+{
+"eccn": "3D006",
+"cat": "3",
+"part": null,
+"group": "D",
+"title": "'Electronic Computer-Aided Design' ('ECAD') “software” “specially designed” for the “development” of integrated circuits having any “Gate-All-Around Field-Effect Transistor” (“GAAFET”) structure, and having any of the following (see List of Items Controlled)."
+},
+{
+"eccn": "3D101",
+"cat": "3",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “use” of equipment controlled by 3A101.b."
+},
+{
+"eccn": "3D201",
+"cat": "3",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “use” of equipment described in ECCN 3A225."
+},
+{
+"eccn": "3D202",
+"cat": "3",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” to enhance or release the performance characteristics of frequency changers or generators to meet or exceed the level of the performance characteristics described in ECCN 3A225."
+},
+{
+"eccn": "3D611",
+"cat": "3",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for military electronics, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3D901",
+"cat": "3",
+"part": null,
+"group": "D",
+"title": "“Software”, not specified elsewhere, “specially designed” or modified for the “development” or “production” of items specified in ECCN 3A901.b, 3B903, or 3B904."
+},
+{
+"eccn": "3D907",
+"cat": "3",
+"part": null,
+"group": "D",
+"title": "“Software” designed to extract “GDSII” or equivalent standard layout data and perform layer-to-layer alignment from SEM images, and generate multi-layer “GDSII” data or the circuit netlist."
+},
+{
+"eccn": "3D980",
+"cat": "3",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production” or “use” of commodities controlled by 3A980 and 3A981."
+},
+{
+"eccn": "3D991",
+"cat": "3",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production” or “use” of electronic devices, “parts” or “components” controlled by 3A991, general purpose electronic equipment controlled by 3A992, or manufacturing and test equipment controlled by 3B991 and 3B992; or “software” “specially desig"
+},
+{
+"eccn": "3D992",
+"cat": "3",
+"part": null,
+"group": "D",
+"title": "“Software” for the “development” or “production” of commodities specified in 3B001.a.4, c, d, f.1, f.5, f.6, k to n, p.2, p.4, r, or 3B002.c and “software” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3D993",
+"cat": "3",
+"part": null,
+"group": "D",
+"title": "“Software” for the “development” or “production” of commodities specified in 3B993 and “software” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3D994",
+"cat": "3",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development” or “production” of commodities specified in 3B994 and “software” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3E001",
+"cat": "3",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “development” or “production” of commodities controlled by 3A (except 3A069, 3A901, 3A904, 3A980, 3A981, 3A991, 3A992, or 3A999), 3B (except 3B001.a.4, c, d, f.1, f.5, k to n, p.2, p.4, r, 3B002.c, 3B903, 3B904, 3B991, 3B992, 3B993, or 3B"
+},
+{
+"eccn": "3E002",
+"cat": "3",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note other than that controlled in 3E001 for the “development” or “production” of a “microprocessor microcircuit”, “micro-computer microcircuit” and microcontroller microcircuit core, having an arithmetic logic unit with an access width of 32 bits or "
+},
+{
+"eccn": "3E003",
+"cat": "3",
+"part": null,
+"group": "E",
+"title": "Other “technology” for the “development” or “production” of the following (see List of Items Controlled)."
+},
+{
+"eccn": "3E004",
+"cat": "3",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the slicing, grinding and polishing of 300 mm diameter silicon wafers to achieve a 'Site Front least sQuares Range' ('SFQR') less than or equal to 20 nm at any site of 26 mm x 8 mm on the front surface of the wafer and an edge exclusion less than or equal to 2 mm."
+},
+{
+"eccn": "3E069",
+"cat": "3",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “development” or “production” of items controlled by 3A069."
+},
+{
+"eccn": "3E101",
+"cat": "3",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “use” of equipment or “software” controlled by 3A001.a.1 or .2, 3A101, or 3D101."
+},
+{
+"eccn": "3E102",
+"cat": "3",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “development” of “software” controlled by 3D101."
+},
+{
+"eccn": "3E201",
+"cat": "3",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “use” of equipment controlled by 3A001.e.2 or .e.3, 3A201 or 3A225 to 3A234."
+},
+{
+"eccn": "3E202",
+"cat": "3",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “development,” “production,” or “use” of “software” controlled by 3D201 or 3D202."
+},
+{
+"eccn": "3E611",
+"cat": "3",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for military electronics, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3E901",
+"cat": "3",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “development” or “production” of items controlled by ECCN 3A901, 3A904, 3B903, 3B904, 3C907, 3C908, or 3C909."
+},
+{
+"eccn": "3E905",
+"cat": "3",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “development” or “production” of integrated circuits or devices, using “Gate all-around Field-Effect Transistor” (“GAAFET”) structures."
+},
+{
+"eccn": "3E980",
+"cat": "3",
+"part": null,
+"group": "E",
+"title": "“Technology” “specially designed” for “development,” “production” or “use” of commodities controlled by 3A980 and 3A981."
+},
+{
+"eccn": "3E991",
+"cat": "3",
+"part": null,
+"group": "E",
+"title": "“Technology” for the “development,” “production” or “use” of electronic devices, “parts” or “components” controlled by 3A991, general purpose electronic equipment controlled by 3A992, or manufacturing and test equipment controlled by 3B991 or 3B992, or materials controlled by 3C992."
+},
+{
+"eccn": "3E992",
+"cat": "3",
+"part": null,
+"group": "E",
+"title": "“Technology” for the “production” or “development” of commodities specified in 3B001.a.4, c, d, f.1, f.5, f.6, k to n, p.2, p.4, r; and 3B002.c; and “technology” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3E993",
+"cat": "3",
+"part": null,
+"group": "E",
+"title": "“Technology” for the “development” or “production” of commodities specified in 3B993; and “technology” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "3E994",
+"cat": "3",
+"part": null,
+"group": "E",
+"title": "“Technology” “specially designed” for the “development” or “production” of commodities specified in 3B994 and “technology” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "4A001",
+"cat": "4",
+"part": null,
+"group": "A",
+"title": "Electronic computers and related equipment, having any of the following (see List of Items Controlled), and “electronic assemblies” and “specially designed” “components” therefor."
+},
+{
+"eccn": "4A003",
+"cat": "4",
+"part": null,
+"group": "A",
+"title": "“Digital computers”, “electronic assemblies”, and related equipment therefor, as follows (see List of Items Controlled) and “specially designed” “components” therefor."
+},
+{
+"eccn": "4A004",
+"cat": "4",
+"part": null,
+"group": "A",
+"title": "Computers as follows (see List of Items Controlled) and “specially designed” related equipment, “electronic assemblies” and “components” therefor."
+},
+{
+"eccn": "4A005",
+"cat": "4",
+"part": null,
+"group": "A",
+"title": "“Systems,” “equipment,” and “components” therefor, “specially designed” or modified for the generation, command and control, or delivery of “intrusion software” (see List of Items Controlled)."
+},
+{
+"eccn": "4A090",
+"cat": "4",
+"part": null,
+"group": "A",
+"title": "Computers as follows (see List of Items Controlled) and related equipment, “electronic assemblies,” and “components” therefor."
+},
+{
+"eccn": "4A101",
+"cat": "4",
+"part": null,
+"group": "A",
+"title": "Analog computers, “digital computers” or digital differential analyzers, other than those controlled by 4A001 designed or modified for use in “missiles”, having any of the following (see List of Items Controlled)."
+},
+{
+"eccn": "4A102",
+"cat": "4",
+"part": null,
+"group": "A",
+"title": "“Hybrid computers” “specially designed” for modelling, simulation or design integration of “missiles” or their subsystems. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "4A611",
+"cat": "4",
+"part": null,
+"group": "A",
+"title": "Computers, and “parts,” “components,” “accessories,” and “attachments” “specially designed” therefor, “specially designed” for a military application that are not enumerated in any USML category are controlled by ECCN 3A611."
+},
+{
+"eccn": "4A906",
+"cat": "4",
+"part": null,
+"group": "A",
+"title": "Quantum computers and related “electronic assemblies,” and “components” therefor, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "4A980",
+"cat": "4",
+"part": null,
+"group": "A",
+"title": "Computers for fingerprint equipment, n.e.s."
+},
+{
+"eccn": "4A994",
+"cat": "4",
+"part": null,
+"group": "A",
+"title": "Computers, “electronic assemblies” and related equipment, not controlled by 4A001 or 4A003, and “specially designed” “parts” and “components” therefor (see List of Items Controlled)."
+},
+{
+"eccn": "4D001",
+"cat": "4",
+"part": null,
+"group": "D",
+"title": "“Software” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "4D004",
+"cat": "4",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the generation, command and control, or delivery of “intrusion software.”"
+},
+{
+"eccn": "4D090",
+"cat": "4",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “development” or “production,” of computers and related equipment, “electronic assemblies,” and “components” therefor specified in ECCN 4A090."
+},
+{
+"eccn": "4D906",
+"cat": "4",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “development” or “production” of commodities controlled by 4A906.b or 4A906.c."
+},
+{
+"eccn": "4D980",
+"cat": "4",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production” or “use” of commodities controlled by 4A980."
+},
+{
+"eccn": "4D993",
+"cat": "4",
+"part": null,
+"group": "D",
+"title": "“Program” proof and validation “software,” “software” allowing the automatic generation of “source codes,” and operating system “software” that are “specially designed” for “real-time processing” equipment (see List of Items Controlled)."
+},
+{
+"eccn": "4D994",
+"cat": "4",
+"part": null,
+"group": "D",
+"title": "“Software” other than that controlled in 4D001 “specially designed” or modified for the “development,” “production,” or “use” of commodities controlled by 4A101 or 4A994."
+},
+{
+"eccn": "4E001",
+"cat": "4",
+"part": null,
+"group": "E",
+"title": "“Technology” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "4E091",
+"cat": "4",
+"part": null,
+"group": "E",
+"title": "'Parameters' for an artificial intelligence model trained utilizing 10 26 or more 'operations.'"
+},
+{
+"eccn": "4E906",
+"cat": "4",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note as follows (see List of Items Controlled)."
+},
+{
+"eccn": "4E980",
+"cat": "4",
+"part": null,
+"group": "E",
+"title": "“Technology” for the “development,” “production” or “use” of commodities controlled by 4A980."
+},
+{
+"eccn": "4E992",
+"cat": "4",
+"part": null,
+"group": "E",
+"title": "“ Technology” other than that controlled in 4E001 for the “development,” “production,” or “use” of equipment controlled by 4A994, or “software” controlled by 4D993 or 4D994."
+},
+{
+"eccn": "4E993",
+"cat": "4",
+"part": null,
+"group": "E",
+"title": "“ Technology” for the “development” or “production” of equipment designed for “multi-data-stream processing.”"
+},
+{
+"eccn": "5A001",
+"cat": "5",
+"part": "1",
+"group": "A",
+"title": "Telecommunications systems, equipment, “components” and “accessories,” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "5A101",
+"cat": "5",
+"part": "1",
+"group": "A",
+"title": "Telemetering and telecontrol equipment, including ground equipment, designed or modified for unmanned aerial vehicle (including cruise missiles, target drones, and reconnaissance drones) or rocket systems (including ballistic missiles, space launch vehicles, and sounding rockets) capable of a maximu"
+},
+{
+"eccn": "5A611",
+"cat": "5",
+"part": "1",
+"group": "A",
+"title": "Telecommunications equipment, and “parts,” “components,” “accessories,” and “attachments” “specially designed” therefor, “specially designed” for a military application that are not enumerated in any USML category are controlled by ECCN 3A611."
+},
+{
+"eccn": "5A980",
+"cat": "5",
+"part": "1",
+"group": "A",
+"title": "Devices primarily useful for the surreptitious interception of wire, oral, or electronic communications, other than those controlled under 5A001.f.1; and “parts,” “components” and “accessories” therefor."
+},
+{
+"eccn": "5A991",
+"cat": "5",
+"part": "1",
+"group": "A",
+"title": "Telecommunication equipment, not controlled by 5A001 (see List of Items Controlled)."
+},
+{
+"eccn": "5B001",
+"cat": "5",
+"part": "1",
+"group": "B",
+"title": "Telecommunication test, inspection and production equipment, “components” and “accessories,” as follows (See List of Items Controlled)."
+},
+{
+"eccn": "5B991",
+"cat": "5",
+"part": "1",
+"group": "B",
+"title": "Telecommunications test equipment, n.e.s."
+},
+{
+"eccn": "5C991",
+"cat": "5",
+"part": "1",
+"group": "C",
+"title": "Preforms of glass or of any other material optimized for the manufacture of optical fibers controlled by 5A991."
+},
+{
+"eccn": "5D001",
+"cat": "5",
+"part": "1",
+"group": "D",
+"title": "“Software” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "5D101",
+"cat": "5",
+"part": "1",
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “use” of equipment controlled by 5A101."
+},
+{
+"eccn": "5D980",
+"cat": "5",
+"part": "1",
+"group": "D",
+"title": "Other “software”, other than that controlled by 5D001 (for the equipment, functions, features, or characteristics controlled by 5A001. f.1, or to support certain “technology” controlled by 5E001.a), as follows (see List of Items Controlled)."
+},
+{
+"eccn": "5D991",
+"cat": "5",
+"part": "1",
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “development,” “production” or “use” of equipment controlled by 5A991 and 5B991, and dynamic adaptive routing software as described as follows (see List of Items Controlled)."
+},
+{
+"eccn": "5E001",
+"cat": "5",
+"part": "1",
+"group": "E",
+"title": "“Technology” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "5E101",
+"cat": "5",
+"part": "1",
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “development,” “production” or “use” of equipment or software controlled by 5A101 or 5D101."
+},
+{
+"eccn": "5E980",
+"cat": "5",
+"part": "1",
+"group": "E",
+"title": "“Technology”, other than that controlled by 5E001.a (for 5A001.f.1, and for 5D001.a (for 5A001.f.1)), primarily useful for the “development”, “production”, or “use” of equipment, functions or features, of equipment controlled by 5A980 or “software” controlled by 5D980."
+},
+{
+"eccn": "5E991",
+"cat": "5",
+"part": "1",
+"group": "E",
+"title": "“Technology” for the “Development”, “Production” or “Use” of Equipment Controlled by 5A991 or 5B991, or “Software” Controlled by 5D991, and Other “Technologies” as Follows (see List of Items Controlled)."
+},
+{
+"eccn": "5A002",
+"cat": "5",
+"part": "2",
+"group": "A",
+"title": "“Information security” systems, equipment and “components,” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "5A992",
+"cat": "5",
+"part": "2",
+"group": "A",
+"title": "Equipment not controlled by 5A002 (see List of Items Controlled)"
+},
+{
+"eccn": "5A003",
+"cat": "5",
+"part": "2",
+"group": "A",
+"title": "“Systems,” “equipment” and “components,” for non-cryptographic “information security,” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "5A004",
+"cat": "5",
+"part": "2",
+"group": "A",
+"title": "“Systems,” “equipment” and “components” for defeating, weakening or bypassing “information security,” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "5B002",
+"cat": "5",
+"part": "2",
+"group": "B",
+"title": "“Information Security” test, inspection and “production” equipment, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "5D002",
+"cat": "5",
+"part": "2",
+"group": "D",
+"title": "“Software” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "5D992",
+"cat": "5",
+"part": "2",
+"group": "D",
+"title": "“Information Security” “software,” not controlled by 5D002, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "5E002",
+"cat": "5",
+"part": "2",
+"group": "E",
+"title": "“Technology” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "5E992",
+"cat": "5",
+"part": "2",
+"group": "E",
+"title": "“Information Security” “technology” according to the General Technology Note, not controlled by 5E002, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6A001",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Acoustic systems, equipment and “components,” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6A002",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Optical sensors and equipment, and “components” therefor, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6A003",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Cameras, systems or equipment, and “components” therefor, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6A004",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Optical equipment and “components,” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6A005",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "“Lasers”, “components” and optical equipment, as follows (see List of Items Controlled), excluding items that are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110)."
+},
+{
+"eccn": "6A006",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "“Magnetometers”, “magnetic gradiometers”, “intrinsic magnetic gradiometers”, underwater electric field sensors, “compensation systems”, and “specially designed” “components” therefor, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6A007",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Gravity meters (gravimeters) and gravity gradiometers, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6A008",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Radar systems, equipment and assemblies, having any of the following (see List of Items Controlled), and “specially designed” “components” therefor."
+},
+{
+"eccn": "6A102",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Radiation hardened detectors, other than those controlled by 6A002, “specially designed” or modified for protecting against nuclear effects (e.g., Electromagnetic Pulse (EMP), X-rays, combined blast and thermal effects) and usable for “missiles,” designed or rated to withstand radiation levels which"
+},
+{
+"eccn": "6A103",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Radomes designed to withstand a combined thermal shock greater than 100 cal/sq cm accompanied by a peak over pressure of greater than 50 kPa, usable in protecting “missiles” against nuclear effects (e.g., Electromagnetic Pulse (EMP), X-rays, combined blast and thermal effects), and usable for “missi"
+},
+{
+"eccn": "6A107",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Gravity meters (gravimeters) or gravity gradiometers, other than those controlled by 6A007, designed or modified for airborne or marine use, as follows, (see List of Items Controlled) and “specially designed” “parts” and “components” therefor."
+},
+{
+"eccn": "6A108",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Radar systems and tracking systems, other than those controlled by 6A008, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6A202",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Photomultiplier tubes having both of the following characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "6A203",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "High-speed cameras, imaging devices and “components” therefor, other than those controlled by 6A003 (see List of Items Controlled)."
+},
+{
+"eccn": "6A205",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "“Lasers,” “laser” amplifiers and oscillators, other than those controlled by 6A005 (see List of Items Controlled), excluding items that are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110)."
+},
+{
+"eccn": "6A225",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Velocity interferometers for measuring velocities exceeding 1 km/s during time intervals of less than 10 microseconds."
+},
+{
+"eccn": "6A226",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Pressure sensors, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6A293",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Cameras not classified ECCNs 6A003 or 6A203 with all the following characteristics: (see List of Items Controlled)."
+},
+{
+"eccn": "6A611",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Acoustic systems and equipment, radar, and “parts,” “components,” “accessories,” and “attachments” “specially designed” therefor, “specially designed” for a military application that are not enumerated in any USML category or other ECCN are controlled by ECCN 3A611. Military fire control, laser, ima"
+},
+{
+"eccn": "6A991",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Marine or terrestrial acoustic equipment, n.e.s., capable of detecting or locating underwater objects or features or positioning surface vessels or underwater vehicles; and “specially designed” “parts” and “components,” n.e.s."
+},
+{
+"eccn": "6A992",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Optical Sensors, not controlled by 6A002, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6A993",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Cameras, not controlled by 6A003 or 6A203, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6A994",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Optics, not controlled by 6A004, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6A995",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "“Lasers” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6A996",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "“Magnetometers” not controlled by ECCN 6A006, “Superconductive” electromagnetic sensors, and “specially designed” “components” therefor, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6A997",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Gravity meters (gravimeters) for ground use, n.e.s., as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6A998",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Radar systems, equipment and major “components,” n.e.s., and “specially designed” “components” therefor, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6A999",
+"cat": "6",
+"part": null,
+"group": "A",
+"title": "Specific processing equipment, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6B002",
+"cat": "6",
+"part": null,
+"group": "B",
+"title": "Masks and Reticles, “Specially Designed” for Optical Sensors Specified by 6A002.a.1.b or 6A002.a.1.d."
+},
+{
+"eccn": "6B004",
+"cat": "6",
+"part": null,
+"group": "B",
+"title": "Optical equipment, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6B007",
+"cat": "6",
+"part": null,
+"group": "B",
+"title": "Equipment to produce, align and calibrate land-based gravity meters with a static “accuracy” of less (better) than 0.1 mGal."
+},
+{
+"eccn": "6B008",
+"cat": "6",
+"part": null,
+"group": "B",
+"title": "Pulse radar cross-section measurement systems having transmit pulse widths of 100 ns or less, and “specially designed” “components” therefor."
+},
+{
+"eccn": "6B108",
+"cat": "6",
+"part": null,
+"group": "B",
+"title": "Systems, other than those controlled by 6B008, “specially designed” for radar cross section measurement usable for rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km and their subsystems."
+},
+{
+"eccn": "6B619",
+"cat": "6",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and production “equipment” and related commodities “specially designed” for the “development,” “production,” repair, overhaul, or refurbishing of commodities enumerated or otherwise described in USML Category XVIII (see List of Items Controlled)"
+},
+{
+"eccn": "6B995",
+"cat": "6",
+"part": null,
+"group": "B",
+"title": "Equipment, including tools, dies, fixtures or gauges, and other “specially designed” “parts,” “components” and “accessories” therefor, “specially designed” or modified for any of the following (see List of Items Controlled)."
+},
+{
+"eccn": "6C002",
+"cat": "6",
+"part": null,
+"group": "C",
+"title": "Optical sensor materials as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6C004",
+"cat": "6",
+"part": null,
+"group": "C",
+"title": "Optical materials as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6C005",
+"cat": "6",
+"part": null,
+"group": "C",
+"title": "“Laser” materials as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6C992",
+"cat": "6",
+"part": null,
+"group": "C",
+"title": "Optical sensing fibers not controlled by 6A002.d.3 that are modified structurally to have a ‘ beat length’ of less than 500 mm (high birefringence) or optical sensor materials not described in 6C002.b and having a zinc content of equal to or more than 6% by ‘ mole fraction.’"
+},
+{
+"eccn": "6C994",
+"cat": "6",
+"part": null,
+"group": "C",
+"title": "Optical materials, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6D001",
+"cat": "6",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development” or “production” of equipment controlled by 6A004, 6A005, 6A008, or 6B008."
+},
+{
+"eccn": "6D002",
+"cat": "6",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “use” of equipment controlled by 6A002.b, 6A008, or 6B008."
+},
+{
+"eccn": "6D003",
+"cat": "6",
+"part": null,
+"group": "D",
+"title": "Other “software” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6D102",
+"cat": "6",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “use” of equipment controlled by 6A108."
+},
+{
+"eccn": "6D103",
+"cat": "6",
+"part": null,
+"group": "D",
+"title": "“Software” that processes post-flight, recorded data, enabling determination of vehicle position throughout its flight path, “specially designed” or modified for “missiles”."
+},
+{
+"eccn": "6D201",
+"cat": "6",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” to enhance or release the performance characteristics of high-speed cameras and imaging devices, and components therefor, to meet or exceed the level of the performance characteristics described in ECCN 6A203."
+},
+{
+"eccn": "6D619",
+"cat": "6",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production,” operation or maintenance of commodities controlled by 6B619."
+},
+{
+"eccn": "6D991",
+"cat": "6",
+"part": null,
+"group": "D",
+"title": "“Software,” n.e.s., “specially designed” for the “development”, “production”, or “use” of commodities controlled by 6A002, 6A003, 6A991, 6A996, 6A997, or 6A998."
+},
+{
+"eccn": "6D992",
+"cat": "6",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development” or “production” of equipment controlled by 6A992, 6A994, or 6A995."
+},
+{
+"eccn": "6D993",
+"cat": "6",
+"part": null,
+"group": "D",
+"title": "Other “software,” not controlled by 6D003, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6E001",
+"cat": "6",
+"part": null,
+"group": "E",
+"title": "“Technology” According to the General Technology Note for the “Development” of Equipment, Materials or “Software” Controlled by 6A (Except 6A991, 6A992, 6A994, 6A995, 6A996, 6A997, 6A998, or 6A999.c), 6B (Except 6B995), 6C (Except 6C992 or 6C994), or 6D (Except 6D991, 6D992, or 6D993)."
+},
+{
+"eccn": "6E002",
+"cat": "6",
+"part": null,
+"group": "E",
+"title": "“Technology” According to the General Technology Note for the “Production” of Equipment or Materials Controlled by 6A (Except 6A991, 6A992, 6A994, 6A995, 6A996, 6A997, 6A998 or 6A999.c), 6B (Except 6B995) or 6C (except 6C992 or 6C994)."
+},
+{
+"eccn": "6E003",
+"cat": "6",
+"part": null,
+"group": "E",
+"title": "Other “technology” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "6E101",
+"cat": "6",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “use” of equipment or “software” controlled by 6A002, 6A007.b and .c, 6A008, 6A102, 6A107, 6A108, 6B108, 6D102 or 6D103."
+},
+{
+"eccn": "6E201",
+"cat": "6",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “use” of equipment controlled by 6A003.a.3, 6A003.a.4; 6A005.a.2, 6A005.b.2.b, 6A005.b.3, 6A005.b.4.b.2, 6A005.b.6.c, 6A005.c.1.b, 6A005.c.2.b, 6A005.d.2, 6A005.d.3.c, or 6A005.d.4.c (that meet or exceed the parameters of 6A205); 6A202, 6"
+},
+{
+"eccn": "6E202",
+"cat": "6",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “production” or “use” of “software” controlled by 6D201."
+},
+{
+"eccn": "6E619",
+"cat": "6",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul or refurbishing of commodities controlled by 6B619 or “software” controlled by 6D619."
+},
+{
+"eccn": "6E991",
+"cat": "6",
+"part": null,
+"group": "E",
+"title": "“Technology” for the “development”, “production” or “use” of equipment controlled by 6A991, 6A996, 6A997, 6A998 or 6A999.c."
+},
+{
+"eccn": "6E992",
+"cat": "6",
+"part": null,
+"group": "E",
+"title": "“Technology” for the “development” or “production” of equipment, materials or “software” controlled by 6A992, 6A994, or 6A995, 6B995, 6C992, 6C994, or 6D993."
+},
+{
+"eccn": "6E993",
+"cat": "6",
+"part": null,
+"group": "E",
+"title": "Other “technology”, not controlled by 6E003, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "7A001",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "Accelerometers as follows (see List of Items Controlled) and “specially designed” “components” therefor."
+},
+{
+"eccn": "7A002",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "Gyros or Angular Rate Sensors, Having any of the Following, and “Specially Designed” “Components” Therefor."
+},
+{
+"eccn": "7A003",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "'Inertial measurement equipment or systems', having any of the following."
+},
+{
+"eccn": "7A004",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "'Star trackers' and “components” therefor, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "7A005",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "“Satellite navigation system” receiving equipment having any of the following and “specially designed” “components” therefor."
+},
+{
+"eccn": "7A006",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "Airborne altimeters operating at frequencies other than 4.2 to 4.4 GHz inclusive and having any of the following (see List of Items Controlled)."
+},
+{
+"eccn": "7A008",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "Underwater sonar navigation systems using Doppler velocity or correlation velocity logs integrated with a heading source and having a positioning “accuracy” of equal to or less (better) than 3% of distance traveled “Circular Error Probable” (“CEP”) and “specially designed” “components” therefor."
+},
+{
+"eccn": "7A101",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "Accelerometers, other than those controlled by 7A001 (see List of Items Controlled), and “specially designed” “parts” and “components” therefor."
+},
+{
+"eccn": "7A102",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "Gyros, other than those controlled by 7A002 (see List of Items Controlled), and “specially designed” “parts” and “components” therefor."
+},
+{
+"eccn": "7A103",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "Instrumentation, navigation equipment and systems, other than those controlled by 7A003, and “specially designed” “parts” and “components” therefor, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "7A104",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "Gyro-astro compasses and other devices, other than those controlled by 7A004, which derive position or orientation by means of automatically tracking celestial bodies or satellites and “specially designed” “parts” and “components” therefor."
+},
+{
+"eccn": "7A105",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "Receiving equipment for 'navigation satellite systems', having any of the following characteristics (see List of Items Controlled), and “specially designed” “parts” and “components” therefor."
+},
+{
+"eccn": "7A106",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "Altimeters, other than those controlled by 7A006, of radar or laser radar type, designed or modified for use in “missiles”. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "7A107",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "Three axis magnetic heading sensors having all of the following characteristics (see List of Items Controlled), and “specially designed” “parts” and “components” therefor."
+},
+{
+"eccn": "7A115",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "Passive sensors for determining bearing to specific electromagnetic sources (direction finding equipment) or terrain characteristics, designed or modified for use in “missiles”. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "7A116",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "Flight control systems and “parts” and “components”, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "7A117",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "“Guidance sets” capable of achieving system accuracy of 3.33% or less of the range (e.g., a “CEP” of 10 km or less at a “range” of 300 km). (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "7A611",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "Military fire control, laser, imaging, and guidance equipment, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "7A994",
+"cat": "7",
+"part": null,
+"group": "A",
+"title": "Other navigation direction finding equipment, airborne communication equipment, all aircraft inertial navigation systems not controlled under 7A003 or 7A103, and other avionic equipment, including “parts” and “components,” n.e.s."
+},
+{
+"eccn": "7B001",
+"cat": "7",
+"part": null,
+"group": "B",
+"title": "Test, calibration or alignment equipment, “specially designed” for equipment controlled by 7A (except 7A994)."
+},
+{
+"eccn": "7B002",
+"cat": "7",
+"part": null,
+"group": "B",
+"title": "Equipment “specially designed” to characterize mirrors for ring “laser” gyros, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "7B003",
+"cat": "7",
+"part": null,
+"group": "B",
+"title": "Equipment “specially designed” for the “production” of equipment controlled by 7A (except 7A994)."
+},
+{
+"eccn": "7B101",
+"cat": "7",
+"part": null,
+"group": "B",
+"title": "“Production equipment”, and other test, calibration, and alignment equipment, other than that described in 2B119 to 2B122, 7B003, and 7B102, designed or modified to be used with equipment controlled by 7A001 to 7A004 or 7A101 to 7A104."
+},
+{
+"eccn": "7B102",
+"cat": "7",
+"part": null,
+"group": "B",
+"title": "Equipment, other than those controlled by 7B002, designed or modified to characterize mirrors, for laser gyro equipment, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "7B103",
+"cat": "7",
+"part": null,
+"group": "B",
+"title": "“Specially designed” “production facilities” for equipment controlled by 7A117. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "7B611",
+"cat": "7",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and production commodities “specially designed” for military fire control, laser, imaging, and guidance equipment, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "7B994",
+"cat": "7",
+"part": null,
+"group": "B",
+"title": "Other equipment for the test, inspection, or “production” of navigation and avionics equipment."
+},
+{
+"eccn": "7D001",
+"cat": "7",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “development” or “production” of equipment controlled by 7A (except 7A994) or 7B (except 7B994)."
+},
+{
+"eccn": "7D002",
+"cat": "7",
+"part": null,
+"group": "D",
+"title": "“Source code” for the operation or maintenance of any inertial navigation equipment, including inertial equipment not controlled by 7A003 or 7A004, or Attitude and Heading Reference Systems ('AHRS')."
+},
+{
+"eccn": "7D003",
+"cat": "7",
+"part": null,
+"group": "D",
+"title": "Other “software” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "7D004",
+"cat": "7",
+"part": null,
+"group": "D",
+"title": "“Source code” incorporating “development” “technology” specified by 7E004.a.2, a.3, a.5, a.6 or 7E004.b, for any of the following: (see List of Items Controlled)."
+},
+{
+"eccn": "7D005",
+"cat": "7",
+"part": null,
+"group": "D",
+"title": "“Software” “Specially Designed” To Decrypt “Satellite Navigation System” Ranging Signals Designed for Government Use."
+},
+{
+"eccn": "7D101",
+"cat": "7",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “use” of equipment controlled for missile technology (MT) reasons by 7A001 to 7A006, 7A101 to 7A107, 7A115, 7A116, 7A117, 7B001, 7B002, 7B003, 7B101, 7B102, or 7B103."
+},
+{
+"eccn": "7D102",
+"cat": "7",
+"part": null,
+"group": "D",
+"title": "Integration “software”, as follows (See List of Items Controlled)."
+},
+{
+"eccn": "7D103",
+"cat": "7",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for modelling or simulation of the “guidance sets” controlled by 7A117 or for their design integration with “missiles”. (This entry is “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "7D611",
+"cat": "7",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for commodities controlled by 7A611 or equipment controlled by 7B611, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "7D994",
+"cat": "7",
+"part": null,
+"group": "D",
+"title": "“Software”, n.e.s., for the “development”, “production”, or “use” of navigation, airborne communication and other avionics."
+},
+{
+"eccn": "7E001",
+"cat": "7",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “development” of equipment or “software,” specified by 7A. (except 7A994), 7B. (except 7B994), 7D001, 7D002, 7D003 or 7D005."
+},
+{
+"eccn": "7E002",
+"cat": "7",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “production” of equipment controlled by 7A (except 7A994) or 7B (except 7B994)."
+},
+{
+"eccn": "7E003",
+"cat": "7",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the repair, refurbishing or overhaul of equipment controlled by 7A001 to 7A004."
+},
+{
+"eccn": "7E004",
+"cat": "7",
+"part": null,
+"group": "E",
+"title": "Other “technology” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "7E101",
+"cat": "7",
+"part": null,
+"group": "E",
+"title": "“Technology,” according to the General Technology Note for the “use” of equipment controlled by 7A001 to 7A006, 7A101 to 7A107, 7A115 to 7A117, 7B001, 7B002, 7B003, 7B101, 7B102, 7B103, or 7D101 to 7D103 for MT reasons."
+},
+{
+"eccn": "7E102",
+"cat": "7",
+"part": null,
+"group": "E",
+"title": "“Technology” for protection of avionics and electrical subsystems against electromagnetic pulse (EMP) and electromagnetic interference (EMI) hazards, from external sources, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "7E104",
+"cat": "7",
+"part": null,
+"group": "E",
+"title": "Design “Technology” for the integration of the flight control, guidance, and propulsion data into a flight management system, designed or modified for rockets or missiles capable of achieving a “range” equal to or greater than 300 km, for optimization of rocket system trajectory. (This entry is “sub"
+},
+{
+"eccn": "7E611",
+"cat": "7",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul or refurbishing of commodities controlled by 7A611, commodities controlled by 7B611, or software controlled by 7D611, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "7E994",
+"cat": "7",
+"part": null,
+"group": "E",
+"title": "“Technology”, n.e.s., for the “development”, “production”, or “use” of navigation, airborne communication, and other avionics equipment."
+},
+{
+"eccn": "8A001",
+"cat": "8",
+"part": null,
+"group": "A",
+"title": "Submersible vehicles and surface vessels, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "8A002",
+"cat": "8",
+"part": null,
+"group": "A",
+"title": "Marine systems, equipment, “parts” and “components,” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "8A018",
+"cat": "8",
+"part": null,
+"group": "A",
+"title": "Items on the Wassenaar Arrangement Munitions List."
+},
+{
+"eccn": "8A609",
+"cat": "8",
+"part": null,
+"group": "A",
+"title": "Surface vessels of war and related commodities (see List of Items Controlled)."
+},
+{
+"eccn": "8A620",
+"cat": "8",
+"part": null,
+"group": "A",
+"title": "Submersible vessels, oceanographic and associated commodities (see List of Items Controlled)."
+},
+{
+"eccn": "8A992",
+"cat": "8",
+"part": null,
+"group": "A",
+"title": "Vessels, marine systems or equipment, not controlled by 8A001 or 8A002, and “specially designed” “parts” and “components” therefor, and marine boilers and “parts,” “components,” “accessories,” and “attachments” therefor (see List of Items Controlled)."
+},
+{
+"eccn": "8B001",
+"cat": "8",
+"part": null,
+"group": "B",
+"title": "Water Tunnels Designed to Have a Background Noise of Less Than 100 dB (Reference 1 µPa, 1 Hz) Within the Frequency Range Exceeding 0 Hz But Not Exceeding to 500 Hz and Designed for Measuring Acoustic Fields Generated by a Hydro-Flow Around Propulsion System Models."
+},
+{
+"eccn": "8B609",
+"cat": "8",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and production “equipment” and related commodities “specially designed” for the “development,” “production,” repair, overhaul or refurbishing of commodities enumerated or otherwise described in ECCN 8A609 or USML Category VI (except for Cat VI(f)(7)), as follows (see List of Items "
+},
+{
+"eccn": "8B620",
+"cat": "8",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and production “equipment” and related commodities “specially designed” for the “development,” “production,” repair, overhaul, or refurbishing of commodities enumerated or otherwise described in ECCN 8A620 (see List of Items Controlled)."
+},
+{
+"eccn": "8C001",
+"cat": "8",
+"part": null,
+"group": "C",
+"title": "'Syntactic foam' designed for underwater use and having all of the following (see List of Items Controlled)."
+},
+{
+"eccn": "8C609",
+"cat": "8",
+"part": null,
+"group": "C",
+"title": "Materials “specially designed” for the “development” or “production” of commodities controlled by 8A609 not elsewhere specified in the USML (see List of Items Controlled)."
+},
+{
+"eccn": "8D001",
+"cat": "8",
+"part": null,
+"group": "D",
+"title": "“Software” “Specially Designed” or Modified for the “Development,” “Production” or “use” of Equipment or Materials, Controlled by 8A (Except 8A992), 8B or 8C."
+},
+{
+"eccn": "8D002",
+"cat": "8",
+"part": null,
+"group": "D",
+"title": "Specific “software” “specially designed” or modified for the “development”, “production”, repair, overhaul or refurbishing (re-machining) of propellers “specially designed” for underwater noise reduction."
+},
+{
+"eccn": "8D609",
+"cat": "8",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production,” operation or maintenance of commodities controlled by 8A609, 8B609, or 8C609 (see List of Items Controlled)."
+},
+{
+"eccn": "8D620",
+"cat": "8",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production,” operation, or maintenance of commodities controlled by 8A620 or 8B620 (see List of Items Controlled)."
+},
+{
+"eccn": "8D992",
+"cat": "8",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “development”, “production” or “use” of equipment controlled by 8A992."
+},
+{
+"eccn": "8D999",
+"cat": "8",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the operation of unmanned submersible vehicles used in the oil and gas industry."
+},
+{
+"eccn": "8E001",
+"cat": "8",
+"part": null,
+"group": "E",
+"title": "“Technology” According to the General Technology Note for the “Development” or “Production” of Equipment or Materials, Controlled by 8A (Except 8A992), 8B or 8C."
+},
+{
+"eccn": "8E002",
+"cat": "8",
+"part": null,
+"group": "E",
+"title": "Other “technology” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "8E609",
+"cat": "8",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by 8A609, 8B609, or 8C609, or “software” controlled by 8D609 (see List of Items Controlled)."
+},
+{
+"eccn": "8E620",
+"cat": "8",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by 8A620 or 8B620, or “software” controlled by 8D620 (see List of Items Controlled)."
+},
+{
+"eccn": "8E992",
+"cat": "8",
+"part": null,
+"group": "E",
+"title": "“Technology” for the “development”, “production” or “use” of equipment controlled by 8A992."
+},
+{
+"eccn": "9A001",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Aero gas turbine engines having any of the following (see List of Items Controlled)."
+},
+{
+"eccn": "9A002",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "'Marine gas turbine engines' designed to use liquid fuel and having all of the following (see List of Items Controlled), and “specially designed” assemblies and “components” therefor."
+},
+{
+"eccn": "9A003",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "“Specially designed” assemblies or “components”, incorporating any of the “technologies” controlled by 9E003.a, 9E003.h, 9E003.i, or 9E003.k, for any of the following aero gas turbine engines (see List of Items Controlled)."
+},
+{
+"eccn": "9A004",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Space launch vehicles and “spacecraft,” “spacecraft buses,” “spacecraft payloads,” “spacecraft” on-board systems or equipment, terrestrial equipment, and air-launch platforms, and “sub-orbital craft,” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "9A005",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Liquid rocket propulsion systems containing any of the systems or “components,” controlled by 9A006. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "9A006",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Systems, “components,” “specially designed” for liquid rocket propulsion systems. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "9A007",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Solid rocket propulsion systems. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "9A008",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "“Components” “specially designed” for solid rocket propulsion systems. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "9A009",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Hybrid rocket propulsion systems. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "9A010",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "“Specially Designed” “Parts,” “Components,” Systems and Structures, for Launch Vehicles, Launch Vehicle Propulsion Systems or “Spacecraft”. (See Related Controls Paragraph.)"
+},
+{
+"eccn": "9A011",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Ramjet, scramjet or 'combined cycle engines', and “specially designed” “parts” and “components” therefor. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "9A012",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "“Unmanned Aerial Vehicles,” (“UAVs”), unmanned “airships”, related equipment and “components”, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "9A018",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Equipment on the Wassenaar Arrangement Munitions List."
+},
+{
+"eccn": "9A101",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Turbojet and turbofan engines, other than those controlled by 9A001, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "9A102",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "'Turboprop engine systems' “specially designed” for items controlled in 9A012 for MT reasons, and “specially designed” “parts” and “components” therefor, having a maximum power greater than 10 kW (achieved uninstalled at sea level static conditions using the ICAO standard atmosphere), excluding civi"
+},
+{
+"eccn": "9A103",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Liquid propellant tanks “specially designed” for the propellants controlled in ECCNs 1C011, 1C111 or other liquid propellants used in “missiles.” (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "9A104",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Sounding rockets, capable of a range of at least 300 km. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "9A105",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Liquid propellant rocket engines. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "9A106",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Systems, “parts” or “components,” other than those controlled by 9A006, usable in “missiles,” and “specially designed” for liquid rocket propulsion systems, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "9A107",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Solid propellant rocket motors, usable in rockets with a range capability of 300 km or greater, other than those controlled by 9A007, having total impulse capacity equal to or greater than 8.41 × 10 5 Ns, but less than 1.1 × 10 6 Ns. (These items are “subject to the ITAR.” See 22 CFR parts 120 throu"
+},
+{
+"eccn": "9A108",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Solid rocket propulsion “parts” and “components,” other than those controlled by 9A008, usable in rockets with a range capability of 300 km or greater. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "9A109",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Hybrid rocket motors, usable in rockets with a range capability of 300 km or greater, other than those controlled by 9A009, and “specially designed” “parts” and “components” therefor. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "9A110",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Composite structures, laminates and manufactures thereof “specially designed” for 9A012 items that are controlled for MT reasons."
+},
+{
+"eccn": "9A111",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Pulse jet engines, usable in rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km, and “specially designed” “parts” and “components” therefor. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "9A115",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Apparatus, devices and vehicles, designed or modified for the transport, handling, control, activation and launching of rockets, missiles, and unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km."
+},
+{
+"eccn": "9A116",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Reentry vehicles, usable in “missiles,” and equipment designed or modified therefor. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "9A117",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Staging mechanisms, separation mechanisms, and interstages therefor, usable in “missiles”. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "9A118",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Devices to regulate combustion usable in engines which are usable in rockets, missiles, and unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km, controlled by 9A011 or 9A111. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "9A119",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Individual rocket stages, usable in rockets with a range capability greater than 300 km or greater, other than those controlled by 9A005, 9A007, 9A009, 9A105, 9A107 and 9A109. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "9A120",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Complete unmanned aerial vehicles, not specified in 9A012, having all of the following characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "9A515",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "“Spacecraft” and related commodities, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "9A604",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Commodities related to launch vehicles, missiles, and rockets (see List of Items Controlled)."
+},
+{
+"eccn": "9A610",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Military Aircraft and Related Commodities, Other Than Those Enumerated in 9A991.a (See List of Items Controlled)."
+},
+{
+"eccn": "9A619",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Military gas turbine engines and related commodities (see List of Items Controlled)."
+},
+{
+"eccn": "9A620",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Cryogenic and “superconductive” equipment, as follows (see list of items controlled)."
+},
+{
+"eccn": "9A980",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Nonmilitary mobile crime science laboratories; and accessories, n.e.s."
+},
+{
+"eccn": "9A990",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Diesel engines, n.e.s., and tractors and “specially designed” “parts” and “components” therefor, n.e.s. (see List of Items Controlled)."
+},
+{
+"eccn": "9A991",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "“Aircraft,” n.e.s., and gas turbine engines not controlled by 9A001 or 9A101 and “parts” and “components,” n.e.s. (see List of Items Controlled)."
+},
+{
+"eccn": "9A992",
+"cat": "9",
+"part": null,
+"group": "A",
+"title": "Complete canopies, harnesses, and platforms and electronic release mechanisms therefor, except such types as are in normal sporting use."
+},
+{
+"eccn": "9B001",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "Manufacturing equipment, tooling or fixtures, as follows (See List of Items Controlled)."
+},
+{
+"eccn": "9B002",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "On-line (real time) control systems, instrumentation (including sensors) or automated data acquisition and processing equipment, having all of the following (see List of Items Controlled)."
+},
+{
+"eccn": "9B003",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "Equipment “specially designed” for the “production” or test of gas turbine brush seals designed to operate at tip speeds exceeding 335 m/s, and temperatures in excess of 773 K (500 °C), and “specially designed” “components” or “accessories” therefor."
+},
+{
+"eccn": "9B004",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "Tools, dies or fixtures, for the solid state joining of “superalloy”, titanium or intermetallic airfoil-to-disk combinations described in 9E003.a.3 or 9E003.a.6 for gas turbines."
+},
+{
+"eccn": "9B005",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "On-line (real time) control systems, instrumentation (including sensors) or automated data acquisition and processing equipment, “specially designed” for use with any of the following (see List of Items Controlled)."
+},
+{
+"eccn": "9B006",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "Acoustic vibration test equipment capable of producing sound pressure levels of 160 Db or more (referenced to 20 uPa) with a rated output of 4 kW or more at a test cell temperature exceeding 1,273 K (1,000 °C), and “specially designed” quartz heaters therefor."
+},
+{
+"eccn": "9B007",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "Equipment “specially designed” for inspecting the integrity of rocket motors and using Non-Destructive Test (NDT) techniques other than planar x-ray or basic physical or chemical analysis."
+},
+{
+"eccn": "9B008",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "Direct measurement wall skin friction transducers “specially designed” to operate at a test flow total (stagnation) temperature exceeding 833 K (560 °C))."
+},
+{
+"eccn": "9B009",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "Tooling “specially designed” for producing gas turbine engine powder metallurgy rotor “parts” or “components” having all of the following (see List of Items Controlled)."
+},
+{
+"eccn": "9B010",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "Equipment “Specially Designed” for the Production of Items Specified by 9A012."
+},
+{
+"eccn": "9B104",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "'Aerothermodynamic test facilities', usable for rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km and their subsystems, and having an electrical power supply equal to or greater than 5 MW or a gas supply total pressure equal to or greater t"
+},
+{
+"eccn": "9B105",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "‘Aerodynamic test facilities’ for speeds of Mach 0.9 or more, usable for rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km and their subsystems."
+},
+{
+"eccn": "9B106",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "Environmental chambers usable for rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km and their subsystems, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "9B115",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "“Specially designed” production “equipment” for systems, sub-systems and “components” controlled by ECCN 9A101 or by USML Category IV(d)(2), (d)(3), (d)(4), or (h)(17)."
+},
+{
+"eccn": "9B116",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "“Specially designed” “production facilities” for systems, sub-systems, and “components” controlled by ECCN 9A012 (applies to MT-controlled items only) or 9A101 or by USML Category IV(d)(2), (d)(3), (d)(4), or (h)(17)."
+},
+{
+"eccn": "9B117",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "Test Benches and Test Stands for Solid or Liquid Propellant Rockets, Motors or Rocket Engines, Having Either of the Following Characteristics (see List of Items Controlled)."
+},
+{
+"eccn": "9B515",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and production “equipment” “specially designed” for “spacecraft” and related commodities, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "9B604",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and production “equipment” and related commodities “specially designed” for the “development,” “production,” repair, overhaul, or refurbishing of commodities in ECCN 9A604 or related defense articles in USML Category IV (see List of Items Controlled)."
+},
+{
+"eccn": "9B610",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and production “equipment” and related commodities “specially designed” for the “development” or “production” of commodities enumerated or otherwise described in ECCN 9A610 or USML Category VIII (see List of Items Controlled)."
+},
+{
+"eccn": "9B619",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and production “equipment” and related commodities “specially designed” for the “development” or “production” of commodities enumerated or otherwise described in ECCN 9A619 or USML Category XIX (see List of Items Controlled)."
+},
+{
+"eccn": "9B620",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "Test, inspection, and production commodities for cryogenic and “superconductive” equipment (see List of Items controlled)."
+},
+{
+"eccn": "9B990",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "Vibration test equipment and “specially designed” “parts” and “components,” n.e.s."
+},
+{
+"eccn": "9B991",
+"cat": "9",
+"part": null,
+"group": "B",
+"title": "“Specially designed” “equipment,” tooling or fixtures, not controlled by 9B001, for manufacturing or measuring gas turbine blades, vanes or tip shroud castings, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "9C110",
+"cat": "9",
+"part": null,
+"group": "C",
+"title": "Resin impregnated fiber prepregs and metal coated fiber preforms therefor, for composite structures, laminates and manufactures specified in 9A110, made either with organic matrix or metal matrix utilizing fibrous or filamentary reinforcements having a “specific tensile strength” greater than 7.62 ×"
+},
+{
+"eccn": "9C610",
+"cat": "9",
+"part": null,
+"group": "C",
+"title": "Materials “specially designed” for commodities controlled by USML Category VIII or ECCN 9A610 and not elsewhere specified in the CCL or the USML (see List of Items Controlled)."
+},
+{
+"eccn": "9C619",
+"cat": "9",
+"part": null,
+"group": "C",
+"title": "Materials “specially designed” for commodities controlled by USML Category XIX or ECCN 9A619 and not elsewhere specified in the CCL or on the USML (see List of Items Controlled)."
+},
+{
+"eccn": "9D001",
+"cat": "9",
+"part": null,
+"group": "D",
+"title": "“Software”, not specified in 9D003 or 9D004, “specially designed” or modified for the “development” of equipment or “technology” controlled by ECCN 9A001 to 9A004, 9A012, 9A101 (except for items in 9A101.b that are “subject to the ITAR”, see 22 CFR part 121), 9A106.d. or .e, 9A110, or 9A120, 9B (exc"
+},
+{
+"eccn": "9D002",
+"cat": "9",
+"part": null,
+"group": "D",
+"title": "“Software”, not specified in 9D003 or 9D004, “specially designed” or modified for the “production” of equipment controlled by ECCN 9A001 to 9A004, 9A012, 9A101 (except for items in 9A101.b that are “subject to the ITAR”, see 22 CFR part 121), 9A106.d or .e, 9A110, or 9A120, 9B (except for ECCNs 9B60"
+},
+{
+"eccn": "9D003",
+"cat": "9",
+"part": null,
+"group": "D",
+"title": "“Software” Incorporating “Technology” Specified by ECCN 9E003.h and Used in “FADEC Systems” for Systems Controlled by ECCN 9A001 to 9A003, 9A101 (Except for Items in 9A101.b That Are “Subject to the ITAR”, See 22 CFR Part 121), 9A106.d or .e, or 9B (Except for ECCNs 9B604, 9B610, 9B619, 9B990, and 9"
+},
+{
+"eccn": "9D004",
+"cat": "9",
+"part": null,
+"group": "D",
+"title": "Other “software” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "9D005",
+"cat": "9",
+"part": null,
+"group": "D",
+"title": "“Software” Specially Designed or Modified for the Operation of Items Specified by 9A004.e or 9A004.f. (This “Software” Is Controlled by ECCN 9D515.)"
+},
+{
+"eccn": "9D018",
+"cat": "9",
+"part": null,
+"group": "D",
+"title": "“Software” for the “use” of equipment controlled by 9A018."
+},
+{
+"eccn": "9D101",
+"cat": "9",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” or modified for the “use” of commodities controlled by 9B104, 9B105, 9B106, 9B116, or 9B117."
+},
+{
+"eccn": "9D103",
+"cat": "9",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for modelling, simulation or design integration of “missiles,” or the subsystems controlled by 9A005, 9A007, 9A009, 9A105, 9A106, 9A107, 9A108, 9A109, 9A116 or 9A119. (This entry is “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "9D104",
+"cat": "9",
+"part": null,
+"group": "D",
+"title": "“Software” specially designed or modified for the “use” of equipment controlled by ECCN 9A001, 9A012 (for MT controlled items only), 9A101 (except for items in 9A101.b that are “subject to the ITAR”, see 22 CFR part 121), or 9A106.d."
+},
+{
+"eccn": "9D105",
+"cat": "9",
+"part": null,
+"group": "D",
+"title": "“Software” that coordinates the function of more than one subsystem, “specially designed” or modified for “use” in rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)"
+},
+{
+"eccn": "9D515",
+"cat": "9",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of “spacecraft” and related commodities, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "9D604",
+"cat": "9",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for the “development,” “production,” operation, or maintenance of commodities controlled by ECCN 9A604 or 9B604 (see List of Items Controlled)."
+},
+{
+"eccn": "9D610",
+"cat": "9",
+"part": null,
+"group": "D",
+"title": "Software “specially designed” for the “development,” “production,” operation, or maintenance of military aircraft and related commodities controlled by 9A610, equipment controlled by 9B610, or materials controlled by 9C610 (see List of Items Controlled)."
+},
+{
+"eccn": "9D619",
+"cat": "9",
+"part": null,
+"group": "D",
+"title": "Software “specially designed” for the “development,” “production,” operation or maintenance of military gas turbine engines and related commodities controlled by 9A619, equipment controlled by 9B619, or materials controlled by 9C619 (see List of Items Controlled)."
+},
+{
+"eccn": "9D620",
+"cat": "9",
+"part": null,
+"group": "D",
+"title": "“Software” “specially designed” for cryogenic and “superconductive” equipment, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "9D990",
+"cat": "9",
+"part": null,
+"group": "D",
+"title": "“Software”, n.e.s., for the “development” or “production” of equipment controlled by 9A990 or 9B990."
+},
+{
+"eccn": "9D991",
+"cat": "9",
+"part": null,
+"group": "D",
+"title": "“Software”, for the “development” or “production” of equipment controlled by 9A991 or 9B991."
+},
+{
+"eccn": "9E001",
+"cat": "9",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “development” of equipment or “software”, controlled by 9A004, 9A012, 9B (except for ECCNs 9B604, 9B610, 9B619, 9B990 and 9B991), or ECCN 9D001 to 9D004, 9D101, or 9D104."
+},
+{
+"eccn": "9E002",
+"cat": "9",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “production” of “equipment” controlled by ECCN 9A004 or 9B (except for ECCNs 9B117, 9B604, 9B610, 9B619, 9B990, and 9B991)."
+},
+{
+"eccn": "9E003",
+"cat": "9",
+"part": null,
+"group": "E",
+"title": "Other “technology” as follows (see List of Items Controlled)."
+},
+{
+"eccn": "9E018",
+"cat": "9",
+"part": null,
+"group": "E",
+"title": "“Technology” for the “development,” “production,” or “use” of equipment controlled by 9A018."
+},
+{
+"eccn": "9E101",
+"cat": "9",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “development” or “production” of commodities or “software” controlled by ECCN 9A012 (applies only to “production” “technology” for MT-controlled items in 9A012), 9A101 (except for items in 9A101.b that are “subject to the ITAR,” see 22 CF"
+},
+{
+"eccn": "9E102",
+"cat": "9",
+"part": null,
+"group": "E",
+"title": "“Technology” according to the General Technology Note for the “use” of commodities or “software” controlled by ECCN 9A004 (except for items in 9A004 that are “subject to the ITAR,” see 22 CFR part 121), 9A012, 9A101 (except for items in 9A101.b that are “subject to the ITAR,” see 22 CFR part 121), 9"
+},
+{
+"eccn": "9E515",
+"cat": "9",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development,” “production,” operation, installation, repair, overhaul, or refurbishing of “spacecraft” and related commodities, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "9E604",
+"cat": "9",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by ECCN 9A604 or 9B604, or “software” controlled by ECCN 9D604 (see List of Items Controlled)."
+},
+{
+"eccn": "9E610",
+"cat": "9",
+"part": null,
+"group": "E",
+"title": "Technology “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of military aircraft and related commodities controlled by 9A610, equipment controlled by 9B610, materials controlled by 9C610, or software controlled by 9D610 (see List"
+},
+{
+"eccn": "9E619",
+"cat": "9",
+"part": null,
+"group": "E",
+"title": "“Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of military gas turbine engines and related commodities controlled by 9A619, equipment controlled by 9B619, materials controlled by 9C619, or software controlled by 9D"
+},
+{
+"eccn": "9E620",
+"cat": "9",
+"part": null,
+"group": "E",
+"title": "Technology “required” for cryogenic and “superconductive” equipment, as follows (see List of Items Controlled)."
+},
+{
+"eccn": "9E990",
+"cat": "9",
+"part": null,
+"group": "E",
+"title": "“Technology”, n.e.s., for the “development” or “production” or “use” of equipment controlled by 9A990 or 9B990."
+},
+{
+"eccn": "9E991",
+"cat": "9",
+"part": null,
+"group": "E",
+"title": "“Technology”, for the “development”, “production” or “use” of equipment controlled by 9A991 or 9B991."
+},
+{
+"eccn": "9E993",
+"cat": "9",
+"part": null,
+"group": "E",
+"title": "Other “technology”, not described by 9E003, as follows (see List of Items Controlled)."
+}
+]

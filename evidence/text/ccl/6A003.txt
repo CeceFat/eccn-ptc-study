@@ -1,0 +1,231 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6A003；eCFR 2026-10-29〕
+
+6A003 Cameras, systems or equipment, and “components” therefor, as follows (see List of Items Controlled).
+
+Reason for Control: NS, NP, RS, AT, UN
+
+Control(s) | Country Chart(see Supp. No.1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+NP applies to cameras controlled by 6A003.a.3 or a.4 and to plug-ins in 6A003.a.6 for cameras controlled by 6A003.a.3 or a.4 | NP Column 1
+
+RS applies to 6A003.b.3, 6A003.b.4.a, 6A003.b.4.c and to items controlled in 6A003.b.4.b that have a frame rate greater than 60 Hz or that incorporate a focal plane array with more than 111,000 elements, or to items in 6A003.b.4.b when being exported or reexported to be embedded in a civil product. (But see § 742.6(a)(2)(iii) and (v) for certain exemptions) | RS Column 1
+
+RS applies to items controlled in 6A003.b.4.b that have a frame rate of 60 Hz or less and that incorporate a focal plane array with not more than 111,000 elements if not being exported or reexported to be embedded in a civil product | RS Column 2
+
+AT applies to entire entry | AT Column 1
+
+UN applies to 6A003.b.3 and b.4 | See § 746.1(b) for UN controls
+
+License Requirement Note: Commodities that are not subject to the ITAR but are of the type described in USML Category XII(c) are controlled as cameras in ECCN 6A003 when they incorporate a camera controlled in this ECCN.
+
+Reporting Requirements
+
+See § 743.3 of the EAR for thermal camera reporting for exports that are not authorized by an individually validated license of thermal imaging cameras controlled by ECCN 6A003.b.4.b to destinations in Country Group A:1 (see Supplement No. 1 to part 740 of the EAR), must be reported to BIS.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $1500, except N/A for 6A003.a.3 through a.6, b.1, b.3 and b.4.
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any commodity in 6A003.b.3 or b.4 to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 6E001 (“development”), 6E002 (“production”), and 6E201 (“use”) for technology for items controlled under this entry. (2) Also see ECCN 6A203. (3) See ECCN 0A919 for foreign made military commodities that incorporate cameras described in 6A003. (4) Section 744.9 imposes a license requirement on cameras described in 6A003 if being exported, reexported, or transferred (in-country) for use by certain military end-users or for incorporation into a commodity controlled by ECCN 0A919. (5) See USML Category XII(c) and (e) for cameras subject to the ITAR. (6) Also see ECCN 6A293.
+
+Related Definitions: N/A
+
+Items:
+
+a. Instrumentation cameras and “specially designed” “components” therefor, as follows:
+
+Note: Instrumentation cameras, controlled by 6A003.a.3 to 6A003.a.5, with modular structures should be evaluated by their maximum capability, using plug-ins available according to the camera manufacturer's specifications.
+
+a.1. [Reserved]
+
+a.2. [Reserved]
+
+a.3. Electronic streak cameras having temporal resolution better than 50 ns;
+
+a.4. Electronic framing cameras having a speed exceeding 1,000,000 frames/s;
+
+a.5. Electronic cameras having all of the following:
+
+a.5.a. An electronic shutter speed (gating capability) of less than 1µs per full frame; and
+
+a.5.b. A read out time allowing a framing rate of more than 125 full frames per second;
+
+a.6. Plug-ins having all of the following characteristics:
+
+a.6.a. “Specially designed” for instrumentation cameras which have modular structures and that are controlled by 6A003.a; and
+
+a.6.b. Enabling these cameras to meet the characteristics specified by 6A003.a.3, 6A003.a.4 or 6A003.a.5, according to the manufacturer's specifications;
+
+b. Imaging cameras as follows:
+
+Note: 6A003.b does not control television or video cameras “specially designed” for television broadcasting.
+
+b.1. Video cameras incorporating solid state sensors, having a peak response in the wavelength range exceeding 10 nm, but not exceeding 30,000 nm and having all of the following:
+
+b.1.a. Having any of the following:
+
+b.1.a.1. More than 4 x 10 6 “active pixels” per solid state array for monochrome (black and white) cameras;
+
+b.1.a.2. More than 4 x 10 6 “active pixels” per solid state array for color cameras incorporating three solid state arrays; or
+
+b.1.a.3. More than 12 x 10 6 “active pixels” for solid state array color cameras incorporating one solid state array; and
+
+b.1.b. Having any of the following:
+
+b.1.b.1. Optical mirrors controlled by 6A004.a.;
+
+b.1.b.2. Optical control equipment controlled by 6A004.d.; or
+
+b.1.b.3. The capability for annotating internally generated 'camera tracking data';
+
+Technical Notes: 1. For the purposes of 6A003.b.1, digital video cameras should be evaluated by the maximum number of “active pixels” used for capturing moving images.
+
+2. For the purposes of 6A003.b.1.b.3, 'camera tracking data' is the information necessary to define camera line of sight orientation with respect to the earth. This includes: (1) the horizontal angle the camera line of sight makes with respect to the earth's magnetic field direction and; (2) the vertical angle between the camera line of sight and the earth's horizon.
+
+b.2. Scanning cameras and scanning camera systems, having all of the following:
+
+b.2.a. A peak response in the wavelength range exceeding 10 nm, but not exceeding 30,000 nm;
+
+b.2.b. Linear detector arrays with more than 8,192 elements per array; and
+
+b.2.c. Mechanical scanning in one direction;
+
+Note: 6A003.b.2 does not apply to scanning cameras and scanning camera systems, “specially designed” for any of the following:
+
+a. Industrial or civilian photocopiers;
+
+b. Image scanners “specially designed” for civil, stationary, close proximity scanning applications (e.g., reproduction of images or print contained in documents, artwork, or photographs); or
+
+c. Medical equipment.
+
+b.3. Imaging cameras incorporating image intensifier tubes having the characteristics listed in 6A002.a.2.a or 6A002.a.2.b;
+
+b.4. Imaging cameras incorporating “focal plane arrays” having any of the following:
+
+b.4.a. Incorporating “focal plane arrays” controlled by 6A002.a.3.a to 6A002.a.3.e;
+
+b.4.b. Incorporating “focal plane arrays” controlled by 6A002.a.3.f; or
+
+b.4.c. Incorporating “focal plane arrays” controlled by 6A002.a.3.g;
+
+Note 1: Imaging cameras described in 6A003.b.4 include “focal plane arrays” combined with sufficient “signal processing” electronics, beyond the read out integrated circuit, to enable as a minimum the output of an analog or digital signal once power is supplied.
+
+Note 2: 6A003.b.4.a does not control imaging cameras incorporating linear “focal plane arrays” with 12 elements or fewer, not employing time-delay-and-integration within the element and designed for any of the following:
+
+a. Industrial or civilian intrusion alarm, traffic or industrial movement control or counting systems;
+
+b. Industrial equipment used for inspection or monitoring of heat flows in buildings, equipment, or industrial processes;
+
+c. Industrial equipment used for inspection, sorting or analysis of the properties of materials;
+
+d. Equipment “specially designed” for laboratory use; or
+
+e. Medical equipment.
+
+Note 3: 6A003.b.4.b does not control imaging cameras having any of the following:
+
+a. A maximum frame rate equal to or less than 9 Hz;
+
+b. Having all of the following:
+
+1. Having a minimum horizontal or vertical 'Instantaneous-Field-of-View (IFOV)' of at least 2 mrad (milliradians);
+
+2. Incorporating a fixed focal-length lens that is not designed to be removed;
+
+3. Not incorporating a 'direct view' display; and
+
+Technical Note: For the purposes of 6A003.b.4 Note 3.b.3, 'direct view' refers to an imaging camera operating in the infrared spectrum that presents a visual image to a human observer using a near-to-eye micro display incorporating any light-security mechanism.
+
+4. Having any of the following:
+
+a. No facility to obtain a viewable image of the detected field-of-view; or
+
+b. The camera is designed for a single kind of application and designed not to be user modified; or
+
+Technical Note: For the purposes of 6A003.b.4 Note 3.b.1, 'Instantaneous-Field-of-View (IFOV)' is the lesser figure of the 'Horizontal IFOV' or the 'Vertical IFOV'.
+
+'Horizontal IFOV' = horizontal Field-of-View (FOV)/number of horizontal detector elements
+
+'Vertical IFOV'= vertical Field-of-View (FOV)/number of vertical detector elements.
+
+c. The camera is “specially designed” for installation into a civilian passenger land vehicle and having all of the following:
+
+1. The placement and configuration of the camera within the vehicle are solely to assist the driver in the safe operation of the vehicle;
+
+2. Is operable only when installed in any of the following:
+
+a. The civilian passenger land vehicle for which it was intended and the vehicle weighs less than 4,500 kg (gross vehicle weight); or
+
+b. A “specially designed”, authorized maintenance test facility; and
+
+3. Incorporates an active mechanism that forces the camera not to function when it is removed from the vehicle for which it was intended.
+
+Note: When necessary, details of the items will be provided, upon request, to the Bureau of Industry and Security in order to ascertain compliance with the conditions described in Note 3.b.4 and Note 3.c in this Note to 6A003.b.4.b.
+
+Note 4: 6A003.b.4.c does not apply to 'imaging cameras' having any of the following characteristics:
+
+a. Having all of the following:
+
+1. Where the camera is “specially designed” for installation as an integrated component into indoor and wall-plug-operated systems or equipment, limited by design for a single kind of application, as follows:
+
+a. Industrial process monitoring, quality control, or analysis of the properties of materials;
+
+b. Laboratory equipment “specially designed” for scientific research;
+
+c. Medical equipment;
+
+d. Financial fraud detection equipment; and
+
+2. Is only operable when installed in any of the following:
+
+a. The system(s) or equipment for which it was intended; or
+
+b. A “specially designed,” authorized maintenance facility; and
+
+3. Incorporates an active mechanism that forces the camera not to function when it is removed from the system(s) or equipment for which it was intended;
+
+b. Where the camera is “specially designed” for installation into a civilian passenger land vehicle or passenger and vehicle ferries and having all of the following:
+
+1. The placement and configuration of the camera within the vehicle or ferry are solely to assist the driver or operator in the safe operation of the vehicle or ferry;
+
+2. Is only operable when installed in any of the following:
+
+a. The civilian passenger land vehicle for which it was intended and the vehicle weighs less than 4,500 kg (gross vehicle weight);
+
+b. The passenger and vehicle ferry for which it was intended and having a length overall (LOA) 65 m or greater; or
+
+c. A “specially designed”, authorized maintenance test facility; and
+
+3. Incorporates an active mechanism that forces the camera not to function when it is removed from the vehicle for which it was intended;
+
+c. Limited by design to have a maximum “radiant sensitivity” of 10 mA/W or less for wavelengths exceeding 760 nm, having all of the following:
+
+1. Incorporating a response limiting mechanism designed not to be removed or modified; and
+
+2. Incorporates an active mechanism that forces the camera not to function when the response limiting mechanism is removed; and
+
+3. Not “specially designed” or modified for underwater use; or
+
+d. Having all of the following:
+
+1. Not incorporating a 'direct view' or electronic image display;
+
+2. Has no facility to output a viewable image of the detected field of view;
+
+3. The “focal plane array” is only operable when installed in the camera for which it was intended; and
+
+4. The “focal plane array” incorporates an active mechanism that forces it to be permanently inoperable when removed from the camera for which it was intended.
+
+Note: When necessary, details of the item will be provided, upon request, to the Bureau of Industry and Security in order to ascertain compliance with the conditions described in Note 4 above.
+
+b.5. Imaging cameras incorporating solid-state detectors specified by 6A002.a.1.

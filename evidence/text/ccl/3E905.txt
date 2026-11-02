@@ -1,0 +1,41 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3E905；eCFR 2026-10-29〕
+
+3E905 “Technology” according to the General Technology Note for the “development” or “production” of integrated circuits or devices, using “Gate all-around Field-Effect Transistor” (“GAAFET”) structures.
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+
+RS applies to the entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+
+Note: See General Order No. 6 in supplement no. 1 to part 736 for additional authorization that may apply for exports, reexports, or transfers (in-country) of this item.
+
+List of Items Controlled
+
+Related Controls: 1. ECCN 3E905 applies to process “technology” exclusively for the “development” or “production” of GAAFET structures of integrated circuits at a semiconductor wafer production facility. ECCN 3E905 does not, for example, control an integrated circuit design such as the physical layout file in “GDSII” format or EDA tools, or any other technology used to produce the physical layout file for integrated circuit design. 2. ECCN 3E905 does not apply to vertical GAAFET architectures, e.g., those used for 3D NAND.
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.
+
+Note 1: 3E905 includes 'process recipes'.
+
+Note 2: 3E905. does not apply for tool qualification or maintenance.
+
+Technical Note: For the purposes of Note 1 to 3E905, a 'process recipe' is a set of conditions and parameters for a particular process step.

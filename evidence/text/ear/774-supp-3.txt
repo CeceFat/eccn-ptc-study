@@ -1,0 +1,33 @@
+〔15 CFR Supplement No. 3 to Part 774；eCFR 2026-10-29〕
+
+Supplement No. 3 to Part 774—Statements of Understanding
+
+(a) Statement of Understanding—medical equipment. Commodities that are ““specially designed” for medical end-use” that “incorporate” commodities or software on the Commerce Control List (Supplement No. 1 to part 774 of the EAR) that do not have a reason for control of Nuclear Nonproliferation (NP), Missile Technology (MT), or Chemical & Biological Weapons (CB) are designated by the number EAR99 (i.e., are not elsewhere specified on the Commerce Control List).
+
+Notes to paragraph (a): (1) “Specially designed for medical end-use” means designed for medical treatment or the practice of medicine (does not include medical research).
+
+(2) Commodities or software are considered “incorporated” if the commodity or software is: Essential to the functioning of the medical equipment; customarily included in the sale of the medical equipment; and exported or reexported with the medical equipment.
+
+(3) Except for such software that is made publicly available consistent with § 734.3(b)(3) of the EAR, commodities and software “specially designed for medical end-use” remain subject to the EAR.
+
+(4) See also § 770.2(b) interpretation 2, for other types of equipment that incorporate items on the Commerce Control List that are subject to the EAR.
+
+(5) For computers used with medical equipment, see also ECCN 4A003 note 2 regarding the “principal element” rule.
+
+(6) For commodities and software “specially designed” for medical end-use that incorporate an encryption or other “information security” item subject to the EAR, see also section 3 (General “Information Security” Note (GISN)) to Supplement No. 2 to this part.
+
+(b) Statement of Understanding—Source Code. For the purpose of national security controlled items, “source code” items are controlled either by “software” or by “software” and “technology” controls, except when such “source code” items are explicitly decontrolled.
+
+(c) Category 5—Part 2—Note 4 Statement of Understanding. All items previously described by Notes (b), (c) and (h) to 5A002 are now described by Note 4 to Category 5—Part 2. Note (h) to 5A002 prior to June 25, 2010 stated that the following was not controlled by 5A002:
+
+Equipment “specially designed” for the servicing of portable or mobile radiotelephones and similar client wireless devices that meet all the provisions of the Cryptography Note (Note 3 in Category 5, Part 2), where the servicing equipment meets all of the following:
+
+(1) The cryptographic functionality of the servicing equipment cannot easily be changed by the user of the equipment;
+
+(2) The servicing equipment is designed for installation without further substantial support by the supplier; and
+
+(3) The servicing equipment cannot change the cryptographic functionality of the device being serviced.
+
+(d) Statement of Understanding—Used Goods. The specifications in the Commerce Control List apply equally to new or used goods. In the case of used goods, an evaluation by the Bureau of Industry and Security may be carried out in order to assess whether the goods are capable of meeting the relevant specifications.
+
+[75 FR 36502, June 25, 2010, as amended at 76 FR 29632, May 20, 2011; 82 FR 27110, June 14, 2017]

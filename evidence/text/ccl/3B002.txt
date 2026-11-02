@@ -1,0 +1,37 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3B002；eCFR 2026-10-29〕
+
+3B002 Test or inspection equipment “specially designed” for testing or inspecting finished or unfinished semiconductor devices as follows (see List of Items Controlled) and “specially designed” “components” and “accessories” therefor.
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+Control(s) | Country chart (see Supp. No. 1to part 738)
+
+NS applies to 3B002.a and b | NS Column 2.
+
+NS applies to 3B002.c | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.4(a)(4) of the EAR.
+
+RS applies to 3B002.c | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(6) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $500, except semiconductor manufacturing equipment specified in 3B002.c.
+
+GBS: Yes
+
+List of Items Controlled
+
+Related Controls: See also 3A999.a, 3B992, and 3B993.
+
+Related Definitions: N/A
+
+Items:
+
+a. For testing S-parameters of items specified by 3A001.b.3.
+
+b. For testing microwave integrated circuits controlled by 3A001.b.2.
+
+c. Inspection equipment designed for “EUV” mask blanks or “EUV” patterned masks.

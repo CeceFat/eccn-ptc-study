@@ -1,0 +1,161 @@
+〔Federal Register / BIS｜88 FR 63840 — Export Administration Regulations (EAR): Transfer of Access Information and Release of Software (Source Code and Object Code)｜抓取 2026-11-02｜https://www.federalregister.gov/documents/full_text/text/2023/09/18/2023-20128.txt〕
+
+[Federal Register Volume 88, Number 179 (Monday, September 18, 2023)]
+[Rules and Regulations]
+[Pages 63840-63841]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2023-20128]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 734
+
+[Docket No. 230907-0214]
+RIN 0694-AJ37
+
+
+Export Administration Regulations (EAR): Transfer of Access 
+Information and Release of Software (Source Code and Object Code)
+
+AGENCY: Bureau of Industry and Security, Department of Commerce.
+
+ACTION: Final rule; technical correction.
+
+-----------------------------------------------------------------------
+
+SUMMARY: In this final rule, the Bureau of Industry and Security (BIS) 
+amends the Export Administration Regulations (EAR) to make a technical 
+correction that also serves to clarify provisions of the EAR pertaining 
+to the release of ``software'' as set out in the sections on release 
+and transfer of access information. This final rule clarifies an 
+ambiguity in the EAR by adding a cross-reference addressing transfer of 
+access information in the section on releases of ``technology'' and 
+``software,'' as was originally intended. In addition, this final rule 
+adds a clarifying note that, for purposes of transfer of access 
+information, a release of ``software'' includes both source code and 
+object code.
+
+DATES: This rule is effective September 18, 2023.
+
+FOR FURTHER INFORMATION CONTACT: For questions on these technical 
+corrections, contact Eileen Albanese, Director, Office of National 
+Security and Technology Transfer Controls, Bureau of Industry and 
+Security, Department of Commerce, Phone: (202) 482-0092, Email: 
+[email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    In this final rule, BIS amends the EAR to make a technical 
+correction that also serves to clarify provisions of the EAR that 
+pertain to the release of ``software.'' On June 3, 2016, BIS published 
+the final rule, Revisions to Definitions in the Export Administration 
+Regulations (81 FR 35568) (June 3 rule). The June 3 rule added 
+provisions to address releases of ``technology'' and ``software'' under 
+Sec.  734.15 and transfer of access information under Sec.  734.19. In 
+Sec.  734.15, this final rule clarifies an ambiguity by adding a cross 
+reference to Sec.  734.19. In Sec.  734.19, this final rule adds a new 
+note to the section clarifying that for purposes of transfer of access 
+information, a release of ``software'' includes source code and object 
+code.
+
+[[Page 63841]]
+
+    The definition of the term ``software'' in Sec.  772.1 includes 
+both source code and object code, and ``software'' is used as a defined 
+term in Sec.  734.19. Accordingly, the note added in this rule will 
+eliminate potential uncertainty that the Sec.  734.15 definition of 
+``release'' limits Sec.  734.19 to only controlling transfers of access 
+information that release source code, rather than both source code and 
+object code.
+
+Export Control Reform Act of 2018
+
+    On August 13, 2018, the President signed into law the John S. 
+McCain National Defense Authorization Act for Fiscal Year 2019, which 
+included the Export Control Reform Act of 2018 (ECRA) (50 U.S.C. 4801-
+4852). ECRA provides the legal basis for BIS's principal authorities 
+and serves as the authority under which BIS issues this rule.
+
+Rulemaking Requirements
+
+    1. This rule has been determined to be not significant for purposes 
+of Executive Order 12866.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to or be subject to a penalty for failure to comply 
+with a collection of information, subject to the requirements of the 
+Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), unless 
+that collection of information displays a currently valid Office of 
+Management and Budget (OMB) Control Number. This regulation involves an 
+information collection approved by OMB under control number 0694-0088, 
+Simplified Network Application Processing System. BIS does not 
+anticipate a change to the burden hours associated with this collection 
+as a result of this rule. Information regarding the collection, 
+including all supporting materials, can be accessed at https://www.reginfo.gov/public/do/PRAMain.
+    3. This rule does not contain policies with federalism implications 
+as that term is defined in Executive Order 13132.
+    4. Pursuant to section 1762 of the Export Control Reform Act of 
+2018, this action is exempt from the Administrative Procedure Act (5 
+U.S.C. 553) requirements for notice of proposed rulemaking, opportunity 
+for public participation, and delay in effective date.
+    5. Because a notice of proposed rulemaking and an opportunity for 
+public comment are not required to be given for this rule by 5 U.S.C. 
+553, or by any other law, the analytical requirements of the Regulatory 
+Flexibility Act, 5 U.S.C. 601, et seq., are not applicable. 
+Accordingly, no regulatory flexibility analysis is required, and none 
+has been prepared.
+
+List of Subjects 15 CFR Part 734
+
+    Administrative practice and procedure, Exports, Inventions and 
+patents, Research, Science and technology.
+
+    Accordingly, 15 CFR part 734 is corrected by making the following 
+correcting amendments:
+
+PART 734--SCOPE OF THE EXPORT ADMINISTRATION REGULATIONS
+
+0
+1. The authority citation for part 734 continues to read as follows:
+
+    Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 
+950; E.O. 13020, 61 FR 54079, 3 CFR, 1996 Comp., p. 219; E.O. 13026, 
+61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 
+CFR, 2001 Comp., p. 783; E.O. 13637, 78 FR 16129, 3 CFR, 2014 Comp., 
+p. 223; Notice of November 8, 2022, 87 FR 68015 (November 10, 2022).
+
+
+0
+2. Section 734.15 is amended by revising paragraph (a) introductory 
+text to read as follows:
+
+
+Sec.  734.15  Release.
+
+    (a) Except as set forth in Sec. Sec.  734.18 and 734.19, 
+``technology'' and ``software'' are ``released'' through:
+* * * * *
+
+0
+3. Section 734.19 is amended by adding a note at the end of the section 
+to read as follows:
+
+
+Sec.  734.19  Transfer of access information.
+
+* * * * *
+    Note 1 to Sec.  734.19: For purposes of this section, a release of 
+``software'' includes source code and object code.
+
+Thea D. Rozman Kendler,
+Assistant Secretary for Export Administration.
+[FR Doc. 2023-20128 Filed 9-15-23; 8:45 am]
+BILLING CODE 3510-33-P

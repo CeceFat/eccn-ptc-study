@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>入門 · 出口管制產品分類 自學站</title>
+<meta name="description" content="給出口管制全新手的入門頁：七個常見問題、十二個基本概念、怎麼讀一個 ECCN、判斷要不要許可的三個問題，以及給專利人的對照。">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>">
+<style>
+  .qa { border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); padding: 14px 18px; margin: 12px 0; }
+  .qa h3 { margin: 0 0 6px; font-size: 16px; }
+  .qa p { font-size: 14.8px; margin: 0 0 8px; }
+  .qa .more { font-size: 13.5px; color: var(--muted); margin: 0; }
+  .concept h3 { margin: 0 0 2px; font-size: 15.5px; }
+  .concept .en-name { font-size: 12.5px; color: var(--muted); margin: 0 0 8px; }
+  .concept p { font-size: 14.5px; margin: 0 0 8px; }
+  .concept .q { font-size: 14px; }
+  .eccn { display: flex; gap: 6px; flex-wrap: wrap; margin: 16px 0; align-items: stretch; }
+  .eccn div { flex: 1 1 140px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); padding: 10px 12px; text-align: center; }
+  .eccn b { display: block; font-family: var(--mono); font-size: 30px; color: var(--accent-ink); line-height: 1.2; }
+  .eccn span { font-size: 13px; color: var(--muted); }
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-in">
+    <a class="brand" href="index.html">出口管制產品分類<small>EAR ECCN × 台灣軍商兩用清單 · 自學站</small></a>
+    <nav class="main">
+      <a href="about.html">About</a>
+      <a href="start.html">入門</a>
+      <a href="index.html">總覽</a>
+      <a href="method.html">分類方法</a>
+      <a href="cat5p2.html">加密 5P2</a>
+      <a href="cat3.html">半導體 Cat 3</a>
+      <a href="taiwan.html">台灣制度</a>
+      <a href="cases.html">產品演練</a>
+      <a href="tech.html">技術與視同出口</a>
+      <a href="evidence.html">方法與證據</a>
+      <a href="quiz.html">自我檢測</a>
+    </nav>
+    <button class="theme-btn" data-theme-toggle aria-label="切換深淺色">☾</button>
+  </div>
+</header>
+
+<div class="wrap"><main class="page">
+
+<p class="kicker" style="margin-top:34px">入門</p>
+<h1>出口管制，該從哪裡讀起</h1>
+<p class="lede">
+這一頁寫給完全沒碰過出口管制的人，包括作者自己。先用七個問題建立整體地圖，再認識十二個一定會遇到的名詞，
+最後學會怎麼讀一個 ECCN、怎麼判斷要不要許可。其他頁面的內容都建立在這一頁的詞彙上。
+</p>
+
+<h2 id="ask">你想知道什麼？</h2>
+
+<div class="qa">
+  <h3>出口管制到底在管什麼？</h3>
+  <p>管三件事：<b>東西</b>是什麼（貨品、軟體、技術）、<b>去哪裡</b>、<b>誰拿去做什麼</b>。而且大部分的出口其實不用申請許可：</p>
+  <div class="q" data-file="ear/730.7.txt" data-cite="15 CFR § 730.7">A relatively small percentage of exports and reexports subject to the EAR require an application to BIS for a license. Many items are not on the Commerce Control List (CCL) (supplement no. 1 to § 774.1 of the EAR), or, if on the CCL, require a license to only a limited number of countries.</div>
+  <p class="more">延伸：<a href="#three">要不要許可的三個問題</a></p>
+</div>
+
+<div class="qa">
+  <h3>ECCN 是什麼？</h3>
+  <p>美國管制清單（CCL）上每一個項目的編號，五個字元。分類的目的，就是替產品找到它的 ECCN，或確認它不在清單上（EAR99）。</p>
+  <div class="q" data-file="bis/classify-your-item.txt" data-cite="BIS, Classify your item">ECCNs are five character alpha-numeric designations used on the Commerce Control List to identify items for export control purposes.</div>
+  <p class="more">延伸：<a href="#anatomy">一個 ECCN 怎麼讀</a></p>
+</div>
+
+<div class="qa">
+  <h3>拿到 ECCN 之後，怎麼知道要不要許可？</h3>
+  <p>看該 ECCN 的「管制理由」，再拿去對國家表（Country Chart）。BIS 規定的第一步是：</p>
+  <div class="q" data-file="ear/738.4.txt" data-cite="15 CFR § 738.4(a)(2)(i)">Examine the appropriate ECCN in the CCL. Is the item you intend to export or reexport controlled for a single Reason for Control?</div>
+  <p class="more">延伸：<a href="#three">三個問題</a></p>
+</div>
+
+<div class="qa">
+  <h3>EAR99 是不是就沒事了？</h3>
+  <p>不是。EAR99 只代表「不在清單上」，賣給受限制的對象或用途，照樣要許可。</p>
+  <div class="q" data-file="bis/classify-your-item.txt" data-cite="BIS, Classify your item">EAR99 items do not require a license for export, reexport, or transfer (in country) in most situations; however, EAR99 items may require a license if destined for a prohibited or restricted end user, end use or destination of concern.</div>
+</div>
+
+<div class="qa">
+  <h3>台灣公司為什麼要管美國法？</h3>
+  <p>因為美國法跟著「東西」走，不只跟著國界走：美國原產品在哪裡都受管；外國產品含太多美國受控成分、或是特定美國技術的直接產品，也會受管。</p>
+  <div class="q" data-file="ear/734.3.txt" data-cite="15 CFR § 734.3(a)(2)">All U.S. origin items wherever located;</div>
+  <p class="more">延伸：<a href="method.html#step0">分類方法：第 0 步</a>、<a href="tech.html#deminimis">de minimis 與外國直接產品</a></p>
+</div>
+
+<div class="qa">
+  <h3>台灣自己的制度跟美國有什麼關係？</h3>
+  <p>兩套獨立的義務。台灣清單的號碼大多跟美國相同（都源自瓦聖那等國際協議），但台灣不看國家表：清單內的貨品原則上不分目的地都要許可。</p>
+  <div class="q" data-file="tw/what-is-shtc.txt" data-cite="經濟部國際貿易署，甚麼是戰略性高科技貨品">戰略性高科技貨品未經許可，不得輸出。</div>
+  <p class="more">延伸：<a href="taiwan.html">台灣制度</a></p>
+</div>
+
+<div class="qa">
+  <h3>我手上有一顆晶片，第一步做什麼？</h3>
+  <p>先收集事實，不要先查表。加密功能、處理器時脈、ADC 規格、射頻功率、目標設備，這些決定了它會落在哪裡。照<a href="method.html#factsheet">事實清單</a>問研發，再照<a href="method.html#order">審查順序</a>走一遍，最後用<a href="cases.html#bt">產品演練</a>對答案。</p>
+</div>
+
+<h2 id="concepts">先懂這十二個概念</h2>
+<div class="grid c2">
+  <div class="card concept">
+    <h3>受 EAR 管</h3><p class="en-name">subject to the EAR</p>
+    <p>EAR 管不管得到這個東西。是一切分析的前提，分類結果不能拿來證明這一點。</p>
+    <div class="q" data-file="ear/734.3.txt" data-cite="15 CFR § 734.3(d)">Commodity classification determinations and advisory opinions issued by BIS are not, and may not be relied upon as, determinations that the items in question are “subject to the EAR,”</div>
+  </div>
+  <div class="card concept">
+    <h3>管制清單與 ECCN</h3><p class="en-name">Commerce Control List · Export Control Classification Number</p>
+    <p>CCL 分 10 類（0–9）、每類 5 個產品群（A–E），每個項目一個 ECCN。</p>
+    <div class="q" data-file="bis/classify-your-item.txt" data-cite="BIS, Classify your item">The first character of the ECCN is a number from 0 through 9 that identifies the broader category to which an item belongs. The second character of the ECCN is a letter from A through E that identifies the product group.</div>
+  </div>
+  <div class="card concept">
+    <h3>EAR99</h3><p class="en-name">items subject to the EAR but not on the CCL</p>
+    <p>受 EAR 管、但不在清單上的東西。多數情況不需許可，例外是受限制的對象、用途與目的地。</p>
+    <div class="q" data-file="ear/734.3.txt" data-cite="15 CFR § 734.3(c)">For ease of reference and classification purposes, items subject to the EAR which are not listed on the CCL are designated as “EAR99.”</div>
+  </div>
+  <div class="card concept">
+    <h3>管制理由</h3><p class="en-name">Reasons for Control：NS、MT、NP、CB、RS、AT、EI…</p>
+    <p>每個 ECCN 會寫明為了什麼而管。理由決定要查國家表的哪一欄；只有 AT（反恐）的項目，需要許可的國家很少。</p>
+    <div class="q" data-file="ear/738.2.txt" data-cite="15 CFR § 738.2(d)(1)">Reasons for Control are not mutually exclusive and numbers are assigned in order of precedence.</div>
+  </div>
+  <div class="card concept">
+    <h3>國家表與國家分組</h3><p class="en-name">Country Chart · Country Groups（A:5、D:1、D:5、E:1…）</p>
+    <p>國家表是「管制理由 × 國家」的格子，有 X 就要許可。很多規則改用國家分組描述範圍，例如 D:5 是武器禁運國家。</p>
+    <div class="q" data-file="ear/738.4.txt" data-cite="15 CFR § 738.4(a)(2)(ii)">Locate the correct Country Chart column identifier on the diagonal headings, and determine whether an “X” is marked in the cell next to the country in question</div>
+  </div>
+  <div class="card concept">
+    <h3>許可例外</h3><p class="en-name">License Exceptions（ENC、TSR、STA…）</p>
+    <p>即使國家表打了 X，符合某個許可例外的條件就不必申請，但通常附帶申報或紀錄義務。加密品的 ENC 是最常用的一個。</p>
+    <div class="q" data-file="ear/730.7.txt" data-cite="15 CFR § 730.7">Other transactions may be covered by one or more of the License Exceptions in the EAR. In such cases no application need be made to BIS.</div>
+  </div>
+  <div class="card concept">
+    <h3>Specially designed</h3><p class="en-name">特別設計（先抓、再放）</p>
+    <p>決定零組件是否被某個 ECCN 抓進去的定義。先看 (a) 段是否符合，再看 (b) 段六種放行情形。</p>
+    <div class="q" data-file="ear/772.1.txt" data-cite="15 CFR § 772.1 “Specially designed”">When applying this definition, follow this sequential analysis set forth below.</div>
+    <p class="more" style="font-size:13px;margin:0"><a href="method.html#specially">詳見分類方法</a></p>
+  </div>
+  <div class="card concept">
+    <h3>視同出口</h3><p class="en-name">deemed export · deemed reexport</p>
+    <p>把受管技術或原始碼給外國人看或聽，本身就算出口；在第三國發生則算再出口。</p>
+    <div class="q" data-file="ear/734.13.txt" data-cite="15 CFR § 734.13(a)(2)">Releasing or otherwise transferring “technology” or source code (but not object code) to a foreign person in the United States (a “deemed export”);</div>
+  </div>
+  <div class="card concept">
+    <h3>大眾市場</h3><p class="en-name">mass market（密碼學註解）</p>
+    <p>在零售通路公開販售、使用者不能輕易改動加密功能的產品，可以離開 5A002；它的零組件在符合條件時也可以。</p>
+    <div class="q" data-file="ccl/_notes-cat5p2.txt" data-cite="Cat 5 Part 2, Note 3 a.1">Generally available to the public by being sold, without restriction, from stock at retail selling points by means of any of the following:</div>
+  </div>
+  <div class="card concept">
+    <h3>實體清單</h3><p class="en-name">Entity List（Supp. No. 4 to Part 744）</p>
+    <p>點名特定公司或機構，對它們的許可要求常常涵蓋「所有受 EAR 管的項目」，連 EAR99 都包含。分類再準，也要篩選交易對象。</p>
+    <div class="q" data-file="ear/744-supp-4.txt" data-cite="15 CFR 744 Supp. No. 4，NUDT 條目">For all items subject to the EAR.</div>
+    <p class="more" style="font-size:13px;margin:0"><a href="tech.html#cadence">實例</a></p>
+  </div>
+  <div class="card concept">
+    <h3>戰略性高科技貨品</h3><p class="en-name">Strategic High-Tech Commodities（SHTC）</p>
+    <p>台灣的管制對象：清單內貨品、清單外但有軍事用途疑慮的交易，以及需要我國核發進口證明的輸入貨品。</p>
+    <div class="q" data-file="tw/trade-act-J0090004.txt" data-cite="貿易法第13條第1項第1款">一、非經許可，不得輸出。</div>
+  </div>
+  <div class="card concept">
+    <h3>分類申請與鑑定</h3><p class="en-name">CCATS（美國）· 鑑定（台灣）</p>
+    <p>自己判斷不了時，可以請主管機關判斷。美國一次最多六項，申請人要先寫建議分類；台灣每件新臺幣 2,000 元。</p>
+    <div class="q" data-file="ear/748.3.txt" data-cite="15 CFR § 748.3(b)(1)">Each Classification Request must be limited to six items.</div>
+  </div>
+</div>
+
+<h2 id="anatomy">一個 ECCN 怎麼讀：以 5A002 為例</h2>
+<div class="eccn">
+  <div><b>5</b><span>類別：電信與資訊安全</span></div>
+  <div><b>A</b><span>產品群：系統、設備、零組件</span></div>
+  <div><b>002</b><span>末三碼：000–099 屬國家安全（NS）區段</span></div>
+</div>
+<div class="q" data-file="ear/738.2.txt" data-cite="15 CFR § 738.2(d)(1)">The first digit identifies the general category within which the entry falls (e.g., 3A001). The letter immediately following this first digit identifies under which of the five groups the item is listed (e.g., 3A001).</div>
+<p>末三碼大致對應管制理由。美國與台灣的分段不完全一樣：</p>
+<div class="tbl-wrap"><table>
+  <thead><tr><th>末三碼</th><th>美國 EAR（§738.2）</th><th>台灣清單</th></tr></thead>
+  <tbody>
+    <tr><td>000–099</td><td><span class="en" data-file="ear/738.2.txt">National Security (NS).</span></td><td>瓦聖那協議（WA）</td></tr>
+    <tr><td>100–199</td><td><span class="en" data-file="ear/738.2.txt">Missile Technology (MT).</span></td><td>飛彈技術管制協議（MTCR）</td></tr>
+    <tr><td>200–299</td><td><span class="en" data-file="ear/738.2.txt">Nuclear Nonproliferation (NP).</span></td><td>核子供應國集團（NSG）</td></tr>
+    <tr><td>300–399</td><td><span class="en" data-file="ear/738.2.txt">Chemical and Biological (CB).</span></td><td>澳洲集團（AG）</td></tr>
+    <tr><td>400–499</td><td>（表中未列）</td><td>化學武器管制公約（CWC）</td></tr>
+    <tr><td>500–699</td><td>槍械、太空與「600 系列」軍品</td><td>保留</td></tr>
+    <tr><td>900–999</td><td><span class="en" data-file="ear/738.2.txt">Plurilateral NS and Regional Stability (RS) and other reasons.</span>（900–979）；<span class="en" data-file="ear/738.2.txt">Anti-terrorism (AT), RS, United Nations Sanctions (UN).</span>（990–999）</td><td>單邊管制</td></tr>
+  </tbody>
+</table></div>
+<div class="flag">
+  <b>注意：號碼只是線索，要看條文寫的管制理由</b>　3A090 的末三碼落在 000–099，看起來像國家安全項目，但它的管制理由是：
+  <div class="q" data-file="ccl/3A090.txt" data-cite="ECCN 3A090, License Requirements">Reason for Control: RS, AT</div>
+</div>
+<p>每個 ECCN 的內文都是同一個格式，依序讀：</p>
+<ol>
+  <li><b>License Requirements</b>：管制理由與國家表欄位，決定「去哪裡要許可」。</li>
+  <li><b>List Based License Exceptions</b>：可用的清單型許可例外（如 LVS、GBS、TSR）。</li>
+  <li><b>List of Items Controlled</b>：Related Controls（相關管制，常指向別的 ECCN 或 ITAR）、Related Definitions、<b>Items</b>（真正的參數）。</li>
+  <li><b>Note／Technical Note／N.B.</b>：除外、定義與提醒，常常決定結論。</li>
+</ol>
+<p>例如 7A005 的 Related Controls 一句話就說清楚商用 GNSS 接收器通常落在哪裡：</p>
+<div class="q" data-file="ccl/7A005.txt" data-cite="ECCN 7A005, Related Controls (1)">Commercially available “satellite navigation system” receivers do not typically employ decryption or adaptive antennae and are classified as 7A994.</div>
+
+<h2 id="three">要不要許可：三個問題</h2>
+<ol class="path">
+  <li><h3>它是什麼？</h3><p>分類：ECCN 或 EAR99；台灣管制號碼或非清單項目。這是本站大部分頁面在練的事。</p></li>
+  <li><h3>它要去哪裡？</h3><p>用管制理由對國家表；美國另有禁運國家等規則。台灣則看是否輸往「管制地區」。</p></li>
+  <li><h3>誰拿去做什麼？</h3><p>實體清單、最終用途規則（例如軍事、超級電腦、先進製程），即使是 EAR99 也可能需要許可。</p></li>
+</ol>
+<p>EAR 把這些情形整理成十條「一般禁令」。第一條就是最基本的國家表規則：</p>
+<div class="q" data-file="ear/736.2.txt" data-cite="15 CFR § 736.2(b)(1)">General Prohibition One—Export and reexport of controlled items to listed countries (Exports and Reexports).</div>
+<p>第二、三條是 de minimis 與外國直接產品（台灣公司最常碰到的「為什麼美國法管得到我」），第五條是禁止的最終用途與使用者，第十條是「明知違規仍繼續交易」。</p>
+
+<h2 id="analogy">給專利人的對照</h2>
+<p>如果你熟悉專利，以下對照可以幫你更快上手。這些是作者的類比，不是法規用語。</p>
+<div class="tbl-wrap"><table>
+  <thead><tr><th>出口管制</th><th>專利工作中相近的東西</th><th>要小心的差異</th></tr></thead>
+  <tbody>
+    <tr><td>拿產品規格比對 ECCN 參數</td><td>逐要件比對請求項</td><td>ECCN 要同一產品群「每一條都比過」，不是找到一條就停</td></tr>
+    <tr><td>Note、除外註記</td><td>但書、disclaimer</td><td>先確認落入，再看是否被排除；除外也有自己的要件</td></tr>
+    <tr><td>同一份瓦聖那清單在美國、台灣各自生效</td><td>同一專利家族的各國對應案</td><td>號碼相同，文字與生效時點不同（例如台灣 5A002 已改用新結構、EAR 仍是舊結構）</td></tr>
+    <tr><td>分類決定書</td><td>claim chart</td><td>每一格要有出處，事實與推論分開寫</td></tr>
+    <tr><td>specially designed 的放行證據</td><td>申請歷史對解釋的拘束</td><td>開發當時的文件（含專利申請書的陳述）會被拿來證明當初的設計意圖</td></tr>
+  </tbody>
+</table></div>
+
+<h2 id="paths">三種讀法</h2>
+<div class="grid c3">
+  <div class="card"><p class="kicker">只有 30 分鐘</p><p style="margin:0;font-size:14.5px">本頁 → <a href="index.html#takeaways">總覽的十一件事</a> → <a href="cases.html#bt">藍牙音訊 SoC 演練</a></p></div>
+  <div class="card"><p class="kicker">手上有產品要分類</p><p style="margin:0;font-size:14.5px"><a href="method.html">分類方法</a> → <a href="cat5p2.html">加密 5P2</a> 或 <a href="cat3.html">半導體 Cat 3</a> → <a href="cases.html">產品演練</a> → <a href="method.html#memo">分類決定書</a></p></div>
+  <div class="card"><p class="kicker">要處理台灣出口</p><p style="margin:0;font-size:14.5px"><a href="taiwan.html">台灣制度</a> → <a href="taiwan.html#map">ECCN 對照表</a> → <a href="cat5p2.html#tw">台灣 5A002 的差異</a></p></div>
+</div>
+
+<div class="note" style="margin-top:22px">
+  <b>入門區的邊界</b>　本頁只建立詞彙與地圖。許可例外只深入加密的 ENC；ITAR 只談與 GNSS 有關的分界；不涵蓋美國財政部的經濟制裁、歐盟法規與關務（HS 稅則）。
+  BIS 也明說 ECCN 和 HS 稅則號列完全無關，見<a href="method.html#routes">分類方法</a>。
+</div>
+
+<footer class="site">
+  <p>法規版本：美國 EAR 取自 eCFR（版本日 2026-10-29）；台灣軍商兩用清單為 115-02-11 經貿字第11550200140號公告附件。全部來源、抓取日與雜湊值見 <a href="evidence.html#sources">來源總表</a>。</p>
+  <p>個人自學整理，不是法律意見。美國聯邦政府著作屬公共領域；我國法令與公文依著作權法第 9 條不得為著作權之標的。</p>
+</footer>
+
+</main></div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

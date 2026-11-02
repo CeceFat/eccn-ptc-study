@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6B995；eCFR 2026-10-29〕
+
+6B995 Equipment, including tools, dies, fixtures or gauges, and other “specially designed” “parts,” “components” and “accessories” therefor, “specially designed” or modified for any of the following (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. For the manufacture or inspection of:
+
+a.1. Free electron “laser” magnet wigglers;
+
+a.2. Free electron “laser” photo injectors;
+
+b. For the adjustment, to required tolerances, of the longitudinal magnetic field of free electron “lasers”.

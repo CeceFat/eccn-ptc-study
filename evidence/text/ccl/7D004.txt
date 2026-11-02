@@ -1,0 +1,43 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 7D004；eCFR 2026-10-29〕
+
+7D004 “Source code” incorporating “development” “technology” specified by 7E004.a.2, a.3, a.5, a.6 or 7E004.b, for any of the following: (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart(See Supp. No.1to part 738)
+
+NS applies to entire entry | NS Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship or transmit “software” in 7D004.a to .d and .g to any of the destinations listed in Country Group A:6 (See Supplement No. 1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: See 7D103 and 7D994
+
+Related Definitions: N/A
+
+Items: a. Digital flight management systems for “total control of flight”;
+
+b. Integrated propulsion and flight control systems;
+
+c. “Fly-by-wire systems” or “fly-by-light systems“;
+
+d. Fault-tolerant or self-reconfiguring “active flight control systems”;
+
+e. [Reserved];
+
+f. Air data systems based on surface static data; or
+
+g. Three dimensional displays.
+
+Note: 7D004 does not apply to “source code” associated with common computer elements and utilities (e.g., input signal acquisition, output signal transmission, computer “program” and data loading, built-in test, task scheduling mechanisms) not providing a specific flight control system function.

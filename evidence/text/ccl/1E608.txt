@@ -1,0 +1,41 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1E608；eCFR 2026-10-29〕
+
+1E608 “Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of equipment controlled in 1B608 or materials controlled by 1C608 (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, MT, AT, UN
+
+Control(s) | Country Chart(See Supp. No. 1to part 738)
+
+NS applies to entire entry | NS Column 1
+
+RS applies to entire entry | RS Column 1
+
+MT applies to “technology” “required” for 1C608.m | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+UN applies to entire entry | See § 746.1(b) for UN controls
+
+List Based License Exceptions (See Part 740 for a Description of all License Exceptions)
+
+TSR: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in 1E608.
+
+List of Items Controlled
+
+Related Controls: (1) Technical data directly related to articles enumerated or otherwise described in USML Categories III, IV, or V are subject to the controls of those USML Categories, respectively.
+
+(2) “Technology” for chlorine trifluoride is controlled under ECCN 1E001 (“development” and “production”) and ECCN 1E101 (“use”).
+
+Related Definitions: N/A
+
+Items: a. “Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of equipment controlled by ECCN 1B608 or materials controlled by ECCN 1C608.
+
+b. “Technology” “required” for the “development” or “production” of nitrocellulose with nitrogen content over 12.6% and at rates greater than 2000 pounds per hour.
+
+c. “Technology” “required” for the “development” or “production” of nitrate esters (e.g., nitroglycerine) at rates greater than 2000 pounds per hour.

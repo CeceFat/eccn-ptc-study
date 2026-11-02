@@ -1,0 +1,49 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6A996；eCFR 2026-10-29〕
+
+6A996 “Magnetometers” not controlled by ECCN 6A006, “Superconductive” electromagnetic sensors, and “specially designed” “components” therefor, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: RS, AT
+
+Control(s) | Country chart (see supp. no. 1 to part 738)
+
+RS applies to entire entry. | A license is required for items controlled by this entry for export or reexport to Pakistan or transfer within Pakistan for regional stability reasons. The Commerce Country Chart is not designed to determine RS license requirements for this entry. See § 742.6(a)(12) of the EAR for additional information.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items:
+
+a. “Magnetometers”, n.e.s., having a 'sensitivity' lower (better) than 1.0 nT (rms) per square root Hz.
+
+Technical Note:
+
+For the purposes of 6A996, 'sensitivity' (noise level) is the root mean square of the device-limited noise floor which is the lowest signal that can be measured.
+
+b. “Superconductive” electromagnetic sensors, “components” manufactured from “superconductive” materials and having all the following:
+
+b.1. Designed for operation at temperatures below the “critical temperature” of at least one of their “superconductive” constituents (including Josephson effect devices or “superconductive” quantum interference devices (SQUIDS));
+
+b.2. Designed for sensing electromagnetic field variations at frequencies of 1 KHz or less; and
+
+b.3. Having any of the following characteristics:
+
+b.3.a. Incorporating thin-film SQUIDS with a minimum feature size of less than 2 µm and with associated input and output coupling circuits;
+
+b.3.b. Designed to operate with a magnetic field slew rate exceeding 1 × 10 6 magnetic flux quanta per second;
+
+b.3.c. Designed to function without magnetic shielding in the earth's ambient magnetic field; or
+
+b.3.d. Having a temperature coefficient less (smaller) than 0.1 magnetic flux quantum/K.

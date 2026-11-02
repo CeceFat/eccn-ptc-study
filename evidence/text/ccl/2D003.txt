@@ -1,0 +1,25 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2D003；eCFR 2026-10-29〕
+
+2D003 “Software”, designed or modified for the operation of equipment specified by 2B002, that converts optical design, workpiece measurements and material removal functions into “numerical control” commands to achieve the desired workpiece form.
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: Yes.
+
+List of Items Controlled
+
+Related Controls: See ECCN 2E001 (“development”) for technology for “software” controlled under this entry.
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

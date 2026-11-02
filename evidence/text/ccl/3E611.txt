@@ -1,0 +1,49 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3E611；eCFR 2026-10-29〕
+
+3E611 “Technology” “required” for military electronics, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, UN
+
+Control(s) | Country Chart(see Supp. No. 1 to part 738)
+
+NS applies to entire entry except 3E611.y | NS Column 1.
+
+RS applies to entire entry except 3E611.y | RS Column 1.
+
+RS applies to 3E611.y | China, Russia, or Venezuela (see § 742.6(a)(7)).
+
+AT applies to entire entry | AT Column 1.
+
+UN applies to entire entry except 3E611.y | See § 746.1(b) for UN controls.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+Special Conditions for STA
+
+STA: 1. Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any “technology” in 3E611.
+
+2. Except for “build-to-print technology,” License Exception STA is not eligible for “technology” enumerated in ECCN 3E611.b.
+
+List of Items Controlled
+
+Related Controls: Technical data directly related to articles enumerated in USML Category XI is controlled in USML Category XI(d).
+
+Related Definitions: N/A
+
+Items:
+
+a. “Technology” (other than that controlled by 3E611.b or 3E611.y) “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities or software controlled by ECCN 3A611, 3B611 or 3D611.
+
+b. “Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of the following if controlled by ECCN 3A611, including 3A611.x:
+
+b.1. Helix traveling wave tubes (TWTs);
+
+b.2. Transmit/receive or transmit modules.
+
+c. through x. [Reserved]
+
+y. “Technology” “required” for the “production,” “development,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities or software enumerated in ECCNs 3A611.y or 3D611.y.

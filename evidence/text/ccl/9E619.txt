@@ -1,0 +1,81 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9E619；eCFR 2026-10-29〕
+
+9E619 “Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of military gas turbine engines and related commodities controlled by 9A619, equipment controlled by 9B619, materials controlled by 9C619, or software controlled by 9D619 (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, UN
+
+Control(s) | Country chart(see Supp. No. 1 to part 738)
+
+NS applies to entire entry except 9E619.y | NS Column 1.
+
+RS applies to entire entry except 9E619.y | RS Column 1.
+
+RS applies to 9E619.y | China, Russia, or Venezuela (see § 742.6(a)(7)).
+
+AT applies to entire entry | AT Column 1.
+
+UN applies to entire entry except 9E619.y | See § 746.1(b)for UN controls.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+Special Conditions for STA
+
+STA: (1) Paragraph (c)(1) of License Exception STA (§ 740.20(c)(1) of the EAR) may not be used for 9E619.b. or .c. (2) Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any technology in ECCN 9E619.
+
+List of Items Controlled
+
+Related Controls: Technical data directly related to articles enumerated or otherwise described in USML Category XIX are subject to the control of USML Category XIX(g).
+
+Related Definitions: N/A
+
+Items:
+
+a. “Technology” (other than “technology” controlled by paragraphs .b and .c of this entry) “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishment of items controlled by ECCN 9A619 (except 9A619.y), ECCN 9B619 (except 9B619.y), ECCN 9C619, or ECCN 9D619 (except 9D619.y).
+
+Note: “Build-to-print technology” “required” for the “production” of items described in paragraphs b.1 through b.10 of this entry is classified under 9E619.a.
+
+b. “Technology” (other than “build-to-print technology”) “required” for the “development” or “production” of any of the following:
+
+b.1. Front, turbine center, and exhaust frames;
+
+b.2. Low pressure compressor (i.e., fan) “components” and “parts” as follows: Nose cones and casings;
+
+b.3. High pressure compressor “components” and “parts” as follows: Casings;
+
+b.4. Combustor “components” and “parts” as follows: Casings, fuel nozzles, swirlers, swirler cups, deswirlers, valve injectors, and igniters;
+
+b.5. High pressure turbine “components” and “parts” as follows: Casings
+
+b.6. Low pressure turbine “components” and “parts” as follows: Casings;
+
+b.7. Augmentor “components” and “parts” as follows: Casings, flame holders, spray bars, pilot burners, augmentor fuel controls, flaps (external, convergent, and divergent), guide and syncronization rings, and flame detectors and sensors;
+
+b.8. Mechanical “components” and “parts” as follows: Fuel metering units and fuel pump metering units, valves (fuel throttle, main metering, oil flow management), heat exchangers (air/air, fuel/air, fuel/oil), debris monitoring (inlet and exhaust), seals (carbon, labyrinth, brush, balance piston, and “knife-edge”), permanent magnetic alternator and generator, eddy current sensors;
+
+b.9. Torquemeter assembly (i.e., housing, shaft, reference shaft, and sleeve); or
+
+b.10. Materials controlled by ECCN 9C619.b.
+
+c. “Technology” “required” for the “development” or “production” of any of the following:
+
+c.1. Low pressure compressor (i.e., fan) “components” and “parts” as follows: blades, vanes, spools, shrouds, blisks, shafts and disks;
+
+c.2. High pressure compressor “components” and “parts” as follows: blades, vanes, spools, shrouds, blisks, shafts, disks, and impellers;
+
+c.3. Combustor “components” and “parts” as follows: diffusers, liners, chambers, cowlings, domes and shells;
+
+c.4. High pressure turbine “components” and “parts” as follows: shafts and disks, blades, vanes, nozzles, tip shrouds;
+
+c.5. Low pressure turbine “components” and “parts” as follows: shafts and disks, blades, vanes, nozzles, tip shrouds;
+
+c.6. Digital engine control systems (e.g., Full Authority Digital Engine Controls (FADEC) and Digital Electronic Engine Controls (DEEC)) “specially designed” for gas turbine engines controlled in this ECCN; or
+
+c.7. Engine monitoring systems (i.e., prognostics, diagnostics, and health) “specially designed” for gas turbine engines and components controlled in this ECCN.
+
+d. through x. [Reserved]
+
+y. Specific “technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishment of commodities controlled by 9A619.y or 9B619.y, or “software” controlled by ECCN 9D619.y.

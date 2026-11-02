@@ -1,0 +1,35 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2B998；eCFR 2026-10-29〕
+
+2B998 Assemblies, circuit boards or inserts “specially designed” for machine tools controlled by 2B991, or for equipment controlled by 2B993, 2B996 or 2B997.
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: This entry does not control measuring interferometer systems, without closed or open loop feedback, containing a laser to measure slide movement errors of machine-tools, dimensional inspection machines or similar equipment.
+
+Related Definition: N/A
+
+Items: a. Spindle assemblies, consisting of spindles and bearings as a minimal assembly, with radial (“run out”) or axial (“camming”) axis motion in one revolution of the spindle less (better) than 0.0006 mm total indicator reading (TIR);
+
+b. Single point diamond cutting tool inserts, having all of the following characteristics:
+
+b.1. Flawless and chip-free cutting edge when magnified 400 times in any direction;
+
+b.2. Cutting radius from 0.1 to 5 mm inclusive; and
+
+b.3. Cutting radius out-of-roundness less (better) than 0.002 mm TIR.
+
+c. “Specially designed” printed circuit boards with mounted “parts” or “components” capable of upgrading, according to the manufacturer's specifications, “numerical control” units, machine tools or feed-back devices to or above the levels specified in ECCNs 2B991, 2B993, 2B996, 2B997, or 2B998.

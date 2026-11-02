@@ -1,0 +1,81 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1A002；eCFR 2026-10-29〕
+
+1A002 “Composite” structures or laminates, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, NP, AT
+
+Control(s) | Country Chart(See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+NP applies to 1A002.b.1 in the form of tubes with an inside diameter between 75 mm and 400 mm | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $1,500; N/A for NP; N/A for “composite” structures or laminates controlled by 1A002.a, having an organic “matrix” and made from materials controlled by 1C010.c or 1C010.d.
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any item in this entry to any of the destinations listed in Country Group A:6 (See Supplement No. 1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 1E001 (“development” and “production”) and 1E201 (“use”) for technology for items controlled by this entry. (2) Also see ECCNs 1A202, 1C010, 1C210, 9A010, and 9A110. (3) “Composite” structures “specially designed” for missile applications (including “specially designed” subsystems, “parts,” and “components”) are controlled by ECCN 9A110. (4) “Composite” structures or laminates “specially designed” or prepared for use in separating uranium isotopes are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110).
+
+Related Definitions: N/A
+
+Items:
+
+a. Made from any of the following:
+
+a.1. An organic “matrix” and “fibrous or filamentary materials” specified by 1C010.c or 1C010.d; or
+
+a.2. Prepregs or preforms specified by 1C010.e;
+
+b. Made from a metal or carbon “matrix”, and any of the following:
+
+b.1. Carbon “fibrous or filamentary materials” having all of the following:
+
+b.1.a. A “specific modulus” exceeding 10.15 x 10 6 m; and
+
+b.1.b. A “specific tensile strength” exceeding 17.7 x 10 4 m; or
+
+b.2. Materials controlled by 1C010.c.
+
+Note 1: 1A002 does not control “composite” structures or laminates made from epoxy resin impregnated carbon “fibrous or filamentary materials”, for the repair of “civil aircraft” structures or laminates, having all of the following:
+
+a. An area not exceeding 1 m 2;
+
+b. A length not exceeding 2.5 m; and
+
+c. A width exceeding 15 mm.
+
+Note 2: 1A002 does not control semi-finished items, “specially designed” for civilian applications as follows:
+
+a. Sporting goods;
+
+b. Automotive industry;
+
+c. Machine tool industry;
+
+d. Medical applications.
+
+Note 3: 1A002.b.1 does not apply to semi-finished items containing a maximum of two dimensions of interwoven filaments and “specially designed” for applications as follows:
+
+a. Metal heat-treatment furnaces for tempering metals;
+
+b. Silicon boule production equipment.
+
+Note 4: 1A002 does not apply to finished items “specially designed” for a specific application.
+
+Note 5: 1A002.b.1 does not apply to mechanically chopped, milled, or cut carbon “fibrous or filamentary materials” 25.0 mm or less in length.

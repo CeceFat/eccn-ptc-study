@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9B008；eCFR 2026-10-29〕
+
+9B008 Direct measurement wall skin friction transducers “specially designed” to operate at a test flow total (stagnation) temperature exceeding 833 K (560 °C)).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: $5000
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

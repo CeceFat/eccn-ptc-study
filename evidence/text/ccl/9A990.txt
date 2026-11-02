@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9A990；eCFR 2026-10-29〕
+
+9A990 Diesel engines, n.e.s., and tractors and “specially designed” “parts” and “components” therefor, n.e.s. (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry except 9A990.a | AT Column 1.
+
+AT applies to 9A990.a only | AT Column 2.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Diesel engines, n.e.s., for trucks, tractors, and automotive applications of continuous brake horsepower of 400 BHP (298 kW) or greater (performance based on SAE J1349 standard conditions of 100 Kpa and 25°)
+
+b. Off highway wheel tractors of carriage capacity 9 mt (20,000 lbs) or more; and major “components” and accessories, n.e.s.
+
+c. On-Highway tractors, with single or tandem rear axles rated for 9 mt per axel (20,000 lbs.) or greater and “specially designed” major “components”.

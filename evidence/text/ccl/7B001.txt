@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 7B001；eCFR 2026-10-29〕
+
+7B001 Test, calibration or alignment equipment, “specially designed” for equipment controlled by 7A (except 7A994).
+
+License Requirements
+
+Reason for Control: NS, MT, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See also 7B101, 7B102 and 7B994. (2) This entry does not control test, calibration or alignment equipment for 'Maintenance level I' or 'Maintenance Level II'.
+
+Related Definition: For the purposes of 7B001: (1) 'Maintenance Level I': The failure of an inertial navigation unit is detected on the “aircraft” by indications from the Control and Display Unit (CDU) or by the status message from the corresponding sub-system. By following the manufacturer's manual, the cause of the failure may be localized at the level of the malfunctioning Line Replaceable Unit (LRU). The operator then removes the LRU and replaces it with a spare. (2) 'Maintenance Level II': The defective LRU is sent to the maintenance workshop (the manufacturer's or that of the operator responsible for level II maintenance). At the maintenance workshop, the malfunctioning LRU is tested by various appropriate means to verify and localize the defective Shop Replaceable Assembly (SRA) module responsible for the failure. This SRA is removed and replaced by an operative spare. The defective SRA (or possibly the complete LRU) is then shipped to the manufacturer. 'Maintenance Level II' does not include the disassembly or repair of controlled accelerometers or gyro sensors.
+
+Items:
+
+The list of items controlled is contained in the ECCN heading.

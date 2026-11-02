@@ -1,0 +1,37 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1B018；eCFR 2026-10-29〕
+
+1B018 Items on the Wassenaar Arrangement Munitions List (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, MT, RS, AT, UN
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1.
+
+MT applies to equipment for the “production” of rocket propellants | MT Column 1.
+
+RS applies to 1B018.a | RS Column 2.
+
+AT applies to entire entry | AT Column 1.
+
+UN applies to entire entry | See § 746.1(b) for UN controls.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: $3000 for 1B018.a for countries WITHOUT an “X” in RS Column 2 on the Country Chart contained in Supplement No. 1 to part 738 of the EAR;
+
+$5000 for 1B018.b.
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See ECCN 1B608.a, .b, and .x for items that, immediately prior to July 1, 2014, were classified under 1B018.a.
+
+Related Definitions: N/A
+
+Items: a. [Reserved]
+
+b. [Reserved]

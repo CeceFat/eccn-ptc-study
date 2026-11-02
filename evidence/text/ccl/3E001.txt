@@ -1,0 +1,59 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3E001；eCFR 2026-10-29〕
+
+3E001 “Technology” according to the General Technology Note for the “development” or “production” of commodities controlled by 3A (except 3A069, 3A901, 3A904, 3A980, 3A981, 3A991, 3A992, or 3A999), 3B (except 3B001.a.4, c, d, f.1, f.5, k to n, p.2, p.4, r, 3B002.c, 3B903, 3B904, 3B991, 3B992, 3B993, or 3B994) or 3C (except 3C907, 3C908, 3C909, or 3C992).
+
+License Requirements
+
+Reason for Control: NS, MT, NP, RS, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+NS applies to “technology” for commodities controlled by 3A001, 3A002, 3A003, 3B001 (except as noted in the heading), 3B002 (except 3B002.c), or 3C001 to 3C006 | NS Column 1.
+
+MT applies to “technology” for commodities controlled by 3A001 or 3A101 for MT Reasons | MT Column 1.
+
+NP applies to “technology” for commodities controlled by 3A001, 3A201, or 3A225 to 3A234 for NP reasons | NP Column 1.
+
+RS applies to “technology” for commodities controlled in 3A090, when exported from Macau or a destination specified in Country Group D:5 | Worldwide (see § 742.6(a)(6)(ii)).
+
+RS applies to “technology” for commodities controlled by 3A001.z, 3A090 (except for 3A090.c) | To or within destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii) of the EAR.
+
+RS applies to “technology” for commodities controlled by 3A090.c | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(6)(i)(B) of the EAR.
+
+RS applies to “technology” for commodities controlled by 3A001.a.15 or b.13, 3A004, 3B003, 3C007, 3C008, or 3C009 | RS Column 2.
+
+AT applies to entire entry | AT Column 1.
+
+License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating “information security” functionality, and associated “software” and “technology” for the “production” or “development” of such microprocessors.
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: Yes, except N/A for MT, and “technology” for the “development” or “production” of: (a) vacuum electronic device amplifiers described in 3A001.b.8, having operating frequencies exceeding 19 GHz; (b) solar cells, coverglass-interconnect-cells or covered-interconnect-cells (CIC) “assemblies,” solar arrays and/or solar panels described in 3A001.e.4; (c) “Monolithic Microwave Integrated Circuit” (“MMIC”) amplifiers in 3A001.b.2; (d) discrete microwave transistors in 3A001.b.3; and (e) commodities described in 3A090.
+
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 3E001 “technology” for commodities controlled by 3A001.z, 3A090.
+
+IEC: Yes, for “technology” for equipment controlled by 3B001.q, see § 740.2(a)(22) and § 740.24 of the EAR.
+
+Special Conditions for Strategic Trade Authorization (STA)
+
+STA: License Exception STA may not be used to ship or transmit “technology” according to the General Technology Note for the “development” or “production” of equipment specified by ECCNs 3A002.g.1 or 3B001.a.2 to any of the destinations listed in Country Group A:6 (see supplement no.1 to part 740 of the EAR). License Exception STA may not be used to ship or transmit “technology” according to the General Technology Note for the “development” or “production” of components specified by ECCN 3A001.b.2, b.3, commodities specified in 3A090, to any of the destinations listed in Country Group A:5 or A:6 (see supplement no. 1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) “Technology” according to the General Technology Note for the “development” or “production” of certain “space-qualified” atomic frequency standards described in Category XV(e)(9), MMICs described in Category XV(e)(14), and oscillators described in Category XV(e)(15) of the USML are “subject to the ITAR” (see 22 CFR parts 120 through 130). See also ECCNs 3E101, 3E201 and 9E515. (2) “Technology” for “development” or “production” of “Microwave Monolithic Integrated Circuits” (“MMIC”) amplifiers in 3A001.b.2 is controlled in this ECCN 3E001; 5E001.d refers only to that additional “technology” “required” for telecommunications.
+
+Related Definition: N/A.
+
+Items: The list of items controlled is contained in the ECCN heading.
+
+Note 1: 3E001 does not control “technology” for equipment or “components” controlled by 3A003.
+
+Note 2: 3E001 does not control “technology” for integrated circuits controlled by 3A001.a.3 to a.14 or z, having all of the following:
+
+(a) Using “technology” at or above 0.130 µm; and
+
+(b) Incorporating multi-layer structures with three or fewer metal layers.

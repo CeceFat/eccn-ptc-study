@@ -1,0 +1,2524 @@
+<html>
+<head>
+<title>Federal Register, Volume 85 Issue 118 (Thursday, June 18, 2020)</title>
+</head>
+<body><pre>
+[Federal Register Volume 85, Number 118 (Thursday, June 18, 2020)]
+[Rules and Regulations]
+[Pages 36719-36748]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2020-13093]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Parts 744 and 772
+
+[Docket No. 200611-0158]
+RIN 0694-AI06
+
+
+Release of ``Technology'' to Certain Entities on the Entity List 
+in the Context of Standards Organizations
+
+AGENCY: Bureau of Industry and Security, Commerce.
+
+ACTION: Interim final rule; request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: Huawei Technologies Co., Ltd. (Huawei) and 114 of its foreign 
+affiliates were added to the Entity List by the Bureau of Industry and 
+Security (BIS) in 2019, but continue to participate in many important 
+international standards organizations in which U.S. companies also 
+participate. As international standards serve as the building blocks 
+for product development and help ensure functionality, 
+interoperability, and safety of the products, it is important to U.S. 
+technological leadership that U.S. companies be able to work in these 
+bodies in order to ensure that U.S. standards proposals are fully 
+considered. Since Huawei's addition to the Entity List, organizations 
+have consequently sought clarity about U.S. industry participation in 
+standards development. BIS is amending the Export Administration 
+Regulations (EAR) to authorize the release of certain technology to 
+Huawei and its affiliates on the Entity List without a license if such 
+release is made for the purpose of contributing to the revision or 
+development of a ``standard'' in a ``standards organization.'' For the 
+purpose of this interim final rule, a ``standard'' is as defined in 
+Office of Management and Budget (OMB) Circular A-119: Federal 
+Participation in the Development and Use of Voluntary Consensus 
+Standards and in Conformity Assessment Activities, and a ``standards 
+organization,'' is the equivalent of a ``voluntary consensus standards 
+body'' as defined in Office of Management and Budget (OMB) Circular A-
+119: Federal Participation in the Development and Use of Voluntary 
+Consensus Standards and in Conformity Assessment Activities. This 
+interim final rule does not change the assessment of whether 
+``technology'' is subject to the EAR. BIS is requesting comments on the 
+impact of these revisions.
+
+DATES: This rule is effective June 18, 2020. Submit comments on or 
+before August 17, 2020.
+
+ADDRESSES: You may submit comments, identified by docket number BIS 
+2020-0017 or RIN 0694-AI06, through the Federal eRulemaking Portal: 
+<a href="http://www.regulations.gov">http://www.regulations.gov</a>. Follow the instructions for submitting 
+comments.
+    All filers using the portal should use the name of the person or 
+entity submitting comments as the name of their files, in accordance 
+with the instructions below. Anyone submitting business confidential 
+information should clearly identify the business confidential portion 
+at the time of submission, file a statement justifying nondisclosure 
+and referencing the specific legal authority claimed, and provide a 
+non-confidential version of the submission.
+    For comments submitted electronically containing business 
+confidential information, the file name of the business confidential 
+version should begin with the characters ``BC.'' Any page containing 
+business confidential information must be clearly marked ``BUSINESS 
+CONFIDENTIAL'' on the top of that page. The corresponding non-
+confidential version of those comments must be clearly marked 
+``PUBLIC.'' The file name of the non-confidential version should begin 
+with the character ``P.'' The ``BC'' and ``P'' should be followed by 
+the name of the person or entity submitting the comments or rebuttal 
+comments. All filers should name their files using the name of the 
+person or entity submitting the comments. Any submissions with file 
+names that do not begin with a ``BC'' or ``P'' will be assumed to be 
+public and will be made publicly available through <a href="http://www.regulations.gov">http://www.regulations.gov</a>.
+
+FOR FURTHER INFORMATION CONTACT: Susan Kramer, Regulatory Policy 
+Division, Bureau of Industry and Security, Department of Commerce. 
+Phone: (202) 482-2440; Fax (202) 482-3355; Email: 
+<a href="/cdn-cgi/l/email-protection#376442445659197c45565a524577555e441953585419505841"><span class="__cf_email__" data-cfemail="184b6d6b797636536a79757d6a587a716b367c777b367f776e">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The Bureau of Industry and Security (BIS) has continued to receive 
+questions regarding the applicability of the Export Administration 
+Regulations (15 CFR 730-774) (EAR) in the context of standards setting 
+or development in light of the addition of Huawei Technologies Co., 
+Ltd. (Huawei) and its 114 non-U.S. affiliates to the Entity List 
+(Supplement No. 4 to part 744 of the EAR) (see 84 FR 22961 (May 21, 
+2019) and 84 FR 43493 (August 21, 2019)) and the Temporary General 
+License (TGL). The TGL was published on May 22, 2019 (84 FR 23468), 
+extended and amended through a final rule published on August 21, 2019 
+(84 FR 43487), and is currently extended through August 13, 2020 in a 
+final rule published on May 18, 2020 (85 FR 29610). On August 19, 2019, 
+BIS posted a ``General Advisory Opinion Concerning Prohibited 
+Activities in the Standards Setting or Development Context When a 
+Listed Entity Is Involved'' to the BIS website that addressed the 
+applicability of Sec.  734.7 of the EAR (Published) (15 CFR 734.7) to 
+certain types of releases. With publication of this rule, that advisory 
+opinion is rescinded, and BIS has removed the guidance from its 
+website. This rule removes certain license requirements imposed by the 
+original listing, removing the need to determine the application of 
+controls to those releases.
+    The assessment of whether ``technology'' is subject to the EAR is 
+the same regardless of whether a person on the Entity List is a member 
+of, or participates in, the standards setting or development group or 
+body. Because of the importance of U.S. participation and leadership in 
+standards organizations, and in view of the consistent concerns 
+expressed with Huawei's participation therein, this rule revises the 
+Entity List to authorize certain releases of technology without a 
+license. Specifically, technology subject to the EAR that is designated 
+as EAR99 or controlled on the Commerce Control List only for anti-
+terrorism (AT) reasons may be released to members of a standards 
+organization without a license, including Huawei, if released for the 
+purpose of contributing to the revision or development of a standard. 
+This interim final rule adopts in Sec.  772.1 (Definitions) the 
+definitions of ``standard'' and ``standards organization'' from the 
+Office of Management and Budget (OMB) Circular A-119: Federal 
+Participation in the Development and Use of Voluntary Consensus 
+Standards and in Conformity
+
+[[Page 36720]]
+
+Assessment Activities (81 FR 4673 (January 27, 2016), available at 
+<a href="https://www.nist.gov/system/files/revised_circular_a-119_as_of_01-22-2016.pdf">https://www.nist.gov/system/files/revised_circular_a-119_as_of_01-22-2016.pdf</a>.
+    To implement these changes, this interim final rule revises ninety-
+three entries, which list Huawei and its 114 non-U.S. affiliates, on 
+the Entity List. Specifically, BIS is modifying the existing ninety-
+three entries for Huawei and its 114 non-U.S. affiliates by changing 
+the text in the Licensing Requirement column for these entries from 
+``For all Items subject to the EAR (See Sec.  744.11 of the EAR)'' to 
+``For all items subject to the EAR (see Sec.  744.11 of the EAR), 
+EXCEPT for technology subject to the EAR that is designated as EAR99, 
+or controlled on the Commerce Control List for anti-terrorism reasons 
+only, when released to members of a ``standards organization'' (see 
+Sec.  772.1) for the purpose of contributing to the revision or 
+development of a ``standard'' (see Sec.  772.1).'' This interim final 
+rule also adds definitions of ``standard'' and ``standards 
+organization'' to Sec.  772.1 of the EAR (Definitions). Note that even 
+when this license requirement does not apply, items that are ``subject 
+to the EAR'' are still subject to recordkeeping or other applicable EAR 
+requirements (see, e.g., Sec.  762.1 of the EAR).
+
+Request for Comments
+
+    BIS welcomes comments on the impact of these changes. Instructions 
+for the submission of comments, including comments that contain 
+business confidential information, are found in the ADDRESSES section 
+of this interim final rule.
+
+Export Control Reform Act of 2018
+
+    On August 13, 2018, the President signed into law the John S. 
+McCain National Defense Authorization Act for Fiscal Year 2019, which 
+included the Export Control Reform Act of 2018 (ECRA) (50 U.S.C. 4801-
+4852). ECRA provides the legal basis for BIS's principal authorities 
+and serves as the authority under which BIS issues this rule. As set 
+forth in Section 1768 of ECRA, all delegations, rules, regulations, 
+orders, determinations, licenses, or other forms of administrative 
+action that were made, issued, conducted, or allowed to become 
+effective under the Export Administration Act of 1979 (previously, 50 
+U.S.C. 4601 et seq.) (as in effect prior to August 13, 2018 and as 
+continued in effect pursuant to the International Emergency Economic 
+Powers Act (50 U.S.C. 1701 et seq.)) or the Export Administration 
+Regulations, and were in effect as of August 13, 2018, shall continue 
+in effect according to their terms until modified, superseded, set 
+aside, or revoked under the authority of ECRA.
+
+Rulemaking Requirements
+
+    1. Executive Orders 13563 and 12866 direct agencies to assess all 
+costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public 
+health and safety effects, distributive impacts, and equity). Executive 
+Order 13563 emphasizes the importance of quantifying both costs and 
+benefits, of reducing costs, of harmonizing rules, and of promoting 
+flexibility. This interim final rule has been designated as not 
+significant for purposes of Executive Order 12866. Since the rule is 
+non-significant per Executive Order 12866, it is not subject to the 
+requirements of Executive Order 13771.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to or be subject to a penalty for failure to comply 
+with a collection of information, subject to the requirements of the 
+Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), unless 
+that collection of information displays a currently valid Office of 
+Management and Budget (OMB) Control Number. This interim final rule 
+involves the collection currently approved by OMB under the BIS control 
+number: Simplified Network Application Processing System (control 
+number 0694-0088), which includes, among other things, license 
+applications. The information collection under control number 0694-
+0088, carries a burden estimate of 42.5 minutes for a manual or 
+electronic submission for a total burden estimate of 31,878 hours. 
+Total burden hours associated with the PRA and OMB control number 0694-
+0088 are not expected to increase as a result of this rule. Written 
+comments and recommendations for the proposed information collection 
+should be sent within 30 days of publication of this notice to 
+<a href="http://www.reginfo.gov/public/do/PRAMain">www.reginfo.gov/public/do/PRAMain</a>. Find this particular information 
+collection by selecting ``Currently under 30-day Review--Open for 
+Public Comments'' or by using the search function.
+    3. This rule does not contain policies with Federalism implications 
+as that term is defined in Executive Order 13132.
+    4. Pursuant to section 1762 of ECRA, this action is exempt from the 
+Administrative Procedure Act (5 U.S.C. 553) requirements, including 
+prior notice and the opportunity for public comment.
+    5. Because a notice of proposed rulemaking and an opportunity for 
+public comment are not required to be given for this rule by 5 U.S.C. 
+553, or by any other law, the analytical requirements of the Regulatory 
+Flexibility Act, 5 U.S.C. 601, et seq., are not applicable. 
+Accordingly, no regulatory flexibility analysis is required, and none 
+has been prepared.
+
+List of Subjects
+
+15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+15 CFR Part 772
+
+    Exports.
+
+    Accordingly, parts 744 and 772 of the Export Administration 
+Regulations (15 CFR parts 730 through 774) are amended as follows:
+
+PART 744--[AMENDED]
+
+0
+1. The authority citation for 15 CFR part 744 continues to read as 
+follows:
+
+    Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 
+950; E.O. 13020, 61 FR 54079, 3 CFR, 1996 Comp., p. 219; E.O. 13026, 
+61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 
+CFR, 2001 Comp., p. 783; E.O. 13637, 78 FR 16129, 3 CFR, 2014 Comp., 
+p. 223; Notice of November 12, 2019, 84 FR 61817 (November 13, 
+2019).
+
+
+0
+2. Supplement No. 4 to part 744 is amended in the table by revising:
+0
+a. The Argentina entity, ``Huawei Tech Investment Co., Ltd. 
+Argentina''.
+0
+b. The Australia entity, ``Huawei Technologies (Australia) Pty Ltd.''.
+0
+c. The Bahrain entity, ``Huawei Technologies Bahrain''.
+0
+d. The Belarus entity, ``Bel Huawei Technologies LLC''.
+0
+e. The Belgium entity, ``Huawei Technologies Research & Development 
+Belgium NV''.
+0
+f. The Bolivia entity, ``Huawei Technologies (Bolivia) S.R.L.''.
+0
+g. The Brazil entity, ``Huawei do Brasil Telecomunicacoes Ltda''.
+0
+h. The Burma entity, ``Huawei Technologies (Yangon) Co., Ltd.''.
+0
+i. The Canada entity, ``Huawei Technologies Canada Co., Ltd''.
+0
+j. The Chile entity, ``Huawei Chile S.A.''.
+0
+k. The China entities, ``Beijing Huawei Digital Technologies Co., 
+Ltd.'', ``Chengdu Huawei High-Tech Investment Co., Ltd.'', ``Chengdu 
+Huawei Technologies Co., Ltd.'', ``Dongguan Huawei Service Co., Ltd.'', 
+``Dongguan Lvyuan Industry Investment
+
+[[Page 36721]]
+
+Co., Ltd.'', ``Gui'an New District Huawei Investment Co., Ltd.'', 
+``Hangzhou Huawei Digital Technology Co., Ltd.'', ``HiSilicon 
+Optoelectronics Co., Ltd.'', ``HiSilicon Technologies Co., Ltd 
+(HiSilicon)'', ``HiSilicon Tech (Suzhou) Co., Ltd.'', ``Huawei Device 
+Co., Ltd.'', ``Huawei Device (Dongguan) Co., Ltd.'', ``Huawei Device 
+(Shenzhen) Co., Ltd.'', ``Huawei Machine Co., Ltd.'', ``Huawei Software 
+Technologies Co., Ltd.'', ``Huawei Technical Service Co., Ltd.'', 
+``Huawei Technologies Co., Ltd.'', ``Huawei Technologies Service Co., 
+Ltd.'', ``Huawei Training (Dongguan) Co., Ltd.'', ``Huayi internet 
+Information Service Co., Ltd.'', ``Hui Tong Business Ltd.,'', ``North 
+Huawei Communication Technology Co., Ltd.'', ``Shanghai Haisi 
+Technology Co., Ltd.'', ``Shanghai HiSilicon Technologies Co., Ltd.,'', 
+``Shanghai Mossel Trade Co., Ltd.'', ``Shenzhen HiSilicon Technologies 
+Co., Electrical Research Center'', ``Shenzhen Huawei Technical Services 
+Co., Ltd.'', ``Shenzhen Huawei Terminal Commercial Co., Ltd.'', 
+``Shenzhen Huawei Training School Co., Ltd.'', ``Shenzhen Huayi Loan 
+Small Loan Co., Ltd.'', ``Shenzhen Legrit Technology Co., Ltd.'', 
+``Shenzhen Smartcom Business Co., Ltd.'', ``Suzhou Huawei Investment 
+Co., Ltd.'', ``Wuhan Huawei Investment Co., Ltd.'', ``Xi'an Huawei 
+Technologies Co., Ltd.'', and ``Xi'an Ruixin Investment Co., Ltd.''.
+0
+l. The Costa Rica entity, ``Huawei Technologies Costa Rica SA''.
+0
+m. The Cuba entity, ``Huawei Cuba''.
+0
+n. The Denmark entity, ``Huawei Denmark''.
+0
+o. The Egypt entity, ``Huawei Technology''.
+0
+p. The France entity, ``Huawei France''.
+0
+q. The Germany entity, ``Huawei Technologies Deutschland GmbH''.
+0
+r. The Hong Kong entities, ``Hua Ying Management Co. Limited'', 
+``Huawei Device (Hong Kong) Co., Limited'', ``Huawei International Co., 
+Limited'', ``Huawei Tech. Investment Co., Limited'', ``Huawei 
+Technologies Co. Ltd.'', and ``Smartcom (Hong Kong) Co., Limited''.
+0
+s. The India entity, ``Huawei Technologies India Private Limited''.
+0
+t. The Indonesia entity, ``Huawei Tech Investment, PT''.
+0
+u. The Italy entities, ``Huawei Italia'', and ``Huawei Milan Research 
+Institute''.
+0
+v. The Jamaica entity, ``Huawei Technologies Jamaica Company Limited''.
+0
+w. The Japan entity, ``Huawei Technologies Japan K.K.''.
+0
+x. The Jordan entity, ``Huawei Technologies Investment Co. Ltd.''.
+0
+y. The Kazakhstan entity, ``Huawei Technologies LLC Kazakhstan''.
+0
+z. The Lebanon entity, ``Huawei Technologies Lebanon''.
+0
+aa. The Madagascar entity, ``Huawei Technologies Madagascar Sarl''.
+0
+bb. The Mexico entity, ``Huawei Technologies De Mexico S.A.''.
+0
+cc. The Netherlands entity, ``Huawei Technologies Co[ouml]peratief 
+U.A.''.
+0
+dd. The New Zealand entity, ``Huawei Technologies (New Zealand) Company 
+Limited''.
+0
+ee. The Oman entity, ``Huawei Tech Investment Oman LLC''.
+0
+ff. The Pakistan entity, ``Huawei Technologies Pakistan (Private) 
+Limited''.
+0
+gg. The Panama entity, ``Huawei Technologies Cr Panama S.A''.
+0
+hh. The Paraguay entity, ``Huawei Technologies Paraguay S.A.''.
+0
+ii. The Portugal entity, ``Huawei Technology Portugal''.
+0
+jj. The Qatar entity, ``Huawei Tech Investment Limited''.
+0
+kk. The Romania entity, ``Huawei Technologies Romania Co., Ltd.''.
+0
+ll. The Russia entity, ``Huawei Russia''.
+0
+mm. The Singapore entity, ``Huawei International Pte. Ltd.''.
+0
+nn. The South Africa entity, ``Huawei Technologies South Africa Pty 
+Ltd.''.
+0
+oo. The Sri Lanka entity, ``Huawei Technologies Lanka Company (Private) 
+Limited''.
+0
+pp. The Sweden entity, ``Huawei Sweden''.
+0
+qq. The Switzerland entity, ``Huawei Technologies Switzerland AG''.
+0
+rr. The Taiwan entity, ``Xunwei Technologies Co., Ltd.''
+0
+ss. The Thailand entity, ``Huawei Technologies (Thailand) Co.''.
+0
+tt. The United Kingdom entities, ``Centre for Integrated Photonics 
+Ltd.'', ``Huawei Global Finance (UK) Limited'', ``Huawei Technologies 
+(UK) Co., Ltd.'', ``Proven Glory'', and ``Proven Honour''.
+0
+uu. The Vietnam entities, ``Huawei Technologies (Vietnam) Company 
+Limited'' and ``Huawei Technology Co. Ltd.''.
+    The revisions read as follows:
+
+Supplement No. 4 to Part 744--Entity List
+
+* * * * *
+
+----------------------------------------------------------------------------------------------------------------
+                                                                                                     Federal
+       Country                   Entity                License requirement      License review       Register
+                                                                                    policy           citation
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ARGENTINA............  Huawei Tech Investment      For all items subject to    Presumption of    84 FR 43495, 8/
+                        Co., Ltd. Argentina, Av.    the EAR, see Sec.  Sec.     denial.           21/19.
+                        Leandro N. Alem 815,        736.2(b)(3)(vi),\1\ and                      85 FR 29852, 5/
+                        C1054 CABA, Argentina.      744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+----------------------------------------------------------------------------------------------------------------
+ 
+
+[[Page 36722]]
+
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+AUSTRALIA............  Huawei Technologies         For all items subject to    Presumption of    84 FR 43495, 8/
+                        (Australia) Pty Ltd., L6    the EAR, see Sec.  Sec.     denial.           21/19.
+                        799 Pacific Hwy.,           736.2(b)(3)(vi),\1\ and                      85 FR 29852, 5/
+                        Chatswood, New South        744.11 of the EAR, EXCEPT                     19/20.
+                        Wales, 2067, Australia.     for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+BAHRAIN..............  Huawei Technologies         For all items subject to    Presumption of    84 FR 43495, 8/
+                        Bahrain, Building 647       the EAR, see Sec.  Sec.     denial.           21/19.
+                        2811 Road 2811, Block       736.2(b)(3)(vi),\1\ and                      85 FR 29852, 5/
+                        428, Muharraq, Bahrain.     744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+BELARUS..............  Bel Huawei Technologies     For all items subject to    Presumption of    84 FR 43495, 8/
+                        LLC, a.k.a., the            the EAR, see Sec.  Sec.     denial.           21/19.
+                        following one alias,        736.2(b)(3)(vi),\1\ and                      85 FR 29852, 5/
+                       --BellHuawei Technologies    744.11 of the EAR, EXCEPT                     19/20.
+                        LLC.                        for technology subject to                    85 FR [INSERT
+                       5 Dzerzhinsky Ave., Minsk,   the EAR that is                               FR PAGE
+                        220036, Belarus.            designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+BELGIUM..............  Huawei Technologies         For all items subject to    Presumption of    84 FR 22963, 5/
+                        Research & Development      the EAR, see Sec.  Sec.     denial.           21/19.
+                        Belgium NV,                 736.2(b)(3)(vi),\1\ and                      84 FR 43495, 8/
+                       Technologiepark 19, 9052     744.11 of the EAR, EXCEPT                     21/19.
+                        Zwijnaarde Belgium.         for technology subject to                    85 FR 29852, 5/
+                                                    the EAR that is                               19/20.
+                                                    designated as EAR99, or                      85 FR [INSERT
+                                                    controlled on the                             FR PAGE
+                                                    Commerce Control List for                     NUMBER], 6/18/
+                                                    anti-terrorism reasons                        20.
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+
+[[Page 36723]]
+
+ 
+                                                               * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+BOLIVIA..............  Huawei Technologies         For all items subject to    Presumption of    84 FR 22963, 5/
+                        (Bolivia) S.R.L., La Paz,   the EAR, see Sec.  Sec.     denial.           21/19.
+                        Bolivia.                    736.2(b)(3)(vi),\1\ and                      85 FR 29852, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+BRAZIL...............  Huawei do Brasil            For all items subject to    Presumption of    84 FR 22963, 5/
+                        Telecomunicac[otilde]es     the EAR, see Sec.  Sec.     denial.           21/19.
+                        Ltda, Av James Clerk        736.2(b)(3)(vi),\1\ and                      84 FR 43495, 8/
+                        Maxwell, 400 Cond. Techno   744.11 of the EAR, EXCEPT                     21/19.
+                        Park, Campinas 13069380,    for technology subject to                    85 FR 29852, 5/
+                        Brazil.                     the EAR that is                               19/20.
+                                                    designated as EAR99, or                      85 FR [INSERT
+                                                    controlled on the                             FR PAGE
+                                                    Commerce Control List for                     NUMBER], 6/18/
+                                                    anti-terrorism reasons                        20.
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+BURMA................  Huawei Technologies         For all items subject to    Presumption of    84 FR 22963, 5/
+                        (Yangon) Co., Ltd.,         the EAR, see Sec.  Sec.     denial.           21/19.
+                        Yangon, Burma.              736.2(b)(3)(vi),\1\ and                      85 FR 29852, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+CANADA...............                                          * * * * * *
+                       Huawei Technologies Canada  For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co., Ltd., Markham, ON,     the EAR, see Sec.  Sec.     denial.           21/19.
+                        Canada.                     736.2(b)(3)(vi),\1\ and                      85 FR 29852, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+
+[[Page 36724]]
+
+ 
+CHILE................  Huawei Chile S.A.,          For all items subject to    Presumption of    84 FR 22963, 5/
+                        Santiago, Chile.            the EAR, see Sec.  Sec.     denial.           21/19.
+                                                    736.2(b)(3)(vi),\1\ and                      85 FR 29852, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+CHINA, PEOPLE'S                                                * * * * * *
+ REPUBLIC OF.
+                       Beijing Huawei Digital      For all items subject to    Presumption of    84 FR 22963, 5/
+                        Technologies Co., Ltd.,     the EAR, see Sec.  Sec.     denial.           21/19.
+                        Beijing, China.             736.2(b)(3)(vi),\1\ and                      85 FR 29852, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+                       Chengdu Huawei High-Tech    For all items subject to    Presumption of    84 FR 22963, 5/
+                        Investment Co., Ltd.,       the EAR, see Sec.  Sec.     denial.           21/19.
+                        Chengdu, Sichuan, China.    736.2(b)(3)(vi),\1\ and                      85 FR 29852, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Chengdu Huawei              For all items subject to    Presumption of    84 FR 22963, 5/
+                        Technologies Co., Ltd.,     the EAR, see Sec.  Sec.     denial.           21/19.
+                        Chengdu, Sichuan, China.    736.2(b)(3)(vi),\1\ and                      85 FR 29852, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+
+[[Page 36725]]
+
+ 
+                       Dongguan Huawei Service     For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co., Ltd.,Dongguan,         the EAR, see Sec.  Sec.     denial.           21/19.
+                        Guangdong, China.           736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Dongguan Lvyuan Industry    For all items subject to    Presumption of    84 FR 22963, 5/
+                        Investment Co., Ltd.,       the EAR, see Sec.  Sec.     denial.           21/19.
+                        Dongguan, Guangdong,        736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        China.                      744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+                       Gui'an New District Huawei  For all items subject to    Presumption of    84 FR 22963, 5/
+                        Investment Co., Ltd.,       the EAR, see Sec.  Sec.     denial.           21/19.
+                        Guiyang, Guizhou, China.    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+                       Hangzhou Huawei Digital     For all items subject to    Presumption of    84 FR 22963, 5/
+                        Technology Co., Ltd.,       the EAR, see Sec.  Sec.     denial.           21/19.
+                        Hangzhou, Zhejiang,         736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        China.                      744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+
+[[Page 36726]]
+
+ 
+                       HiSilicon Optoelectronics   For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co., Ltd., Wuhan, Hubei,    the EAR, see Sec.  Sec.     denial.           21/19.
+                        China.                      736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       HiSilicon Technologies      For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co., Ltd (HiSilicon),       the EAR, see Sec.  Sec.     denial.           21/19.
+                        Bantian Longgang            736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        District, Shenzhen,         744.11 of the EAR, EXCEPT                     19/20.
+                        518129, China.              for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       HiSilicon Tech (Suzhou)     For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co., Ltd., Suzhou,          the EAR, see Sec.  Sec.     denial.           21/19.
+                        Jiangsu, China.             736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Huawei Device Co., Ltd.,    For all items subject to    Presumption of    84 FR 22963, 5/
+                        Dongguan, Guangdong,        the EAR, see Sec.  Sec.     denial.           21/19.
+                        China.                      736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+
+[[Page 36727]]
+
+ 
+                       Huawei Device (Dongguan)    For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co., Ltd., Dongguan,        the EAR, see Sec.  Sec.     denial.           21/19.
+                        Guangdong, China.           736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Huawei Device (Shenzhen)    For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co., Ltd., Shenzhen,        the EAR, see Sec.  Sec.     denial.           21/19.
+                        Guangdong, China.           736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Huawei Machine Co., Ltd.,   For all items subject to    Presumption of    84 FR 22963, 5/
+                        Dongguan, Guangdong,        the EAR, see Sec.  Sec.     denial.           21/19.
+                        China.                      736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Huawei Software             For all items subject to    Presumption of    84 FR 22963, 5/
+                        Technologies Co., Ltd.,     the EAR, see Sec.  Sec.     denial.           21/19.
+                        Nanjing, Jiangsu, China.    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+
+[[Page 36728]]
+
+ 
+                       Huawei Technical Service    For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co., Ltd., China.           the EAR, see Sec.  Sec.     denial.           21/19.
+                                                    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Huawei Technologies Co.,    For all items subject to    Presumption of    84 FR 22963, 5/
+                        Ltd., a.k.a., the           the EAR, see Sec.  Sec.     denial.           21/19.
+                        following one alias,        736.2(b)(3)(vi)\1\, and                      84 FR 43495, 8/
+                       --Shenzhen Huawei            744.11 of the EAR, EXCEPT                     21/19.
+                        Technologies, and to        for technology subject to                    85 FR 29853, 5/
+                        include the following       the EAR that is                               19/20.
+                        addresses and the           designated as EAR99, or                      85 FR [INSERT
+                        following 22 affiliated     controlled on the                             FR PAGE
+                        entities:                   Commerce Control List for                     NUMBER], 6/18/
+                       Addresses for Huawei         anti-terrorism reasons                        20.
+                        Technologies Co., Ltd.:     only, when released to
+                        Bantian Huawei Base,        members of a ``standards
+                        Longgang District,          organization'' (see Sec.
+                        Shenzhen, 518129, China;     772.1) for the purpose
+                        and No. 1899 Xi Yuan        of contributing to the
+                        Road, High-Tech West        revision or development
+                        District, Chengdu,          of a ``standard'' (see
+                        611731; and                 Sec.   772.1).
+                       C1, Wuhan Future City, No.
+                        999 Gaoxin Ave., Wuhan,
+                        Hebei Province; and
+                        Banxuegang Industrial
+                        Park, Buji Longgang,
+                        Shenzhen, Guangdong,
+                        518129, China; and R&D
+                        Center, No. 2222, Golden
+                        Bridge Road, Pu Dong
+                        District, Shanghai,
+                        China.
+                       Affiliated entities:
+                       Beijing Huawei Longshine
+                        Information Technology
+                        Co., Ltd., a.k.a., the
+                        following one alias:
+                       --Beijing Huawei
+                        Longshine, to include the
+                        following subordinate.
+                        Q80-3-25R, 3rd Floor, No.
+                        3, Shangdi Information
+                        Road, Haidian District,
+                        Beijing, China.
+                       Hangzhou New Longshine
+                        Information Technology
+                        Co., Ltd., Room 605, No.
+                        21, Xinba, Xiachang
+                        District, Hangzhou,
+                        China.
+                       Hangzhou Huawei
+                        Communication Technology
+                        Co., Ltd., Building 1,
+                        No. 410, Jianghong Road,
+                        Changhe Street, Binjiang
+                        District, Hangzhou,
+                        Zhejiang, China.
+                       Hangzhou Huawei
+                        Enterprises, No. 410
+                        Jianghong Road, Building
+                        1, Hangzhou, China.
+
+[[Page 36729]]
+
+ 
+                       Huawei Digital
+                        Technologies (Suzhou)
+                        Co., Ltd., No. 328 Xinhu
+                        Street, Building A3,
+                        Suzhou (Huawei R&D
+                        Center, Building A3,
+                        Creative Industrial Park,
+                        No. 328, Xinghu Street,
+                        Suzhou), Suzhou, Jiangsu,
+                        China.
+                       Huawei Marine Networks
+                        Co., Ltd., a.k.a., the
+                        following one alias:
+                       --Huawei Marine. Building
+                        R4, No. 2 City Avenue,
+                        Songshan Lake Science &
+                        Tech Industry Park,
+                        Dongguan, 523808, and No.
+                        62, Second Ave., 5/F-6/F,
+                        TEDA, MSD-B2 Area,
+                        Tianjin Economic and
+                        Technological Development
+                        Zone, Tianjin, 300457,
+                        China.
+                       Huawei Mobile Technology
+                        Ltd., Huawei Base,
+                        Building 2, District B,
+                        Shenzhen, China.
+                       Huawei Tech. Investment
+                        Co., U1 Building, No.
+                        1899 Xiyuan Avenue, West
+                        Gaoxin District, Chengdu
+                        City, 611731, China.
+                       Huawei Technology Co.,
+                        Ltd. Chengdu Research
+                        Institute, No. 1899,
+                        Xiyuan Ave., Hi-Tech
+                        Western District,
+                        Chengdu, Sichuan
+                        Province, 610041, China.
+                       Huawei Technology Co.,
+                        Ltd. Hangzhou Research
+                        Institute, No. 410,
+                        Jianghong Rd., Building
+                        4, Changhe St., Binjiang
+                        District, Hangzhou,
+                        Zhejiang Province,
+                        310007, China.
+                       Huawei Technologies Co.,
+                        Ltd. Beijing Research
+                        Institute, No. 3, Xinxi
+                        Rd., Huawei Building,
+                        ShangDi Information
+                        Industrial Base, Haidian
+                        District, Beijing,
+                        100095, China; and No.
+                        18, Muhe Rd., Building 1-
+                        4, Haidian District,
+                        Beijing, China.
+                       Huawei Technologies Co.,
+                        Ltd. Material
+                        Characterization Lab,
+                        Huawei Base, Bantian,
+                        Shenzhen, 518129, China.
+                       Huawei Technologies Co.,
+                        Ltd. Xi'an Research
+                        Institute, National
+                        Development Bank Building
+                        (Zhicheng Building), No.
+                        2, Gaoxin 1st Road, Xi'an
+                        High-tech Zone, Xi'an,
+                        China.
+                       Huawei Terminal (Shenzhen)
+                        Co., Ltd., Huawei Base,
+                        B1, Shenzhen, China.
+
+[[Page 36730]]
+
+ 
+                       Nanchang Huawei
+                        Communication Technology,
+                        No. 188 Huoju Street, F10-
+                        11, Nanchang, China.
+                       Ningbo Huawei Computer &
+                        Net Co., Ltd., No. 48
+                        Daliang Street, Ningbo,
+                        China.
+                       Shanghai Huawei
+                        Technologies Co., Ltd.,
+                        R&D Center, No. 2222,
+                        Golden Bridge Road, Pu
+                        Dong District, Shanghai,
+                        286305 Shanghai, China,
+                        China.
+                       Shenzhen Huawei Anjiexin
+                        Electricity Co., Ltd.,
+                        a.k.a., the following one
+                        alias:
+                       --Shenzhen Huawei Agisson
+                        Electric Co., Ltd.
+                        Building 2, Area B,
+                        Putian Huawei Base,
+                        Longgang District,
+                        Shenzhen, China; and
+                        Huawei Base, Building 2,
+                        District B, Shenzhen,
+                        China.
+                       Shenzhen Huawei New
+                        Technology Co., Ltd.,
+                        Huawei Production Center,
+                        Gangtou Village, Buji
+                        Town, Longgang District,
+                        Shenzhen, China.
+                       Shenzhen Huawei Technology
+                        Service, Huawei Base,
+                        Building 2, District B,
+                        Shenzhen, China.
+                       Shenzhen Huawei
+                        Technologies Software,
+                        Huawei Base, Building 2,
+                        District B, Shenzhen,
+                        China.
+                       Zhejiang Huawei
+                        Communications Technology
+                        Co., Ltd., No. 360
+                        Jiangshu Road, Building
+                        5, Hangzhou, Zhejiang,
+                        China.
+                       Huawei Technologies         For all items subject to    Presumption of    84 FR 22963, 5/
+                        Service Co., Ltd.,          the EAR, see Sec.  Sec.     denial.           21/19.
+                        Langfang, Hebei, China.     736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+
+[[Page 36731]]
+
+ 
+                       Huawei Training (Dongguan)  For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co., Ltd., Dongguan,        the EAR, see Sec.  Sec.     denial.           21/19.
+                        Guangdong, China.           736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Huayi Internet Information  For all items subject to    Presumption of    84 FR 22963, 5/
+                        Service Co., Ltd.,          the EAR, see Sec.  Sec.     denial.           21/19.
+                        Shenzhen, Guangdong,        736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        China.                      744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Hui Tong Business Ltd.,     For all items subject to    Presumption of    84 FR 43495, 8/
+                        Huawei Base, Electrical     the EAR, see Sec.  Sec.     denial.           21/19.
+                        Research Center,            736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        Shenzhen, China.            744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+                       North Huawei Communication  For all items subject to    Presumption of    84 FR 22963, 5/
+                        Technology Co., Ltd.,       the EAR, see Sec.  Sec.     denial.           21/19.
+                        Beijing, China.             736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+
+[[Page 36732]]
+
+ 
+                       Shanghai Haisi Technology   For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co., Ltd., Shanghai,        the EAR, see Sec.  Sec.     denial.           21/19.
+                        China.                      736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Shanghai HiSilicon          For all items subject to    Presumption of    84 FR 43495, 8/
+                        Technologies Co., Ltd.,     the EAR, see Sec.  Sec.     denial.           21/19.
+                        Room 101, No. 318,          736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        Shuixiu Road, Jinze Town    744.11 of the EAR, EXCEPT                     19/20.
+                        (Xiqi), Qingpu District,    for technology subject to                    85 FR [INSERT
+                        Shanghai, China.            the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Shanghai Mossel Trade Co.,  For all items subject to    Presumption of    84 FR 22963, 5/
+                        Ltd., Shanghai, China.      the EAR, see Sec.  Sec.     denial.           21/19.
+                                                    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+                       Shenzhen HiSilicon          For all items subject to    Presumption of    84 FR 43495, 8/
+                        Technologies Co.,           the EAR, see Sec.  Sec.     denial.           21/19.
+                        Electrical Research         736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        Center, Huawei Base,        744.11 of the EAR, EXCEPT                     19/20.
+                        Shenzhen, China.            for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+
+[[Page 36733]]
+
+ 
+                       Shenzhen Huawei Technical   For all items subject to    Presumption of    84 FR 22963, 5/
+                        Services Co., Ltd.,         the EAR, see Sec.  Sec.     denial.           21/19.
+                        Shenzhen, Guangdong,        736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        China.                      744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Shenzhen Huawei Terminal    For all items subject to    Presumption of    84 FR 22963, 5/
+                        Commercial Co., Ltd.,       the EAR, see Sec.  Sec.     denial.           21/19.
+                        Shenzhen, Guangdong,        736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        China.                      744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Shenzhen Huawei Training    For all items subject to    Presumption of    84 FR 22963, 5/
+                        School Co., Ltd.,           the EAR, see Sec.  Sec.     denial.           21/19.
+                        Shenzhen, Guangdong,        736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        China.                      744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Shenzhen Huayi Loan Small   For all items subject to    Presumption of    84 FR 22963, 5/
+                        Loan Co., Ltd., Shenzhen,   the EAR, see Sec.  Sec.     denial.           21/19.
+                        Guangdong, China.           736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+
+[[Page 36734]]
+
+ 
+                       Shenzhen Legrit Technology  For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co., Ltd., Shenzhen,        the EAR, see Sec.  Sec.     denial.           21/19.
+                        Guangdong, China.           736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Shenzhen Smartcom Business  For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co., Ltd., Shenzhen,        the EAR, see Sec.  Sec.     denial.           21/19.
+                        Guangdong, China.           736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+                       Suzhou Huawei Investment    For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co., Ltd., Suzhou,          the EAR, see Sec.  Sec.     denial.           21/19.
+                        Jiangsu, China.             736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+                       Wuhan Huawei Investment     For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co., Ltd., Wuhan, Hubei,    the EAR, see Sec.  Sec.     denial.           21/19.
+                        China.                      736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+
+[[Page 36735]]
+
+ 
+                       Xi'an Huawei Technologies   For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co., Ltd., Xi'an,           the EAR, see Sec.  Sec.     denial.           21/19.
+                        Shaanxi, China.             736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+                       Xi'an Ruixin Investment     For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co., Ltd., Xi'an,           the EAR, see Sec.  Sec.     denial.           21/19.
+                        Shaanxi, China.             736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+COSTA RICA...........  Huawei Technologies Costa   For all items subject to    Presumption of    84 FR 43495, 8/
+                        Rica SA, a.k.a., the        the EAR, see Sec.  Sec.     denial.           21/19.
+                        following one alias:        736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                       --Huawei Technologies        744.11 of the EAR, EXCEPT                     19/20.
+                        Costa Rica Sociedad         for technology subject to                    85 FR [INSERT
+                        Anonima.                    the EAR that is                               FR PAGE
+                       S.J, Sabana Norte, Detras    designated as EAR99, or                       NUMBER], 6/18/
+                        De Burger King, Edif Gru,   controlled on the                             20.
+                        Po Nueva, San Jose, Costa   Commerce Control List for
+                        Rica.                       anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+CUBA.................  Huawei Cuba, Cuba.          For all items subject to    Presumption of    84 FR 43495, 8/
+                                                    the EAR, see Sec.  Sec.     denial.           21/19.
+                                                    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+----------------------------------------------------------------------------------------------------------------
+ 
+
+[[Page 36736]]
+
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+DENMARK..............  Huawei Denmark, Vestre      For all items subject to    Presumption of    84 FR 43495, 8/
+                        Teglgade 9, Kobenhavn Sv,   the EAR, see Sec.  Sec.     denial.           21/19.
+                        Hovedstaden, 2450,          736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        Denmark.                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+EGYPT................                                          * * * * * *
+                       Huawei Technology, Cairo,   For all items subject to    Presumption of    84 FR 22963, 5/
+                        Egypt.                      the EAR, see Sec.  Sec.     denial.           21/19.
+                                                    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+FRANCE...............                                          * * * * * *
+                       Huawei France, a.k.a., the  For all items subject to    Presumption of    84 FR 43495, 8/
+                        following one alias:        the EAR, see Sec.  Sec.     denial.           21/19.
+                       --Huawei Technologies        736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        France SASU.                744.11 of the EAR, EXCEPT                     19/20.
+                       36-38, quai du Point du      for technology subject to                    85 FR [INSERT
+                        Jour, 92659 Boulogne-       the EAR that is                               FR PAGE
+                        Billancourt cedex,          designated as EAR99, or                       NUMBER], 6/18/
+                        France.                     controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+GERMANY..............                                          * * * * * *
+
+[[Page 36737]]
+
+ 
+                       Huawei Technologies         For all items subject to    Presumption of    84 FR 22963, 5/
+                        Deutschland GmbH,           the EAR, see Sec.  Sec.     denial.           21/19.
+                        Germany.                    736.2(b)(3) (vi),\1\ and                     85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+HONG KONG............                                          * * * * * *
+                       Hua Ying Management Co.     For all items subject to    Presumption of    84 FR 22963, 5/
+                        Limited, Tsim Sha Tsui,     the EAR, see Sec.  Sec.     denial.           21/19.
+                        Kowloon, Hong Kong.         736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Huawei Device (Hong Kong)   For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co., Limited, Tsim Sha      the EAR, see Sec.  Sec.     denial.           21/19.
+                        Tsui, Kowloon, Hong Kong.   736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Huawei International Co.,   For all items subject to    Presumption of    84 FR 22963, 5/
+                        Limited, Hong Kong.         the EAR, see Sec.  Sec.     denial.           21/19.
+                                                    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+
+[[Page 36738]]
+
+ 
+                       Huawei Tech. Investment     For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co., Limited, Hong Kong.    the EAR, see Sec.  Sec.     denial.           21/19.
+                                                    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Huawei Technologies Co.     For all items subject to    Presumption of    84 FR 22963, 5/
+                        Ltd., Tsim Sha Tsui,        the EAR, see Sec.  Sec.     denial.           21/19.
+                        Kowloon, Hong Kong.         736.2(b) (3)(vi),\1\ and                     85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+                       Smartcom (Hong Kong) Co.,   For all items subject to    Presumption of    84 FR 22963, 5/
+                        Limited, Sheung Wan, Hong   the EAR, see Sec.  Sec.     denial.           21/19.
+                        Kong.                       736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+INDIA................                                          * * * * * *
+                       Huawei Technologies India   For all items subject to    Presumption of    84 FR 43495, 8/
+                        Private Limited, a.k.a.,    the EAR, see Sec.  Sec.     denial.           21/19.
+                        the following one alias:    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                       --Huawei Technologies        744.11 of the EAR, EXCEPT                     19/20.
+                        India Pvt., Ltd.            for technology subject to                    85 FR [INSERT
+                       Level-\3/4\, Leela           the EAR that is                               FR PAGE
+                        Galleria, The Leela         designated as EAR99, or                       NUMBER], 6/18/
+                        Palace, No. 23, Airport     controlled on the                             20.
+                        Road, Bengaluru, 560008,    Commerce Control List for
+                        India; and SYNO 37, 46,45/  anti-terrorism reasons
+                        3,45/4 ETC KNO 1540,        only, when released to
+                        Kundalahalli Village        members of a ``standards
+                        Bengaluru Bangalore KA      organization'' (see Sec.
+                        560037 India.                772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+
+[[Page 36739]]
+
+ 
+INDONESIA............  Huawei Tech Investment,     For all items subject to    Presumption of    84 FR 43495, 8/
+                        PT, Bri Ii Building 20Th    the EAR, see Sec.  Sec.     denial.           21/19.
+                        Floor, Suite 2005 , Jl.     736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        Jend., Sudirman Kav. 44-    744.11 of the EAR, EXCEPT                     19/20.
+                        46, Jakarta, 10210,         for technology subject to                    85 FR [INSERT
+                        Indonesia.                  the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ITALY................  Huawei Italia, Via          For all items subject to    Presumption of    84 FR 43495, 8/
+                        Lorenteggio, 240, Tower     the EAR, see Sec.  Sec.     denial.           21/19.
+                        A, 20147 Milan, Italy.      736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Huawei Milan Research       For all items subject to    Presumption of    84 FR 43495, 8/
+                        Institute, Milan, Italy.    the EAR, see Sec.  Sec.     denial.           21/19.
+                                                    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+JAMAICA..............  Huawei Technologies         For all items subject to    Presumption of    84 FR 22963, 5/
+                        Jamaica Company Limited,    the EAR, see Sec.  Sec.     denial.           21/19.
+                        Kingston, Jamaica.          736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+
+[[Page 36740]]
+
+ 
+JAPAN................  Huawei Technologies Japan   For all items subject to    Presumption of    84 FR 22963, 5/
+                        K.K., Japan.                the EAR, see Sec.  Sec.     denial.           21/19.
+                                                    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+JORDAN...............  Huawei Technologies         For all items subject to    Presumption of    84 FR 22963, 5/
+                        Investment Co. Ltd.,        the EAR, see Sec.  Sec.     denial.           21/19.
+                        Amman, Jordan.              736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+KAZAKHSTAN...........                                          * * * * * *
+                       Huawei Technologies LLC     For all items subject to    Presumption of    84 FR 43495, 8/
+                        Kazakhstan, 191             the EAR, see Sec.  Sec.     denial.           21/19.
+                        Zheltoksan St., 5th         736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        floor, 050013, Bostandyk,   744.11 of the EAR, EXCEPT                     19/20.
+                        District of Almaty,         for technology subject to                    85 FR [INSERT
+                        Republic of Kazakhstan.     the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+LEBANON..............                                          * * * * * *
+                       Huawei Technologies         For all items subject to    Presumption of    84 FR 22963, 5/
+                        Lebanon, Beirut, Lebanon.   the EAR, see Sec.  Sec.     denial.           21/19.
+                                                    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ 
+
+[[Page 36741]]
+
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+MADAGASCAR...........  Huawei Technologies         For all items subject to    Presumption of    84 FR 22963, 5/
+                        Madagascar Sarl,            the EAR, see Sec.  Sec.     denial.           21/19.
+                        Antananarivo, Madagascar.   736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+MEXICO...............  Huawei Technologies De      For all items subject to    Presumption of    84 FR 43495, 8/
+                        Mexico S.A., Avenida        the EAR, see Sec.  Sec.     denial.           21/19.
+                        Santa F[eacute] No. 440,    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        Torre Century Plaza Piso    744.11 of the EAR, EXCEPT                     19/20.
+                        15, Colonia Santa Fe,       for technology subject to                    85 FR [INSERT
+                        Delegaci[oacute]n           the EAR that is                               FR PAGE
+                        Cuajimalpa de Morelos,      designated as EAR99, or                       NUMBER], 6/18/
+                        C.P. 05348, Distrito        controlled on the                             20.
+                        Federal, CDMX, Mexico;      Commerce Control List for
+                        and Laza Carso, Torre       anti-terrorism reasons
+                        Falc[oacute]n, Lago         only, when released to
+                        Zurich No. 245, Piso 18,    members of a ``standards
+                        Colonia Ampliacion          organization'' (see Sec.
+                        Granda, Delegaci[oacute]n    772.1) for the purpose
+                        Miguel Hidalgo, CDMX,       of contributing to the
+                        Mexico.                     revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+NETHERLANDS..........                                          * * * * * *
+                       Huawei Technologies         For all items subject to    Presumption of    84 FR 22963, 5/
+                        Co[ouml]peratief U.A.,      the EAR, see Sec.  Sec.     denial.           21/19.
+                        Netherlands.                736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+NEW ZEALAND..........  Huawei Technologies (New    For all items subject to    Presumption of    84 FR 43495, 8/
+                        Zealand) Company Limited,   the EAR, see Sec.  Sec.     denial.           21/19.
+                        80 Queen Street, Auckland   736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        Central, Auckland, 1010,    744.11 of the EAR, EXCEPT                     19/20.
+                        New Zealand.                for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+----------------------------------------------------------------------------------------------------------------
+
+[[Page 36742]]
+
+ 
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+OMAN.................  Huawei Tech Investment      For all items subject to    Presumption of    84 FR 22963, 5/
+                        Oman LLC, Muscat, Oman.     the EAR, see Sec.  Sec.     denial.           21/19.
+                                                    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+PAKISTAN.............                                          * * * * * *
+                       Huawei Technologies         For all items subject to    Presumption of    84 FR 22963, 5/
+                        Pakistan (Private)          the EAR, see Sec.  Sec.     denial.           21/19.
+                        Limited, Islamabad,         736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        Pakistan.                   744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+PANAMA...............  Huawei Technologies Cr      For all items subject to    Presumption of    84 FR 43495, 8/
+                        Panama S.A, Ave. Paseo      the EAR, see Sec.  Sec.     denial.           21/19.
+                        del Mar, Costa del Este     736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        Torre MMG, Piso 17 Ciudad   744.11 of the EAR, EXCEPT                     19/20.
+                        de Panam[aacute], Panama.   for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+PARAGUAY.............  Huawei Technologies         For all items subject to    Presumption of    84 FR 22963, 5/
+                        Paraguay S.A., Asuncion,    the EAR, see Sec.  Sec.     denial.           21/19.
+                        Paraguay.                   736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+----------------------------------------------------------------------------------------------------------------
+
+[[Page 36743]]
+
+ 
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+PORTUGAL.............  Huawei Technology           For all items subject to    Presumption of    84 FR 43495, 8/
+                        Portugal, Avenida Dom       the EAR, see Sec.  Sec.     denial.           21/19.
+                        Jo[atilde]o II, 51B--       736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        11[deg].A 1990-085          744.11 of the EAR, EXCEPT                     19/20.
+                        Lisboa, Portugal.           for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+QATAR................  Huawei Tech Investment      For all items subject to    Presumption of    84 FR 22963, 5/
+                        Limited, Doha, Qatar.       the EAR, see Sec.  Sec.     denial.           21/19.
+                                                    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+ROMANIA..............  Huawei Technologies         For all items subject to    Presumption of    84 FR 43495, 8/
+                        Romania Co., Ltd., Ion      the EAR, see Sec.  Sec.     denial.           21/19.
+                        Mihalache Blvd, No. 15-     736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        17,1st District, 9th        744.11 of the EAR, EXCEPT                     19/20.
+                        Floor of Bucharest Tower    for technology subject to                    85 FR [INSERT
+                        center, Bucharest,          the EAR that is                               FR PAGE
+                        Romania.                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+RUSSIA...............                                          * * * * * *
+                       Huawei Russia, Business-    For all items subject to    Presumption of    84 FR 43495, 8/
+                        Park ``Krylatsky Hills'',   the EAR, see Sec.  Sec.     denial.           21/19.
+                        17 bldg. 2, Krylatskaya     736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        Str., Moscow 121614,        744.11 of the EAR, EXCEPT                     19/20.
+                        Russia.                     for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ 
+
+[[Page 36744]]
+
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+SINGAPORE............                                          * * * * * *
+                       Huawei International Pte.   For all items subject to    Presumption of    84 FR 22963, 5/
+                        Ltd., Singapore.            the EAR, see Sec.  Sec.     denial.           21/19.
+                                                    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+SOUTH AFRICA.........                                          * * * * * *
+                       Huawei Technologies South   For all items subject to    Presumption of    84 FR 43495, 8/
+                        Africa Pty Ltd., 128        the EAR, see Sec.  Sec.     denial.           21/19.
+                        Peter St Block 7 Grayston   736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        Office Park, Sandton,       744.11 of the EAR, EXCEPT                     19/20.
+                        Gauteng, 1682, South        for technology subject to                    85 FR [INSERT
+                        Africa.                     the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+SRI LANKA............  Huawei Technologies Lanka   For all items subject to    Presumption of    84 FR 22963, 5/
+                        Company (Private)           the EAR, see Sec.  Sec.     denial.           21/19.
+                        Limited, Colombo, Sri       736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        Lanka.                      744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+SWEDEN...............                                          * * * * * *
+
+[[Page 36745]]
+
+ 
+                       Huawei Sweden,              For all items subject to    Presumption of    84 FR 43495, 8/
+                        Skalholtsgatan 9-11         the EAR, see Sec.  Sec.     denial.           21/19.
+                        Kista, 164 40 Stockholm,    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        Sweden.                     744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+SWITZERLAND..........                                          * * * * * *
+                       Huawei Technologies         For all items subject to    Presumption of    84 FR 22963, 5/
+                        Switzerland AG,             the EAR, see Sec.  Sec.     denial.           21/19.
+                        Liebefeld, Bern,            736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        Switzerland.                744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR 29853, 5/
+                                                    the EAR that is                               19/20.
+                                                    designated as EAR99, or                      85 FR [INSERT
+                                                    controlled on the                             FR PAGE
+                                                    Commerce Control List for                     NUMBER], 6/18/
+                                                    anti-terrorism reasons                        20.
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+TAIWAN...............                                          * * * * * *
+                       Xunwei Technologies Co.,    For all items subject to    Presumption of    84 FR 22963, 5/
+                        Ltd., Taipei, Taiwan.       the EAR, see Sec.  Sec.     denial.           21/19.
+                                                    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+THAILAND.............                                          * * * * * *
+
+[[Page 36746]]
+
+ 
+                       Huawei Technologies         For all items subject to    Presumption of    84 FR 43495, 8/
+                        (Thailand) Co., 87/1        the EAR, see Sec.  Sec.     denial.           21/19.
+                        Wireless Road, 19th         736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        Floor, Capital Tower, All   744.11 of the EAR, EXCEPT                     19/20.
+                        Seasons Place, Pathumwan,   for technology subject to                    85 FR [INSERT
+                        Bangkok, 10330, Thailand.   the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                  * * * * * * *
+----------------------------------------------------------------------------------------------------------------
+UNITED KINGDOM.......                                          * * * * * *
+                       Centre for Integrated       For all items subject to    Presumption of    84 FR 43495, 8/
+                        Photonics Ltd., B55         the EAR, see Sec.  Sec.     denial.           21/19.
+                        Adastral Park, Pheonix      736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                        House, Martlesham Heath,    744.11 of the EAR, EXCEPT                     19/20.
+                        Ipswich, IP5 3RE United     for technology subject to                    85 FR [INSERT
+                        Kingdom.                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+                       Huawei Global Finance (UK)  For all items subject to    Presumption of    84 FR 22963, 5/
+                        Limited, Great Britain.     the EAR, see Sec.  Sec.     denial.           21/19.
+                                                    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Huawei Technologies (UK)    For all items subject to    Presumption of    84 FR 43495, 8/
+                        Co., Ltd., a.k.a., the      the EAR, see Sec.  Sec.     denial.           21/19.
+                        following one alias:        736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                       --Huawei Software            744.11 of the EAR, EXCEPT                     19/20.
+                        Technologies Co. Ltd.       for technology subject to                    85 FR [INSERT
+                       300 South Oak Way, Green     the EAR that is                               FR PAGE
+                        Park, Reading, RG2 6UF;     designated as EAR99, or                       NUMBER], 6/18/
+                        and 6 Mitre Passage, SE     controlled on the                             20.
+                        10 0ER, United Kingdom.     Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+
+[[Page 36747]]
+
+ 
+                                                               * * * * * *
+                       Proven Glory, British       For all items subject to    Presumption of    84 FR 22963, 5/
+                        Virgin Islands              the EAR, see Sec.  Sec.     denial.           21/19.
+                                                    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Proven Honour, British      For all items subject to    Presumption of    84 FR 22963, 5/
+                        Virgin Islands.             the EAR, see Sec.  Sec.     denial.           21/19.
+                                                    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                                                               * * * * * *
+VIETNAM..............  Huawei Technologies         For all items subject to    Presumption of    84 FR 22963, 5/
+                        (Vietnam) Company           the EAR, see Sec.  Sec.     denial.           21/19.
+                        Limited, Hanoi, Vietnam.    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+                       Huawei Technology Co.       For all items subject to    Presumption of    84 FR 22963, 5/
+                        Ltd., Hanoi, Vietnam.       the EAR, see Sec.  Sec.     denial.           21/19.
+                                                    736.2(b)(3)(vi),\1\ and                      85 FR 29853, 5/
+                                                    744.11 of the EAR, EXCEPT                     19/20.
+                                                    for technology subject to                    85 FR [INSERT
+                                                    the EAR that is                               FR PAGE
+                                                    designated as EAR99, or                       NUMBER], 6/18/
+                                                    controlled on the                             20.
+                                                    Commerce Control List for
+                                                    anti-terrorism reasons
+                                                    only, when released to
+                                                    members of a ``standards
+                                                    organization'' (see Sec.
+                                                     772.1) for the purpose
+                                                    of contributing to the
+                                                    revision or development
+                                                    of a ``standard'' (see
+                                                    Sec.   772.1).
+----------------------------------------------------------------------------------------------------------------
+
+
+[[Page 36748]]
+
+* * * * *
+
+PART 772--[AMENDED]
+
+0
+3. The authority citation for part 772 is revised to read as follows:
+
+    Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 
+783.
+
+
+0
+4. Section 772.1 is amended by adding the definitions of ``Standard'' 
+and ``Standards organization'' in alphabetical order to read as 
+follows:
+
+
+Sec.  772.1   Definitions of Terms As Used In the Export Administration 
+Regulations (EAR).
+
+* * * * *
+    Standard. This term is equivalent to ``standard'' or ``technical 
+standard'' as defined in Office of Management and Budget Circular A-119 
+(Rev. 2016) (81 FR 4673 (Jan. 27, 2016)), ``Federal Participation in 
+the Development and Use of Voluntary Consensus Standards and in 
+Conformity Assessment Activities'' section 2.a, available at <a href="https://www.nist.gov/system/files/revised_circular_a-119_as_of_01-22-2016.pdf">https://www.nist.gov/system/files/revised_circular_a-119_as_of_01-22-2016.pdf</a>.
+    Standards organization. This term is equivalent to ``voluntary 
+consensus standards body,'' as defined in Office of Management and 
+Budget Circular A-119 (Rev. 2016) (81 FR 4673 (Jan. 27, 2016)), 
+``Federal Participation in the Development and Use of Voluntary 
+Consensus Standards and in Conformity Assessment Activities'' section 
+2.e, available at <a href="https://www.nist.gov/system/files/revised_circular_a-119_as_of_01-22-2016.pdf">https://www.nist.gov/system/files/revised_circular_a-119_as_of_01-22-2016.pdf</a>.
+* * * * *
+
+Richard E. Ashooh,
+Assistant Secretary for Export Administration.
+[FR Doc. 2020-13093 Filed 6-16-20; 11:15 am]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

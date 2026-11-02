@@ -1,0 +1,65 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1A008；eCFR 2026-10-29〕
+
+1A008 Charges, devices and “components”, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, UN, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+UN applies to entire entry | See § 746.1(b) for UN controls.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $3,000 for .a through .c; $6,000 for .d.
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) All of the following are “subject to the ITAR” (see 22 CFR parts 120 through 130):
+
+a. High explosives and related equipment “specially designed” for military use;
+
+b. Explosive devices or charges in this entry that utilize USML controlled energetic materials (See 22 CFR 121.1 Category V), if they have been specifically designed, developed, configured, adapted, or modified for a military application;
+
+c. Shaped charges that have all of the following a uniform shaped conical liner with an included angle of 90 degrees or less, more than 2.0 kg of controlled materials, and a diameter exceeding 4.5 inches;
+
+d. Detonating cord containing greater than 0.1 kg per meter (470 grains per foot) of controlled materials;
+
+e. Cutters and severing tools containing greater than 10 kg of controlled materials;
+
+f. With the exception of cutters and severing tools, devices or charges controlled by this entry where the USML controlled materials can be easily extracted without destroying the device or charge; and
+
+g. Individual USML controlled energetic materials in this entry, even when compounded with other materials, when not incorporated into explosive devices or charges controlled by this entry or 1C992.
+
+(2) See also ECCNs 1C011, 1C018, 1C111, 1C239, and 1C608 for additional controlled energetic materials. See ECCN 1E001 for the “development” or “production” “technology” for the commodities controlled by ECCN 1A008, but not for explosives or commodities that are “subject to the ITAR” (see 22 CFR parts 120 through 130).
+
+Related Definitions: N/A
+
+Items:
+
+a. 'Shaped charges' having all of the following:
+
+a.1. Net Explosive Quantity (NEQ) greater than 90 g; and
+
+a.2. Outer casing diameter equal to or greater than 75 mm;
+
+b. Linear shaped cutting charges having all of the following, and “specially designed” “components” therefor:
+
+b.1. An explosive load greater than 40 g/m; and
+
+b.2. A width of 10 mm or more;
+
+c. Detonating cord with explosive core load greater than 64 g/m;
+
+d. Cutters, not specified by 1A008.b, and severing tools, having a NEQ greater than 3.5 kg.
+
+Technical Note: For the purposes of 1A008.a, 'shaped charges' are explosive charges shaped to focus the effects of the explosive blast.
+
+Note: The only charges and devices specified in 1A008 are those containing “explosives” (see list of explosives in the Annex at the end of Category 1) and mixtures thereof.

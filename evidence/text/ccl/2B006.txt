@@ -1,0 +1,67 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2B006；eCFR 2026-10-29〕
+
+2B006 Dimensional inspection or measuring systems, equipment, position feedback units and “electronic assemblies”, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, NP, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+NP applies to those items in 2B006.a, b.1, b.3, and .c (angular displacement measuring instruments) that meet or exceed the technical parameters in 2B206. | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 2D001 and 2D002 for “software” for items controlled under this entry. (2) See ECCNs 2E001 (“development”), 2E002 (“production”), and 2E201 (“use”) for technology for items controlled under this entry. (3) Also see ECCNs 2B206 and 2B996.
+
+Related Definitions: N/A
+
+Items:
+
+a. Computer controlled or “numerically controlled” Coordinate Measuring Machines (CMM), having a three dimensional length (volumetric) maximum permissible error of length measurement (E0,MPE) at any point within the operating range of the machine (i.e., within the length of axes) equal to or less (better) than (1.7 + L/1,000) µm (L is the measured length in mm) according to ISO 10360-2 (2009);
+
+Technical Note: For the purposes of 2B006.a, E0,MPE of the most accurate configuration of the CMM specified by the manufacturer (e.g.,best of the following: Probe, stylus length, motion parameters, environment) and with “all compensations available” shall be compared to the 1.7 + L/1,000 µm threshold.
+
+b. Linear displacement measuring instruments or systems, linear position feedback units, and “electronic assemblies”, as follows:
+
+Note: Interferometer and optical-encoder measuring systems containing a “laser” are only specified by 2B006.b.3.
+
+b.1. 'Non-contact type measuring systems' with a 'resolution' equal to or less (better) than 0.2 µm within 0 to 0.2 mm of the 'measuring range';
+
+Technical Notes: For the purposes of 2B006.b.1:
+
+1. 'Non-contact type measuring systems' are designed to measure the distance between the probe and measured object along a single vector, where the probe or measured object is in motion.
+
+2. 'Measuring range' means the distance between the minimum and maximum working distance.
+
+b.2. Linear position feedback units “specially designed” for machine tools and having an overall “accuracy” less (better) than (800 + (600 × L/1,000)) nm (L equals effective length in mm);
+
+b.3. Measuring systems having all of the following:
+
+b.3.a. Containing a “laser”;
+
+b.3.b. A 'resolution' over their full scale of 0.200 nm or less (better); and
+
+b.3.c. Capable of achieving a “measurement uncertainty” equal to or less (better) than (1.6 + L/2,000) nm (L is the measured length in mm) at any point within a measuring range, when compensated for the refractive index of air and measured over a period of 30 seconds at a temperature of 20±0.01 °C;
+
+Technical Note: For the purposes of 2B006.b, 'resolution' is the least increment of a measuring device; on digital instruments, the least significant bit.
+
+b.4. “Electronic assemblies” “specially designed” to provide feedback capability in systems controlled by 2B006.b.3;
+
+c. Rotary position feedback units “specially designed” for machine tools or angular displacement measuring instruments, having an angular position “accuracy” equal to or less (better) than 0.9 second of arc;
+
+Note: 2B006.c does not control optical instruments, such as autocollimators, using collimated light (e.g., “laser” light) to detect angular displacement of a mirror.
+
+d. Equipment for measuring surface roughness (including surface defects), by measuring optical scatter with a sensitivity of 0.5 nm or less (better).
+
+Note: 2B006 includes machine tools, other than those specified by 2B001, that can be used as measuring machines, if they meet or exceed the criteria specified for the measuring machine function.

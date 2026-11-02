@@ -1,0 +1,93 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1A613；eCFR 2026-10-29〕
+
+1A613 Armored and protective “equipment” and related commodities, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, UN
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry except 1A613.y | NS Column 1.
+
+RS applies to entire entry except 1A613.y | RS Column 1.
+
+RS applies 1A613.y | China, Russia, or Venezuela (see § 742.6(a)(7)).
+
+AT applies to entire entry | AT Column 1.
+
+UN applies to entire entry, except 1A613.y | See § 746.1(b) for UN controls.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $1500
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in 1A613.
+
+List of Items Controlled
+
+Related Controls: (1) Defense articles, such as materials made from classified information, that are controlled by USML Category X or XIII of the ITAR, and technical data (including software) directly related thereto, are “subject to the ITAR.” (2) See ECCN 0A919 for foreign-made “military commodities” that incorporate more than a de minimis amount of US-origin “600 series” controlled content. (3) See ECCN 9A610.g for anti-gravity suits (“G-suits”) and pressure suits capable of operating at altitudes higher than 55,000 feet above sea level. (4) For other military helmet “components” or “accessories” not specified in 1A613.c, see the relevant ECCN in the CCL or USML Entry.
+
+Related Definitions: References to “NIJ Type” protection are to the National Institute of Justice Classification guide at NIJ Standard 0101.06, Ballistic Resistance of Body Armor, and NIJ Standard 0108.01, Ballistic Resistant Protective Materials.
+
+Items:
+
+a. Metallic or non-metallic armored plate “specially designed” for military use and not controlled by the USML.
+
+Note to paragraph a: For controls on body armor plates, see ECCN 1A613.d.2 and USML Category X(a)(1).
+
+b. Shelters “specially designed” to:
+
+b.1. Provide ballistic protection for military systems; or
+
+b.2. Protect against nuclear, biological, or chemical contamination.
+
+c. Military helmets (other than helmets controlled under 1A613.y.1) providing less than NIJ Type IV or “equivalent standards” protection.
+
+Note 1: See ECCN 0A979 for controls on police helmets.
+
+Note 2: See USML Category X(a)(5) and (a)(6) for controls on other military helmets.
+
+Note 3: 1A613.c does not apply to helmets that meet all the following:
+
+a. Were first manufactured before 1970; and
+
+b. Are neither designed or modified to accept, nor equipped with items specified by the U.S. Munitions List (22 CFR 121) or another “600 series” ECCN.
+
+d. Body armor and protective garments, as follows:
+
+d.1. Soft body armor and protective garments manufactured to military standards or specifications, or to their equivalents, that provide ballistic protection equal to or less than NIJ level III (NIJ 0101.06, July 2008) or “equivalent standards”; or
+
+Note: For 1A613.d.1, military standards or specifications include, at a minimum, specifications for fragmentation protection.
+
+d.2. Hard body armor plates that provide ballistic protection equal to NIJ level III (NIJ 0101.06, July 2008) or “equivalent standards”.
+
+Note: See ECCN 1A005 for controls on soft body armor not manufactured to military standards or specifications and hard body armor plates providing less than NIJ level III or “equivalent standards” protection. For body armor providing NIJ Type IV protection or greater, see USML Category X(a)(1).
+
+e. Atmospheric diving suits “specially designed” for rescue operations for submarines controlled by the USML or the CCL.
+
+f. Other personal protective “equipment” “specially designed” for military applications not controlled by the USML, not elsewhere controlled on the CCL.
+
+g. to w. [Reserved]
+
+x. “Parts,” “components,” “accessories,” and “attachments” that are “specially designed” for a commodity controlled by ECCN 1A613 (except for 1A613.y) or an article enumerated in USML Category X, and not controlled elsewhere in the USML.
+
+Note: 1A613.x includes forgings, castings, and other unfinished products, such as extrusions and machined bodies, that have reached a stage in manufacturing where they are clearly identifiable by mechanical properties, material composition, geometry, or function as commodities specified in ECCN 1A613.x.
+
+y. Other commodities as follows:
+
+y.1 Conventional military steel helmets.
+
+Note: 1A613.y.1 does not apply to helmets that meet all the following:
+
+a. Were first manufactured before 1970; and
+
+b. Are neither designed or modified to accept, nor equipped with items specified by the U.S. Munitions List (22 CFR 121) or another “600 series” ECCN.
+
+N.B. to paragraph y.1: For other military helmet “components” or “accessories,” see the relevant ECCN in the CCL or USML Entry.
+
+y.2 [Reserved]

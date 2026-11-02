@@ -1,0 +1,57 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3A201；eCFR 2026-10-29〕
+
+3A201 Electronic “parts” and “components,” other than those controlled by 3A001, as follows (see List of Items Controlled).
+
+Reason for Control: NP, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NP applies to entire entry | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 3E001 (“development” and “production”) and 3E201 (“use”) for technology for items controlled under this entry. (2) Also see 3A001.e.2 (capacitors) and 3A001.e.3 (superconducting electromagnets). (3) Superconducting electromagnets “specially designed” or prepared for use in separating uranium isotopes are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110).
+
+Related Definitions: N/A
+
+Items: a. Pulse discharge capacitors having either of the following sets of characteristics:
+
+a.1. Voltage rating greater than 1.4 kV, energy storage greater than 10 J, capacitance greater than 0.5 µF, and series inductance less than 50 nH; or
+
+a.2. Voltage rating greater than 750 V, capacitance greater than 0.25 µF, and series inductance less than 10 nH;
+
+b. Superconducting solenoidal electromagnets having all of the following characteristics:
+
+b.1. Capable of creating magnetic fields greater than 2 T;
+
+b.2. A ratio of length to inner diameter greater than 2;
+
+b.3. Inner diameter greater than 300 mm; and
+
+b.4. Magnetic field uniform to better than 1% over the central 50% of the inner volume;
+
+Note: 3A201.b does not control magnets “specially designed” for and exported “as parts of” medical nuclear magnetic resonance (NMR) imaging systems. The phrase “as part of” does not necessarily mean physical part in the same shipment; separate shipments from different sources are allowed, provided the related export documents clearly specify that the shipments are dispatched “as part of” the imaging systems.
+
+c. Flash X-ray generators or pulsed electron accelerators having either of the following sets of characteristics:
+
+c.1. An accelerator peak electron energy of 500 keV or greater, but less than 25 MeV, and with a “figure of merit” (K) of 0.25 or greater; or
+
+c.2. An accelerator peak electron energy of 25 MeV or greater, and a “peak power” greater than 50 MW;
+
+Note: 3A201.c does not control accelerators that are “parts” or “components” of devices designed for purposes other than electron beam or X-ray radiation (electron microscopy, for example) nor those designed for medical purposes.
+
+Technical Notes: (1) The “figure of merit” K is defined as: K = 1.7 × 10 3V 2.65Q. V is the peak electron energy in million electron volts. If the accelerator beam pulse duration is less than or equal to 1 µs, then Q is the total accelerated charge in Coulombs. If the accelerator beam pulse duration is greater than 1 µs, then Q is the maximum accelerated charge in 1 µs. Q equals the intergral of i with respect to t, over the lesser of 1 µs or the time duration of the beam pulse Q= ∫ idt), where i is beam current in amperes and t is time in seconds.
+
+(2) “Peak power” = (peak potential in volts) × (peak beam current in amperes).
+
+(3) In machines based on microwave accelerating cavities, the time duration of the beam pulse is the lesser of 1 µs or the duration of the bunched beam packet resulting from one microwave modulator pulse.
+
+(4) In machines based on microwave accelerating cavities, the peak beam current is the average current in the time duration of a bunched beam packet.

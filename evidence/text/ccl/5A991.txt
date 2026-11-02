@@ -1,0 +1,183 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 5A991；eCFR 2026-10-29〕
+
+5A991 Telecommunication equipment, not controlled by 5A001 (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See also 5E101 and 5E991.
+
+Related Definitions: (1) “Asynchronous transfer mode” (“ATM”) is a transfer mode in which the information is organized into cells; it is asynchronous in the sense that the recurrence of cells depends on the required or instantaneous bit rate. (2) “Bandwidth of one voice channel” is data communication equipment designed to operate in one voice channel of 3,100 Hz, as defined in CCITT Recommendation G.151. (3) “Communications channel controller” is the physical interface that controls the flow of synchronous or asynchronous digital information. It is an assembly that can be integrated into computer or telecommunications equipment to provide communications access. (4) “Datagram” is a self-contained, independent entity of data carrying sufficient information to be routed from the source to the destination data terminal equipment without reliance on earlier exchanges between this source and destination data terminal equipment and the transporting network. (5) “Fast select” is a facility applicable to virtual calls that allows data terminal equipment to expand the possibility to transmit data in call set-up and clearing “packets” beyond the basic capabilities of a virtual call. (6) “Gateway” is the function, realized by any combination of equipment and “software”, to carry out the conversion of conventions for representing, processing or communicating information used on one system into the corresponding, but different conventions used in another system. (7) “Integrated Services Digital Network” (ISDN) is a unified end-to-end digital network, in which data originating from all types of communication (e.g., voice, text, data, still and moving pictures) are transmitted from one port (terminal) in the exchange (switch) over one access line to and from the subscriber. (8) “Packet” is a group of binary digits including data and call control signals that is switched as a composite whole. The data, call control signals, and possible error control information are arranged in a specified format.
+
+Items: a. Any type of telecommunications equipment, not controlled by 5A001.a, “specially designed” to operate outside the temperature range from 219 K (−54 °C) to 397 K (124 °C).
+
+b. Telecommunication transmission equipment and systems, and “specially designed” “parts,” “components” and “accessories” therefor, having any of the following characteristics, functions or features:
+
+Note: Telecommunication transmission equipment:
+
+a. Categorized as follows, or combinations thereof:
+
+1. Radio equipment (e.g., transmitters, receivers and transceivers);
+
+2. Line terminating equipment;
+
+3. Intermediate amplifier equipment;
+
+4. Repeater equipment;
+
+5. Regenerator equipment;
+
+6. Translation encoders (transcoders);
+
+7. Multiplex equipment (statistical mutiplex included);
+
+8. Modulators/demodulators (modems);
+
+9. Transmultiplex equipment (see CCITT Rec. G701);
+
+10. “Stored program controlled” digital crossconnection equipment;
+
+11. “Gateways” and bridges;
+
+12. “Media access units”; and
+
+b. Designed for use in single or multi-channel communication via any of the following:
+
+1. Wire (line);
+
+2. Coaxial cable;
+
+3. Optical fiber cable;
+
+4. Electromagnetic radiation; or
+
+5. Underwater acoustic wave propagation.
+
+b.1. Employing digital techniques, including digital processing of analog signals, and designed to operate at a “digital transfer rate” at the highest multiplex level exceeding 45 Mbit/s or a “total digital transfer rate” exceeding 90 Mbit/s;
+
+Note: 5A991.b.1 does not control equipment “specially designed” to be integrated and operated in any satellite system for civil use.
+
+b.2. Modems using the “bandwidth of one voice channel” with a “data signaling rate” exceeding 9,600 bits per second;
+
+b.3. Being “stored program controlled” digital cross connect equipment with “digital transfer rate” exceeding 8.5 Mbit/s per port.
+
+b.4. Being equipment containing any of the following:
+
+b.4.a. “Network access controllers” and their related common medium having a “digital transfer rate” exceeding 33 Mbit/s; or
+
+b.4.b. “Communication channel controllers” with a digital output having a “data signaling rate” exceeding 64,000 bit/s per channel;
+
+Note: If any uncontrolled equipment contains a “network access controller”, it cannot have any type of telecommunications interface, except those described in, but not controlled by 5A991.b.4.
+
+b.5. Employing a “laser” and having any of the following characteristics:
+
+b.5.a. A transmission wavelength exceeding 1,000 nm; or
+
+b.5.b. Employing analog techniques and having a bandwidth exceeding 45 MHz;
+
+Note: 5A991.b.5.b does not control commercial TV systems.
+
+b.5.c. Employing coherent optical transmission or coherent optical detection techniques (also called optical heterodyne or homodyne techniques);
+
+b.5.d. Employing wavelength division multiplexing techniques; or
+
+b.5.e. Performing “optical amplification”;
+
+b.6. Radio equipment operating at input or output frequencies exceeding:
+
+b.6.a. 31 GHz for satellite-earth station applications; or
+
+b.6.b. 26.5 GHz for other applications;
+
+Note: 5A991.b.6. does not control equipment for civil use when conforming with an International Telecommunications Union (ITU) allocated band between 26.5 GHz and 31 GHz.
+
+b.7. Being radio equipment employing any of the following:
+
+b.7.a. Quadrature-amplitude-modulation (QAM) techniques above level 4 if the “total digital transfer rate” exceeds 8.5 Mbit/s;
+
+b.7.b. QAM techniques above level 16 if the “total digital transfer rate” is equal to or less than 8.5 Mbit/s;
+
+b.7.c. Other digital modulation techniques and having a “spectral efficiency” exceeding 3 bit/s/Hz; or
+
+b.7.d. Operating in the 1.5 MHz to 87.5 MHz band and incorporating adaptive techniques providing more than 15 dB suppression of an interfering signal.
+
+Notes: 1. 5A991.b.7 does not control equipment “specially designed” to be integrated and operated in any satellite system for civil use.
+
+2. 5A991.b.7 does not control radio relay equipment for operation in an ITU allocated band:
+
+a. Having any of the following:
+
+a.1. Not exceeding 960 MHz; or
+
+a.2. With a “total digital transfer rate” not exceeding 8.5 Mbit/s; and
+
+b. Having a “spectral efficiency” not exceeding 4 bit/s/Hz.
+
+c. “Stored program controlled” switching equipment and related signaling systems, having any of the following characteristics, functions or features, and “specially designed” “parts,” “components” and “accessories” therefor:
+
+Note: Statistical multiplexers with digital input and digital output which provide switching are treated as “stored program controlled” switches.
+
+c.1. “Data (message) switching” equipment or systems designed for “packet-mode operation” and “parts,” electronic assemblies and “components” therefor, n.e.s.
+
+c.2. [Reserved]
+
+c.3. Routing or switching of “datagram” packets;
+
+c.4. [Reserved]
+
+Note: The restrictions in 5A991.c.3 do not apply to networks restricted to using only “network access controllers” or to “network access controllers” themselves.
+
+c.5. Multi-level priority and pre-emption for circuit switching;
+
+Note: 5A991.c.5 does not control single-level call preemption.
+
+c.6. Designed for automatic hand-off of cellular radio calls to other cellular switches or automatic connection to a centralized subscriber data base common to more than one switch;
+
+c.7. Containing “stored program controlled” digital cross connect equipment with “digital transfer rate” exceeding 8.5 Mbit/s per port.
+
+c.8. “Common channel signaling” operating in either non-associated or quasi-associated mode of operation;
+
+c.9. “Dynamic adaptive routing”;
+
+c.10. Being packet switches, circuit switches and routers with ports or lines exceeding any of the following:
+
+c.10.a. A “data signaling rate” of 64,000 bit/s per channel for a “communications channel controller”; or
+
+Note: 5A991.c.10.a does not control multiplex composite links composed only of communication channels not individually controlled by 5A991.b.1.
+
+c.10.b. A “digital transfer rate” of 33 Mbit/s for a “network access controller” and related common media;
+
+Note: 5A991.c.10 does not control packet switches or routers with ports or lines not exceeding the limits in 5A991.c.10.
+
+c.11. “Optical switching”;
+
+c.12. Employing “Asynchronous Transfer Mode” (“ATM”) techniques.
+
+d. Optical fibers and optical fiber cables of more than 50 m in length designed for single mode operation;
+
+e. Centralized network control having all of the following characteristics:
+
+e.1. Receives data from the nodes; and
+
+e.2. Process these data in order to provide control of traffic not requiring operator decisions, and thereby performing “dynamic adaptive routing”;
+
+Note: 5A991.e does not preclude control of traffic as a function of predictable statistical traffic conditions.
+
+f. Phased array antennas, operating above 10.5 GHz, containing active elements and distributed “parts” or “components,” and designed to permit electronic control of beam shaping and pointing, except for landing systems with instruments meeting International Civil Aviation Organization (ICAO) standards (microwave landing systems (MLS)).
+
+g. Mobile communications equipment, n.e.s., and “parts,” electronic assemblies and “components” therefor; or
+
+h. Radio relay communications equipment designed for use at frequencies equal to or exceeding 19.7 GHz and “parts” and “components” therefor, n.e.s.

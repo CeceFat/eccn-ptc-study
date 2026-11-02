@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>產品演練 · 出口管制產品分類 自學站</title>
+<meta name="description" content="五個假設規格的產品原型逐步分類：藍牙音訊 SoC、GNSS 接收晶片、乙太網路 PHY、xPON／xDSL SoC、Wi‑Fi／蜂巢 RF 收發器。每一步附條文與待補事實。">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>">
+<style>
+  .verdict { display: grid; grid-template-columns: 92px 1fr; gap: 6px 12px; font-size: 14.5px; margin: 12px 0; }
+  .verdict dt { font-weight: 600; color: var(--muted); font-size: 13px; }
+  .verdict dd { margin: 0; }
+  .ask { font-size: 14px; }
+  @media (max-width: 620px) { .verdict { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-in">
+    <a class="brand" href="index.html">出口管制產品分類<small>EAR ECCN × 台灣軍商兩用清單 · 自學站</small></a>
+    <nav class="main">
+      <a href="about.html">About</a>
+      <a href="start.html">入門</a>
+      <a href="index.html">總覽</a>
+      <a href="method.html">分類方法</a>
+      <a href="cat5p2.html">加密 5P2</a>
+      <a href="cat3.html">半導體 Cat 3</a>
+      <a href="taiwan.html">台灣制度</a>
+      <a href="cases.html">產品演練</a>
+      <a href="tech.html">技術與視同出口</a>
+      <a href="evidence.html">方法與證據</a>
+      <a href="quiz.html">自我檢測</a>
+    </nav>
+    <button class="theme-btn" data-theme-toggle aria-label="切換深淺色">☾</button>
+  </div>
+</header>
+
+<div class="wrap"><main class="page">
+
+<p class="kicker" style="margin-top:34px">產品演練</p>
+<h1>五個產品原型，從頭走一遍</h1>
+<p class="lede">
+以下都是<b>假設規格</b>的教學演練，不對應任何特定公司的產品。每一案照<a href="method.html">分類方法</a>的順序走：管轄 → Cat 5 Part 2 → 其他類別 → x99x → EAR99，
+並把「條文說了什麼」與「我的判斷」分開。結論欄寫的是「在假設事實下的候選分類」，最後一欄列出要回頭問研發的問題。
+</p>
+
+<div class="flag">
+  <b>注意</b>　五案都先假設「產品受 EAR 管」（例如含美國原產技術或成分超過 de minimis）。若根本不受 EAR 管，美國側結論只是練習，台灣側義務照樣存在。
+  台灣欄依「同號對應」：EAR 的瓦聖那系號碼在台灣清單有同號條文；x99x 等美國單邊號碼在台灣清單沒有對應，記為「非清單項目」（仍受最終用途、實體名單與管制地區規定拘束）。
+</div>
+
+<details class="acc" open id="bt">
+<summary>案例一　藍牙音訊 SoC <span class="sub">WPAN 除外、3A991、5E001.b.4</span></summary>
+<div class="body">
+<p><b>假設規格</b>：真無線耳機用 SoC；藍牙 BR/EDR 與 LE Audio，鏈路層 AES‑CCM 128 位元；內建 32 位元 MCU（數百 MHz）與音訊 DSP；24 位元／192 kSPS 音訊 ADC；輸出功率 20 dBm 以下；安全開機只做簽章驗證。</p>
+<ol class="path">
+  <li><h3>Cat 5 Part 2：加密只服務藍牙 → 離開 5A002.a</h3>
+    <div class="q" data-file="ccl/5A002.txt" data-cite="ECCN 5A002, Note 2.f">Items, where the “information security” functionality is limited to wireless “personal area network ” functionality implementing only published or commercial cryptographic standards;</div>
+    <p>安全開機的簽章驗證屬技術註解 1 的「驗證」，不算資料機密性密碼學。台灣 115 年版把同一個除外改寫進技術註解 1.g：</p>
+    <div class="q" data-file="tw/dual-use-and-military-lists-1150211.txt" data-cite="台灣清單 5A002.a 技術註解 1.g">g. 僅實施已發布或商業加密標準的無線〝個人區域網路〞功能；</div></li>
+  <li><h3>Cat 5 Part 1：功率 1 W 以下，不在 5A001.b.3</h3>
+    <div class="q" data-file="ccl/5A001.txt" data-cite="ECCN 5A001.b.3, Note">5A001.b.3 does not control equipment operating at an output power of 1 W or less.</div>
+    <p>藍牙的資料率遠低於 5A991.b.1 的 45 Mbit/s，傳輸設備那一段也不適用。</p></li>
+  <li><h3>Cat 3：音訊 ADC 遠低於 3A001.a.14；MCU 超過 25 MHz → 3A991.a.2</h3>
+    <p>見<a href="cat3.html#3a991">3A991</a>。</p></li>
+</ol>
+<dl class="verdict">
+  <dt>EAR 候選</dt><dd>晶片：3A991.a.2（AT）；若認定它是為通訊設備特別設計的零組件，依 Cat 5 Part 1 註解 1 也可能歸入 5A991（同樣只有 AT），兩條路的管制等級相同，但分類理由要寫清楚選哪一條、為什麼。若加密功能不限於藍牙（例如開放給應用程式的通用 AES 引擎），要回到 5A002.a 與密碼學註解 b 段，見<a href="cat5p2.html">加密 5P2</a>。</dd>
+  <dt>台灣</dt><dd>非清單項目（5A002 不適用；台灣沒有 3A991 的對應碼）。</dd>
+  <dt>技術</dt><dd>跳頻的開發技術要另外看 5E001.b.4。</dd>
+</dl>
+<div class="q" data-file="ccl/5E001.txt" data-cite="ECCN 5E001.b.4 與 Note">“Technology” for the “development” of “spread spectrum” techniques, including “frequency hopping” techniques. || 5E001.b.4 does not apply to “technology” for the “development” of any of the following: || Civil cellular radio-communications systems; or || Fixed or mobile satellite Earth stations for commercial civil telecommunications.</div>
+<div class="infer">
+  <b>推論</b>　條文字面沒有排除藍牙這類短距跳頻：除外只列民用蜂巢與衛星地面站。可以降低風險的兩點是：藍牙核心規格本身是公開資訊，不受 EAR 管；以及只有「required」的技術才受管。
+  實務上要把「跳頻機制的自有實作技術」與「規格書已公開的內容」切開，前者才是 5E001.b.4 的候選。
+</div>
+<p class="ask"><b>要問研發</b>：除藍牙外還有哪些加密功能？加密引擎是否可由客戶韌體呼叫？DSP 核心每週期 16 位元乘加數（3E002.c 門檻是超過八個）？</p>
+</div>
+</details>
+
+<details class="acc" id="gnss">
+<summary>案例二　GNSS 接收晶片 <span class="sub">ITAR 與 EAR 的分界、7A994</span></summary>
+<div class="body">
+<p><b>假設規格</b>：多系統（GPS／Galileo／BeiDou／QZSS）雙頻民用接收晶片，用於穿戴與車載；不處理任何加密軍用碼；單一天線輸入，無調零或波束控制。</p>
+<ol class="path">
+  <li><h3>管轄：先排除 USML 第 XII 類</h3>
+    <div class="q" data-file="itar/121.1.txt" data-cite="22 CFR § 121.1, USML Cat. XII(d)(2)(ii)">Global Positioning System (GPS) receiving equipment specially designed for encryption or decryption (e.g., Y-Code, M-Code) of GPS protected positioning service (PPS) signals</div>
+    <div class="q" data-file="ccl/7A005.txt" data-cite="ECCN 7A005, Related Controls (3)">Items that otherwise would be covered by ECCN 7A005.a are “subject to the ITAR” (see 22 CFR parts 120 through 130).</div></li>
+  <li><h3>7A005.b：沒有自適應天線</h3>
+    <div class="q" data-file="ccl/7A005.txt" data-cite="ECCN 7A005, Technical Note">For the purposes of 7A005.b, 'adaptive antenna systems' dynamically generate one or more spatial nulls in an antenna array pattern by signal processing in the time domain or frequency domain.</div></li>
+  <li><h3>7A105：非飛彈、非高速機載用途</h3>
+    <div class="q" data-file="ccl/7A105.txt" data-cite="ECCN 7A105, Note">7A105.b.2 and 7A105.b.3 do not control equipment designed for commercial, civil or Safety of Life (e.g., data integrity, flight safety) 'navigation satellite system' services.</div></li>
+  <li><h3>落到 7A994</h3>
+    <div class="q" data-file="ccl/7A994.txt" data-cite="ECCN 7A994, License Requirement Notes">Typically commercially available GPS do not employ decryption or adaptive antenna and are classified as 7A994.</div></li>
+</ol>
+<dl class="verdict">
+  <dt>EAR 候選</dt><dd>7A994（AT）。若晶片含 25 MHz 以上 MCU，仍以導航用途的 7A994 描述為準還是 3A991，要看 Supp. 4 的逐條比對結果；兩者都只有 AT。</dd>
+  <dt>台灣</dt><dd>非清單項目（台灣有 7A005、7A105 的同號條文，但沒有 7A994）。</dd>
+  <dt>轉向訊號</dt><dd>任何「速度超過 600 m/s 仍輸出定位」「抗干擾天線」「政府或軍用安全訊號」的需求，都要回到 7A105、7A005 與 USML 重審。</dd>
+</dl>
+<p class="ask"><b>要問研發</b>：韌體是否限制高速與高海拔（俗稱 COCOM 限制）？是否支援多天線輸入與空間調零？客戶是否有機載或飛行器應用？</p>
+</div>
+</details>
+
+<details class="acc" id="phy">
+<summary>案例三　乙太網路 PHY <span class="sub">有無 MACsec 是分岔點</span></summary>
+<div class="body">
+<p><b>假設規格</b>：10GBASE‑T 與 2.5G／5G 多速率 PHY，用於交換器與網通設備；A 版沒有加密；B 版內建 MACsec（AES‑GCM 128／256）。</p>
+<ol class="path">
+  <li><h3>A 版：沒有資料機密性密碼學 → 不進 5A002</h3>
+    <p>改看 Cat 5 Part 1。開頭註解把電信用零組件的分類拉到 Part 1：</p>
+    <div class="q" data-file="ccl/_notes-cat5p1.txt" data-cite="CCL Cat 5 Part 1, Note 1">The control status of “components”, test and “production” equipment, and “software” therefor which are “specially designed” for telecommunications equipment or systems is determined in Category 5, Part 1.</div>
+    <div class="q" data-file="ccl/5A991.txt" data-cite="ECCN 5A991.b 與 b.1">Telecommunication transmission equipment and systems, and “specially designed” “parts,” “components” and “accessories” therefor, having any of the following characteristics, functions or features: || Employing digital techniques, including digital processing of analog signals, and designed to operate at a “digital transfer rate” at the highest multiplex level exceeding 45 Mbit/s or a “total digital transfer rate” exceeding 90 Mbit/s;</div>
+    <p>5A991.b 的註解把「gateways and bridges」「media access units」列為傳輸設備，交換器類設備可以落入。</p></li>
+  <li><h3>B 版：MACsec 是資料機密性密碼學 → 5A002.a.2 候選</h3>
+    <div class="q" data-file="ccl/5A002.txt" data-cite="ECCN 5A002.a.2">Digital communication or networking systems, equipment or components, not specified in paragraph 5A002.a.1;</div>
+    <p>接著看能否靠密碼學註解 b 段（大眾市場零組件）離開 5A002；B 版若是依特定客戶規格客製，就過不了 b.3。</p>
+    <div class="q" data-file="ear/740.17.txt" data-cite="15 CFR § 740.17(b)(3)(i)(A)">Chips, chipsets, electronic assemblies and field programmable logic devices;</div></li>
+</ol>
+<dl class="verdict">
+  <dt>EAR 候選</dt><dd>A 版：5A991.b.1（AT，作為傳輸設備的特別設計零組件）。B 版：符合密碼學註解 b 段 → 5A992.c，走 §740.17(b)(1) 並列入年度自我分類報告；不符合 → 5A002.a.2，晶片走 (b)(3)(i)(A) 的 30 天分類申請。</dd>
+  <dt>台灣</dt><dd>A 版：非清單項目（不到 5A001 門檻）。B 版：若不符密碼學註解 → 台灣 5A002，出口需許可；符合 → 非清單項目。</dd>
+</dl>
+<p class="ask"><b>要問研發</b>：MACsec 金鑰是否可由使用者設定？功能集是否因特定客戶修改？是否用於 WAN 或電信骨幹設備（涉及 §740.17(b)(2) 網路基礎設施）？</p>
+</div>
+</details>
+
+<details class="acc" id="pon">
+<summary>案例四　xPON／xDSL SoC <span class="sub">ONU 與 OLT 要分開分析</span></summary>
+<div class="body">
+<p><b>假設規格</b>：一顆用於用戶端閘道器（ONU／CPE）的 XGS‑PON SoC，鏈路依標準以 AES‑128 加密下行資料；另一顆用於局端（OLT）的多埠線卡晶片；兩者都有以 TLS 保護的管理介面。</p>
+<ol class="path">
+  <li><h3>管理介面：OAM 除外只救「只做 OAM」的設備</h3>
+    <div class="q" data-file="ccl/5A002.txt" data-cite="ECCN 5A002, Note 2.h">Routers, switches, gateways or relays, where the “information security” functionality is limited to the tasks of “Operations, Administration or Maintenance” (“OAM”)</div>
+    <p>PON 下行加密保護的是使用者資料，不是 OAM，所以兩顆都不能只靠 Note 2.h 離開。</p></li>
+  <li><h3>用戶端 ONU：大眾市場路線</h3>
+    <p>零售或電信商大量配發的閘道器，可評估密碼學註解 a 段（終端產品）與 b 段（其零組件）。</p></li>
+  <li><h3>局端 OLT：網路基礎設施的門檻</h3>
+    <div class="q" data-file="ear/740.17.txt" data-cite="15 CFR § 740.17(b)(2)(i)(A) 與 (1)">'Network infrastructure' commodities and software, and components therefor, meeting any of the following with key lengths exceeding 80-bits for symmetric algorithms: || Aggregate encrypted WAN, MAN, VPN, backhaul or long-haul throughput (including communications through wireless network elements such as gateways, mobile switches, and controllers) equal to or greater than 250 Mbps;</div></li>
+</ol>
+<dl class="verdict">
+  <dt>EAR 候選</dt><dd>ONU SoC：符合密碼學註解 b 段 → 5A992.c，(b)(1) 加年度報告。OLT 晶片：5A002.a.2 候選；若認定為網路基礎設施元件 → §740.17(b)(2)，需分類申請與半年報。</dd>
+  <dt>台灣</dt><dd>ONU：非清單項目（密碼學註解）。OLT：台灣 5A002 候選，出口需許可。</dd>
+</dl>
+<div class="infer">
+  <b>推論</b>　PON 是接取網路，是否算條文說的 WAN 或 MAN，條文沒有定義到這個粒度；OLT 的總加密吞吐量通常遠超 250 Mbps，這一題值得向 BIS 確認，而不是自行假設落在 (b)(1)。
+  xDSL 晶片若沒有鏈路加密，路徑回到案例三 A 版（5A991.b.1 或 3A991）。
+</div>
+<p class="ask"><b>要問研發</b>：OLT 晶片單晶片可支援的加密埠數與總吞吐量？金鑰長度可否設定？ONU 晶片的加密參數是否可被電信商客製？</p>
+</div>
+</details>
+
+<details class="acc" id="rf">
+<summary>案例五　Wi‑Fi 7／蜂巢 RF 收發器 <span class="sub">晶片多半 AT，技術可能 NS</span></summary>
+<div class="body">
+<p><b>假設規格</b>：Wi‑Fi 7 收發器（320 MHz 通道、4096‑QAM、多天線）與一顆 5G 用戶端射頻收發器；輸出功率皆在 1 W 以下；內含高速 ADC 供基頻取樣。</p>
+<ol class="path">
+  <li><h3>5A001：功率門檻與相位陣列除外</h3>
+    <p>1 W 以下不在 5A001.b.3；5A001.d 的相位陣列註解排除了 WLAN 與民用蜂巢。</p></li>
+  <li><h3>3A001.a.14：高速 ADC 可能達門檻，但跟著設備走</h3>
+    <p>Cat 3 產品群 A 的註解 2 讓為特定設備設計的 IC 依設備分類，見<a href="cat3.html#notes">群組註解</a>。</p></li>
+  <li><h3>技術：4096‑QAM 落在 5E001.c.4.a 的字面範圍</h3>
+    <div class="q" data-file="ccl/5E001.txt" data-cite="ECCN 5E001.c, c.4, c.4.a">“Technology” according the General Technology Note for the “development” or “production” of any of the following: || Radio equipment having any of the following: || Quadrature-Amplitude-Modulation (QAM) techniques above level 1,024; or</div></li>
+</ol>
+<dl class="verdict">
+  <dt>EAR 候選</dt><dd>晶片：依設備分類（WLAN 設備多為 5A991 或 5A992.c 一類的 AT 或大眾市場項目），或 3A991。技術：Wi‑Fi 7 的 4096‑QAM 開發與生產技術是 5E001.c.4.a 候選（NS）；蜂巢的跳頻／展頻開發技術則有 5E001.b.4 的民用蜂巢除外。</dd>
+  <dt>台灣</dt><dd>晶片：多為非清單項目；技術：台灣清單同有 5E001，技術載體輸出時需留意。</dd>
+</dl>
+<div class="infer">
+  <b>推論</b>　這一案說明技術與產品的管制等級可以差很多：一顆零售路由器裡的晶片是大眾市場品，它的高階 QAM 開發技術卻可能是 NS 管制。研發協作的權限設計應以技術分類為準，而不是以產品分類為準。
+</div>
+<p class="ask"><b>要問研發</b>：QAM 階數上限？ADC 解析度與取樣率？哪些設計文件屬於「達到 4096‑QAM」的 required 技術？</p>
+</div>
+</details>
+
+<h2 id="pattern">五案看出的規律</h2>
+<div class="tbl-wrap"><table>
+  <thead><tr><th>產品原型</th><th>決定性的事實</th><th>EAR 候選（產品）</th><th>技術面的提醒</th><th>台灣</th></tr></thead>
+  <tbody>
+    <tr><td>藍牙音訊 SoC</td><td>加密是否只服務 WPAN</td><td>3A991.a.2</td><td>5E001.b.4、3E002.c</td><td>非清單項目</td></tr>
+    <tr><td>GNSS 接收晶片</td><td>解密、自適應天線、速度限制</td><td>7A994</td><td>7E994 一類</td><td>非清單項目</td></tr>
+    <tr><td>乙太網路 PHY</td><td>有無 MACsec、是否客製</td><td>5A991.b.1／5A992.c／5A002.a.2</td><td>5E002（若 5A002）</td><td>依密碼學註解</td></tr>
+    <tr><td>xPON／xDSL SoC</td><td>ONU 或 OLT、總加密吞吐量</td><td>5A992.c／5A002.a.2</td><td>5E002</td><td>依密碼學註解</td></tr>
+    <tr><td>RF 收發器</td><td>QAM 階數、功率、ADC 參數</td><td>依設備或 3A991</td><td>5E001.c.4.a</td><td>非清單項目（產品）</td></tr>
+  </tbody>
+</table></div>
+
+<footer class="site">
+  <p>法規版本：美國 EAR 取自 eCFR（版本日 2026-10-29）；台灣軍商兩用清單為 115-02-11 經貿字第11550200140號公告附件。全部來源、抓取日與雜湊值見 <a href="evidence.html#sources">來源總表</a>。</p>
+  <p>個人自學整理，不是法律意見；案例為假設規格的演練，不對應任何特定產品。美國聯邦政府著作屬公共領域；我國法令與公文依著作權法第 9 條不得為著作權之標的。</p>
+</footer>
+
+</main></div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

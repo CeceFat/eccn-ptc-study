@@ -1,0 +1,2782 @@
+〔Federal Register / BIS｜81 FR 70320 — Revisions to the Export Administration Regulations (EAR): Control of Fire Control, Laser, Imaging, and Guidance Equipment the President Determines No Longer Warrant Control Under the United States Munitions List (USML)｜抓取 2026-11-02｜https://www.federalregister.gov/documents/full_text/text/2016/10/12/2016-24220.txt〕
+
+[Federal Register Volume 81, Number 197 (Wednesday, October 12, 2016)]
+[Rules and Regulations]
+[Pages 70320-70339]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2016-24220]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Parts 734, 740, 742, 744, 772, and 774
+
+[Docket No. 140221170-6403-03]
+RIN 0694-AF75
+
+
+Revisions to the Export Administration Regulations (EAR): Control 
+of Fire Control, Laser, Imaging, and Guidance Equipment the President 
+Determines No Longer Warrant Control Under the United States Munitions 
+List (USML)
+
+AGENCY: Bureau of Industry and Security, Department of Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This final rule describes how articles the President 
+determines no longer warrant control under Category XII (Fire Control, 
+Laser, Imaging, and Guidance Equipment) of the United States Munitions 
+List (USML) of the International Traffic in Arms Regulations (ITAR) 
+will be controlled under the Commerce Control List (CCL) of the Export 
+Administration Regulations (EAR) by amending Export Control 
+Classification Number (ECCN) 7A611 and creating new ``600 series'' 
+ECCNs 7B611, 7D611, and 7E611. In addition, for certain dual-use 
+infrared detection items, this final rule expands controls for certain 
+software and technology, eliminates the use of some license exceptions, 
+revises licensing policy, and expands license requirements for certain 
+transactions involving military end users or foreign military 
+commodities. This final rule also harmonizes provisions within the EAR 
+by revising controls related to certain quartz rate sensors.
+
+DATES: This rule is effective December 31, 2016.
+
+FOR FURTHER INFORMATION CONTACT: For questions regarding the ECCNs 
+included in this rule, contact Dennis Krepp, Office of National 
+Security and Technology Transfer Controls, Bureau of Industry and 
+Security, Telephone: 202-482-1309, Email:
+
+[[Page 70321]]
+
+[email protected]. For general questions regarding the 
+regulatory changes, contact Steven Emme, Office of the Assistant 
+Secretary for Export Administration, Telephone: 202-482-5491, Email: 
+[email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    This final rule is part of the Administration's Export Control 
+Reform Initiative (the ``Initiative''), the objective of which is to 
+protect and enhance U.S. national security interests. The Initiative 
+began in August 2009 when President Obama directed the Administration 
+to conduct a broad-based review of the U.S. export control system to 
+identify additional ways to enhance national security. The Department 
+of State's International Traffic in Arms Regulations (ITAR) and its 
+U.S. Munitions List (USML) are being amended to control only the items 
+that provide the United States with a critical military or intelligence 
+advantage or otherwise warrant such controls, and the Export 
+Administration Regulations (EAR) are being amended to control military 
+items that do not warrant USML controls. These changes will enhance 
+national security by (i) improving interoperability of U.S. military 
+forces with allied countries, (ii) strengthening the U.S. industrial 
+base by, among other things, reducing incentives for foreign 
+manufacturers to design out and avoid U.S.-origin content and services, 
+and (iii) allowing export control officials to focus government 
+resources on transactions that pose greater concern.
+    Pursuant to section 38(f) of the Arms Export Control Act (AECA), 
+the President is obligated to review the USML ``to determine what 
+items, if any, no longer warrant export controls under'' the AECA. The 
+President must report the results of the review to Congress and wait 30 
+days before removing any such items from the USML. The report must 
+``describe the nature of any controls to be imposed on that item under 
+any other provision of law.'' 22 U.S.C. 2778(f)(1).
+    Following the structure set forth in the final rule entitled 
+``Revisions to the Export Administration Regulations: Initial 
+Implementation of Export Control Reform'' (78 FR 22660, April 16, 
+2013), BIS published a proposed rule entitled ``Revisions to the Export 
+Administration Regulations (EAR): Control of Fire Control, Range 
+Finder, Optical, and Guidance and Control Equipment the President 
+Determines No Longer Warrant Control Under the United States Munitions 
+List (USML)'' (80 FR 25798, May 5, 2015) (``May 2015 rule''). That 
+proposed rule was published in conjunction with a proposed rule 
+published by the Department of State's Directorate of Defense Trade 
+Controls (DDTC) to propose controls for the ITAR's USML Category XII. 
+After reviewing public comments to the May 2015 rule, BIS published a 
+second proposed rule entitled ``Revisions to the Export Administration 
+Regulations (EAR): Control of Fire Control, Laser, Imaging, and 
+Guidance and Control Equipment the President Determines No Longer 
+Warrant Control Under the United States Munitions List (USML)'' (81 FR 
+8421) (``February 2016 rule''). This second proposed rule was also 
+published in conjunction with a second proposed rule published by DDTC 
+to propose new controls for USML Category XII.
+    In response to the February 2016 rule, BIS received twenty public 
+comments. Eleven commenters believed that the February 2016 rule was an 
+improvement over the May 2015 rule, while no commenters believed that 
+the February 2016 rule was worse than the May 2015 rule. The commenters 
+supported the efforts, including the greater use of ``specially 
+designed,'' to reduce controlling items in normal commercial use in 
+USML Category XII or the corresponding 600 series entries in the CCL. 
+Further, many commenters noted that the revisions in the February 2016 
+rule created a more transparent and predictable structure and reduced 
+confusion and complexity associated with terminology proposed in the 
+May 2015 rule. With the changes made in the February 2016 rule, many 
+commenters believed that the proposals would better balance national 
+security concerns while reflecting technological advancement and the 
+increasing commercial market demand for many items in the laser, 
+photonics, optics, infrared detection, and related industries. 
+Consequently, some commenters stated that the February 2016 rule would 
+help reduce current and future competitive disadvantages for U.S. 
+industry and reduce the incentive to offshore production and research 
+activities.
+    Some commenters also expressed general concerns regarding the 
+February 2016 rule. Many commenters believed that the increased 
+controls proposed for infrared detection items were still too strict, 
+overly complicated, and not reflective of foreign availability and 
+licensing policies of Wassenaar-member countries and non-Wassenaar 
+countries. To address some of these concerns, BIS is amending some of 
+the proposed controls, as described further herein. Additionally, to 
+address concerns on complexity and increased costs of compliance, 
+especially for small businesses, BIS will continue to conduct extensive 
+outreach to assist organizations in their compliance efforts. A summary 
+of the public comments and changes made to the proposed rule are 
+addressed below.
+    In this final rule, all references to the USML are to the list of 
+defense articles that are controlled for the purpose of export or 
+temporary import pursuant to the ITAR, and not to the defense articles 
+on the USML that are controlled by the Bureau of Alcohol, Tobacco, 
+Firearms and Explosives (ATF) for the purpose of permanent import under 
+its regulations (see 27 CFR part 447). Pursuant to Sec.  38(a)(1) of 
+the AECA, all defense articles controlled for export or import are part 
+of the USML under the AECA. For the sake of clarity, the list of 
+defense articles controlled by ATF for the purpose of permanent import 
+is the United States Munitions Import List (USMIL). The transfer of 
+defense articles from the ITAR's USML to the EAR's CCL for the purpose 
+of export controls does not affect the list of defense articles 
+controlled on the USMIL under the AECA for the purpose of permanent 
+import.
+
+Revisions To Further Harmonize and Simplify the EAR
+
+    The February 2016 rule included two proposed changes to harmonize 
+provisions in the EAR--removing controls related to certain QRS-11 
+sensors and revising license requirements related to certain uncooled 
+thermal imaging cameras. This final rule adopts the proposed changes 
+for QRS-11 sensors but does not adopt the proposed changes for license 
+requirements related to uncooled thermal imaging cameras.
+
+Removal of Controls Specific to QRS-11 Sensors
+
+    As described in the February 2016 rule, BIS published a final rule 
+in 2007 to control certain QRS-11 sensors that were previously subject 
+to the ITAR. These sensors were originally designed for military 
+application but began to be used in civil aircraft, which would have 
+required State Department authorization for exports and reexports, as 
+the ITAR does not contain a de minimis level or a general exception for 
+controlled content embedded within uncontrolled systems. Since ECR 
+accounts for the movement of items from control on the ITAR to control 
+on the EAR, BIS proposed to remove special controls related to such 
+QRS-11 sensors, including removing the RS Column 1 control and 
+references to such sensors
+
+[[Page 70322]]
+
+from ECCN 7A994, the 0% de minimis level for such sensors in Sec.  
+734.4(a)(3), the restriction on the availability of license exceptions 
+for such sensors in Sec.  740.2(a)(9), references to the sensors in 
+ECCNs 7E994 (Related Controls) and 9A991 (License Requirement Notes and 
+Related Controls), and the reference to such sensors in Note 1 to the 
+definition of ``specially designed'' in part 772.
+    BIS did not receive any public comments on QRS-11 sensors and thus 
+adopts the changes as proposed in this final rule. To the extent that 
+such sensors are not described on the USML (and the agencies do not 
+believe that any of the sensors are described on the revised USML), one 
+would follow the Order of Review in Supplement No. 4 to part 774 to 
+determine whether the sensors may be captured under a 600 series ECCN 
+or under a dual-use ECCN.
+
+Retention of License Requirements and License Exception Eligibility for 
+Certain Uncooled Thermal Imaging Cameras Controlled in ECCN 6A003
+
+    The February 2016 rule proposed to revise license requirements and 
+license exception eligibility for certain uncooled thermal imaging 
+cameras. Under the current provisions of Sec.  742.6, the RS Column 1 
+reason for control in ECCN 6A003 does not apply to exports or reexports 
+to countries in Country Group A:1 if certain uncooled thermal imaging 
+cameras are fully packaged for use as consumer ready civil products or 
+if such cameras with not more than 111,000 elements are to be embedded 
+in civil products by authorized companies. Additionally, paragraph (b) 
+of License Exception APR is available for such cameras when reexported 
+to and among countries in Country Group A:1. In the February 2016 rule, 
+BIS proposed to remove this license requirement and license exception 
+structure (which for ease of reference is described in this rule as an 
+authorization construct). As part of this proposed removal, BIS 
+proposed to make all cameras in ECCN 6A003 subject to an RS1 control, 
+because the agency believed that License Exception STA would be 
+available for such transactions and thus the complexity of this 
+authorization structure was no longer needed.
+    Two commenters expressed concerns about these proposed changes. One 
+commenter stated that removing this authorization construct for such 
+cameras would put U.S. industry at a competitive disadvantage with 
+respect to companies in the European Union and Japan. The commenter 
+noted that License Exception APR is not available for items exported 
+under License Exception STA, and the commenter pointed out that exports 
+to Mexico for these cameras would now require a license and STA would 
+not be available for such transactions. BIS agrees that there is a 
+distinct difference between this authorization construct and License 
+Exception STA. Consequently, this final rule retains the current 
+provisions in Sec. Sec.  742.6(a)(2) and (a)(4)(ii), the reporting 
+requirement in Sec.  743.3, endnotes 2 and 4 used in the Commerce 
+Country Chart (Supplement No. 1 to part 738), and the provision in 
+paragraph (b) of License Exception APR for such cameras (see further 
+below for additional revisions to License Exception APR).
+    Two commenters also recommended revising the scope of RS1 and RS2 
+controls that apply to ECCN 6A003. One commenter suggested making all 
+6A003 cameras with a frame rate of less than or equal to 60 Hz subject 
+to RS2 controls in order to harmonize U.S. controls with other 
+Wassenaar countries. In addition, another commenter suggested revising 
+Note 3 to 6A003.b.4.b so that 6A003 does not control imaging cameras 
+with a maximum frame rate equal to or less than 60 Hz and a focal plane 
+array with not more than 328,000 elements. The commenter further noted 
+if that change was not possible, then all items in 6A003 should be 
+subject to an RS2 control rather than RS1 control due to foreign 
+availability for such items and that the industry standard for number 
+of elements has increased to 328,000. At this time, BIS is electing to 
+maintain the current RS1 and RS2 controls for ECCN 6A003. BIS notes 
+that the use of specially designed in USML Category XII reduces the 
+likelihood of the ITAR controlling items in normal commercial use, and 
+this clearer jurisdictional line should greatly benefit industry. That 
+change, coupled with the retention of the authorization construct in 
+Sec.  742.6 for certain uncooled thermal imaging cameras, is sufficient 
+at this time to address the commenters' concerns.
+
+Revisions To Increase Controls for Infrared Detection Items Subject to 
+the EAR
+
+    To address the sensitivity of certain dual-use items related to 
+infrared detection capability, the February 2016 rule included proposed 
+restrictions for the export or reexport of several sensors and cameras, 
+and related software and technology, that provide important night 
+vision capability for military use but are also widely used in civil 
+products and applications. This final rule adopts many of those 
+proposals, with changes noted below, by amending Sec. Sec.  734.4, 
+740.2, 740.16, 740.20, 742.6, and 744.9 of the EAR. In addition, this 
+final rule adds ECCN 0E987 and revises parts of ECCNs 0A987, 6A002, 
+6A003, 6A990, 6A993, 6D002, 6D003, 6D991, 6E001, 6E002, and 6E990.
+
+Revisions to End-Use/End-User Controls in Sec.  744.9
+
+    Section 744.9 requires a license for the export or reexport to any 
+destination other than Canada for cameras controlled by ECCNs 
+6A003.b.3, 6A003.b.4.b, or 6A003.b.4.c when the exporter or reexporter 
+knows or is informed that the item is intended to be used by a military 
+end-user or to be incorporated into a military commodity controlled by 
+ECCN 0A919, in addition to other applicable license requirements in the 
+EAR.
+    The February 2016 rule proposed to revise Sec.  744.9 to require a 
+license for exports, reexports, or transfers (in-country) of 
+commodities controlled by ECCNs 0A987 (incorporating items in ECCNs 
+6A002 and 6A003, or certain cameras in 6A993.a), 6A002, 6A003, 6A990, 
+6A993.a (commodities meeting the criterion of Note 3.a to 6A003.b.4), 
+8A002.d.1.c, and 8A002.d.2, when the exporter, reexporter, or 
+transferor knows or is informed that the item is intended to be used by 
+a military end user or to be incorporated into a military commodity 
+controlled by ECCN 0A919. This final rule adopts these changes to Sec.  
+744.9 with changes described below.
+    Three commenters made recommendations to address concerns regarding 
+the proposed expansion of Sec.  744.9. Two commenters requested that 9 
+Hz cameras in 6A993.a be removed from the scope of Sec.  744.9. They 
+asserted that including 9 Hz cameras would put U.S. companies at a 
+competitive disadvantage since all other countries do not consider them 
+to be dual use. Also, one of the commenters mentioned that adding 9 Hz 
+cameras would greatly increase complexity and burden since such cameras 
+are often low-cost consumer goods available through distributors and 
+retail. Also, the commenter was unaware of any 9 Hz cameras being used 
+in military commodities and recommended focusing Sec.  744.9 only on 
+those commodities that are easily incorporated into other items. BIS 
+notes that while the commenter's 9 Hz cameras may not be ideal for 
+incorporation into a foreign military commodity, the U.S. Government is 
+aware of 9 Hz cameras being used and advertised in foreign military 
+commodities. Also, BIS believes that the end-use and end-user based 
+controls in Sec.  744.9 are sufficiently tailored to have less impact 
+on U.S. companies as one must know or have reason to know that such 
+items will be used by a military
+
+[[Page 70323]]
+
+end user or incorporated into a foreign military commodity. However, to 
+further narrow the scope of the control and provide greater clarity, 
+BIS is adding new paragraph (a)(2) to note that the license requirement 
+of Sec.  744.9 does not apply to exports, reexports, or transfers (in-
+country) when the items described above are being exported, reexported, 
+or transferred as part of a military deployment by a unit of the 
+government of a country in Country Group A:1 (see Supplement No. 1 to 
+part 740). Similar language is currently used in Sec.  742.6(a)(3).
+    One commenter recommended removing the license requirement based on 
+military end user but maintaining the license requirement based on 
+incorporation into a foreign military commodity. The commenter noted 
+that the control based on military end user can be confusing since the 
+same item being used for the same purpose would not require a license 
+in one scenario (e.g., security camera for a factory) but would require 
+a license in another scenario (e.g., security camera for a military 
+installation). BIS believes that the addition of paragraph (a)(2) will 
+help partially address this concern. However, BIS is maintaining the 
+license requirement based on military end user since it is a defined 
+term, and BIS believes it is appropriate to require a license in such 
+circumstances.
+    This final rule also makes additional conforming changes to Sec.  
+744.9. On September 20, 2016, BIS published a final rule (81 FR 64656) 
+revising the CCL to implement changes to the Wassenaar Arrangement's 
+List of Dual-Use Goods and Technologies. As part of these revisions, 
+BIS amended ECCN 8A002 to remove items previously controlled in 
+8A002.d.1.c and redesignate items previously controlled in 8A002.d.2 as 
+8A002.d. Since the February 2016 rule proposed that 8A002.d.1.c and d.2 
+items be subject to the license requirement of Sec.  744.9, this final 
+rule revises Sec.  744.9 to refer to 8A002.d rather than 8A002.d.1.c 
+and d.2. Further, this final rule makes one clarifying change to Sec.  
+744.9. In order to more accurately describe the scope of the license 
+requirement, this final rule revises the title of Sec.  744.9 to 
+``[r]estrictions on exports, reexports, and transfers (in-country) of 
+certain cameras, systems, or related components.''
+
+Revisions to ECCN 0A919 and Sec.  734.4 for Foreign Military 
+Commodities
+
+    ECCN 0A919 controls ``military commodities'' produced and located 
+outside the United States that are not subject to the ITAR and 
+incorporate one or more cameras controlled under ECCNs 6A003.b.3, 
+6A003.b.4.b, or 6A003.b.4.c. In addition, ECCN 0A919 controls such 
+``military commodities'' if they incorporate more than a de minimis 
+amount of U.S.-origin 600 series content or are the direct products of 
+U.S.-origin 600 series technology or software.
+    The February 2016 rule proposed to control the reexport of such 
+military commodities that incorporate a wider group of infrared 
+detection items on the CCL. Thus, the February 2016 rule proposed to 
+re-structure the sub-paragraphs in the Items paragraph in that ECCN and 
+expand 0A919 to control military commodities produced outside the 
+United States that are not subject to the ITAR and incorporate 
+commodities classified under ECCNs 6A002, 6A003, 6A990, or 6A993.a 
+(having a maximum frame rate equal to or less than 9 Hz as and thus 
+meeting the criterion specified in Note 3.a to ECCN 6A003.b.4.b). BIS 
+received no public comments on these changes, and this final rule 
+maintains the proposed expansion of the scope of ECCN 0A919 with the 
+clarification described below.
+    Section 734.4(a)(5) of the EAR currently provides that there is no 
+de minimis level for foreign military commodities, i.e., those 
+described in ECCN 0A919, that incorporate certain infrared detection 
+items. The February 2016 rule proposed to amend the de minimis 
+treatment for 0A919 items incorporating infrared detection content to 
+make them consistent with 0A919 items incorporating 600 series content 
+by limiting the 0% de minimis level to Country Group D:5 only. BIS 
+received no public comments on this proposed revision. Thus, this final 
+rule amends Sec.  734.4(a)(5) to provide that there is no de minimis 
+level for foreign-made military commodities incorporating one or more 
+of the commodities described in ECCN 0A919.a.1 when destined for a 
+country in Country Group D:5. When destined for a country outside of 
+Country Group D:5, such 0A919 commodities would be subject to the 25% 
+de minimis threshold. To reflect this change to Sec.  734.4(a)(5), this 
+final rule also revises 0A919.a.1 to clarify that the sub-paragraph 
+captures foreign-made military commodities that ``[i]ncorporate more 
+than a de minimis amount of U.S.-origin controlled content classified 
+under ECCNs 6A002, 6A003, 6A990, or 6A993.a (having a maximum frame 
+rate equal to or less than 9 Hz and thus meeting the criterion of Note 
+3.a to 6A003.b.4).''
+
+Revisions to ECCN 0A987 and Establishment of ECCN 0E987
+
+    ECCN 0A987 controls certain optical devices for firearms and 
+related components. The February 2016 rule proposed to revise ECCN 
+0A987.f to specify that the entry controls laser aiming devices or 
+laser illuminators ``specially designed'' for use on firearms, and 
+having an operational wavelength exceeding 400 nm but not exceeding 710 
+nm. A proposed note to ECCN 0A987.f further specified that the entry 
+does not control laser boresighting devices that must be placed in the 
+bore or chamber to provide a reference for aligning the firearms 
+sights. BIS received no public comments on these proposed changes and 
+thus adopts them in this final rule.
+    The February 2016 rule also proposed to revise the Related Controls 
+to refer readers to applicable controls in USML Category XII as well as 
+the proposed license requirement for certain 0A987 items under Sec.  
+744.9. BIS received no public comments on revisions to the Related 
+Controls. This final rule amends the Related Controls paragraph to 
+reflect revisions in the Department of State's final rule regarding 
+controls for weapons sights to advise that sighting devices using 
+second generation image intensifier tubes having luminous sensitivity 
+greater than 350 [micro]A/lm, or third generation or higher image 
+intensifier tubes, are subject to the ITAR. Moreover, this final rule 
+adds a reference in the Related Controls to riflescopes subject to the 
+ITAR under USML Category I(f). This final rule also retains the 
+reference to the Sec.  744.9 license requirement since that license 
+requirement is being adopted under this final rule.
+    The February 2016 rule further proposed creating a new ECCN for 
+technology required for the ``development'' or ``production'' of 
+commodities controlled by ECCN 0A987, if such commodities incorporate a 
+focal plane array or image intensifier tube. Such technology would be 
+subject to RS Column 1 and Anti-Terrorism (AT) Column 1 controls. BIS 
+received no public comments on this proposal and thus adopts the 
+establishment of ECCN 0E987 as proposed.
+
+Revisions to ECCN 6A002
+
+    ECCN 6A002 controls specified optical sensors or equipment and 
+components therefor. The February 2016 rule proposed to maintain the 
+existing reasons for control and did not include a worldwide RS control 
+that was first proposed in the May 2015 rule. Also, the February 2016 
+rule proposed
+
+[[Page 70324]]
+
+to add a reference to corresponding controls for focal plane arrays, 
+image intensifier tubes, and related parts and components in USML 
+Category XII(e) and a reference to the proposed license requirement in 
+Sec.  744.9. This final rule makes those changes to 6A002, but 
+clarifies that the type of focal plane arrays controlled in Category 
+XII(e) are primarily infrared focal plane arrays. This final rule also 
+adds a reference in the Related Controls to refer readers to space-
+qualified focal plane arrays subject to the ITAR in USML Category XV(e) 
+to help readers understand the potential jurisdiction of various types 
+of focal plane arrays. Additional limitations on the use of license 
+exceptions for 6A002 items are addressed further herein.
+    BIS received five public comments on proposed changes to ECCN 
+6A002. One commenter supported the removal of the aforementioned 
+worldwide RS control. Another commenter stated that it was unclear what 
+two-dimensional focal plane arrays will be EAR99 or controlled on the 
+CCL. Focal plane arrays are controlled based on the technical 
+parameters in ECCN 6A002.
+    Two commenters requested that BIS evaluate whether square pixel 
+one-dimensional focal plane arrays with a peak response in the 
+wavelength range exceeding 1200 nm but not exceeding 3000 nm should 
+continue to be controlled in 6A002.a.3.d since they are used almost 
+exclusively for commercial applications and are similar to other focal 
+plane arrays that are EAR99. Removing these square pixel focal plane 
+arrays from 6A002 would require multilateral agreement at the Wassenaar 
+Arrangement and thus exceeds the scope of this rule. However, 
+commenters are welcome to submit additional information to BIS to help 
+inform further discussion on whether a Wassenaar proposal to amend this 
+ECCN is warranted.
+    Two commenters stated that BIS should carve out civil automotive 
+focal plane arrays from being controlled under ECCN 6A002. The 
+commenters asserted that this change would be consistent with other CCL 
+technologies when used for civil automotive applications and would help 
+ensure further research and development into collision avoidance 
+systems. BIS does not accept this recommendation because such a change 
+would require agreement with Wassenaar members and thus exceeds the 
+scope of this rule. However, commenters are welcome to submit 
+additional information to BIS to help inform further discussion on 
+whether a Wassenaar proposal to amend this ECCN is warranted.
+
+Revisions to ECCN 6A003
+
+    ECCN 6A003 controls specified cameras, systems or equipment and 
+components therefor. As previously described, this final rule does not 
+adopt the proposed changes to the authorization construct for certain 
+uncooled thermal imaging cameras. Thus, this final rule does not amend 
+the reasons for control in 6A003.
+    The February 2016 rule proposed to include additional changes to 
+6A003, such as adding a reference to USML Category XII and revising the 
+reference to the license requirement in Sec.  744.9. BIS received no 
+comments on these changes, and thus adopts them in this final rule. 
+However, this final rule updates the reference to the ITAR in order to 
+point out that cameras subject to the ITAR are found in USML Category 
+XII(c) and (e). In addition, BIS is adding a License Requirement Note 
+to provide further clarification on what constitutes a ``camera'' for 
+purposes of classifying items under 6A003. The License Requirement Note 
+provides that ``[c]ommodities that are not subject to the ITAR but are 
+of the type described in USML Category XII(c) are controlled as cameras 
+in ECCN 6A003 when they incorporate a camera controlled in this ECCN.'' 
+This note is consistent with Interpretation 2 in Sec.  770.2, confirms 
+BIS's existing classification practice for items in 6A003, and is 
+intended to link the more specific terminology of USML Category XII 
+with the Wassenaar-based terminology of 6A003.
+    Three commenters also provided feedback and recommendations on 
+other aspects of 6A003. One commenter was concerned that researchers 
+may be burdened with additional license requirements for items deployed 
+internationally for field research due to the removal of STA. BIS notes 
+that this final rule does not remove STA availability for 6A003 items 
+being exported or reexported to countries in Country Group A:5. The 
+commenter also supported keeping the related technology control for 
+``use'' technology unchanged. While this rule does affect STA 
+availability for related technology (see further below), the commenter 
+is correct that all six elements of the definition of ``use'' 
+technology must be met for that control to apply.
+    One commenter also requested that BIS revise 6A003 so that certain 
+linescan cameras incorporating one-dimensional square pixel focal plane 
+arrays would not be controlled under 6A003. The commenter stated that 
+such cameras are generally intended for commercial use. Another 
+commenter requested that BIS add a note to exclude civil automotive 
+infrared focal plane array systems from control under ECCN 6A003. As 
+with the comments regarding similar items in 6A002, these changes to 
+6A003 would require agreement with Wassenaar members and exceed the 
+scope of this rule. However, commenters are welcome to submit 
+additional information to BIS to help inform further discussion on 
+whether a Wassenaar proposal to amend this ECCN is warranted.
+
+Revisions to ECCNs 6A990 and 6E990
+
+    ECCN 6A990 controls certain read-out integrated circuits (ROICs) 
+that enable 3D automotive imaging and ranging. The February 2016 rule 
+proposed to expand the scope of ROICs controlled under that ECCN by 
+controlling ROICs that are specially designed for focal plane arrays 
+controlled under ECCN 6A002.a.3. Such ROICs would be subject to an RS1 
+control but would be eligible for License Exception LVS. However, under 
+the proposed rule, ROICs specially designed for civil automotive 
+applications would not be controlled under 6A990.
+    One commenter expressed support for controlling ROICs ``specially 
+designed'' for 6A002.a.3 focal plane arrays under the EAR rather than 
+the ITAR. However, three commenters also expressed concerns or 
+requested clarification on the proposals for ROICs in 6A990. One 
+commenter opposed expanding the scope of 6A990 to include certain non-
+ITAR ROICs that are currently EAR99. The commenter cited foreign 
+availability for such ROICs that today may be exported without a 
+license. BIS believes that expanding the scope of 6A990 is warranted to 
+address military applications of dual-use ROICs. Also, BIS believes 
+that industry will benefit from the clearer bright line control for 
+ROICs in the State Department's final rule, which should reduce the 
+possibility of commercial ROICs becoming controlled under the ITAR. 
+With respect to foreign availability, BIS plans to work with its 
+interagency colleagues to propose a control for ROICs on the Wassenaar 
+Arrangement Dual-Use List.
+    One commenter expressed confusion regarding the proposed note 
+carving out ROICs specially designed for civil automotive applications 
+from control under 6A990. The commenter believed that most or all ROICs 
+used in civil automotive applications are part of general purpose 
+infrared focal plane arrays that are used in numerous applications. 
+Thus, it was unclear how a ROIC could be specially designed for only 
+civil automotive applications. As a result of reviewing commodity
+
+[[Page 70325]]
+
+jurisdiction determinations, BIS believes that there are ROICs that 
+have been specially designed for civil automotive applications. To the 
+extent that a ROIC is specially designed for a general purpose focal 
+plane array controlled under 6A002, then it would be controlled under 
+6A990.
+    One commenter also recommended that all ROICs specially designed 
+for civil applications be excluded from control under 6A990. For the 
+reasons described above regarding concern over military applications 
+and the added benefit of clarity of the potential impact of the ITAR on 
+commercial ROICs, BIS does not accept this recommendation.
+    One commenter stated that commercial ROICs should be EAR99 and 
+requested clarification on how commercial ROICs would be controlled 
+under the February 2016 rule. Under this final rule, ROICs that are not 
+ITAR controlled (i.e., are not infrared focal plane array ROICs 
+specially designed for a defense article) would be controlled under 
+6A990 if they are specially designed for a focal plane array in 
+6A002.a.3. If a ROIC is not specially designed for a 6A002.a.3 focal 
+plane array, then the ROIC would be designated EAR99. Also, if a ROIC 
+is specially designed for civil automotive applications, then the ROIC 
+would also be designated EAR99.
+    One commenter also stated that the $500 LVS exception is reasonable 
+but requested clarification on whether the value limit would apply to 
+each ROIC or to a wafer of ROICs. The $500 value limit does not apply 
+to an individual ROIC or a wafer of ROICs but rather to the actual 
+total selling price of all 6A990 ROICs in the same order. Section 740.3 
+describes the terms and conditions of using License Exception LVS, 
+including the requirements for valuing the commodities at issue. In 
+addition to properly valuing the order, orders may not be split to meet 
+the applicable value limit, and the total value of exports per calendar 
+year to the same ultimate or intermediate consignee may not exceed 
+twelve times the value limit.
+    For the reasons stated above, this final rule revises ECCN 6A990 as 
+proposed in the February 2016 rule, with one addition to the Related 
+Controls paragraph. Since the ITAR also controls ROICs under Category 
+XV(e)(3), this final rule adds a reference to those ROICs as well as 
+those controlled under Category XII(e). Also, since this final rule 
+adopts the changes to Sec.  744.9 and 0A919, this final rule also 
+maintains reference to those provisions in the Related Controls of this 
+ECCN. Finally, additional limitations on the use of license exceptions 
+for this ECCN are addressed further herein.
+    ECCN 6E990 controls technology required for the development or 
+production of ROICs controlled in 6A990. The February 2016 rule 
+proposed to revise the Related Controls paragraph to reference the 
+corresponding USML control for technical data directly related to ROICs 
+described in Category XII. BIS received no public comments on this 
+revision and adopts it in this final rule, but makes one corresponding 
+change. Since this final rule revises the Related Controls paragraph of 
+6A990 to refer to ROICs controlled under Category XV, this final rule 
+also refers to the applicable technical data control in Category XV for 
+such ROICs.
+
+Revisions to 6A993
+
+    ECCN 6A993 controls cameras in 6A993.a having a maximum frame rate 
+equal to or less than 9 Hz and thus meeting the criterion specified in 
+Note 3.a to ECCN 6A003.b.4.b. The February 2016 rule proposed to revise 
+the Related Controls paragraph to remind readers of the applicability 
+of Sec.  744.9 and ECCN 0A919 to 9 Hz cameras. Since this final rule 
+revises Sec.  744.9 and ECCN 0A919 to add 9 Hz cameras to those 
+provisions, this final rule adopts the proposal to add references to 
+those provisions in the Related Controls paragraph of 6A993.
+    BIS did not receive public comments on the Related Controls 
+paragraph, but did receive two comments related to 6A993. One commenter 
+stated that 6A993 should control cameras having an operating speed of 
+60 Hz or less and incorporating a focal plane array in 6A003.b.4.b with 
+a maximum of 328,000 elements or less. BIS rejects this recommendation 
+as this would require agreement with Wassenaar members and is beyond 
+the scope of this rule. One commenter expressed concerns that 6A993 
+items could be pulled into the ITAR due to the use of specially 
+designed for infrared focal plane arrays in the State Department's 
+second proposed rule. While the State Department's final rule addresses 
+this issue, BIS notes that the intent was to control uniquely military 
+infrared detection items (even comparatively lower performing military 
+items) on the ITAR; therefore the EAR controls the commercial and dual-
+use infrared detection items. Thus, the commenter's concern is correct, 
+but that was intended under the February 2016 rules as well as under 
+these final rules.
+
+Revisions to ECCNs 6D002, 6D003, and 6D991
+
+    The Wassenaar Arrangement's List of Dual-Use Goods and Technologies 
+imposes limited controls on software related to commodities controlled 
+under ECCNs 6A002 and 6A003. As a result, the CCL currently has the 
+following multilateral and unilateral software controls related to such 
+items: ECCN 6D002 (software specially designed for the use of 
+commodities controlled under ECCN 6A002.b), ECCN 6D003.c (software 
+designed or modified for cameras incorporating focal plane arrays 
+specified by ECCN 6A002.a.3.f and designed or modified to remove a 
+frame rate restriction and allow the camera to exceed the frame rate 
+specified in ECCN 6A003.b.4 Note 3.a), and ECCN 6D991 (software, 
+n.e.s., specially designed for the development, production, or use of 
+commodities controlled under ECCN 6A002.a.1.d or 6A990).
+    To address concerns regarding the lack of comprehensive software 
+controls related to commodities controlled under ECCNs 6A002 and 6A003, 
+the February 2016 rule proposed to consolidate existing, unilateral 
+software controls and expand them to revise ECCN 6D991 to also control 
+software, not elsewhere specified, that is specially designed for the 
+development, production, or use of commodities controlled by ECCNs 
+6A002 or 6A003. The February 2016 rule proposed to make such software 
+subject to the RS Column 1 reason for control. Also, the February 2016 
+rule proposed to remove eligibility to use License Exception TSR for 
+the software described above in ECCNs 6D002 and 6D003.c. To prevent 
+confusion over multiple ECCNs potentially controlling the same 
+software, the February 2016 rule proposed to add language to the 
+Related Controls paragraphs of ECCN 6D991 to confirm that software 
+currently controlled under ECCNs 6D002 and 6D003.c would remain 
+controlled under those provisions. To reflect this understanding, the 
+February 2016 rule also proposed to revise the Related Controls 
+paragraphs of ECCNs 6D002 and 6D003 to provide references to ECCNs 
+6D991.
+    Four commenters expressed concerns about the proposed revisions to 
+the software controls described above. Two commenters recommended 
+removing ``use'' software for 6A002 and 6A003 commodities from the 
+scope of ECCN 6D991. One of those commenters stated that software field 
+upgrades would be more challenging and costly, which would put U.S. 
+suppliers at a competitive disadvantage. The other commenter mentioned 
+that even though
+
+[[Page 70326]]
+
+typical operation software would be unlikely to meet all six elements 
+of the definition of ``use,'' the control could create confusion. BIS 
+agrees with the second commenter that it is unlikely that operation 
+software would meet all six elements of ``use.'' Further, BIS believes 
+that it is unlikely that software for field upgrades, which would 
+likely be focused on camera maintenance, would include all six elements 
+of ``use'' and thus be controlled. Therefore, BIS does not accept this 
+recommendation.
+    Another commenter expressed concerns that the proposed expansion of 
+6D991 could affect software used in the production and testing of 6A003 
+and possibly 6A993 items, but the commenter noted it was unclear the 
+extent to which the controls would apply to certain types of software 
+due to difficulty in applying the definition of ``specially designed'' 
+in the context of software. The commenter also expressed concerns on 
+needing to get a license to provide field testing software to service 
+centers. BIS notes that the intent of expanding 6D991, among other 
+things, was to include software specially designed for the production 
+of 6A003 cameras. This does not include software used for testing 6A003 
+cameras for purposes outside of the production or development process. 
+Therefore, BIS believes that the scope of control in 6D991 is 
+appropriate. With respect to applying the definition of ``specially 
+designed'' to software, BIS notes that any software would be caught by 
+paragraph (a) if it achieves the parameters described in the relevant 
+USML or CCL entry as a result of ``development'' or if it is used in or 
+with a commodity enumerated on the CCL or USML. Software is, however, 
+eligible for the paragraph (b) releases. For example, if software used 
+for the production of a controlled item has the same function, 
+performance capabilities, and the same or equivalent form and fit, as 
+software used in the production of an item controlled for AT reasons 
+only, then such software would qualify for the release under paragraph 
+(b)(3). Note 3 to paragraph (b)(3) also provides guidance on 
+interpreting ``form,'' ``fit,'' ``function,'' and ``performance 
+capability'' with respect to software. Finally, with respect to 
+software for field testing centers, such software would have to meet 
+all six elements of the definition of ``use'' in order to be controlled 
+in 6D991.
+    One commenter stated that software used to operate a camera should 
+be EAR99 and further expressed concern that a license would be required 
+for software that interfaces with the arrays for either manufacturing 
+or testing applications. Under the February 2016 proposed rule and this 
+final rule, software simply used to operate a camera would not be 
+controlled under 6D991 and would be EAR99. Again, all six elements of 
+the ``use'' definition must be met in order to be considered ``use'' 
+software under 6D991. In addition, BIS reiterates that software used 
+for testing outside of the production or development process would not 
+be captured by 6D991. Software that is used to test during the 
+production or development process and that meets the definition of 
+``specially designed'' would be controlled by 6D991.
+    One commenter opposed removing the ability to use License Exception 
+TSR for 6D002 (software ``specially designed'' for the ``use'' of 
+commodities controlled under ECCN 6A002.b) and 6D003.c. The commenter 
+cited concerns about U.S. competitiveness and working cooperatively in 
+Wassenaar countries. BIS believes that U.S. competitiveness will be 
+greatly improved by the bright line approach in the State Department's 
+final rule for USML Category XII, which makes clear that commercial 
+items (and related technology and software) are not generally intended 
+to be controlled under the ITAR. BIS believes that removing TSR 
+eligibility for these ECCNs is warranted.
+    BIS received no comments related to other aspects of the changes to 
+ECCNs 6D002, 6D003, and 6D991. For the reasons described above, this 
+final rule adopts the proposed changes to those ECCNs without revision.
+
+Revisions to ECCNs 6E001 and 6E002
+
+    ECCNs 6E001 and 6E002 control development and production 
+technology, respectively, related to multiple ECCNs in Category 6, 
+including items related to infrared detection in ECCNs 6A002 and 6A003. 
+The February 2016 rule proposed to remove eligibility to use License 
+Exception TSR for all 6E001 or 6E002 technology related to commodities 
+controlled under 6A002 or 6A003. Further, the February 2016 rule 
+proposed to add guidance to the Related Controls paragraphs in those 
+ECCNs to provide clarity on technology controls related to commodities 
+subject to the ITAR.
+    BIS received two public comments in response to the proposed 
+changes to 6E001 and 6E002. One commenter stated that the February 2016 
+rule would put restrictions on the commodities related to manufacturing 
+a focal plane array, including ``substrates, epitaxial grown materials, 
+zinc diffusion, software, and firmware in cameras.'' The controls in 
+6E001 and 6E002 apply to technology for the development or production 
+of certain commodities (and software in the case of 6E001). Those 
+controls do not apply to the commodities themselves, which are found in 
+ECCNs 6A002 and 6A003. In addition, the applicable software controls 
+are found in ECCNs 6D002, 6D003, and 6D991.
+    One public commenter expressed concerns about the removal of 
+License Exception TSR due to concerns about U.S. competitiveness and 
+working cooperatively in Wassenaar countries. As previously mentioned, 
+BIS believes that U.S. competitiveness will be greatly improved by the 
+bright line approach in the State Department's final rule for USML 
+Category XII, which makes clear that commercial items (and related 
+technology and software) are not generally intended to be controlled 
+under the ITAR. BIS believes that removing TSR eligibility for these 
+ECCNs is warranted.
+    This final rule revises ECCNs 6E001 and 6E002 as proposed, but 
+amends the availability of License Exception TSR for certain technology 
+related to 6A003 cameras. That change is described further below in 
+response to public comments regarding License Exception STA.
+
+Addition to Section 740.2
+
+    Section 740.2 sets forth restrictions on all license exceptions, 
+and the February 2016 rule proposed a new restriction in Sec.  
+740.2(a)(7) that would apply to 6E001 or 6E002 technology required for 
+the development or production of the following focal plane arrays: 
+Photon detector, microbolometer detector, pyroelectric, or 
+multispectral detector infrared focal plane arrays (IRFPAs), described 
+in ECCN 6A002, having a peak response within the wavelength range 
+exceeding 900 nm but not exceeding 30,000 nm, excluding lead sulfide or 
+lead selenide infrared focal plane arrays having a peak response within 
+the wavelength range exceeding 1,000 nm but not exceeding 5,000 nm and 
+not exceeding 16 detector elements. Moreover, under the February 2016 
+rule, Sec.  740.2(a)(7) would apply to 6E001 or 6E002 technology 
+required for the development or production of third generation image 
+intensifier tubes or image intensifier tubes greater than third 
+generation (e.g., EBAPS). BIS received no public comments on this 
+provision and adopts it in this final rule. To provide further clarity, 
+this final rule includes the full name for EBAPS, Electron Bombarded 
+Active Pixel Sensor. As mentioned in the February 2016 rule and adopted 
+in this final rule,
+
+[[Page 70327]]
+
+the 6E001 and 6E002 technology described above will be eligible for 
+License Exception GOV under Sec.  740.11(b)(2) of the EAR.
+
+Restrictions on the Use of License Exception APR
+
+    License Exception APR currently authorizes specified reexports of 
+items subject to the EAR by certain countries to specified destinations 
+without individual licenses from BIS. The February 2016 rule proposed 
+to increase the number of items ineligible for Sec.  740.16(b) by 
+including all items in ECCNs 6A002, 6A003, and 6A990 in the 
+restrictions found in paragraph (a)(2) of that section. BIS received 
+one general comment that opposed any reduction in the availability of 
+license exceptions, but the commenter did not address any specific 
+concerns regarding APR. Consequently, BIS adopts the changes proposed 
+for paragraph (a) of APR in this final rule and makes only slight 
+revisions to that paragraph for clarity.
+    As previously mentioned, this final rule retains the license 
+requirement and license exception construct for certain uncooled 
+thermal imaging cameras. This construct includes provisions in 
+paragraph (b) of APR. However, this final rule adopts the non-
+substantive changes to paragraph (b) that were proposed in the February 
+2016 rule and rearranges the list of items to make the text clearer. 
+BIS received no comments on the clarifying, non-substantive changes to 
+Sec.  740.16(b) and adopts them in this final rule while keeping the 
+existing special provision for certain uncooled thermal imaging cameras 
+in Sec.  740.16(b)(3).
+
+Restrictions on the Use of License Exception STA
+
+    Section 740.20(b)(2)(x) restricts the use of License Exception STA 
+for specific commodities controlled by ECCN 6A002, as well as related 
+technology controlled by 6E001 or 6E002. The February 2016 rule 
+proposed to expand that restriction to include all items in the 
+following ECCNs: 6A002; 6A990; 6D002 (for the use of commodities 
+controlled under ECCN 6A002.b); 6D003.c; 6D991 (for the development, 
+production, or use of commodities controlled under ECCNs 6A002, 6A003, 
+or 6A990); 6E001 (for the development of commodities controlled under 
+ECCNs 6A002 or 6A003); 6E002 (for the production of commodities 
+controlled under ECCNs 6A002 or 6A003); and 6E990. Additionally, the 
+February 2016 rule proposed to add new ECCN 0E987 to the list of items 
+restricted from STA under Sec.  740.20(b)(2)(ii).
+    Three commenters expressed concerns with those proposed 
+restrictions. One commenter recommended that STA be allowed for all 
+items in 6A002 and 6A990. The commenter noted that doing so would be 
+consistent with continuing to allow STA for 6A003 cameras. Also, the 
+commenter believed this restriction would put U.S. companies at a 
+competitive disadvantage due to foreign availability for such items for 
+which there are less restrictive controls, and that some development 
+technology for 6A990 read-out integrated circuits (ROICs) is already 
+publicly available. The commenter also noted that ROICs not subject to 
+the ITAR have historically been EAR99. BIS does not accept this 
+recommendation at this time. Items controlled in 6A002 and 6A990, while 
+dual use, have important military applications, and thus removal of STA 
+eligibility is warranted. However, after the effective date of this 
+rule, BIS will assess licensing volumes and re-evaluate whether a 
+change to STA eligibility is necessary. Further, BIS notes that some 
+items in 6A002 are only subject to NS2 and AT controls, so STA would 
+not be needed to export or reexport to countries in Country Group A:1.
+    In addition to opposing the removal of STA for 6A002 and 6A990, one 
+commenter also opposed the license exception's removal for ECCNs 6D002, 
+6D003, 6D991, 6E001, and 6E002. The commenter stated removing STA would 
+hurt U.S. competitiveness, harm the ability to work internally and 
+cooperatively within affiliates in Wassenaar countries, increase 
+administrative burden, and could require licenses for providing field 
+testing software to service centers. As previously mentioned, BIS 
+believes that this software and technology has important military 
+applications, and thus excluding the use of STA is warranted. Also, BIS 
+believes that U.S. competitiveness will be greatly improved by the 
+bright line approach in the State Department's final rule for USML 
+Category XII, which makes clear that commercial items (and related 
+technology and software) are not generally intended to be controlled 
+under the ITAR. With respect to providing field testing software, BIS 
+believes that such software is unlikely to meet the definition of 
+``use'' and unlikely to be controlled under ECCNs 6D002, 6D003, or 
+6D991.
+    One commenter requested that BIS allow STA for 6E001 and 6E002 
+technology for civil automotive far infrared night vision systems at 
+the camera level. The commenter mentioned that the company has used STA 
+when civil automotive vehicle manufacturers have required audits on 
+products and manufacturing, which includes sharing design and 
+manufacturing technology with non-U.S. nationals. BIS accepts this 
+recommendation in part. This final rule revises Sec.  740.20(b)(2)(x) 
+to remove STA eligibility as described in the February 2016 rule. 
+However, this final rule revises the eligibility to use License 
+Exception TSR under ECCNs 6E001 and 6E002 to allow technology for the 
+integration of 6A003 cameras into camera systems specially designed for 
+civil automotive applications. Under this change, this technology may 
+be released to Country Group B destinations or nationals so long as all 
+terms and conditions of TSR are complied with, including obtaining a 
+written assurance. This ability to use TSR is limited to specific 6E001 
+or 6E002 technology related to 6A003 cameras, and does not apply to 
+6E001 or 6E002 technology related to 6A002 items within the 6A003 
+cameras.
+
+Revisions to Licensing Policy
+
+    As previously mentioned, this final rule retains the provisions in 
+Sec.  742.6 that apply to the authorization construct for certain 
+uncooled thermal imaging cameras. However, the February 2016 rule also 
+proposed revisions to licensing policy for items controlled for RS 
+reasons by revising Sec.  742.6(b)(1) to include new licensing policy 
+for 6E001 or 6E002 technology for the development or production of 
+focal plane arrays or image intensifier tubes described in 6A002, or 
+for 6E990 technology. Under the February 2016 rule, such technology 
+would be subject to a presumption of denial for license applications 
+for exports or reexports to countries in Country Group D:5. BIS 
+received no public comments on this proposal and is adopting the 
+proposed changes to Sec.  742.6(b)(1) in this final rule.
+    BIS is also removing the heading in Sec.  742.6(b)(1)(i), which was 
+proposed in the February 2016 rule to read ``9x515 and `600 series' 
+ECCNs.'' BIS is making this change because that paragraph applies to 
+more than just 9x515 and 600 series items. Finally, as described below 
+under ECCN 7E611, this final rule removes the proposed worldwide RS 
+control for 7E611.a, and thus removes proposed Sec.  742.6(a)(8) and 
+references to that paragraph in Sec.  742.6(b)(1).
+
+[[Page 70328]]
+
+Establishment of ``600 Series'' for Military Fire Control, Laser, 
+Imaging, and Guidance Items Under ECCNs 7A611, 7B611, 7D611, and 7E611
+
+    The May 2015 rule proposed establishing two separate 600 series 
+controls in 6x615 and 7x611. The February 2016 rule proposed to 
+consolidate those entries and establish a single ``600 series'' by 
+revising ECCN 7A611 and adding new ECCNs 7B611, 7D611, and 7E611 for 
+military fire control, laser, imaging, and guidance and control 
+commodities, software, and technology. Two commenters supported this 
+simplified structure, and this final rule adopts the proposed 
+consolidation of 600 series controls under 7x611 ECCNs.
+    Since categories 6 and 7 of the CCL currently control certain 
+laser, imaging, and guidance items, the February 2016 rule also 
+proposed to amend ECCN 6A611 to refer readers to Category 7 to locate 
+the appropriate controls. BIS received no comments on this revision. 
+This final rule revises 6A611 to add the reference to 7A611, but this 
+final rule revises the term ``guidance and control'' to ``guidance'' to 
+conform to changes made in the State Department's final rule. 
+References to ``control'' are similarly removed throughout these 600 
+series entries to conform to the State Department's final rule.
+    Three commenters provided comments on these proposed 600 series 
+entries. Revisions to the proposed 600 series ECCNs are described 
+below.
+
+Establishment of ECCN 7A611
+
+    As described in the February 2016 rule, ECCN 7A611 would control 
+military fire control, laser, imaging, and guidance and control 
+equipment that would be removed from USML Category XII and that are not 
+covered by an existing ECCN subject to controls for reasons other than 
+AT reasons. This included controlling certain guidance, navigation, or 
+control systems; inertial measurement units; accelerometers; gyros or 
+angular rate sensors; and gravity meters (gravimeters) in paragraphs .a 
+through .e. Paragraph .x would control parts, components, accessories, 
+and attachments that are specially designed for a commodity controlled 
+by ECCN 7A611 (except 7A611.y) or a defense article in USML Category 
+XII and not controlled elsewhere on the USML or in 7A611.y or 3A611.y. 
+All items that would be controlled under 7A611.a-.x would be controlled 
+for NS, RS, AT, and UN reasons. Paragraph .y, which would be controlled 
+for AT reasons, would control specific parts, components, accessories, 
+and attachments specially designed for a commodity subject to control 
+in ECCN 7A611, or a defense article in USML Category XII and not 
+elsewhere specified on the USML or in the CCL, and parts, components, 
+accessories, and attachments specially designed therefor. The February 
+2016 rule did not include any items in 7A611.y. This final rule revises 
+ECCN 7A611 with revisions to the February 2016 proposed rule as 
+described below.
+    Two commenters provided recommendations or requested clarification 
+on ECCN 7A611. One commenter pointed out that certain dual-use items 
+controlled in CCL Category 7 may become controlled under 7A611 because 
+such dual-use items would not qualify for the release in paragraph 
+(b)(3) of the definition of ``specially designed,'' which applies to 
+parts, components, accessories, or attachments that have the same 
+function, performance capabilities, and the same or equivalent form and 
+fit, as a commodity used in or with an item that is or was in 
+production and is either not enumerated on the CCL or USML, or is 
+described in an ECCN controlled only for AT reasons. Since many of the 
+Category 7 parts and components are incorporated into Category 7 
+higher-level assemblies that are subject to NS or MT reasons, such 
+parts and components would not be eligible for the (b)(3) release of 
+specially designed.
+    To address this concern, BIS is revising and restructuring 7A611.x 
+to specify that 7A611.x does not control items described in ECCNs 
+6A007, 6A107, 7A001, 7A002, 7A003, 7A101, 7A102, or 7A103. Essentially, 
+this revision is an exception to the normal process of the Order of 
+Review in which 600 series entries normally take precedence over dual-
+use entries in the CCL. BIS believes this change is warranted to 
+address the concern raised by the commenter, and BIS believes that the 
+dual-use controls provide sufficient levels of control to capture 
+military items previously in USML Category XII that meet the parameters 
+in one of the dual-use ECCNs listed above. As part of this change, BIS 
+is also removing the entries that were proposed in 7A611.b-.e for 
+inertial measurement units, accelerometers, gyros or angular rate 
+sensors, and gravity meters (gravimeters). These items will be 
+controlled under 7A611.x to the extent that they are specially designed 
+and not controlled under the list of dual-use ECCNs described above. To 
+ensure clarity on where such items are controlled, BIS is also adding 
+text to 7A611.x to specifically name such items.
+    One commenter also questioned why 7A611 does not include the 
+missile technology (MT) reason for control. BIS concurs that MT should 
+be added to 7A611, and this final rule adds that control to the ECCN 
+for commodities in 7A611.a that meet or exceed the parameters in 
+7A103.b or .c. Also, with the change described above to 7A611.x, ECCNs 
+6A107, 7A101, 7A102, and 7A103 will address those other items 
+potentially controlled for MT reasons.
+    One commenter recommended that infrared optical elements, such as 
+optical blanks and lenses, should not be controlled using ``specially 
+designed'' under 7A611.x. Instead, the commenter believed that only 
+certain germanium blanks and infrared lenses with certain resistivity 
+should be controlled in 7A611. The commenter believed that all other 
+optics blanks and infrared lenses should be EAR99. To support these 
+recommendations, the commenter stated that applying ``specially 
+designed'' would be burdensome since many of these products are made 
+according to customer specifications and may have overlapping size, 
+curvature, and fit requirements among both military and commercial 
+customers. The commenter also believed that such controls would be more 
+restrictive than the EU's export control regime. BIS believes that the 
+commenter's recommended controls would not capture all optical blanks 
+and infrared lenses that warrant control. Further, it is BIS's 
+understanding that such items would be controlled under ML 15 of the 
+Wassenaar Arrangement if they are specially designed. Therefore, BIS 
+does not accept this recommendation. To the extent that optical blanks 
+or infrared lenses meet the definition of ``specially designed,'' they 
+would be controlled under 7A611.x.
+    BIS is also making additional conforming changes. This final rule 
+revises the Related Controls paragraph to add references to ECCNs 6A107 
+and 7A103 since those ECCNs control related items. Also, this final 
+rule removes the sentence in the Related Controls regarding navigation 
+and avionics equipment specially designed for military application. In 
+the February 2016 rule, that sentence referred readers to ECCN 3A611, 
+which is incorrect. Such equipment is currently controlled in ECCN 
+9A610. Additionally, this final rule removes the word ``control'' from 
+``guidance, navigation, and control systems'' in 7A611.a and from the 
+first sentence in the Related Controls to conform with changes made in 
+the State Department's final rule.
+
+[[Page 70329]]
+
+Establishment of 7B611
+
+    The February 2016 rule proposed creating ECCN 7B611 to impose 
+controls on test, inspection, and production equipment and related 
+commodities specially designed for military fire control, laser, 
+imaging, and guidance and control equipment. Paragraph .a would control 
+such equipment specially designed for the development, production, 
+repair, overhaul, or refurbishing of items controlled in ECCN 7A611 
+(except 7A611.y) or commodities in USML Category XII that are not 
+enumerated in USML Category XII or controlled by a 600 series ECCN. 
+Paragraph .b would control environmental test facilities specially 
+designed for certification, qualification, or testing of commodities 
+controlled in ECCN 7A611 (except 7A611.y) or commodities in USML 
+Category XII that are not enumerated in USML Category XII or a 600 
+series ECCN. Paragraph .c would control field test equipment specially 
+designed to evaluate or calibrate the operation of systems described in 
+USML Category XII(a), (b), or (c). Paragraph .x would control parts, 
+components, accessories, and attachments that are specially designed 
+for such test, inspection and production equipment that are not 
+enumerated on the USML or controlled by another 600 series ECCN. Items 
+in ECCN 7B611 would be controlled for NS, RS, AT, and UN reasons.
+    BIS did not receive any public comments specific to ECCN 7B611. 
+This final rule adopts the proposal to add 7B611 to the CCL, with three 
+conforming changes. First, as previously mentioned, this final rule is 
+revising references to ``guidance and control'' to just ``guidance.'' 
+This final rule makes that change in the heading of the ECCN. Second, 
+this final rule adds an MT control for 7B611.a commodities specially 
+designed for 7A611.a commodities controlled for MT reasons. This change 
+is being made to correspond to the addition of an MT control in 7A611. 
+Third, paragraphs .b and .c now specify that those paragraphs control 
+items not controlled by another 600 series to bring them into 
+conformity with prior language used in other 600 series ECCNs for test, 
+inspection, and production equipment.
+
+Establishment of 7D611
+
+    The February 2016 rule proposed adding ECCN 7D611 to control 
+software specially designed for the development, production, operation, 
+or maintenance of commodities controlled by 7A611 or 7B611. Such 
+software would be controlled for NS, RS, AT, and UN reasons. Any 
+software added to 7D611.y would be controlled for AT reasons only.
+    BIS did not receive any public comments specific to ECCN 7D611. 
+Thus, this final rule adopts the proposal to add 7D611 to the CCL with 
+one conforming change. This final rule adds an MT control for 7D611.a 
+software specially designed for 7A611.a commodities controlled for MT 
+reasons. This change is being made to correspond to the addition of an 
+MT control in 7A611.
+
+Establishment of 7E611 and Revisions to Sec.  742.6 for Licensing 600 
+Series Items
+
+    The February 2016 rule proposed adding ECCN 7E611 to control 
+technology required for the development, production, operation, 
+installation, maintenance, repair, overhaul, or refurbishing of items 
+controlled by 7A611, 7B611, or 7D611. Such technology would be 
+controlled for NS, RS, AT, and UN reasons, but certain technology 
+described in proposed 7E611.a (technology required for the development 
+or production of commodities controlled by proposed 7A611.a-.e) would 
+be subject to a worldwide RS reason for control, pursuant to proposed 
+text added to Sec.  742.6(a)(8). All other technology in 7E611, other 
+than 7E611.y, would be subject to an RS Column 1 control. Any 
+technology added to 7E611.y would be controlled for AT reasons only.
+    When adding the worldwide RS control to 7E611 in the February 2016 
+rule, BIS believed that the worldwide RS control would only affect 
+technical data currently controlled in USML Category XII(f) that is not 
+eligible for the Canadian exemption under Supplement No. 1 to part 126 
+of the ITAR. As described in proposed Sec.  742.6(b)(1), proposed 
+7E611.a technology would be subject to the same licensing policy as 
+other 600 series items. In addition, License Exception STA would not be 
+available for 7E611.a technology but would be available for technology 
+in 7E611.b or .c for exports or reexports to Country Group A:5.
+    BIS received one public comment pertaining to ECCN 7E611, and that 
+commenter supported limiting a worldwide RS control to technology 
+proposed to be controlled in 7E611.a. However, by revising 7A611.x so 
+that it does not control items described in ECCNs 6A007, 6A107, 7A001, 
+7A002, 7A003, 7A101, 7A102, or 7A103, this final rule significantly 
+reduces the scope of items in 7A611 and related technology in 7E611. 
+Consequently, BIS believes that the proposed worldwide RS control is no 
+longer warranted. This final rule removes the worldwide RS control in 
+7E611 and Sec.  742.6(a)(8), removes the restriction on the use of 
+License Exception STA for Country Group A:5, and restructures the Items 
+paragraph to match the normal structure for a 600 series technology 
+ECCN. ECCN 7E611.a will control technology required for the 
+development, production, operation, installation, maintenance, repair, 
+overhaul, or refurbishing of commodities or software controlled by ECCN 
+7A611 (except 7A611.y), 7B611, or 7D611 (except 7D611.y). ECCN 7E611.y 
+will control specific technology required for the production, 
+development, operation, installation, maintenance, repair, or overhaul 
+of commodities or software controlled by ECCNs 7A611.y or 7D611.y.
+    This final rule also adds an MT control for technology for 7E611.a 
+technology if required for items controlled for MT reasons in 7A611.a, 
+7B611.a, or 7D611.a. This change is being made to correspond to the 
+addition of an MT control in 7A611, 7B611, and 7D611.
+    BIS received no public comments regarding the description of the 
+license requirement for 7E611.a in Sec.  742.6(a)(1) or the revisions 
+to Sec.  742.6(b)(1) describing licensing policy for RS Column 1 items 
+and ECCN 7E611.a. Consequently, this final rule revises those sections 
+consistent with the February 2016 rule.
+
+Revisions to Other Existing ECCNs
+
+    The February 2016 rule proposed to revise many existing dual-use 
+ECCNs to provide cross references to USML Category XII for similar 
+items subject to the ITAR. BIS received no public comments on the 
+proposed changes to the Related Controls paragraphs of those dual-use 
+ECCNs. Therefore, this final rule revises the Related Controls to 
+cross-reference similar items subject to the ITAR in ECCNs 6A004, 
+6A005, 6A007, 6A107, 7A001, 7A002, 7A003, 7A005, 7A101, and 7A102. The 
+February 2016 rule also proposed to revise the Related Controls 
+paragraph in ECCN 8A002 to refer readers to the potential license 
+requirement in Sec.  744.9, which would apply to commodities in 
+8A002.d.1.c or .d.2. Since this final rule adopts the proposed increase 
+in scope of Sec.  744.9 for 8A002.d items, this final rule also revises 
+the Related Controls reference to that section in 8A002.
+    BIS also proposed to revise the Related Controls paragraph of ECCN 
+2A984, which controls certain concealed object detection equipment. 
+This final rule maintains the cross reference to USML Category XII(c) 
+for
+
+[[Page 70330]]
+
+related terahertz imaging systems subject to the ITAR, but moves the 
+reference to the first sentence of the Related Controls paragraph. 
+Additionally, this final rule also revises the scope of control of ECCN 
+2A984. The State Department's February 2016 rule proposed to change the 
+scope of terahertz imaging systems subject to the ITAR by controlling 
+those that have a peak response in the frequency range exceeding 30 GHz 
+but not exceeding 3000 GHz, and having a resolution less (better) than 
+0.1 milliradians at a standoff range of 100 m. This would have led to 
+an inadvertent result where terahertz imaging systems having a peak 
+response in the frequency range exceeding 30 GHz but not exceeding 3000 
+GHz, and having a resolution of 0.1 to 0.5 milliradians at a standoff 
+range of 100 m would be designated EAR99, while less capable terahertz 
+imaging systems would be controlled under 2A984. To address this gap, 
+this final rule amends the heading of 2A984 to control concealed object 
+detection equipment operating in the frequency range from 30 GHz to 
+3000 GHz and having a spatial resolution of 0.1 milliradian up to and 
+including 1 milliradian at a standoff distance of 100 meters (and parts 
+and components not elsewhere specified), and makes conforming changes 
+to the related controls section.
+    Finally, BIS proposed to revise ECCN 6A008 to add a sentence to the 
+Related Controls paragraph for certain laser detection and ranging 
+(LADAR), light detection and ranging (LIDAR), or range-gated systems 
+subject to the ITAR. One commenter recommended that BIS expand an 
+existing sentence in the Related Controls on car radar designed for 
+collision avoidance to provide that 6A008 does not control civil 
+automotive radar or LIDAR. BIS does not accept this recommendation as 
+making this change would require agreement with other Wassenaar 
+members. Therefore, this final rule revises the Related Controls 
+paragraph as proposed.
+
+Export Administration Act
+
+    Although the Export Administration Act expired on August 20, 2001, 
+the President, through Executive Order 13222 of August 17, 2001, 3 CFR, 
+2001 Comp., p. 783 (2002), as amended by Executive Order 13637 of March 
+8, 2013, 78 FR 16129 (March 13, 2013) and as extended by the Notice of 
+August 4, 2016, 81 FR 52587 (August 8, 2016), has continued the Export 
+Administration Regulations in effect under the International Emergency 
+Economic Powers Act. BIS continues to carry out the provisions of the 
+Export Administration Act, as appropriate and to the extent permitted 
+by law, pursuant to Executive Order 13222, as amended by Executive 
+Order 13637.
+
+Rulemaking Requirements
+
+    1. Executive Orders 13563 and 12866 direct agencies to assess all 
+costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public 
+health and safety effects, distribute impacts, and equity). Executive 
+Order 13563 emphasizes the importance of quantifying both costs and 
+benefits, of reducing costs, of harmonizing rules, and of promoting 
+flexibility. This rule has been designated a ``significant regulatory 
+action,'' although not economically significant, under section 3(f) of 
+Executive Order 12866. Accordingly, the rule has been reviewed by the 
+Office of Management and Budget (OMB).
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to, nor is subject to a penalty for failure to 
+comply with, a collection of information, subject to the requirements 
+of the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), 
+unless that collection of information displays a currently valid OMB 
+control number. This proposed rule would affect two approved 
+collections: Simplified Network Application Processing + System 
+(control number 0694-0088), which includes, among other things, license 
+applications, and License Exceptions and Exclusions (0694-0137).
+    As stated in a proposed rule published on July 15, 2011 (76 FR 
+41958) (``July 15 proposed rule''), BIS initially believed that the 
+combined effect of all rules to be published adding items to the EAR 
+that will be removed from the ITAR as part of the Administration's 
+Export Control Reform Initiative would increase the number of license 
+applications to be submitted by approximately 16,000 annually. As the 
+review of the USML has progressed, the interagency group has gained 
+more specific information about the number of items that will come 
+under BIS jurisdiction and whether those items would be eligible for 
+export under license exceptions. As of June 21, 2012, BIS revised that 
+estimate to an increase in license applications of 30,000 annually, 
+resulting in an increase in burden hours of 8,500 (30,000 transactions 
+at 17 minutes each) under control number 0694-0088. BIS continues to 
+believe that its revised estimate is accurate.
+    Some items formerly on the USML would become eligible for License 
+Exception STA under this rule. As stated in the July 15 proposed rule, 
+BIS believes that the increased use of License Exception STA resulting 
+from the combined effect of all rules to be published adding items to 
+the EAR that would be removed from the ITAR as part of the 
+Administration's Export Control Reform Initiative would increase the 
+burden associated with control number 0694-0137 by about 23,858 hours 
+(20,450 transactions at 1 hour and 10 minutes each).
+    BIS expects that this increase in burden would be more than offset 
+by a reduction in burden hours associated with approved collections 
+related to the ITAR. This proposed rule addresses controls on fire 
+control, laser, imaging, and guidance and control items. With few 
+exceptions, most exports of such items, even when destined to NATO 
+member states and other close allies, require State Department 
+authorization. In addition, the exports of technology necessary to 
+produce such items in the inventories of the United States and its NATO 
+and other close allies require State Department authorizations. Under 
+the EAR, as proposed, such technology that would be subject to the EAR 
+would become eligible for export to NATO member states and other close 
+allies under License Exception STA unless otherwise specifically 
+excluded. Use of License Exception STA imposes a paperwork and 
+compliance burden because, for example, exporters must furnish 
+information about the item being exported to the consignee and obtain 
+from the consignee an acknowledgement and commitment to comply with the 
+EAR. However, the Administration believes that complying with the 
+requirements of STA is likely less burdensome than applying for 
+licenses. For example, under License Exception STA, a single consignee 
+statement can apply to an unlimited number of products, need not have 
+an expiration date, and need not be submitted to the government in 
+advance for approval. Suppliers with regular customers can tailor a 
+single statement and assurance to match their business relationship 
+rather than applying repeatedly for licenses with every purchase order 
+to supply reliable customers in countries that are close allies or 
+members of export control regimes or both.
+    3. This rule does not contain policies with Federalism implications 
+as that term is defined under E.O. 13132.
+    4. The Regulatory Flexibility Act (RFA), as amended by the Small 
+Business Regulatory Enforcement
+
+[[Page 70331]]
+
+Fairness Act of 1996 (SBREFA), 5 U.S.C. 601 et seq., generally requires 
+an agency to prepare a regulatory flexibility analysis of any rule 
+subject to the notice and comment rulemaking requirements under the 
+Administrative Procedure Act (5 U.S.C. 553) or any other statute, 
+unless the agency certifies that the rule will not have a significant 
+economic impact on a substantial number of small entities. Under 
+section 605(b) of the RFA, however, if the head of an agency (or his or 
+her designee) certifies that a rule will not have a significant impact 
+on a substantial number of small entities, the statute does not require 
+the agency to prepare a regulatory flexibility analysis. Pursuant to 
+section 605(b), the Chief Counsel for Regulation, Department of 
+Commerce, submitted a memorandum to the Chief Counsel for Advocacy, 
+Small Business Administration, certifying that the May 5 proposed rule 
+would not have a significant impact on a substantial number of small 
+entities. The rationale for that certification was set forth in the 
+preamble to that proposed rule. Although BIS received no comments on 
+that rationale, and has accordingly made no changes to the proposed 
+rule based on the RFA certification, BIS has determined that, in the 
+interest of openness and transparency, it will briefly restate the 
+rationale behind the certification here.
+    This proposed rule is part of the Administration's Export Control 
+Reform Initiative, which seeks to revise the USML to a positive list--
+one that does not use generic, catch-all controls for items listed--and 
+to move some items that the President has determined no longer merit 
+control under the ITAR to control under the CCL.
+    Although BIS does not collect data on the size of entities that 
+apply for and are issued export licenses, and is therefore unable to 
+estimate the exact number of small entities--as defined by the Small 
+Business Administration's regulations implementing the RFA--BIS 
+acknowledges that some small entities may be affected by this proposed 
+rule.
+    The main effects on small entities resulting from this rule will be 
+in application times, costs, and delays in receiving licenses to export 
+goods subject to the CCL. However, while small entities may experience 
+some costs and time delays for exports due to the license requirements 
+of the CCL, these costs and delays will likely be significantly less 
+than they were for items previously subject to the USML. BIS believes 
+that in fact this rule will result in significantly reduced 
+administrative costs and delays for exports of items that will, upon 
+this rule's implementation, be subject to the EAR rather than the ITAR. 
+Currently, USML applicants must pay to use the USML licensing procedure 
+even if they never actually are authorized to export. Registration fees 
+for manufacturers and exporters of articles on the USML start at $2,250 
+per year, increase to $2,750 for organizations applying for one to ten 
+licenses per year and further increases to $2,750 plus $250 per license 
+application (subject to a maximum of three percent of total application 
+value) for those who need to apply for more than ten licenses per year. 
+By contrast, BIS is statutorily prohibited from imposing licensing 
+fees. In addition, exporters and reexporters of goods that would become 
+subject to the EAR under this rule would need fewer licenses because 
+their transactions would become eligible for license exceptions that 
+were not available under the ITAR. Additionally, the ITAR controls 
+parts and components even when they are incorporated--in any amount--
+into a foreign-made product. That limitation on the use of US-made 
+goods subject to the ITAR discouraged foreign manufacturers from 
+importing US goods. However, the EAR has a de minimis exception for US-
+manufactured goods that are incorporated into foreign-made products. 
+This exception may benefit small entities by encouraging foreign 
+producers to use more US-made items in their goods.
+    Even where an exporter or reexporter would need to obtain a license 
+under the EAR, that process is both cheaper and more flexible than 
+obtaining a license under the ITAR. For example, unlike the ITAR, the 
+EAR does not require license applicants to provide BIS with a purchase 
+order with the application, meaning that small (or any) entities can 
+enter into negotiations or contracts for the sale of goods without 
+having to caveat any sale presentations with a reference to the need to 
+obtain a license under the ITAR before shipment can occur. Second, the 
+EAR allows license applicants to obtain licenses to cover all expected 
+exports or reexports to a particular consignee over the life of a 
+license, rather than having to obtain a new license for every 
+transaction.
+    In short, BIS expects that the changes to the EAR proposed in this 
+rule will have a positive effect on all affected entities, including 
+small entities. While BIS acknowledges that this rule may have some 
+cost impacts to small (and other) entities, those costs are more than 
+offset by the benefits to the entities from the licensing procedures 
+under the EAR, which are much less costly and less time consuming than 
+the procedures under the ITAR. Accordingly, the Chief Counsel for 
+Regulation for the Department of Commerce has certified that this rule, 
+if implemented, will not have a significant economic impact on a 
+substantial number of small entities. Accordingly, a regulatory 
+flexibility analysis is not required, and none has been prepared.
+
+List of Subjects
+
+15 CFR Part 734
+
+    Administrative practice and procedure, Exports, Inventions and 
+patents, Research, Science and technology.
+
+15 CFR Part 740
+
+    Administrative practice and procedure, Exports, Reporting and 
+recordkeeping requirements.
+
+15 CFR Part 742
+
+    Exports, Terrorism.
+
+15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+15 CFR Part 772
+
+    Exports.
+
+15 CFR Part 774
+
+    Exports, Reporting and recordkeeping requirements.
+
+    For the reasons stated in the preamble, the Export Administration 
+Regulations (15 CFR parts 730-774) are amended as follows:
+
+PART 734--[AMENDED]
+
+0
+1. The authority citation for part 734 continues to read as follows:
+
+    Authority: 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; E.O. 
+12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13020, 61 FR 
+54079, 3 CFR, 1996 Comp., p. 219; E.O. 13026, 61 FR 58767, 3 CFR, 
+1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 
+783; E.O. 13637, 78 FR 16129, 3 CFR, 2014 Comp., p. 223; Notice of 
+November 12, 2015, 80 FR 70667 (November 13, 2015); Notice of August 
+4, 2016, 81 FR 52587 (August 8, 2016).
+
+
+0
+2. Section 734.4 is amended by removing and reserving paragraph (a)(3) 
+and revising paragraph (a)(5).
+    The revision reads as follows:
+
+
+Sec.  734.4  De minimis U.S. content.
+
+    (a) * * *
+    (5) There is no de minimis level for foreign-made ``military 
+commodities'' incorporating one or more of the commodities described in 
+ECCN 0A919.a.1 when destined for a country listed in Country Group D:5 
+of Supplement No. 1 to part 740 of the EAR.
+* * * * *
+
+[[Page 70332]]
+
+PART 740--[AMENDED]
+
+0
+3. The authority citation for part 740 continues to read as follows:
+
+    Authority: 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 22 
+U.S.C. 7201 et seq.; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 
+228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; Notice of 
+August 4, 2016, 81 FR 52587 (August 8, 2016).
+
+
+0
+4. Section 740.2 is amended by adding paragraph (a)(7) and removing and 
+reserving paragraph (a)(9).
+    The addition reads as follows:
+
+
+Sec.  740.2  Restrictions on All License Exceptions.
+
+    (a) * * *
+    (7) With the exception of License Exception GOV (Sec.  
+740.11(b)(2)), license exceptions are not available for the following 
+6E001 or 6E002 technology:
+    (i) Technology required for the ``development'' or ``production'' 
+of photon detector, microbolometer detector, pyroelectric, or 
+multispectral detector, infrared focal plane arrays (IRFPAs), described 
+in ECCN 6A002, having a peak response within the wavelength range 
+exceeding 900 nm but not exceeding 30,000 nm, excluding lead sulfide or 
+lead selenide IRFPAs having a peak response within the wavelength range 
+exceeding 1,000 nm but not exceeding 5,000 nm and not exceeding 16 
+detector elements; or
+    (ii) Technology required for the ``development'' or ``production'' 
+of third generation or greater (e.g., Electron Bombarded Active Pixel 
+Sensor (EBAPS)) image intensifier tubes described in ECCN 6A002.
+* * * * *
+
+
+0
+5. Section 740.16 is amended by revising paragraphs (a)(2) and (b)(1) 
+through (3) to read as follows:
+
+
+Sec.  740.16  Additional permissive reexports (APR).
+
+    (a) * * *
+    (2) The commodities being reexported are not controlled for NP, CB, 
+MT, SI or CC reasons or described in ECCNs 0A919, 3A001.b.2 or b.3 
+(except those that are being reexported for use in civil 
+telecommunications applications), 6A002, 6A003, or 6A990; and
+* * * * *
+    (b) * * *
+    (1) Eligible commodities may be reexported to and among 
+destinations in Country Group A:1 and Hong Kong for use or consumption 
+within a destination in Country Group A:1 (see Supplement No. 1 to part 
+740) or Hong Kong, or for reexport from such country in accordance with 
+other provisions of the EAR.
+    (2) Commodities not eligible for reexport under paragraph (b)(1) 
+are:
+    (i) Commodities controlled for nuclear nonproliferation or missile 
+technology reasons;
+    (ii) Commodities in 3A001.b.2 or b.3 (except those that are being 
+reexported for use in civil telecommunications applications);
+    (iii) ``Military commodities'' described in ECCN 0A919;
+    (iv) Commodities described in ECCN 0A987 that incorporate an image 
+intensifier tube; or
+    (v) Commodities described in ECCNs 6A002 or 6A990.
+    (3) Cameras described in ECCNs 6A003 may be exported or reexported 
+to and among countries in Country Group A:1 (see Supplement No. 1 to 
+this part) if:
+    (i) Such cameras are fully packaged for use as consumer ready civil 
+products; or
+    (ii) Such cameras with not more than 111,000 elements are to be 
+embedded in civil products.
+* * * * *
+
+0
+6. Section 740.20 is amended by revising paragraphs (b)(2)(ii) and 
+(b)(2)(x), to read as follows:
+
+
+Sec.  740.20  License Exception Strategic Trade Authorization (STA).
+
+* * * * *
+    (b) * * *
+    (2) * * *
+    (ii) License Exception STA may not be used for any item controlled 
+under ECCNs 0A981, 0A982, 0A983, 0A985, 0E982, or 0E987.
+* * * * *
+    (x) License Exception STA may not be used for items controlled by 
+ECCNs 6A002; 6A990; 6D002 (software ``specially designed'' for the 
+``use'' of commodities controlled under 6A002.b); 6D003.c; 6D991 
+(software ``specially designed'' for the ``development,'' 
+``production,'' or ``use'' of commodities controlled under 6A002, 
+6A003, or 6A990); 6E001 (``technology'' for the ``development'' of 
+commodities controlled under ECCNs 6A002 or 6A003); 6E002 
+``technology'' (for the ``production'' of commodities controlled under 
+ECCNs 6A002 or 6A003); or 6E990.
+* * * * *
+
+PART 742--[AMENDED]
+
+0
+7. The authority citation for part 742 continues to read as follows: 50 
+U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 22 U.S.C. 3201 et seq.; 42 
+U.S.C. 2139a; 22 U.S.C. 7201 et seq.; 22 U.S.C. 7210; Sec. 1503, Pub. 
+L. 108-11, 117 Stat. 559; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., 
+p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 
+59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 61 FR 58767, 3 CFR, 
+1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; 
+Presidential Determination 2003-23, 68 FR 26459, 3 CFR, 2004 Comp., p. 
+320; Notice of November 12, 2015, 80 FR 70667 (November 13, 2015); 
+Notice of August 4, 2016, 81 FR 52587 (August 8, 2016).
+
+0
+8. Section 742.6 is amended by revising paragraph (b)(1) to read as 
+follows:
+
+
+ Sec.  742.6  Regional stability.
+
+* * * * *
+    (b) * * *
+    (1) Licensing policy for RS Column 1 items. (i) Applications for 
+exports and reexports of 9x515 and ``600 series'' items will be 
+reviewed on a case-by-case basis to determine whether the transaction 
+is contrary to the national security or foreign policy interests of the 
+United States, including the foreign policy interest of promoting the 
+observance of human rights throughout the world. Other applications for 
+exports and reexports described in paragraph (a)(1), (2), (6), or (7) 
+of this section will be reviewed on a case-by-case basis to determine 
+whether the export or reexport could contribute directly or indirectly 
+to any country's military capabilities in a manner that would alter or 
+destabilize a region's military balance contrary to the foreign policy 
+interests of the United States. Applications for reexports of items 
+described in paragraph (a)(3) of this section will be reviewed applying 
+the policies for similar commodities that are subject to the ITAR. 
+Applications for export or reexport of items classified under any 9x515 
+or ``600 series'' ECCN requiring a license in accordance with paragraph 
+(a)(1) of this section will also be reviewed consistent with United 
+States arms embargo policies in Sec.  126.1 of the ITAR if destined to 
+a country set forth in Country Group D:5 in Supplement No. 1 to part 
+740 of the EAR. Applications for export or reexport of ``parts,'' 
+``components,'' ``accessories,'' ``attachments,'' ``software,'' or 
+``technology'' ``specially designed'' or otherwise required for the F-
+14 aircraft will generally be denied. When destined to the People's 
+Republic of China or a country listed in Country Group E:1 in 
+Supplement No. 1 to part 740 of the EAR, items classified under any 
+9x515 ECCN will be subject to a policy of denial.
+    (ii) Applications for exports and reexports to a country listed in 
+Country Group D:5 (in Supplement No. 1 to part
+
+[[Page 70333]]
+
+740 of the EAR) of technology controlled under 6E001 for the 
+development of focal plane arrays or image intensifier tubes described 
+in 6A002, technology controlled under 6E002 for the production of focal 
+plane arrays or image intensifier tubes described in 6A002, or 
+technology controlled under 6E990 will be reviewed with a presumption 
+of denial.
+* * * * *
+
+PART 744--[AMENDED]
+
+0
+9. The authority citation for part 744 continues to read as follows:
+
+    Authority: 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 22 
+U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 U.S.C. 7201 et seq.; 22 
+U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; 
+E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 
+FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 12947, 60 FR 5079, 3 CFR, 
+1995 Comp., p. 356; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 
+228; E.O. 13099, 63 FR 45167, 3 CFR, 1998 Comp., p. 208; E.O. 13222, 
+66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13224, 66 FR 49079, 3 
+CFR, 2001 Comp., p. 786; Notice of September 18, 2015, 80 FR 57281 
+(September 22, 2015); Notice of November 12, 2015, 80 FR 70667 
+(November 13, 2015); Notice of January 20, 2016, 81 FR 3937 (January 
+22, 2016); Notice of August 4, 2016, 81 FR 52587 (August 8, 2016).
+
+
+0
+10. Section 744.9 is amended by revising the section heading and 
+paragraphs (a) and (b) to read as follows:
+
+
+Sec.  744.9  Restrictions on exports, reexports, and transfers (in-
+country) of certain cameras, systems, or related components.
+
+    (a) General prohibitions. (1) In addition to the applicable license 
+requirements for national security, regional stability, anti-terrorism 
+and United Nations embargo reasons in Sec. Sec.  742.4, 742.6, 742.8, 
+746.1(b), and 746.3 of the EAR, a license is required to export, 
+reexport, or transfer (in-country) to any destination other than Canada 
+commodities described in ECCNs 0A987 (incorporating commodities 
+controlled by ECCNs 6A002 or 6A003, or commodities controlled by 
+6A993.a that meet the criterion of Note 3.a to 6A003.b.4), 6A002, 
+6A003, 6A990, or 6A993.a (having a maximum frame rate equal to or less 
+than 9 Hz and thus meeting the criteria of Note 3.a to 6A003.b.4), or 
+8A002.d if at the time of export, reexport, or transfer, the exporter, 
+reexporter, or transferor knows or is informed that the item will be or 
+is intended to be:
+    (i) Used by a ``military end-user,'' as defined in paragraph (d) of 
+this section; or
+    (ii) Incorporated into a ``military commodity'' controlled by ECCN 
+0A919.
+    (2) The license requirement described in paragraph (a)(1) of this 
+section does not apply to exports, reexports, or transfers (in-country) 
+of items described in that paragraph when such items are being 
+reexported or transferred as part of a military deployment by a unit of 
+the government of a country in Country Group A:1 (see Supplement No. 1 
+to part 740).
+    (b) Additional prohibition on exporters, reexporters, or 
+transferors informed by BIS. BIS may inform an exporter, reexporter, or 
+transferor, either individually by specific notice or through amendment 
+to the EAR, that a license is required for the export, reexport, or 
+transfer of commodities described in ECCNs 0A987 (incorporating 
+commodities controlled by ECCNs 6A002 or 6A003, or commodities 
+controlled by 6A993.a that meet the criterion of Note 3.a to 
+6A003.b.4), 6A002, 6A003, 6A990, or 6A993.a (having a maximum frame 
+rate equal to or less than 9 Hz and thus meeting the criteria of Note 
+3.a to 6A003.b.4), or 8A002.d to specified end users, because BIS has 
+determined that there is an unacceptable risk of diversion to the users 
+or unauthorized incorporation into the ``military commodities'' 
+described in paragraph (a) of this section. Specific notice is to be 
+given only by, or at the direction of, the Deputy Assistant Secretary 
+for Export Administration. When such notice is provided orally, it will 
+be followed by a written notice within two working days signed by the 
+Deputy Assistant Secretary for Export Administration.
+* * * * *
+
+PART 772--[AMENDED]
+
+0
+11. The authority citation for part 772 continues to read as follows:
+
+    Authority: 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; E.O. 
+13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; Notice of August 4, 
+2016, 81 FR 52587 (August 8, 2016).
+
+
+0
+12. Section 772.1 is amended by revising the last sentence in Note 1 to 
+the definition of ``specially designed,'' to read as follows:
+
+
+Sec.  772.1  Definitions of terms as used in the Export Administration 
+Regulations (EAR).
+
+* * * * *
+    Specially designed. * * *
+
+    Note 1: * * * For purposes of ``specially designed,'' ECCNs 
+0B986, 0B999, 0D999, 1B999, 1C992, 1C995, 1C997, 1C999, 6A998 
+(except for .b), and 9A991 are treated as ECCNs controlled 
+exclusively for AT reasons.
+
+* * * * *
+
+PART 774--[AMENDED]
+
+0
+13. The authority citation for part 774 continues to read as follows:
+
+    Authority:  50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 10 
+U.S.C. 7420; 10 U.S.C. 7430(e); 22 U.S.C. 287c, 22 U.S.C. 3201 et 
+seq.; 22 U.S.C. 6004; 42 U.S.C. 2139a; 15 U.S.C. 1824a; 50 U.S.C. 
+4305; 22 U.S.C. 7201 et seq.; 22 U.S.C. 7210; E.O. 13026, 61 FR 
+58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 
+2001 Comp., p. 783; Notice of August 4, 2016, 81 FR 52587 (August 8, 
+2016).
+
+Supplement No. 1 to Part 774 [Amended]
+
+0
+14. In Supplement No. 1 to part 774, Category 0, ECCN 0A919 is amended 
+by revising the Items paragraph of the List of Items Controlled section 
+to read as follows:
+* * * * *
+
+0A919 ``Military commodities'' located and produced outside the 
+United States as follows (see List of Items Controlled).
+* * * * *
+
+List of Items Controlled
+
+* * * * *
+Items:
+
+    a. ``Military commodities'' produced and located outside the 
+United States that are not subject to the International Traffic in 
+Arms Regulations (22 CFR parts 120-130) and having any of the 
+following characteristics:
+    a.1. Incorporate more than a de minimis amount of U.S.-origin 
+controlled content classified under ECCNs 6A002, 6A003, 6A990, or 
+6A993.a (having a maximum frame rate equal to or less than 9 Hz and 
+thus meeting the criterion of Note 3.a to 6A003.b.4);
+    a.2. Incorporate more than a de minimis amount of U.S.-origin 
+``600 series'' controlled content (see Sec.  734.4 of the EAR); or
+    a.3. Are direct products of U.S.-origin ``600 series'' 
+technology or software (see Sec.  736.2(b)(3) of the EAR).
+    b. [Reserved]
+
+
+0
+15. In Supplement No. 1 to part 774, Category 0, ECCN 0A987 is amended 
+by:
+0
+a. Revising the Related Controls paragraph in the List of Items 
+Controlled section;
+0
+b. Revising paragraph f. in the Items paragraph in the List of Items 
+Controlled section; and
+0
+c. Adding a note to 0A987.f.
+    The revisions and addition read as follows:
+
+0A987 Optical sighting devices for firearms (including shotguns 
+controlled by 0A984); and ``components'' as follows (See List of 
+Items Controlled).
+* * * * *
+
+[[Page 70334]]
+
+List of Items Controlled
+
+Related Controls: (1) See USML Category I(f) for riflescopes subject 
+to the ITAR that are not night sighting devices. (2) See USML 
+Category XII(c) for sighting devices using second generation image 
+intensifier tubes having luminous sensitivity greater than 350 
+[micro]A/lm, or third generation or higher image intensifier tubes, 
+that are subject to the ITAR. (3) See USML Category XII(b) for laser 
+aiming or laser illumination systems subject to the ITAR. (4) 
+Section 744.9 imposes a license requirement on certain commodities 
+described in 0A987 if being exported, reexported, or transferred 
+(in-country) for use by a military end-user or for incorporation 
+into an item controlled by ECCN 0A919.
+* * * * *
+Items:
+* * * * *
+    f. Laser aiming devices or laser illuminators ``specially 
+designed'' for use on firearms, and having an operational wavelength 
+exceeding 400 nm but not exceeding 710 nm.
+
+    Note: 0A987.f does not control laser boresighting devices that 
+must be placed in the bore or chamber to provide a reference for 
+aligning the firearms sights.
+
+* * * * *
+
+
+0
+16. In Supplement No. 1 to part 774, Category 0, add ECCN 0E987 between 
+ECCN 0E984 and EAR99 to read as follows:
+
+0E987 ``Technology'' ``required'' for the ``development,'' or 
+``production'' of commodities controlled by 0A987 that incorporate a 
+focal plane array or image intensifier tube.
+
+License Requirements
+
+Reason for Control: RS, AT
+
+ 
+                                            Country chart (See supp. No.
+                Control(s)                         1 to part 738)
+ 
+RS applies to entire entry................  RS Column 1
+AT applies to entire entry................  AT Column 1
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+CIV: N/A
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+Related Definitions: N/A
+Items:
+
+    The list of items controlled is contained in the ECCN heading.
+
+
+0
+17. In Supplement No. 1 to part 774, Category 2, ECCN 2A984 is amended 
+by revising the heading and Note 1 of the Related Controls paragraph in 
+the List of Items Controlled section to read as follows:
+
+2A984 Concealed object detection equipment operating in the 
+frequency range from 30 GHz to 3000 GHz and having a spatial 
+resolution of 0.1 milliradian up to and including 1 milliradian at a 
+standoff distance of 100 meters; and ``parts'' and ``components,'' 
+n.e.s.
+* * * * *
+
+List of Items Controlled
+
+Related Controls: (1) Concealed object detection equipment operating 
+in the frequency range from 30 GHz to 3000 GHz and having a spatial 
+resolution less than 0.1 milliradian (a lower milliradian number 
+means a more accurate image resolution) at a standoff distance of 
+100 meters is ``subject to the ITAR'' under USML Category XII(c). * 
+* *
+* * * * *
+
+
+0
+18. In Supplement No. 1 to part 774, Category 6, ECCN 6A002 is amended 
+by:
+0
+a. Removing the ``Special Conditions for STA'' section; and
+0
+b. Revising the Related Controls paragraph in the List of Items 
+Controlled section.
+    The revision reads as follows:
+
+6A002 Optical sensors and equipment and ``components'' therefor, as 
+follows (see List of Items Controlled).
+* * * * *
+
+List of Items Controlled
+
+* * * * *
+Related Controls: (1) See USML Category XII(e)for infrared focal 
+plane arrays, image intensifier tubes, and related parts and 
+components, subject to the ITAR. (2) See USML Category XV(e) for 
+space-qualified focal plane arrays subject to the ITAR. (3) See also 
+ECCNs 6A102, 6A202, and 6A992. (4) See ECCN 0A919 for foreign-made 
+military commodities that incorporate commodities described in 
+6A002. (5) Section 744.9 imposes a license requirement on 
+commodities described in ECCN 6A002 if being exported, reexported, 
+or transferred (in-country) for use by a military end-user or for 
+incorporation into an item controlled by ECCN 0A919.
+* * * * *
+
+
+0
+19. In Supplement No. 1 to part 774, Category 6, ECCN 6A003 is amended 
+by:
+0
+a. Adding a License Requirement Note in the License Requirements 
+section;
+0
+b. Revising notes 3 and 4 in the Related Controls paragraph in the List 
+of Items Controlled section; and
+0
+c. Adding note 5 to the Related Controls paragraph in the List of Items 
+Controlled section.
+    The additions and revisions read as follows:
+
+6A003 Cameras, systems or equipment, and ``components'' therefor, as 
+follows (see List of Items Controlled).
+
+License Requirements
+
+* * * * *
+License Requirement Note: Commodities that are not subject to the 
+ITAR but are of the type described in USML Category XII(c) are 
+controlled as cameras in ECCN 6A003 when they incorporate a camera 
+controlled in this ECCN.
+* * * * *
+
+List of Items Controlled
+
+* * * * *
+Related Controls: * * * (3) See ECCN 0A919 for foreign made military 
+commodities that incorporate cameras described in 6A003. (4) Section 
+744.9 imposes a license requirement on cameras described in 6A003 if 
+being exported, reexported, or transferred (in-country) for use by a 
+military end-user or for incorporation into a commodity controlled 
+by ECCN 0A919. (5) See USML Category XII(c) and (e) for cameras 
+subject to the ITAR.
+* * * * *
+
+
+
+0
+20. In Supplement No. 1 to part 774, Category 6, ECCN 6A004 is amended 
+by revising the Related Controls paragraph in the List of Items 
+Controlled section to read as follows:
+
+6A004 Optical equipment and ``components,'' as follows (see List of 
+Items Controlled).
+* * * * *
+
+List of Items Controlled
+
+* * * * *
+Related Controls: (1) For optical mirrors or `aspheric optical 
+elements' ``specially designed'' for lithography ``equipment,'' see 
+ECCN 3B001. (2) See USML Category XII(e) for gimbals ``subject to 
+the ITAR.'' (3) See also 6A994.
+* * * * *
+
+
+0
+21. In Supplement No. 1 to part 774, Category 6, ECCN 6A005 is amended 
+by revising the last two sentences in the Related Controls paragraph in 
+the List of Items Controlled section to read as follows:
+
+6A005 ``Lasers,'' ``components'' and optical equipment, as follows 
+(see List of Items Controlled), excluding items that are subject to 
+the export licensing authority of the Nuclear Regulatory Commission 
+(see 10 CFR part 110).
+* * * * *
+
+List of Items Controlled
+
+* * * * *
+Related Controls: * * * (6) See USML Category XII(b) and (e) for 
+laser systems or lasers subject to the ITAR. (7) See USML Category 
+XVIII for certain laser-based directed energy weapon systems, 
+equipment, and components subject to the ITAR.
+* * * * *
+
+
+0
+22. In Supplement No. 1 to part 774, Category 6, ECCN 6A007 is amended 
+by revising the Related Controls paragraph in the List of Items 
+Controlled section to read as follows:
+
+
+[[Page 70335]]
+
+
+6A007 Gravity meters (gravimeters) and gravity gradiometers, as 
+follows (see List of Items Controlled).
+* * * * *
+
+List of Items Controlled
+
+Related Controls: (1) See USML Category XII(d) for certain gravity 
+meters (gravimeters) and gravity gradiometers subject to the ITAR. 
+(2) See also ECCNs 6A107, 6A997, and 7A611.
+* * * * *
+
+
+0
+23. In Supplement No. 1 to part 774, Category 6, ECCN 6A008 is amended 
+by revising the Related Controls paragraph in the List of Items 
+Controlled section to read as follows:
+
+6A008 Radar systems, equipment and assemblies, having any of the 
+following (see List of Items Controlled), and ``specially designed'' 
+``components'' therefor.
+* * * * *
+
+List of Items Controlled
+
+* * * * *
+Related Controls: (1) This entry does not control: Secondary 
+surveillance radar (SSR); Car radar designed for collision 
+prevention; Displays or monitors used for Air Traffic Control (ATC) 
+having no more than 12 resolvable elements per mm; Meteorological 
+(weather) radar. (2) See also ECCNs 6A108 and 6A998. ECCN 6A998 
+controls, inter alia, the Light Detection and Ranging (LIDAR) 
+equipment excluded by the note to paragraph j of this ECCN (6A008). 
+(3) See USML Category XII(b) for certain LIDAR, Laser Detection and 
+Ranging (LADAR), or range-gated systems subject to the ITAR.
+* * * * *
+
+
+0
+24. In Supplement No. 1 to part 774, Category 6, ECCN 6A107 is amended 
+by revising the Related Controls paragraph in the List of Items 
+Controlled section to read as follows:
+
+6A107 Gravity meters (gravimeters) or gravity gradiometers, other 
+than those controlled by 6A007, designed or modified for airborne or 
+marine use, as follows, (see List of Items Controlled) and 
+``specially designed'' ``parts'' and ``components'' therefor.
+* * * * *
+
+List of Items Controlled
+
+* * * * *
+Related Controls: See USML Category XII(d) for certain gravity 
+meters (gravimeters) or gravity gradiometers subject to the ITAR. 
+See also ECCN 7A611.
+* * * * *
+
+
+0
+25. In Supplement No. 1 to part 774, Category 6, ECCN 6A611 is revised 
+to read as follows:
+
+6A611 Acoustic systems and equipment, radar, and ``parts,'' 
+``components,'' ``accessories,'' and ``attachments'' ``specially 
+designed'' therefor, ``specially designed'' for a military 
+application that are not enumerated in any USML category or other 
+ECCN are controlled by ECCN 3A611. Military fire control, laser, 
+imaging, and guidance equipment that are not enumerated in any USML 
+category or ECCN are controlled by ECCN 7A611.
+
+
+0
+26. In Supplement No. 1 to part 774, Category 6, ECCN 6A990 is revised 
+to read as follows:
+
+6A990 Read-out integrated circuits, as follows (see List of Items 
+Controlled).
+
+License Requirements
+
+Reason for Control: RS, AT
+
+ 
+                                            Country chart (see supp. No.
+                Control(s)                         1 to part 738)
+ 
+RS applies to entire entry................  RS Column 1
+AT applies to entire entry................  AT Column 1
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: $500
+GBS: N/A
+CIV: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See USML Categories XII(e) and XV(e)(3) for 
+read-out integrated circuits ``subject to the ITAR.'' (2) See ECCN 
+0A919 for foreign made military commodities that incorporate 
+commodities described in 6A990. (3) Section 744.9 imposes a license 
+requirement on commodities described in 6A990 if being exported, 
+reexported, or transferred (in-country) for use by a military end-
+user or for incorporation into a commodity controlled by ECCN 0A919.
+Related Definitions: N/A
+Items:
+
+    a. Read-out integrated circuits ``specially designed'' for 
+``focal plane arrays'' controlled by 6A002.a.3;
+
+    Note: 6A990.a does not control read-out integrated circuits 
+``specially designed'' for civil automotive applications.
+
+    b. [RESERVED]
+* * * * *
+
+
+0
+27. In Supplement No. 1 to part 774, Category 6, ECCN 6A993 is amended 
+by revising the Related Controls paragraph in the List of Items 
+Controlled section to read as follows:
+
+6A993 Cameras, not controlled by 6A003 or 6A203, as follows (see 
+List of Items Controlled).
+* * * * *
+
+List of Items Controlled
+
+* * * * *
+Related Controls: (1) See ECCN 0A919 for foreign made military 
+commodities that incorporate cameras described in 6A993.a that meet 
+the criteria specified in Note 3.a to 6A003.b.4.b (i.e., having a 
+maximum frame rate equal to or less than 9 Hz). (2) Section 744.9 
+imposes license requirements on cameras described in 6A993.a as a 
+result of meeting the criteria specified in Note 3.a to 6A003.b.4.b 
+(i.e., having a maximum frame rate equal to or less than 9 Hz) if 
+being exported, reexported, or transferred (in-country) for use by a 
+military end-user or for incorporation into a commodity controlled 
+by ECCN 0A919.
+* * * * *
+
+
+0
+28. In Supplement No. 1 to part 774, Category 6, ECCN 6D002 is amended 
+by revising the TSR paragraph in the List Based License Exceptions 
+section and the Related Controls paragraph in the List of Items 
+Controlled section to read as follows:
+
+6D002 ``Software'' ``specially designed'' for the ``use'' of 
+equipment controlled by 6A002.b, 6A008 or 6B008.
+* * * * *
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+* * * * *
+TSR: Yes, except N/A for the following: (1) Items controlled for MT 
+reasons; (2) ``Software'' ``specially designed'' for the ``use'' of 
+``space qualified'' ``laser'' radar or Light Detection and Ranging 
+(LIDAR) equipment defined in 6A008.j.1; or (3) ``Software'' 
+``specially designed'' for the ``use'' of commodities controlled by 
+6A002.b.
+
+List of Items Controlled
+
+* * * * *
+Related Controls: (1) ``Software'' ``specially designed'' for the 
+``use'' of ``space-qualified'' LIDAR ``equipment'' ``specially 
+designed'' for surveying or for meteorological observation, released 
+from control under the note in 6A008.j, is controlled in 6D991. (2) 
+See also ECCNs 6D102, 6D991, and 6D992.
+* * * * *
+
+
+0
+29. In Supplement No. 1 to part 774, Category 6, ECCN 6D003 is amended 
+by revising the TSR paragraph in the List Based License Exceptions 
+section and the Related Controls paragraph in the List of Items 
+Controlled section to read as follows:
+
+6D003 Other ``software'' as follows (see List of Items Controlled).
+* * * * *
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+* * * * *
+TSR: Yes, except for 6D003.c and exports or reexports to 
+destinations outside of those countries listed in Country Group A:5 
+(See Supplement No. 1 to part 740 of the EAR) of ``software'' for 
+items controlled by 6D003.a.
+* * * * *
+
+List of Items Controlled
+
+* * * * *
+
+[[Page 70336]]
+
+Related Controls: See also ECCNs 6D103, 6D991, and 6D993.
+* * * * *
+
+
+0
+30. In Supplement No. 1 to part 774, Category 6, ECCN 6D991 is revised 
+to read as follows:
+
+6D991 ``Software,'' n.e.s., ``specially designed'' for the 
+``development'', ``production'', or ``use'' of commodities 
+controlled by 6A002, 6A003, 6A990, 6A991, 6A996, 6A997, or 6A998.
+
+License Requirements
+
+Reason for Control: RS, AT
+
+ 
+                                              Country chart  (see supp.
+                Control(s)                       No. 1 to part 738)
+ 
+RS applies to ``software'' for commodities  RS Column 1
+ controlled by 6A002, 6A003, 6A990, or
+ 6A998.b.
+RS applies to ``software'' for commodities  RS Column 2
+ controlled by 6A998.c.
+AT applies to entire entry, except          AT Column 1
+ ``software'' for commodities controlled
+ by 6A991.
+AT applies to ``software'' for commodities  AT Column 2
+ controlled by 6A991.
+ 
+
+List Based License Exceptions (See Part 740 for a description of all 
+license exceptions)
+
+CIV: N/A
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See ECCN 6D002 for ``software'' ``specially 
+designed'' for the ``use'' of commodities controlled under ECCN 
+6A002.b. (2) See ECCN 6D003.c for ``software'' ``specially 
+designed'' for cameras incorporating ``focal plane arrays'' 
+specified by 6A002.a.3.f and ``specially designed'' to remove a 
+frame rate restriction and allow the camera to exceed the frame rate 
+specified in 6A003.b.4 Note 3.a.
+Related Definitions: N/A
+Items:
+
+    The list of items controlled is contained in the ECCN heading.
+
+
+0
+31. In Supplement No. 1 to part 774, Category 6, ECCN 6E001 is amended 
+by revising the TSR paragraph in the List Based License Exceptions 
+section and the Related Controls paragraph in the List of Items 
+Controlled section to read as follows:
+
+6E001 ``Technology'' according to the General Technology Note for 
+the ``development'' of equipment, materials or ``software'' 
+controlled by 6A (except 6A990, 6A991, 6A992, 6A994, 6A995, 6A996, 
+6A997, 6A998, or 6A999.c), 6B (except 6B995), 6C (except 6C992 or 
+6C994), or 6D (except 6D991, 6D992, or 6D993).
+* * * * *
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+* * * * *
+TSR: Yes, except for the following: (1) Items controlled for MT 
+reasons; (2) ``Technology'' for commodities controlled by 6A002, 
+6A004.e or 6A008.j.1; (3) ``Technology'' for 6A003 cameras, unless 
+for ``technology'' for the integration of 6A003 cameras into camera 
+systems ``specially designed'' for civil automotive applications; 
+(4) ``Technology'' for ``software'' ``specially designed'' for 
+``space qualified'' ``laser'' radar or Light Detection and Ranging 
+(LIDAR) equipment defined in 6A008.j.1 and controlled by 6D001 or 
+6D002; or (5) Exports or reexports to destinations outside of those 
+countries listed in Country Group A:5 (See Supplement No. 1 to part 
+740 of the EAR) of ``technology'' for the ``development'' of the 
+following: (a) Items controlled by 6A001.a.1.b, 6A001.a.1.e, 
+6A001.a.2.a.1, 6A001.a.2.a.2, 6A001.a.2.a.3, 6A001.a.2.a.5, 
+6A001.a.2.a.6, 6A001.a.2.b, 6A001.a.2.d, 6A001.a.2.e., 6A004.c, 
+6A004.d,, 6A006.a.2, 6A006.c.1, 6A006.d, 6A006.e, 6A008.d, 6A008.h, 
+6A008.k, 6B008, or 6D003.a; (b) Equipment controlled by 6A001.a.2.c 
+or 6A001.a.2.f when ``specially designed'' for real time 
+applications; or (c) ``Software'' controlled by 6D001 and 
+``specially designed'' for the ``development'' or ``production'' of 
+equipment controlled by 6B008, or 6D003.a.
+* * * * *
+
+List of Items Controlled
+
+Related Controls: (1) Technical data directly related to satellites 
+and all other items described in USML Category XV are subject to the 
+ITAR under USML Category XV(f). (2) Technical data directly related 
+to laser systems, infrared imaging systems, and all other items 
+described in USML Category XII are subject to the ITAR under USML 
+Category XII(f). (3) See also 6E101, 6E201, and 6E991.
+* * * * *
+
+
+0
+32. In Supplement No. 1 to part 774, Category 6, ECCN 6E002 is amended 
+by revising the TSR paragraph in the List Based License Exceptions 
+section and the Related Controls paragraph in the List of Items 
+Controlled section to read as follows:
+
+6E002 ``Technology'' according to the General Technology Note for 
+the ``production'' of equipment or materials controlled by 6A 
+(except 6A990, 6A991, 6A992, 6A994, 6A995, 6A996, 6A997, 6A998 or 
+6A999.c), 6B (except 6B995) or 6C (except 6C992 or 6C994).
+* * * * *
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+* * * * *
+TSR: Yes, except for the following:
+
+    (1) Items controlled for MT reasons;
+    (2) ``Technology'' for commodities controlled by 6A002, 6A004.e, 
+or 6A008.j.1;
+    (3) ``Technology'' for 6A003 cameras, unless for ``technology'' 
+for the integration of 6A003 cameras into camera systems ``specially 
+designed'' for civil automotive applications ; or
+    (4) Exports or reexports to destinations outside of those 
+countries listed in Country Group A:5 (See Supplement No. 1 to part 
+740 of the EAR) of ``technology'' for the ``production'' of the 
+following: (a) Items controlled by 6A001.a.1.b, 6A001.a.1.e, 
+6A001.a.2.a.1, 6A001.a.2.a.2, 6A001.a.2.a.3, 6A001.a.2.a.5, 
+6A001.a.2.a.6, 6A001.a.2.b, 6A004.c, 6A004.d, 6A006.a.2, 6A006.c.1, 
+6A006.d, 6A006.e, 6A008.d, 6A008.h, 6A008.k, or 6B008; and (b) Items 
+controlled by 6A001.a.2.c or 6A001.a.2.f when ``specially designed'' 
+for real time applications.
+* * * * *
+
+List of Items Controlled
+
+Related Controls: (1) Technical data directly related to satellites 
+and all other items described in USML Category XV are subject to the 
+ITAR under USML Category XV(f). (2) Technical data directly related 
+to laser systems, infrared imaging systems, and all other items 
+described in USML Category XII are subject to the ITAR under USML 
+Category XII(f). (3) See also 6E992.
+* * * * *
+
+
+0
+33. In Supplement No. 1 to part 774, Category 6, ECCN 6E990 is amended 
+by revising the Related Controls paragraph in the List of Items 
+Controlled section to read as follows:
+
+6E990 ``Technology'' ``required'' for the ``development'' or 
+``production'' of commodities controlled by ECCN 6A990.
+* * * * *
+
+List of Items Controlled
+
+Related Controls: Technical data directly related to read-out 
+integrated circuits described in USML Categories XII(e) or XV(e)(3) 
+is subject to the ITAR under USML Categories XII(f) or XV(f), 
+respectively.
+
+* * * * *
+
+0
+34. In Supplement No. 1 to part 774, Category 7, ECCN 7A001 is amended 
+by revising the Related Controls paragraph in the List of Items 
+Controlled section to read as follows:
+
+7A001 Accelerometers as follows (see List of Items Controlled) and 
+``specially designed'' ``components'' therefor.
+* * * * *
+
+List of Items Controlled
+
+* * * * *
+Related Controls: (1) See USML Category XII(e) for accelerometers 
+subject to the ITAR. (2) See also ECCNs 7A101, 7A611, and 7A994. (3) 
+For angular or rotational accelerometers, see ECCN7A001.b. (4) MT
+
+[[Page 70337]]
+
+controls do not apply to accelerometers that are ``specially 
+designed'' and developed as Measurement While Drilling (MWD) sensors 
+for use in downhole well service applications.
+* * * * *
+
+
+0
+35. In Supplement No. 1 to part 774, Category 7, ECCN 7A002 is amended 
+by revising the Related Controls paragraph in the List of Items 
+Controlled section to read as follows:
+
+7A002 Gyros or angular rate sensors, having any of the following 
+(see List of Items Controlled) and ``specially designed'' 
+``components'' therefor.
+* * * * *
+
+List of Items Controlled
+
+Related Controls: (1) See USML Category XII(e) for gyros or angular 
+rate sensors subject to the ITAR. (2) See also ECCNs 7A102, 7A611, 
+and 7A994. (3) For angular or rotational accelerometers, see ECCN 
+7A001.b.
+* * * * *
+
+
+0
+36. In Supplement No. 1 to part 774, Category 7, ECCN 7A003 is amended 
+by revising the Related Controls paragraph in the List of Items 
+Controlled section, to read as follows:
+
+7A003 `Inertial measurement equipment or systems,' having any of the 
+following (see List of Items Controlled).
+* * * * *
+
+List of Items Controlled
+
+Related Controls: (1) See also ECCNs 7A103, 7A611, and 7A994. (2) 
+See USML Category XII(d) for guidance or navigation systems subject 
+to the ITAR.
+* * * * *
+
+
+0
+37. In Supplement No. 1 to part 774, Category 7, amend ECCN 7A005 by 
+revising the Related Controls paragraph in the List of Items Controlled 
+section to read as follows:
+
+7A005 Global Navigation Satellite Systems (GNSS) receiving equipment 
+having any of the following (see List of Items Controlled) and 
+``specially designed'' ``components'' therefor.
+* * * * *
+
+List of Items Controlled
+
+Related Controls: (1) See also ECCNs 7A105 and 7A994. Typically 
+commercially available GNSS receivers do not employ decryption or 
+adaptive antennas and are classified as 7A994. (2) See USML Category 
+XII(d) for GNSS receiving equipment subject to the ITAR.
+* * * * *
+
+
+0
+38. In Supplement No. 1 to part 774, Category 7, ECCN 7A101 is amended 
+by revising the Related Controls paragraph in the List of Items 
+Controlled section to read as follows:
+
+7A101 Accelerometers, other than those controlled by 7A001 (see List 
+of Items Controlled), and ``specially designed'' ``parts'' and 
+``components'' therefor.
+* * * * *
+
+List of Items Controlled
+
+Related Controls: (1) See USML Category XII(e) for accelerometers 
+subject to the ITAR. (2) See also ECCNs 7A001 and 7A611. (3) This 
+entry does not control accelerometers that are ``specially 
+designed'' and developed as MWD (Measurement While Drilling) sensors 
+for use in downhole well service operations.
+* * * * *
+
+
+0
+39. In Supplement No. 1 to part 774, Category 7, ECCN 7A102 is amended 
+by revising the Related Controls paragraph in the List of Items 
+Controlled section to read as follows:
+
+7A102 Gyros, other than those controlled by 7A002 (see List of Items 
+Controlled), and ``specially designed'' ``parts'' and ``components'' 
+therefor.
+* * * * *
+
+List of Items Controlled
+
+Related Controls: (1) See USML Category XII(e) for gyros or angular 
+rate sensors subject to the ITAR. (2) See also ECCNs 7A002, 7A611, 
+and 7A994.
+* * * * *
+
+
+0
+40. In Supplement No. 1 to part 774, Category 7, ECCN 7A611 is revised 
+to read as follows:
+
+7A611 Military fire control, laser, imaging, and guidance equipment, 
+as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, MT, RS, AT, UN
+
+ 
+                                            Country chart (see supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry except 7A611.y.  NS Column 1
+MT applies to commodities in 7A611.a that   MT Column 1
+ meet or exceed the parameters in 7A103.b
+ or .c.
+RS applies to entire entry except 7A611.y.  RS Column 1
+AT applies to entire entry................  AT Column 1
+UN applies to entire entry except 7A611.y.  See Sec.   746.1(b) for UN
+                                             controls
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: $1500
+GBS: N/A
+CIV: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (Sec.  740.20(c)(2) 
+of the EAR) may not be used for any item in 7A611.
+
+List of Items Controlled
+
+Related Controls: (1) Military fire control, laser, imaging, and 
+guidance equipment that are enumerated in USML Category XII, and 
+technical data (including software) directly related thereto, are 
+subject to the ITAR. (2) See Related Controls in ECCNs 0A987, 2A984, 
+6A002, 6A003, 6A004, 6A005, 6A007, 6A008, 6A107, 7A001, 7A002, 
+7A003, 7A005, 7A101, 7A102, and 7A103. (3) See ECCN 3A611 and USML 
+Category XI for controls on countermeasure equipment. (4) See ECCN 
+0A919 for foreign-made ``military commodities'' that incorporate 
+more than a de minimis amount of U.S. origin ``600 series'' 
+controlled content.
+Related Definitions: N/A
+Items:
+
+    a. Guidance or navigation systems, not elsewhere specified on 
+the USML, that are ``specially designed'' for a defense article on 
+the USML or for a 600 series item.
+    b. to w. [RESERVED]
+    x. ``Parts,'' ``components,'' ``accessories,'' and 
+``attachments,'' including accelerometers, gyros, angular rate 
+sensors, gravity meters (gravimeters), and inertial measurement 
+units (IMUs), that are ``specially designed'' for defense articles 
+controlled by USML Category XII or items controlled by 7A611, and 
+that are NOT:
+    1. Enumerated or controlled in the USML or elsewhere within ECCN 
+7A611;
+    2. Described in ECCNs 6A007, 6A107, 7A001, 7A002, 7A003, 7A101, 
+7A102 or 7A103; or
+    3. Elsewhere specified in ECCN 7A611.y or 3A611.y.
+    y. Specific ``parts,'' ``components,'' ``accessories,'' and 
+``attachments'' ``specially designed'' for a commodity subject to 
+control in this ECCN or a defense article in Category XII and not 
+elsewhere specified on the USML or in the CCL, as follows, and 
+``parts,'' ``components,'' ``accessories,'' and ``attachments'' 
+``specially designed'' therefor:
+    y.1 [RESERVED]
+
+
+0
+41. In Supplement No. 1 to part 774, Category 7, ECCN 7A994 is revised 
+to read as follows:
+
+7A994 Other navigation direction finding equipment, airborne 
+communication equipment, all aircraft inertial navigation systems 
+not controlled under 7A003 or 7A103, and other avionic equipment, 
+including ``parts'' and ``components,'' n.e.s.
+
+License Requirements
+
+Reason for Control: AT
+
+ 
+                                            Country chart (see supp. No.
+                Control(s)                         1 to part 738)
+ 
+AT applies to entire entry................  AT Column 1
+ 
+
+
+[[Page 70338]]
+
+License Requirement Notes:
+
+    Typically commercially available GPS do not employ decryption or 
+adaptive antenna and are classified as 7A994.
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: N/A
+GBS: N/A
+CIV: N/A
+
+List of Items Controlled
+
+Related Controls: See 7A005 and 7A105.
+Related Definitions: N/A
+Items: The list of items controlled is contained in the ECCN 
+heading.
+* * * * *
+
+
+0
+42. In Supplement No. 1 to part 774, Category 7, add ECCN 7B611 between 
+ECCNs 7B103 and 7B994 to read as follows:
+
+7B611 Test, inspection, and production commodities ``specially 
+designed'' for military fire control, laser, imaging, and guidance 
+equipment, as follows (see List of Items Controlled).
+
+License Requirements
+
+    Reason for Control: NS, MT, RS, AT, UN
+
+ 
+                                            Country chart (see supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry................  NS Column 1
+MT applies to 7B611.a commodities           MT Column 1
+ ``specially designed'' for 7A611.a
+ commodities controlled for MT reasons.
+RS applies to entire entry................  RS Column 1
+AT applies to entire entry................  AT Column 1
+UN applies to entire entry................  See Sec.   746.1(b) for UN
+                                             controls
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: $1500
+GBS: N/A
+CIV: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (Sec.  740.20(c)(2) 
+of the EAR) may not be used for any item in 7B611.
+
+List of Items Controlled
+
+Related Controls: N/A
+Related Definitions: N/A
+Items:
+
+    a. Test, inspection, and production end items and equipment 
+``specially designed'' for the ``development,'' ``production,'' 
+repair, overhaul, or refurbishing of commodities controlled in ECCN 
+7A611 (except 7A611.y) or commodities in USML Category XII that are 
+not enumerated in USML Category XII or controlled by another ``600 
+series'' ECCN.
+    b. Environmental test facilities ``specially designed'' for the 
+certification, qualification, or testing of commodities controlled 
+in ECCN 7A611 (except 7A611.y) or guidance equipment in USML 
+Category XII that are not enumerated in USML Category XII or 
+controlled by another ``600 series'' ECCN.
+    c. Field test equipment ``specially designed'' to evaluate or 
+calibrate the operation of systems described in USML Category 
+XII(a), (b), or (c).
+    d. to w. [RESERVED]
+    x. ``Parts,'' ``components,'' ``accessories,'' and 
+``attachments'' that are ``specially designed'' for a commodity 
+listed in this entry and that are not enumerated on the USML or 
+controlled by another ``600 series'' ECCN.
+
+
+0
+43. In Supplement No. 1 to part 774, Category 7, add ECCN 7D611 between 
+ECCNs 7D103 and 7D994 to read as follows:
+
+7D611 ``Software'' ``specially designed'' for commodities controlled 
+by 7A611 or equipment controlled by 7B611, as follows (see List of 
+Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, MT, RS, AT, UN
+
+ 
+                                            Country chart (see supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry except 7D611.y.  NS Column 1
+MT applies to 7D611.a ``software''          MT Column 1
+ ``specially designed'' for 7A611.a
+ commodities controlled for MT reasons.
+RS applies to entire entry except 7D611.y.  RS Column 1
+AT applies to entire entry................  AT Column 1
+UN applies to entire entry except 7D611.y.  See Sec.   746.1(b) for UN
+                                             controls
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+CIV: N/A
+TSR: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (Sec.  740.20(c)(2) 
+of the EAR) may not be used for any software in 7D611.
+
+List of Items Controlled
+
+Related Controls: ``Software'' directly related to articles 
+enumerated in USML Category XII is subject of USML paragraph XII(f).
+Related Definitions: N/A
+Items:
+
+    a. ``Software'' ``specially designed'' for the ``development,'' 
+``production,'' operation, or maintenance of commodities controlled 
+by ECCNs 7A611 (except 7A611.y) or 7B611.
+    b. to x. [RESERVED]
+    y. Specific ``software'' ``specially designed'' for the 
+``development,'' ``production,'' operation, or maintenance of 
+commodities described in 7A611.y.
+
+
+0
+44. In Supplement No. 1 to part 774, Category 7, add ECCN 7E611 between 
+ECCNs 7E104 and 7E994 to read as follows:
+
+7E611 ``Technology'' ``required'' for the ``development,'' 
+``production,'' operation, installation, maintenance, repair, 
+overhaul or refurbishing of commodities controlled by 7A611, 
+commodities controlled by 7B611, or software controlled by 7D611, as 
+follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, MT, RS, AT, UN
+
+ 
+                                            Country chart (see supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry except 7E611.y.  NS Column 1
+MT applies to ``technology'' in 7E611.a if  MT Column 1
+ ``required'' for items controlled for MT
+ reasons in 7A611.a, 7B611.a, or 7D611.a.
+RS applies to entire entry except 7E611.y.  RS Column 1
+AT applies to entire entry................  AT Column 1
+UN applies to entire entry except 7E611.y.  See Sec.   746.1(b) for UN
+                                             controls
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+CIV: N/A
+TSR: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (Sec.  740.20(c)(2) 
+of the EAR) may not be used for any technology in 7E611.
+
+List of Items Controlled
+
+Related Controls: Technical data directly related to articles 
+enumerated in USML Category XII are subject to the control of USML 
+Category XII(f).
+Related Definitions: N/A
+    Items:
+
+    a. ``Technology'' ``required'' for the ``development,'' 
+``production,'' operation, installation, maintenance, repair, 
+overhaul, or refurbishing of commodities or ``software'' controlled 
+by ECCN 7A611 (except 7A611.y), 7B611, or 7D611 (except 7D611.y).
+    b. through .x [RESERVED]
+    y. Specific ``technology'' ``required'' for the ``production,'' 
+``development,'' operation, installation, maintenance, repair, or 
+overhaul of commodities or software controlled by ECCNs 7A611.y or 
+7D611.y.
+
+
+0
+45. In Supplement No. 1 to part 774, Category 7, ECCN 7E994 is amended 
+by revising the Related Controls paragraph
+
+[[Page 70339]]
+
+in the List of Items Controlled section to read as follows:
+
+7E994 ``Technology,'' n.e.s., for the ``development,'' 
+``production'', or ``use'' of navigation, airborne communication, 
+and other avionics equipment.
+* * * * *
+
+List of Items Controlled
+
+* * * * *
+Related Controls: N/A
+* * * * *
+
+
+0
+46. In Supplement No. 1 to part 774, Category 8, ECCN 8A002 is amended 
+by adding a sentence to the end of the Related Controls paragraph in 
+the List of Items Controlled section to read as follows:
+
+8A002 Marine systems, equipment, ``parts'' and ``components,'' as 
+follows (see List of Items Controlled).
+* * * * *
+
+List of Items Controlled
+
+* * * * *
+Related Controls: * * * (5) Section 744.9 imposes a license 
+requirement on commodities described in 8A002.d if being exported, 
+reexported, or transferred (in-country) for use by a military end-
+user or for incorporation into an item controlled by ECCN 0A919.
+* * * * *
+
+
+0
+47. In Supplement No. 1 to part 774, Category 9, ECCN 9A991 is amended 
+by:
+0
+a. Removing the License Requirement Notes paragraph in the License 
+Requirements section, and
+0
+b. Revising the Related Controls paragraph in the List of Items 
+Controlled section.
+    The revision reads as follows:
+
+9A991 ``Aircraft'', n.e.s., and gas turbine engines not controlled 
+by 9A001 or 9A101 and ``parts'' and ``components,'' n.e.s. (see List 
+of Items Controlled).
+* * * * *
+
+List of Items Controlled
+
+* * * * *
+Related Controls: N/A
+* * * * *
+
+    Dated: September 15, 2016.
+Kevin J. Wolf,
+Assistant Secretary of Commerce for Export Administration.
+[FR Doc. 2016-24220 Filed 10-11-16; 8:45 am]
+ BILLING CODE 3510-33-P

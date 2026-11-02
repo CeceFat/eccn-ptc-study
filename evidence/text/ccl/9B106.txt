@@ -1,0 +1,51 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9B106；eCFR 2026-10-29〕
+
+9B106 Environmental chambers usable for rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km and their subsystems, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Environmental chambers having all of the following characteristics:
+
+a.1. Capable of simulating any of the following flight conditions:
+
+a.1.a. Altitude equal to or greater than 15,000 m; or
+
+a.1.b. Temperature range from below −50 °C to above 125 °C; and
+
+a.2. Incorporating, or designed or modified to incorporate, a shaker unit or other vibration test equipment to produce vibration environments equal to or greater than 10 g rms, measured 'bare table,' between 20 Hz and 2 kHz while imparting forces equal to or greater than 5 kN;
+
+Technical Notes: 1. Item 9B106.a.2 describes systems that are capable of generating a vibration environment with a single wave (e.g., a sine wave) and systems capable of generating a broad band random vibration (i.e., power spectrum).
+
+2. The term ‘bare table’ means a flat table, or surface, with no fixture or fittings.
+
+3. In Item 9B106.a.2, designed or modified means the environmental chamber provides appropriate interfaces (e.g., sealing devices) to incorporate a shaker unit or other vibration test equipment as specified in this Item.
+
+b. Environmental chambers capable of simulating all of the following flight conditions:
+
+b.1. Acoustic environments at an overall sound pressure level of 140 dB or greater (referenced to 2 × 10−5 N/m 2) or with a total rated acoustic power output of 4kW or greater; and
+
+b.2. Any of the following:
+
+b.2.a. Altitude equal to or greater than 15,000 m; or
+
+b.2.b. Temperature range of at least −50 °C to + 125 °C.

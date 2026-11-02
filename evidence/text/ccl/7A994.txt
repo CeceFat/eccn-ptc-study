@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 7A994；eCFR 2026-10-29〕
+
+7A994 Other navigation direction finding equipment, airborne communication equipment, all aircraft inertial navigation systems not controlled under 7A003 or 7A103, and other avionic equipment, including “parts” and “components,” n.e.s.
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1.
+
+License Requirement Notes: Typically commercially available GPS do not employ decryption or adaptive antenna and are classified as 7A994.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See 7A005 and 7A105.
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

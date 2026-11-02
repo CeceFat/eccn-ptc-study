@@ -1,0 +1,39 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9B515；eCFR 2026-10-29〕
+
+9B515 Test, inspection, and production “equipment” “specially designed” for “spacecraft” and related commodities, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, MT, RS, AT
+
+Control(s) | Country chart(see supp. no. 1 to part 738)
+
+NS applies to entire entry | NS Column 1.
+
+MT applies to equipment in 9B515.a for the “development” or “production” of commodities in USML Category XV(e)(12) and XV(e)(19) that are MT controlled | MT Column 1.
+
+RS applies to entire entry | RS Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: $1500; $5000 for 9B515.b
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in 9B515.
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Test, inspection, and production “equipment” “specially designed” for the “production” or “development” of commodities enumerated in ECCNs 9A004.u, 9A515.a, or USML Category XV(a) or XV(e).
+
+Note: ECCN 9B515.a includes equipment, cells, and stands “specially designed” for the analysis or isolation of faults in commodities enumerated in ECCNs 9A004.u or 9A515.a, or USML Category XV(a) or XV(e).
+
+b. Environmental test chambers capable of pressures below (10−4) Torr, and “specially designed” for commodities enumerated in 9A515.a or USML Category XV(a).

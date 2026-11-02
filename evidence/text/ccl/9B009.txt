@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9B009；eCFR 2026-10-29〕
+
+9B009 Tooling “specially designed” for producing gas turbine engine powder metallurgy rotor “parts” or “components” having all of the following (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart(see Supp. No. 1 topart 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $5,000
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See 9B002.
+
+Related Definitions: N/A
+
+Items: a. Designed to operate at stress levels of 60% of Ultimate Tensile Strength (UTS) or more measured at a temperature of 873 K (600 °C); and
+
+b. Designed to operate at a temperature of 873 K (600 °C) or more.
+
+Note: 9B009 does not specify tooling for the production of powder.

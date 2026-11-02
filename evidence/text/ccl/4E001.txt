@@ -1,0 +1,71 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 4E001；eCFR 2026-10-29〕
+
+4E001 “Technology” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, MT, RS, CC, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry, except for “technology” for 4A090 or “software” specified by 4D090 | NS Column 1.
+
+MT applies to “technology” for items controlled by 4A001.a and 4A101 for MT reasons | MT Column 1.
+
+RS applies to “technology” for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, 4A005.z.1, 4A090.a or “software” specified by 4D001 (for 4A003.z.1.a, z.2.a, 4A004.z.1 and 4A005.z.1), or 4D090.a | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+
+RS applies to “technology” for commodities controlled by 4A003.z.1.b, z.2.b, 4A004.z.2, 4A005.z.2, 4A090.b or “software” specified by 4D001 (for 4A003.z.1.b, z.2.b, 4A004.z.2, and 4A005.z.2), or 4D090.b | To or within the United Arab Emirates or destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
+
+CC applies to “technology” for computerized finger-print equipment controlled by 4A003 for CC reasons | CC Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: Yes, except for the following:
+
+(1) “Technology” for the “development” or “production” of commodities with an “Adjusted Peak Performance” (“APP”) exceeding 70 WT or for the “development” or “production” of commodities controlled by 4A005 or “software” controlled by 4D004;
+
+(2) “Technology” for the “development” of “intrusion software”; or
+
+(3) “Technology” for commodities controlled by 4A003.z, 4A004.z, 4A005.z, 4A090 or “software” specified by 4D001 (for 4A003.z, 4A004.z, and 4A005.z), or 4D090
+
+APP: Yes, to specific countries (see § 740.7 of the EAR for eligibility criteria).
+
+ACE: Yes for 4E001.a (for the “development”, “production” or “use” of equipment or “software” specified in ECCN 4A005 or 4D004); and for 4E001.c, except to Country Group E:1 or E:2. See § 740.22 of the EAR for eligibility criteria.
+
+AIA: Yes for “technology” for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, 4A005.z.1, 4A090.a or “software” specified by 4D001 (for 4A003.z.1.a, z.2.a, 4A004.z.1 and 4A005.z.1), or 4D090.a
+
+ACM: Yes for “technology” for commodities controlled by 4A003.z, 4A004.z, 4A005.z, 4A090 or “software” specified by 4D001 (for 4A003.z, 4A004.z and 4A005.z), or 4D090.
+
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for technology for .z paragraphs under ECCNs 4A003, 4A004, 4A005 or 4A090, or “software” specified by 4D001 (for 4A003.z, 4A004.z, 4A005.z, and 4A090).
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship or transmit “technology” according to the General Technology Note for the “development” or “production” of any of the following equipment or “software”: a. Equipment specified by ECCN 4A001.a.2; b. “Digital computers” having an 'Adjusted Peak Performance' ('APP') exceeding 70 Weighted TeraFLOPS (WT); c. “software” specified in the License Exception STA paragraph found in the License Exception section of ECCN 4D001; or “technology” for commodities controlled by 4A003.z.1.b, z.2.b, 4A004.z.2, 4A005.z.2, 4A090.b or “software” specified by 4D001 (for 4A003.z.1.b, z.2.b, 4A004.z.2, and 4A005.z.2), or 4D090.b to any of the destinations listed in Country Group A:6 (See Supplement No. 1 to part 740 of the EAR). License Exception STA may not be used to ship or transmit “technology” for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, 4A005.z.1, 4A090.a or “software” specified by 4D001 (for 4A003.z.1.a, z.2.a, 4A004.z.1 and 4A005.z.1), or 4D090.a to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No. 1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items:
+
+a. “Technology” according to the General Technology Note, for the “development”, “production”, or “use” of equipment or “software” controlled by 4A (except 4A906, 4A980 or 4A994 and “use” of equipment controlled under 4A090) or 4D (except 4D906, 4D980, 4D993, 4D994 and “use” of software controlled under 4D090).
+
+b. “Technology” according to the General Technology Note, other than that controlled by 4E001.a, for the “development” or “production” of equipment as follows:
+
+b.1. “Digital computers” having an “Adjusted Peak Performance” (“APP”) exceeding 24 Weighted TeraFLOPS (WT);
+
+b.2. “Electronic assemblies” “specially designed” or modified for enhancing performance by aggregation of processors so that the “APP” of the aggregation exceeds the limit in 4E001.b.1.
+
+c. “Technology” for the “development” of “intrusion software.”
+
+Note 1: 4E001.a and .c do not apply to “vulnerability disclosure” or “cyber incident response”.
+
+Note 2: Note 1 does not diminish national authorities' rights to ascertain compliance with 4E001.a and .c.

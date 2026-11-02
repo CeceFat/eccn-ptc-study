@@ -1,0 +1,41 @@
+〔15 CFR Supplement No. 8 to Part 740；eCFR 2026-10-29〕
+
+Supplement No. 8 to Part 740—Approved Ultimate Consignees and End Users for Advanced Computing Items and/or License Exception STA in the UAE
+
+This supplement specifies the ultimate consignees and end users in the UAE that may, as specified, receive certain advanced computing items license-free consistent with § 742.6(a)(6)(iii)(A)-(B) or items under License Exception STA, provided that in the case of License Exception STA, the export, reexport, or transfer (in-country) is not otherwise restricted under any of the general restrictions under § 740.2 and meets all of the applicable terms and conditions of License Exception STA. See §§ 740.2(a)(26) and 740.20. Other parties to the transaction, i.e., purchaser or intermediate consignee, do not need to be specified in this supplement in order to be parties to transactions made under License Exception STA. Ultimate consignees and end users in the UAE that seek to become approved to receive advanced computing items license-free or for use of License Exception STA by being specified under this supplement, including U.S.-headquartered entities operating in the UAE, may submit a request for an advisory opinion to BIS consistent with the provisions of § 748.3(c). Within 30 days of receiving a request, the Secretary of Commerce, in consultation with the Secretary of State and the Assistant to the President for National Security Affairs, shall determine whether the entity should be approved for addition to this supplement and the scope of any such authorization (i.e., for the receipt of advanced computing items license-free, for use of License Exception STA, or both). Within 5 days of a determination, BIS will notify the entity requesting the advisory opinion of the determination and, if approved, initiate the process to add the requestor to the approved entities listed in this supplement no. 8 to part 740.
+
+(a) Government agencies. Government agencies of the UAE, including the Ministry of Defense and Armed Forces, are approved entities to receive advanced computing items license-free consistent with § 742.6(a)(6)(iii)(A)-(B) and to receive all other eligible items pursuant to full use of License Exception STA as of July 10, 2026. This approval does not extend to UAE state-owned corporations or to contractors or grantees of UAE government agencies.
+
+(b) Other UAE ultimate consignees and end users. In addition to the government agencies specified in paragraph (a) of this supplement, the ultimate consignees and end users in the UAE specified in the table to paragraph (b) of this supplement may receive items license-free consistent with § 742.6(a)(6)(iii)(A)-(B) and/or under License Exception STA, as specified.
+
+Entity | Address | Authorization | Federal Register
+
+Group 42 Holding Ltd d/b/a/G42, including G42 Cloud Technology LLC | [RESERVED] | Advanced Computing Items Consistent with § 742.6(a)(6)(iii)(A)-(B) | 91 FR 43038, 7/10/2026.
+
+Core42 Technology Projects LLC d/b/a/ Core42 | [RESERVED] | Advanced Computing Items Consistent with § 742.6(a)(6)(iii)(A)-(B) | 91 FR 43038, 7/10/2026.
+
+Note 1 to paragraph (b): The address column is included in the table to assist exporters, reexporters, and transferors to more easily identify the specified entities, but exporters, reexporters, and transferors are advised that an approved ultimate consignee or end user specified in this table may receive an item under License Exception STA at any of their addresses in the UAE.
+
+Note 2 to paragraph (b): Absent subsequent notice by BIS, the authorization provided for G42 and Core42 in this supplement shall automatically expire on April 6, 2027.
+
+(c) Certain U.S.-headquartered AI companies and their subsidiaries. U.S.-headquartered AI companies specified in the table to paragraph (c) of this supplement, as well as their subsidiaries, may, as specified, receive advanced computing items license-free consistent with § 742.6(a)(6)(iii)(A)-(B) and to receive all other eligible items pursuant to full use of License Exception STA.
+
+Entity | Authorization | Federal Register
+
+Amazon.com, Inc | Advanced Computing Items Consistent with § 742.6(a)(6)(iii)(A)-(B); License Exception STA | 91 FR 43038, 7/14/2026.
+
+Apple, Inc | Advanced Computing Items Consistent with § 742.6(a)(6)(iii)(A)-(B); License Exception STA | 91 FR 43038, 7/14/2026.
+
+Google LLC | Advanced Computing Items Consistent with § 742.6(a)(6)(iii)(A)-(B); License Exception STA | 91 FR 43038, 7/14/2026.
+
+Meta Platforms, Inc | Advanced Computing Items Consistent with § 742.6(a)(6)(iii)(A)-(B); License Exception STA | 91 FR 43038, 7/14/2026.
+
+Microsoft Corporation | Advanced Computing Items Consistent with § 742.6(a)(6)(iii)(A)-(B); License Exception STA | 91 FR 43038, 7/14/2026.
+
+OpenAI Group PBC | Advanced Computing Items Consistent with § 742.6(a)(6)(iii)(A)-(B); License Exception STA | 91 FR 43038, 7/14/2026.
+
+Oracle Corporation | Advanced Computing Items Consistent with § 742.6(a)(6)(iii)(A)-(B); License Exception STA | 91 FR 43038, 7/14/2026.
+
+X.AI LLC | Advanced Computing Items Consistent with § 742.6(a)(6)(iii)(A)-(B); License Exception STA | 91 FR 43038, 7/14/2026.
+
+[91 FR 43038, July 14, 2026]

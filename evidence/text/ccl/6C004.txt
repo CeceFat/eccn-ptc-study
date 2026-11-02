@@ -1,0 +1,65 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6C004；eCFR 2026-10-29〕
+
+6C004 Optical materials as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: $1500
+
+GBS: Yes for 6C004.a and .e
+
+List of Items Controlled
+
+Related Controls: See also 6C994
+
+Related Definitions: N/A
+
+Items: a. Zinc selenide (ZnSe) and zinc sulfide (ZnS) “substrate blanks”, produced by the chemical vapor deposition process and having any of the following:
+
+a.1. A volume greater than 100 cm 3; or
+
+a.2. A diameter greater than 80 mm and a thickness of 20 mm or more;
+
+b. Electro-optic materials and non-linear materials, as follows:
+
+b.1. Potassium titanyl arsenate (KTA) (CAS 59400-80-5);
+
+b.2. Silver gallium selenide (AgGaSe2, also known as AGSE) (CAS 12002-67-4);
+
+b.3. Thallium arsenic selenide (Tl3AsSe3, also known as TAS) (CAS 16142-89-5);
+
+b.4. Zinc germanium phosphide (ZnGeP2, also known as ZGP, zinc germanium biphosphide or zinc germanium diphosphide); or
+
+b.5. Gallium selenide (GaSe) (CAS 12024-11-2);
+
+c. Non-linear optical materials, other than those specified by 6C004.b, having any of the following:
+
+c.1. Having all of the following:
+
+c.1.a. Dynamic (also known as nonstationary) third order nonlinear susceptibility (χ(3), chi 3) of 10−6 m 2/V 2 or more; and
+
+c.1.b. Response time of less than 1 ms; or
+
+c.2. Second order nonlinear susceptibility (χ(2), chi 2) of 3.3 × 10−11 m/V or more;
+
+d. “Substrate blanks” of silicon carbide or beryllium beryllium (Be/Be) deposited materials, exceeding 300 mm in diameter or major axis length;
+
+e. Glass, including fused silica, phosphate glass, fluorophosphate glass, zirconium fluoride (ZrF4) (CAS 7783-64-4) and hafnium fluoride (HfF4) (CAS 13709-52-9) and having all of the following:
+
+e.1. A hydroxyl ion (OH-) concentration of less than 5 ppm;
+
+e.2. Integrated metallic purity levels of less than 1 ppm; and
+
+e.3. High homogeneity (index of refraction variance) less than 5 × 10−6;
+
+f. Synthetically produced diamond material with an absorption of less than 10−5 cm−1 for wavelengths exceeding 200 nm but not exceeding 14,000 nm.

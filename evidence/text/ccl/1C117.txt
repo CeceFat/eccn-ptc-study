@@ -1,0 +1,47 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C117；eCFR 2026-10-29〕
+
+1C117 Materials for the fabrication of missile “parts” or “components” for rockets or missiles capable of achieving a “range” equal to or greater than 300 km, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See 1C226.
+
+Related Definitions: N/A
+
+Items: a. Tungsten and alloys in particulate form with a tungsten content of 97% by weight or more and a particle size of 50 × 10−6 m (50 µm) or less;
+
+b. Molybdenum and alloys in particulate form with a molybdenum content of 97% by weight or more and a particle size of 50 × 10−6 m (50 µm) or less;
+
+c. Tungsten materials in the solid form having all of the following:
+
+c.1. Any of the following material compositions:
+
+c.1.a. Tungsten and alloys containing 97% by weight or more of tungsten;
+
+c.1.b. Copper infiltrated tungsten containing 80% by weight or more of tungsten; or
+
+c.1.c. Silver infiltrated tungsten containing 80% by weight or more of tungsten; and
+
+c.2. Able to be machined to any of the following products:
+
+c.2.a. Cylinders having a diameter of 120 mm or greater and a length of 50 mm or greater;
+
+c.2.b. Tubes having an inner diameter of 65 mm or greater and a wall thickness of 25 mm or greater and a length of 50 mm or greater; or
+
+c.2.c. Blocks having a size of 120 mm × 120 mm × 50 mm or greater.

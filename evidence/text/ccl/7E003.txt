@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 7E003；eCFR 2026-10-29〕
+
+7E003 “Technology” according to the General Technology Note for the repair, refurbishing or overhaul of equipment controlled by 7A001 to 7A004.
+
+License Requirements
+
+Reason for Control: NS, MT, AT
+
+Control(s) | Country chart(See Supp. No.1to part 738)
+
+NS applies to entire entry | NS Column 1
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: See also 7E994. This entry does not control “technology” for maintenance directly associated with calibration, removal or replacement of damaged or unserviceable LRUs and SRAs of a “civil aircraft” as described in 'Maintenance Level I' or 'Maintenance Level II'.
+
+Related Definition: Refer to the Related Definitions for 7B001 for 'Maintenance Level I' or 'Maintenance Level II'.
+
+Items: The list of items controlled is contained in the ECCN heading.

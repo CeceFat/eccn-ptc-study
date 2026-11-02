@@ -1,0 +1,177 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3B993；eCFR 2026-10-29〕
+
+3B993 Specified semiconductor manufacturing equipment as follows (see list of items controls), and “specially designed” “components” and “accessories” therefor.
+
+License Requirements
+
+Reason for Control: RS, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+RS applies to entire entry | See § 742.6(a)(11) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 3D993 and 3E993 for associated “software” and “technology” controls. (2) For additional controls that apply to this ECCN, see also § 744.11(a)(2)(v) and § 744.23(a)(4) of the EAR.
+
+Related Definitions: N/A
+
+Items:
+
+a. [Reserved]
+
+b. Semiconductor wafer fabrication equipment for 300 mm wafers designed for ion implantation and having any of the following:
+
+b.1. Equipment designed for plasma doping, having all of the following:
+
+b.1.a. One or more Radio Frequency (RF) power source(s);
+
+b.1.b. One or more pulsed DC Power Source; and
+
+b.1.c. One or more n-type or p-type dopant implants.
+
+b.2 [Reserved]
+
+c. Etch equipment as follows:
+
+c.1. Equipment designed or modified for anisotropic etching of dielectric materials and enabling the fabrication of high aspect ratio features with aspect ratio greater than 30:1 and a lateral dimension on the top surface of less than 100 nm, and having all of the following:
+
+c.1.a. Radio Frequency (RF) power source(s) with at least one pulsed RF output; and
+
+c.1.b. One or more fast gas switching valve(s) with switching time less than 300 milliseconds.
+
+Note: 3B993.c.1 includes etching by 'radicals', ions, sequential reactions, or non-sequential reaction.
+
+Technical Note: For the purposes of the Note to 3B993.c.1, 'radical' is defined as an atom, molecule, or ion that has an unpaired electron in an open electron shell configuration.
+
+c.2. Equipment, not specified by 3B993.c.1, designed for anisotropic etching of dielectric material and enabling the fabrication of high aspect ratio features having all of the following:
+
+c.2.a. An aspect ratio greater than 30:1; and
+
+c.2.b. A lateral dimension on the top surface of less than 40 nm.
+
+Note: 3B993.c.2 does not apply to equipment designed for wafer diameters less than 300 mm.
+
+c.3. Equipment, not specified by 3B001.c.1.c, designed or modified for anisotropic dry etching, having all of the following:
+
+c.3.a. Radio Frequency (RF) power source(s) with at least one pulsed RF output;
+
+c.3.b. One or more fast gas switching valve(s) with switching time less than 500 milliseconds; and
+
+c.3.c. Electrostatic chuck with greater than or equal to 10 individually controllable variable temperature elements.
+
+d. Semiconductor manufacturing deposition equipment as follows:
+
+d.1. Equipment designed, not specified by 3B001.d.14, for deposition assisted by remotely generated 'radicals', enabling the fabrication of a silicon (Si) and carbon (C) containing film, and having all of the following properties of the deposited film:
+
+d.1.a. A dielectric constant (k) of less than 5.3;
+
+d.1.b. In features with an aspect ratio greater than 5:1 with lateral openings of less than 70 nm; and
+
+d.1.c. A feature-to-feature pitch of less than 100 nm.
+
+d.2. Equipment designed for deposition of a film, containing silicon and carbon, and having a dielectric constant (k) of less than 5.3, into lateral openings having widths of less than 70 nm and aspect ratios greater than 5:1 (depth: width) and a feature-to-feature pitch of less than 100 nm, while maintaining the wafer substrate at a temperature greater than 400 °C and less than 650 °C, and having all of the following:
+
+d.2.a. Boat designed to hold multiple vertically stacked wafers;
+
+d.2.b. Two or more vertical injectors; and
+
+d.2.c. A silicon source and propene are introduced to a different injector than a nitrogen source or an oxygen source.
+
+d.3. Equipment designed for chemical vapor deposition of a carbon material layer with a density more than 1.6 g/cm 3.
+
+d.4. Deposition equipment, not specified by 3B001.d.19, having direct-liquid injection of more than two metal precursors, designed or modified to deposit a conformal dielectric film with a dielectric constant (K) greater than 35 in features with aspect ratio greater than 50:1 in a single deposition chamber.
+
+e. [Reserved]
+
+f. Lithography commodities as follows:
+
+f.1. Align and expose step and repeat (direct step on wafer) or step and scan (scanner) lithography equipment for wafer processing using photo-optical or X-ray methods and having all of the following:
+
+f.1.a. [Reserved]
+
+f.1.b. A light source wavelength equal to or longer than 193 nm and having all of the following:
+
+f.1.b.1 The capability to produce a pattern with a 'Minimum Resolvable Feature size' ('MRF') of 45 nm or less; and
+
+f.1.b.2. A maximum 'dedicated chuck overlay' value greater than 1.50 nm and less than or equal to 2.40 nm.
+
+Technical Notes for paragraph 3B993.f.1: 1. The 'Minimum Resolvable Feature size' ('MRF') is calculated by the following formula:
+
+where, for the purposes of 3B993.f.1, the K factor = 0.25.
+
+'MRF' is also known as resolution.
+
+2. 'Dedicated chuck overlay' is the alignment accuracy of a new pattern to an existing pattern printed on a wafer by the same lithographic system. 'Dedicated chuck overlay' is also known as single machine overlay.
+
+f.2. Imprint lithography equipment having an overlay accuracy above 1.5 nm and less (better) than or equal to 4.0 nm.
+
+f.3. Commodities designed or modified to increase the number of wafers processed per hour, averaged over any time interval, by greater than 1%, of equipment specified in 3B001.f.1 or 3B993.f.1.
+
+f.4. Commodities not specified by 3B993.f.1 designed or modified to perform all of the following in or with deep-ultraviolet immersion photolithography equipment:
+
+f.4.a. Decrease the minimum resolvable feature specified by 3B993.f.1.b.1; and
+
+f.4.b. Decrease the maximum 'dedicated chuck overlay' of deep-ultraviolet immersion lithography equipment above 1.5 nm and below or equal to 2.4 nm.
+
+g. through n. [Reserved]
+
+o. Annealing equipment designed for 300 mm wafers as follows:
+
+o.1 Annealing equipment, operating in a vacuum (equal to or less than 0.01 Pa) environment, performing any of the following:
+
+o.1.a Reflow of copper (Cu) to minimize or eliminate voids or seams in copper (Cu) metal interconnects; or
+
+o.1.b Reflow of cobalt (Co) or tungsten (W) fill metal to minimize or eliminate voids or seams;
+
+o.2. Equipment designed to heat a semiconductor wafer to a temperature greater than 1000 °C (1832 °F) for a 'duration' less than 2 ms.
+
+Technical Note: For the purposes of 3B993.o.2, 'duration' is the period above stated temperature.
+
+p. Removal and cleaning equipment as follows:
+
+p.1. Equipment designed for removing polymeric residue and copper oxide (CuO) film and enabling deposition of copper (Cu) metal in a vacuum (equal to or less than 0.01 Pa) environment.
+
+p.2. [Reserved]
+
+p.3. Equipment designed for dry surface oxide removal preclean or dry surface decontamination.
+
+Note to 3B993.p.1 and p.3: These controls do not apply to deposition equipment.
+
+q. Inspection and metrology equipment as follows:
+
+q.1. Patterned wafer defect metrology or patterned wafer defect inspection equipment, designed or modified to accept wafers greater than or equal to 300 mm in diameter, and having all of the following:
+
+q.1.a. Designed or modified to detect defects having a size equal to or less than 21 nm; and
+
+q.1.b. Having any of the following:
+
+q.1.b.1. A light source with an optical wavelength less than 400 nm;
+
+q.1.b.2. An electron-beam source with a resolution less (better) than or equal to 1.65 nm;
+
+q.1.b.3. A Cold Field Emission (CFE) electron-beam source; or
+
+q.1.b.4. Two or more electron-beam sources.
+
+q.2. Metrology equipment as follows:
+
+q.2.a. Stand-alone equipment designed to measure wafer shape parameters prior to lithography exposure and utilize measurements to improve overlay or focus of a deep ultraviolet (DUV) lithography system having an immersion lens having a numerical aperture more than 1.3 or an Extreme Ultraviolet lithography (EUV) system; or
+
+q.2.b. Metrology equipment designed to measure focus or overlay after resist development or after etch on product wafers using image-based overlay or diffraction-based measurements techniques, with an overlay measurement accuracy less (better) than or equal to 0.5 nm having any of the following:
+
+q.2.b.1 designed for integration to a 'track'; or
+
+q.2.b.2 'fast wavelength switching functionality';
+
+Technical Notes: 1. For the purposes of 3B993.q.2, a 'track' is equipment designed for coating and developing photoresist formulated for lithography.
+
+2. For the purposes of 3B993.q.2, 'fast wavelength switching functionality' is defined as having the ability the change the measurement wavelength and acquire a measurement in less than 25 ms.

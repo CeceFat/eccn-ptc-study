@@ -1,0 +1,35 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3A069；eCFR 2026-10-29〕
+
+3A069 Specific Laboratory Equipment as Follows (See List of Items Controlled)
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2.
+
+RS applies to entire entry | To or within Macau or a destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(12) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: Yes, except N/A for destinations subject to the RS control in 3A999.
+
+List of Items Controlled
+
+Related Controls: See also 3A999 for specific processing equipment, n.e.s.. See also 3E069 for technology for the “development” and “production” of items detailed in 3A069.
+
+License Requirement Note: Excluded from the scope of this entry are flow cytometers and mass spectrometers that are devices, as defined in section 201(h) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 321(h), that have been authorized for marketing by the Food and Drug Administration under section 510(k), section 513, or section 515 of the FD&C Act, 21 U.S.C. 360(k), 21 U.S.C. 360c, 21 U.S.C. 360e, or are exempt from the requirement of premarket notification under section 510(k) of the FD&C Act, 21 U.S.C. 360(k), and that are included in a list required by section 510(j) of the FD&C Act, 21 U.S.C. 360(j).
+
+Related Definitions: N/A
+
+Items:
+
+a. Flow cytometers and cell sorters that are “specially designed” for spectral analysis or contain 26 or greater detectors or channels.
+
+b. Liquid chromatography mass spectrometry instruments (LC/MS and LC-MS/MS) “specially designed” for top-down proteomic analysis.

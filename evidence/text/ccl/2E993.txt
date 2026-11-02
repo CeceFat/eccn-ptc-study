@@ -1,0 +1,23 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2E993；eCFR 2026-10-29〕
+
+2E993 “Technology” according to the General Technology Note for the “use” of equipment controlled by 2A992 or 2A993.
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country chart(see supp. no. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

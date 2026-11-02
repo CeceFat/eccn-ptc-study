@@ -1,0 +1,67 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1B001；eCFR 2026-10-29〕
+
+1B001 Equipment for the production or inspection of “composite” structures or laminates controlled by 1A002 or “fibrous or filamentary materials” controlled by 1C010, as follows (see List of Items Controlled), and “specially designed” “components” and “accessories” therefor.
+
+License Requirements
+
+Reason for Control: NS, MT, NP, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+MT applies to entire entry, except 1B001.d.4, e and f. Note: MT applies to equipment in 1B001.d that meet or exceed the parameters of 1B101 | MT Column 1
+
+NP applies to filament winding machines described in 1B001.a that are capable of winding cylindrical rotors having a diameter between 75 mm (3 in) and 400 mm (16 in) and lengths of 600 mm (24 in) or greater; AND coordinating and programming controls and precision mandrels for these filament winding machines | NP Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A for MT and for 1B001.a; $5000 for all other items
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See ECCN 1D001 for software for items controlled by this entry and see ECCNs 1E001 (“development” and “production”) and 1E101 (“use”) for technology for items controlled by this entry. (2) Also see ECCNs 1B101 and 1B201.
+
+Related Definitions: N/A
+
+Items:
+
+a. Filament winding machines, of which the motions for positioning, wrapping and winding fibers are coordinated and programmed in three or more 'primary servo positioning' axes, “specially designed” for the manufacture of “composite” structures or laminates, from “fibrous or filamentary materials”;
+
+b. 'Tape laying machines', of which the motions for positioning and laying tape are coordinated and programmed in five or more 'primary servo positioning' axes, “specially designed” for the manufacture of “composite” airframe or missile structures;
+
+Technical Note: For the purposes of 1B001.b, 'tape-laying machines' have the ability to lay one or more 'filament bands' limited to widths greater than 25.4 mm and less than or equal to 304.8 mm, and to cut and restart individual 'filament band' courses during the laying process.
+
+c. Multidirectional, multidimensional weaving machines or interlacing machines, including adapters and modification kits, “specially designed” or modified for weaving, interlacing or braiding fibers for “composite” structures;
+
+Technical Note: For the purposes of 1B001.c the technique of interlacing includes knitting.
+
+d. Equipment “specially designed” or adapted for the production of reinforcement fibers, as follows:
+
+d.1. Equipment for converting polymeric fibers (such as polyacrylonitrile, rayon, pitch or polycarbosilane) into carbon fibers or silicon carbide fibers, including special equipment to strain the fiber during heating;
+
+d.2. Equipment for the chemical vapor deposition of elements or compounds, on heated filamentary substrates, to manufacture silicon carbide fibers;
+
+d.3. Equipment for the wet-spinning of refractory ceramics (such as aluminum oxide);
+
+d.4. Equipment for converting aluminum containing precursor fibers into alumina fibers by heat treatment;
+
+e. Equipment for producing prepregs controlled by 1C010.e by the hot melt method;
+
+f. Non-destructive inspection equipment “specially designed” for “composite” materials, as follows:
+
+f.1. X-ray tomography systems for three dimensional defect inspection;
+
+f.2. Numerically controlled ultrasonic testing machines of which the motions for positioning transmitters or receivers are simultaneously coordinated and programmed in four or more axes to follow the three dimensional contours of the “part” or “component” under inspection;
+
+g. Tow-placement machines, of which the motions for positioning and laying tows are coordinated and programmed in two or more 'primary servo positioning' axes, “specially designed” for the manufacture of “composite” airframe or missile structures.
+
+Technical Note to 1B001.g: For the purposes of 1B001.g, 'tow-placement machines' have the ability to place one or more 'filament bands' having widths less than or equal to 25.4 mm, and to cut and restart individual 'filament band' courses during the placement process.
+
+Technical Notes for 1B001: 1. For the purposes of 1B001, 'primary servo positioning' axes control, under computer “program” direction, the position of the end effector (i.e., head) in space relative to the work piece at the correct orientation and direction to achieve the desired process.
+
+2. For the purposes of 1B001, a 'filament band' is a single continuous width of fully or partially resin-impregnated tape, tow or fiber. Fully or partially resin-impregnated 'filament bands' include those coated with dry powder that tacks upon heating.

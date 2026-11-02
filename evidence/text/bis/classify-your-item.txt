@@ -1,0 +1,165 @@
+〔U.S. BIS｜Classify your item｜抓取 2026-11-02｜https://www.bis.gov/licensing/classify-your-item〕
+
+Classify your item | Bureau of Industry and Security An official website of the United States government
+
+Here's how you know
+
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+A lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+Skip to main content Bureau of Industry and Security
+U.S. Department of Commerce
+
+Homepage Email notifications
+
+- Regulations
+
+- Licensing
+
+- Learn & Support
+
+- News & Updates
+
+- Enforcement
+
+- About BIS
+
+- Regulations
+
+- Licensing
+
+- Learn & Support
+
+- News & Updates
+
+- Enforcement
+
+- About BIS
+
+Licensing
+
+- About Licensing
+
+- Determine what is subject to the EAR
+
+- Classify your item
+
+- Country guidance
+
+- Guidance on end-use and end-user controls and U.S. person controls
+
+- Apply for a license (SNAP-R)
+
+- Track an application (STELA)
+
+- License exceptions
+
+- BIS forms
+
+Classify your item
+After confirming that your item is subject to the Export Administration Regulations (EAR), 15 CFR parts 730-774 (or, in limited situations, certain U.S. persons’ activities that may be unrelated to items subject to the EAR), the next step for determining whether a license is required for export, reexport, or transfer (in-country) transactions is to know the Export Control Classification Number (ECCN) of the item (meaning “commodities, software, and technology”).
+
+Quick links
+
+- Commerce Control List (CCL) in the EAR
+
+- Interactive Commerce Control List
+
+- Supplement no. 4 to Part 774: CCL Order of Review
+
+What is an ECCN?
+A key in determining whether you need a Department of Commerce export license is knowing whether your item is described in an Export Control Classification Number (ECCN). ECCNs are five character alpha-numeric designations used on the Commerce Control List to identify items for export control purposes.
+Please note: An ECCN is distinct from and entirely unrelated to either a Schedule B number or a Harmonized Tariff System (HTS) code. Contact the U.S. Census Bureau for information on Schedule B numbers. Contact the U.S. International Trade Commission for information on HTS codes.
+Structure of an ECCN
+An ECCN categorizes items based on the nature of the item , i.e. type of commodity, software, or technology, and its technical parameters. The first character of the ECCN is a number from 0 through 9 that identifies the broader category to which an item belongs. The second character of the ECCN is a letter from A through E that identifies the product group. The last three digits of the ECCN are specific entries listed on the Commerce Control List.
+
+How do I classify my item?
+There are three ways to determine whether your item is described in an ECCN on the Commerce Control List.
+1. Go to the source
+Contact the manufacturer, producer, or developer of the item you are exporting to see if they can provide you with the ECCN for the item. Keep in mind that ECCNs may change over time, so please review the ECCN against the current Commerce Control List to ensure it is accurate.
+BIS maintains a Classification Information Table listing companies that have voluntarily provided information for third parties to receive classifications.
+2. Self-classify
+In order to self-classify an item, you need a technical understanding of the item and a familiarity with the structure of an ECCN. The steps to classify an item as “subject to the EAR” are outlined in supplement no. 4 to part 774: Commerce Control List Order of Review . BIS offers tools to assist with applying the Order of Review to self-classify an item:
+
+- Interactive Commerce Control List (CCL)
+
+- CCL Order of Review Decision Tool
+
+- How to Determine an ECCN (PDF)
+
+3. Request an official classification from BIS
+Request BIS to identify the correct ECCN for your item by following the classification request guidelines in Section 748.3 of the EAR . Classification requests are submitted electronically using the Simplified Network Application Process Redesign (SNAP-R) .
+
+What if my item isn’t listed on the Commerce Control List?
+If your item is subject to the EAR but is not described in or otherwise classified under any ECCN of any category of the Commerce Control List, then the item is designated as “EAR99.” EAR99 items do not require a license for export, reexport, or transfer (in country) in most situations; however, EAR99 items may require a license if destined for a prohibited or restricted end user, end use or destination of concern.
+
+Training videos
+BIS offers the following training videos to assist with classifying items subject to the EAR.
+
+Export Controls: Classifying Your Item
+Start here with an overview of how to classify an item subject to the Export Administration Regulations (EAR).
+
+Watch video on YouTube
+
+An Introduction to "Specially Designed"
+An Introduction to "Specially Designed." "Specially designed" is a definition in part 772 of the Export Administration Regulations used in supplement no. 4 to part 774: Commerce Control List Order of Review.
+
+Watch video on YouTube
+
+SNAP-R: Submitting Commodity Classification Requests
+Follow along for step-by-step instructions on submitting a commodity classification request to BIS.
+
+Watch video on YouTube
+
+Bureau of Industry and Security
+
+- Share to YouTube
+
+- Share to Twitter
+
+- Share to LinkedIn
+
+Advancing U.S. national security, foreign policy, and economic objectives by ensuring an effective export control and treaty compliance system and promoting continued U.S. strategic technology leadership.
+
+Regulations
+Export Administration Regulations (EAR) Chemical Weapons Convention Regulations (CWCR) Federal Register Notices
+
+Licensing
+About Licensing Determine what is subject to the EAR Classify your item Country guidance Guidance on end-use and end-user controls and U.S. person controls Apply for licenses (SNAP-R) Track applications (STELA) License exceptions BIS forms
+
+Learn & Support
+About Learn & Support Events Training videos Decision tools Chemical and biological controls Deemed exports Encryption controls Export Compliance Programs (ECPs) Reexports and exports from abroad Guidance & Frequently Asked Questions Advisory Opinions
+
+News & Updates
+News & Updates
+
+Enforcement
+About Export Enforcement Don't Let This Happen To You Offices & leadership Voluntary Self-Disclosure
+
+About BIS
+About BIS Guiding principles Leadership Offices Technical Advisory Committees (TAC) Annual reports Freedom of Information Act Privacy Policy Program Contact us
+
+- Website updates
+
+- FOIA
+
+- Disclaimer
+
+- Privacy Policy
+
+- SORN
+
+- Information Quality
+
+- Department of Commerce
+
+- USA.gov
+
+- Accessibility
+
+- Small Business Fairness
+
+- System Use Notice

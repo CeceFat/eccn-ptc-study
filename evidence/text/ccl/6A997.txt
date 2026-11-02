@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6A997；eCFR 2026-10-29〕
+
+6A997 Gravity meters (gravimeters) for ground use, n.e.s., as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Having a static accuracy of less (better) than 100 microgal; or
+
+b. Being of the quartz element (Worden) type.

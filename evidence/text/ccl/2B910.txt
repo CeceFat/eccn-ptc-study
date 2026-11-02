@@ -1,0 +1,69 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2B910；eCFR 2026-10-29〕
+
+2B910 Additive manufacturing equipment, designed to produce metal or metal alloy components, having all of the following (see List of Items Controlled), and “specially designed” “components” therefor.
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | Worldwide control. See § 742.4(a)(5) and (b)(10) of the EAR.
+
+RS applies to entire entry | Worldwide control. See § 742.6(a)(10) and (b)(11) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+IEC: Yes, see § 740.2(a)(22) and § 740.24 of the EAR.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any item in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: For related “technology” see ECCN 2E910.
+
+Related Definitions: N/A
+
+Items:
+
+a. Having at least one of the following consolidation sources:
+
+a.1. “Laser”;
+
+a.2. Electron beam; or
+
+a.3. Electric arc;
+
+b. Having a controlled process atmosphere of any of the following:
+
+b.1. Inert gas; or
+
+b.2. Vacuum (equal to or less than 100 Pa);
+
+c. Having any of the following 'in-process monitoring' equipment in a 'co-axial configuration' or 'paraxial configuration':
+
+c.1. Imaging camera with a peak response in the wavelength range exceeding 380 nm but not exceeding 14,000 nm;
+
+c.2. Pyrometer designed to measure temperatures greater than 1,273.15K (1,000 °C); or
+
+c.3. Radiometer or spectrometer with a peak response in the wavelength range exceeding 380 nm but not exceeding 3,000 nm; and
+
+d. A closed loop control system designed to modify the consolidation source parameters, build path, or equipment settings during the build cycle in response to feedback from 'in-process monitoring' equipment specified in 2B910.c.
+
+Technical Notes: For the purposes of 2B910:
+
+1. 'In-process monitoring', also known as in-situ process monitoring, pertains to the observation and measurement of the additive manufacturing process including electromagnetic, or thermal, emissions from the melt pool.
+
+2. 'Co-axial configuration', also known as on-axis or inline configuration, pertains to one or more sensors that are mounted in an optical path shared by the “laser” consolidation source.
+
+3. 'Paraxial configuration' pertains to one or more sensors that are physically mounted onto or integrated into the “laser”, electron beam, or electric arc consolidation source component.
+
+4. For both 'co-axial configuration' and 'paraxial configuration', the field of view of the sensor(s) is fixed to the moving reference frame of the consolidation source and moves in the same scan trajectories of the consolidation source throughout the build process.

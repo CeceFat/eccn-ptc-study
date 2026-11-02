@@ -1,0 +1,219 @@
+〔U.S. BIS｜Decontrol notes（Cat 5 Part 2 除外註記）｜抓取 2026-11-02｜https://www.bis.gov/learn-support/encryption-controls/decontrol〕
+
+Decontrol | Bureau of Industry and Security An official website of the United States government
+
+Here's how you know
+
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+A lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+Skip to main content Bureau of Industry and Security
+U.S. Department of Commerce
+
+Homepage Email notifications
+
+- Regulations
+
+- Licensing
+
+- Learn & Support
+
+- News & Updates
+
+- Enforcement
+
+- About BIS
+
+- Regulations
+
+- Licensing
+
+- Learn & Support
+
+- News & Updates
+
+- Enforcement
+
+- About BIS
+
+Learn & Support
+
+- About Learn & Support
+
+- Events
+
+- Training videos
+
+- Decision tools
+
+- Chemical and biological controls
+
+- Deemed exports
+
+- Encryption controls
+
+- Export Compliance Programs (ECPs)
+
+- Reexports and exports from abroad
+
+- Guidance and Frequently Asked Questions
+
+- Advisory Opinions
+
+v. Decontrol
+
+Decontrol notes: Items or specially designed components are not classified in Cat. 5 Part 2 if encryption is limited to any of the following:
+(a) Smart cards and smart card ‘readers/writers’ as follows:
+
+- a.1. A smart card or an electronically readable personal document (e.g., token coin, e passport) that meets any of the following:
+
+- a.1.a. The cryptographic capability meets all of the following:
+- a.1.a.1. It is restricted for use in any of the following:
+
+- a.1.a.1.a. Equipment or systems, not described by 5A002.a.1 to a.4;
+
+- a.1.a.1.b. Equipment or systems, not using ‘cryptography for data confidentiality’ having ‘in excess of 56 bits of symmetric key length, or equivalent;’ or
+
+- a.1.a.1.c. Equipment or systems, excluded from 5A002.a by entries b. to f. of this Note; and
+
+- a.1.a.2. It cannot be reprogrammed for any other use; or
+
+- a.1.b. Having all of the following:
+
+- a.1.b.1. It is specially designed and limited to allow protection of ‘personal data’ stored within;
+
+- a.1.b.2. Has been, or can only be, personalized for public or commercial transactions or individual identification; and
+
+- a.1.b.3. Where the cryptographic capability is not user-accessible;
+
+- Technical Note to paragraph a.1.b of Note 2: ‘Personal data’ includes any data specific to a particular person or entity, such as the amount of money stored and data necessary for “authentication.”
+- a.2. ‘Readers/writers’ specially designed or modified, and limited, for items specified by paragraph a.1 of this Note;
+
+- Technical Note to paragraph a.2 of Note 2: ‘Readers/writers’ include equipment that communicates with smart cards or electronically readable documents through a network.
+
+(b) Cryptographic equipment specially designed and limited for banking use or 'money transactions';
+Technical Note: 'Money transactions' in 5A002 Note (b) includes the collection and settlement of fares or credit functions.
+(c) Portable or mobile radiotelephones for civil use (e.g., for use with commercial civil cellular radio communication systems) that are not capable of transmitting encrypted data directly to another radiotelephone or equipment (other than Radio Access Network (RAN) equipment), nor of passing encrypted data through RAN equipment (e.g., Radio Network Controller (RNC) or Base Station Controller (BSC));
+(d) Cordless telephone equipment not capable of end-to-end encryption where the maximum effective range of unboosted cordless operation (i.e., a single, unrelayed hop between terminal and home base station) is less than 400 meters according to the manufacturer's specifications;
+(e) Portable or mobile radiotelephones and similar client wireless devices for civil use, that implement only published or commercial cryptographic standards (except for anti-piracy functions, which may be non-published) and also meet the provisions of paragraphs a.2 to a.4 of the Cryptography Note (Note 3 in Category 5 – Part 2), that have been customized for a specific civil industry application with features that do not affect the cryptographic functionality of these original non-customized devices;
+(f) Items, where the “information security” functionality is limited to wireless “personal area network” functionality, meeting all of the following:
+
+- f.1. Implement only published or commercial cryptographic standards; and
+
+- f.2. The cryptographic capability is limited to a nominal operating range not exceeding 30 meters according to the manufacturer’s specifications, or not exceeding 100 meters according to the manufacturer’s specifications for equipment that cannot interconnect with more than seven devices;
+
+- Personal area network. (Cat 5 Part 2)—A data communication system having all of the following characteristics:
+- (a) Allows an arbitrary number of independent or interconnected ‘data devices’ to communicate directly with each other; and
+
+- (b) Is confined to the communication between devices within the immediate vicinity of an individual person or device controller (e.g., single room, office, or automobile, and their nearby surrounding spaces).
+
+- Technical Note: ‘Data device’ means equipment capable of transmitting or receiving sequences of digital information.
+
+(g) Mobile telecommunications Radio Access Network (RAN) equipment designed for civil use, which also meet the provisions of paragraphs a.2 to a.4 of the Cryptography Note (Note 3 in Category 5 -- Part 2), having an RF output power limited to 0.1W (20 dBm) or less, and supporting 16 or fewer concurrent users;
+(h) Routers, switches or relays, where the "information security" functionality is limited to tasks of "Operations, Administration or Maintenance" ("OAM") implementing only published or commercial cryptographic standards;
+
+- (Software limited to the tasks of OAM is also not in Cat. 5 part 2, See Note under 5D002.c)
+
+- “Operations, Administration or Maintenance” (“OAM”) (Cat 5P2) Means performing one or more of the following tasks:
+- a. Establishing or managing any of the following:
+- 1. Accounts or privileges of users or administrators;
+
+- 2. Settings of an item; or
+
+- 3. Authentication data in support of the tasks described in paragraphs a.1 or a.2;
+
+- b. Monitoring or managing the operating condition or performance of an item; or
+
+- c. Managing ogs or audit data in support of any of the tasks described in paragraphs a. or b.
+
+- Note: “ OAM” does not include any of the following tasks or their associated key management functions:
+- a. Provisioning or upgrading any cryptographic functionality that is not directly related to establishing or managing authentication data in support of the tasks described in paragraphs a.1 or a.2 above; or
+
+- b. Performing any cryptographic functionality on the forwarding or data plane of an item.
+
+See also FAQ #9 for additional resource information.
+(i) General purpose computing equipment or servers, where the “information security” functionality meets all of the following:
+
+- 1. Uses only published or commercial cryptographic standards; and
+
+- 2. Is any of the following:
+- a. Integral to a CPU that meets the provisions of Note 3 in Category 5 - Part 2;
+
+- b. Integral to an operating system that is not specified by 5D002; or
+
+- c. Limited to “OAM” of the equipment.
+
+(j) Items specially designed for a “connected civil industry application” meeting all of the following:
+
+- j.1. Being any of the following:
+
+- j.1.a. A network-capable endpoint device meeting any of the following:
+
+- j.1.a.1. The "information security" functionality is limited to securing 'non-arbitrary data' or the tasks of "Operations, Administration or Maintenance" ("OAM"); or
+
+- j.1.a.2. The device is limited to a specific 'connected civil industry application'; or
+
+- j.1.b. Networking equipment meeting all of the following:
+
+- j.1.b.1. Being specially designed to communicate with the devices specified by paragraph j.1.a. above; and
+
+- j.1.b.2. The "information security" functionality is limited to supporting the 'connected civil industry application' of devices specified by paragraph j.1.a. above, or the tasks of "OAM" of this networking equipment or of other items specified by paragraph j. of this Note; and
+
+- j.2. Where the "information security" functionality implements only published or commercial cryptographic standards, and the cryptographic functionality cannot easily be changed by the user.
+
+See FAQ #13 for additional resource information.
+The Decontrol notes can be found in the Commerce Control List under the entry for 5A002.a. For some entries the above text includes corresponding definitions from Part 772 of the EAR and/or additional points to note.
+If the encryption is limited to what is described in the above text, then 5A002.a does not apply. In that case you should review other entries in Category 5 Part 2 and other Categories on the CCL (e.g., Cat. 4 or Cat. 5, Part 1). If it is not described in any other Category, then it can be classified as EAR99.
+
+Bureau of Industry and Security
+
+- Share to YouTube
+
+- Share to Twitter
+
+- Share to LinkedIn
+
+Advancing U.S. national security, foreign policy, and economic objectives by ensuring an effective export control and treaty compliance system and promoting continued U.S. strategic technology leadership.
+
+Regulations
+Export Administration Regulations (EAR) Chemical Weapons Convention Regulations (CWCR) Federal Register Notices
+
+Licensing
+About Licensing Determine what is subject to the EAR Classify your item Country guidance Guidance on end-use and end-user controls and U.S. person controls Apply for licenses (SNAP-R) Track applications (STELA) License exceptions BIS forms
+
+Learn & Support
+About Learn & Support Events Training videos Decision tools Chemical and biological controls Deemed exports Encryption controls Export Compliance Programs (ECPs) Reexports and exports from abroad Guidance & Frequently Asked Questions Advisory Opinions
+
+News & Updates
+News & Updates
+
+Enforcement
+About Export Enforcement Don't Let This Happen To You Offices & leadership Voluntary Self-Disclosure
+
+About BIS
+About BIS Guiding principles Leadership Offices Technical Advisory Committees (TAC) Annual reports Freedom of Information Act Privacy Policy Program Contact us
+
+- Website updates
+
+- FOIA
+
+- Disclaimer
+
+- Privacy Policy
+
+- SORN
+
+- Information Quality
+
+- Department of Commerce
+
+- USA.gov
+
+- Accessibility
+
+- Small Business Fairness
+
+- System Use Notice

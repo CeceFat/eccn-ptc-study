@@ -1,0 +1,43 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9A120；eCFR 2026-10-29〕
+
+9A120 Complete unmanned aerial vehicles, not specified in 9A012, having all of the following characteristics (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See ECCN 9A012 or the U.S. Munitions List Category VIII (22 CFR part 121). Also see ECCN 2B352.i for controls on certain spraying or fogging systems, and “parts” and “components” therefor, “specially designed” or modified for fitting to aircraft, “lighter than air vehicles,” or “UAVs.”
+
+Related Definitions: N/A
+
+Items: a. Having any of the following:
+
+a.1. An autonomous flight control and navigation capability; or
+
+a.2. Capability of controlled-flight out of the direct vision range involving a human operator; and
+
+b. Having any of the following:
+
+b.1. Incorporating an aerosol dispensing system/mechanism with a capacity greater than 20 liters; or
+
+b.2. Designed or modified to incorporate an aerosol dispensing system/mechanism with a capacity of greater than 20 liters.
+
+Note: 9A120 does not control model aircraft, “specially designed” for recreational or competition purposes.
+
+Technical Notes: 1. An aerosol consists of particulate or liquids other than fuel components, by—products or additives, as part of the “payload” to be dispersed in the atmosphere. Examples of aerosols include pesticides for crop dusting and dry chemicals for cloud seeding.
+
+2. An aerosol dispensing system/mechanism contains all above devices (mechanical, electrical, hydraulic, etc.), which are necessary for storage and dispersion of an aerosol into the atmosphere. This includes the possibility of aerosol injection into the combustion exhaust vapor and into the propeller slip stream.

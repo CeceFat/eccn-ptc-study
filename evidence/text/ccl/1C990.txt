@@ -1,0 +1,25 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C990；eCFR 2026-10-29〕
+
+1C990 Fibrous and filamentary materials, not controlled by 1C010 or 1C210, for use in “composite” structures and with a specific modulus of 3.18 × 10 6 m or greater and a specific tensile strength of 7.62 × 10 4 m or greater.
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

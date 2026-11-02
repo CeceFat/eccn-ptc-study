@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2B225；eCFR 2026-10-29〕
+
+2B225 Remote manipulators that can be used to provide remote actions in radiochemical separation operations or hot cells, having either of the following characteristics (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NP, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NP applies to entire entry | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 2E001 (“development”), 2E002 (“production”), and 2E201 (“use”) for technology for items controlled under this entry. (2) Also see ECCNs 2B007 and 2B207. (3) Remote manipulators “specially designed” or prepared for use in fuel reprocessing or for use in a reactor are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110).
+
+Related Definitions: N/A
+
+Items: a. A capability of penetrating 0.6 m or more of hot cell wall (through-the-wall operation); or
+
+b. A capability of bridging over the top of a hot cell wall with a thickness of 0.6 m or more (over-the-wall operation).
+
+Technical Note: Remote manipulators provide translation of human operator actions to a remote operating arm and terminal fixture. They may be of “master/slave” type or operated by joystick or keypad.

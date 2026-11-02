@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1B003；eCFR 2026-10-29〕
+
+1B003 Tools, dies, molds or fixtures, for “superplastic forming” or “diffusion bonding” titanium, aluminum or their alloys, “specially designed” for the manufacture of any of the following (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: $5000
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: For “specially designed”“production equipment”of systems, sub-systems, and “parts” and “components” controlled by 9A005 to 9A009, 9A011, 9A101, 9A105 to 9A109, 9A111, and 9A116 to 9A120 usable in “missiles,” see 9B115.
+
+Related Definitions: N/A
+
+Items: a. Airframe or aerospace structures;
+
+b. “Aircraft” or aerospace engines; or
+
+c. “Specially designed” “parts” and “components” for structures specified by 1B003.a or for engines specified by 1B003.b.

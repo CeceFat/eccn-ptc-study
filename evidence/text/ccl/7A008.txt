@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 7A008；eCFR 2026-10-29〕
+
+7A008 Underwater sonar navigation systems using Doppler velocity or correlation velocity logs integrated with a heading source and having a positioning “accuracy” of equal to or less (better) than 3% of distance traveled “Circular Error Probable” (“CEP”) and “specially designed” “components” therefor.
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: 7A008 does not control systems “specially designed” for installation on surface vessels or systems requiring acoustic beacons or buoys to provide positioning data. See 6A001.a for acoustic systems, and 6A001.b for correlation-velocity and Doppler-velocity sonar log equipment. See 8A002 for other marine systems.
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

@@ -1,0 +1,49 @@
+〔U.S. BIS｜ENC/Mass Market 740.17 Table｜抓取 2026-11-02｜https://www.bis.gov/media/documents/new-v2-740.17-enc-table-.pdf〕
+
+            LICENSE EXCEPTION ENC and MASS MARKET (Section 740.17) SUMMARY
+
+740.17      ITEM DESCRIPTION OR                    ECCN                   END USERS AUTHORIZED                                      SUBMISSION REQUIREMENTS
+ Sub¶       PURPOSE OF EXPORT
+
+(a)(1)(i)   Development/Production Only            5A002, 5B002, 5D002,   Private end user HQ'd in a Supp. 3 country                None
+                                                        5E002, 5A004         (wherever located except E:1/Cuba)
+
+                                                     5A992.c, 5D992.c
+
+(a)(1)(ii)  Certain exports, reexports, transfers  5A002, 5B002, 5D002,    Subsidiaries of the same parent                          None
+                       to related parties               5E002, 5A004      company HQ'd in Supp 3. country
+
+                                                     5A992.c, 5D992.c
+
+(a)(2)      Any internal purpose                   5A002, 5B002, 5D002,     U.S. subsidiaries (also employees,                      None
+                                                        5E002, 5A004      interns, contractors, except E:1/Cuba)
+
+                                                     5A992.c, 5D992.c
+
+(a)(3)      Reexports and transfers of             5A002, 5B002, 5D002,   All end users in all contries except E:1 and Cuba         None
+                 non‐US products                        5E002, 5A004
+
+                                                     5A992.c, 5D992.c
+
+(b)(1)      All items not described                5A002.a, 5B002, 5D002         All end users in all                               1. Annual Self‐Classification Report
+               in (b)(2) or (b)(3)                    5A992.c, 5D992.c    countries except E:1 and Cuba                             (submit Supp. 8, part 742, by email)*
+                                                                                                                                    * not req'd if a classification
+                                                                                                                                    was submitted
+
+(b)(2)      Network infrastructure, source code    5A002, 5B002, 5D002    Netwrk Inf: Govt. end users in Supp. 3, "less sensitive"  1. Classification request
+            designed for gov't, custom crypto,         5E002, 5A004       and non‐govt. end users in all but E:1 and Cuba           (submit Supp. 6, part 742 in SNAPR)
+            modifiable crypto, quantum crypto,                            Cryptanalytic: non‐govt. end users in
+            penetration testing, public safety                            all but E:1 and Cuba                                      2. Semi‐Annual Sales Report
+            radio, cryptanalytic, OCI,                                    OCI: govt and non‐govt. in Supp. 3                        by email (see 740.17(e))
+            technology (standard and non‐)                                5E002: non govt. end user in all but D:1
+                                                                          (unless HQ in Supp. 3), E:1 and Cuba
+                                                                          (except non‐standard/cryptanalytic)
+
+(b)(3)      (i) Encryption components: chips,         5A002, 5D002               All end users in all                               1. Classification request
+            electronic assemblies, crypto          5A992.c, 5D992.c *     countries except E:1 and Cuba                             (submit Supp. 6, part 742 in SNAPR)
+            libraries, toolkits, dev kits
+            (ii) Non‐standard crypto items                                                                                          2. Semi‐Annual Sales Report for
+            (iii) Digital forensics                                                                                                 (b)(3)(iii) only (see 740.17(e ))
+            (iv) Cryptographic enabling items
+                                                                                                                                    *except for (b)(3) (iii) Digital Forensics
+

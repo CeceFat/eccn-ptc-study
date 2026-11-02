@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9B002；eCFR 2026-10-29〕
+
+9B002 On-line (real time) control systems, instrumentation (including sensors) or automated data acquisition and processing equipment, having all of the following (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, MT, AT
+
+Control(s) | Country chart(see Supp. No. 1to part 738)
+
+NS applies to entire entry | NS Column 1
+
+MT applies to equipment for engines controlled under 9A001 for MT reasons and for engines controlled under 9A101 | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $3,000, except N/A for MT
+
+GBS: Yes, except N/A for MT
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. “Specially designed” for the “development” of gas turbine engines, assemblies, “parts” or “components”; and
+
+b. Incorporating any of the “technologies” controlled by 9E003.h or 9E003.i.

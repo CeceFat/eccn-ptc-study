@@ -1,0 +1,43 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C005；eCFR 2026-10-29〕
+
+1C005 “Superconductive” “composite” conductors in lengths exceeding 100 m or with a mass exceeding 100 g, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $1500
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items:
+
+a. “Superconductive” “composite” conductors containing one or more niobium-titanium 'filaments', having all of the following:
+
+a.1. Embedded in a “matrix” other than a copper or copper-based mixed “matrix”; and
+
+a.2. Having a cross-section area less than 0.28 × 10−4 mm 2 (6 µm in diameter for circular 'filaments');
+
+b. “Superconductive” “composite” conductors consisting of one or more “superconductive” 'filaments' other than niobium-titanium, having all of the following:
+
+b.1. A “critical temperature” at zero magnetic induction exceeding 9.85 K (−263.31 °C); and
+
+b.2. Remaining in the “superconductive” state at a temperature of 4.2 K (−268.96 °C) when exposed to a magnetic field oriented in any direction perpendicular to the longitudinal axis of conductor and corresponding to a magnetic induction of 12 T with critical current density exceeding 1750 A/mm 2 on overall cross-section of the conductor.
+
+c. “Superconductive” “composite” conductors consisting of one or more “superconductive” 'filaments' which remain “superconductive” above 115 K (−158.16 °C).
+
+Technical Note: For the purposes of 1C005, 'filaments' may be in wire, cylinder, film, tape or ribbon form.

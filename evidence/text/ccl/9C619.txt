@@ -1,0 +1,49 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9C619；eCFR 2026-10-29〕
+
+9C619 Materials “specially designed” for commodities controlled by USML Category XIX or ECCN 9A619 and not elsewhere specified in the CCL or on the USML (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, UN
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1
+
+RS applies to entire entry | RS Column 1
+
+AT applies to entire entry | AT Column 1
+
+UN applies to entire entry | See § 746.1(b) for UN controls
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: $1,500
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in ECCN 9C619.
+
+List of Items Controlled
+
+Related Controls: (1) See USML subcategory XIII(f) for controls on structural materials specifically designed, developed, configured, modified, or adapted for defense articles, such as USML Category XIX engines. (2) See ECCN 0A919 for foreign made “military commodities” that incorporate more than a de minimis amount of U.S.-origin “600 series” controlled content.
+
+Related Definitions: N/A
+
+Items: a. Materials not controlled by paragraph .b of this entry and not elsewhere specified in the CCL or on the USML, and “specially designed” for commodities enumerated or otherwise described in USML Category XIX or ECCN 9A619 (except 9A619.y).
+
+b. Materials “specially designed” for use in certain gas turbine engines, as follows:
+
+b.1. Powders “specially designed” for thermal or environmental barrier coating of defense articles enumerated or described in USML Category XIX paragraphs (f)(1)-(f)(4) for engines listed in (f)(1);
+
+b.2. Superalloys (i.e., nickel, cobalt or iron based), used in directionally solidified or single crystal casting, “specially designed” for defense articles enumerated or described in USML Category XIX paragraphs (f)(1)-(f)(4) for engines listed in paragraph (f)(1); or
+
+b.3. Imide matrix, metal matrix, or ceramic matrix composite material (i.e., reinforcing fiber combined with a matrix) “specially designed” for defense articles enumerated or described in USML Category XIX paragraphs (f)(1)-(f)(4) for engines listed in paragraph (f)(1).
+
+Note 1: Materials enumerated elsewhere in the CCL, such as in a CCL Category 1 ECCN, are controlled pursuant to the controls of the applicable ECCN.
+
+Note 2: Materials described in paragraph .a of this entry that are “specially designed” for both an engine enumerated in USML Category XIX and an engine enumerated in ECCN 9A619 are subject to the controls of this ECCN 9C619.
+
+Note 3: Materials described in this entry that are or have been used in gas turbine engines in production (i.e., not in development) that are not enumerated or otherwise described on the USML or ECCN 9A619 are not controlled by this entry.

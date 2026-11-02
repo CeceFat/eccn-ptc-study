@@ -1,0 +1,29 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1D018；eCFR 2026-10-29〕
+
+1D018 “Software” “specially designed“ or modified for the “development,” “production,” or “use” of items controlled by 1B018.b.
+
+License Requirements
+
+Reason for Control: NS, MT, AT, UN
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1.
+
+MT applies to “software” for the “development”, “production”, operation, or maintenance of items controlled by 1B018 for MT reasons | 
+
+AT applies to entire entry | AT Column 1.
+
+UN applies to entire entry | See § 746.1(b) for UN controls.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: See ECCN 1D608 for “software” for items classified under ECCN 1B608 that, immediately prior to July 1, 2014, were classified under 1B018.a.
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

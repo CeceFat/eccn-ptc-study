@@ -1,0 +1,77 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9E610；eCFR 2026-10-29〕
+
+9E610 Technology “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of military aircraft and related commodities controlled by 9A610, equipment controlled by 9B610, materials controlled by 9C610, or software controlled by 9D610 (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, MT, AT, UN
+
+Control(s) | Country chart(see Supp. No. 1 to part 738)
+
+NS applies to entire entry except 9E610.y | NS Column 1.
+
+RS applies to entire entry except 9E610.y | RS Column 1.
+
+RS applies to 9E610.y | China, Russia, or Venezuela (see § 742.6(a)(7)).
+
+MT applies to “technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities or software controlled for MT reasons in 9A610, 9B610, or 9D610 for MT reasons | MT Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+UN applies to entire entry except 9E610.y | See § 746.1(b) for UN controls.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+Special Conditions for STA
+
+STA: (1) Paragraph (c)(1) of License Exception STA (§ 740.20(c)(1) of the EAR) may not be used for 9E610.b. (2) Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any technology in 9E610.
+
+List of Items Controlled
+
+Related Controls: Technical data directly related to articles enumerated or otherwise described in USML Category VIII are subject to the control of USML paragraph VIII(i).
+
+Related Definitions: N/A
+
+Items:
+
+a. “Technology” (other than technology controlled by paragraphs .b or .y of this entry) “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities or software controlled by ECCN 9A610, 9B610, 9C610, or 9D610.
+
+Note: “Build-to-print technology” “required” for the “production” of items described in paragraphs b.1 through b.15 of this entry is classified under 9E610.a.
+
+b. “Technology” (other than “build-to-print technology”) “required” for the “development” or “production” of any of the following:
+
+b.1. Static structural members;
+
+b.2. Exterior skins, removable fairings, non-removable fairings, radomes, access doors and panels, and in-flight opening doors;
+
+b.3. Control surfaces, leading edges, trailing edges, and leading edge flap seals;
+
+b.4. Leading edge flap actuation system commodities (i.e., power drive units, rotary geared actuators, torque tubes, asymmetry brakes, position sensors, and angle gearboxes) “specially designed” for fighter, attack, or bomber aircraft controlled in USML Category VIII;
+
+b.5. Engine inlets and ducting;
+
+b.6. Fatigue life monitoring systems “specially designed” to relate actual usage to the analytical or design spectrum and to compute amount of fatigue life “specially designed” for aircraft controlled by either USML subcategory VIII(a) or ECCN 9A610.a, except for Military Commercial Derivative Aircraft;
+
+b.7. Landing gear, and “parts” and “components” “specially designed” therefor, “specially designed” for use in aircraft weighing more than 21,000 pounds controlled by either USML subcategory VIII(a) or ECCN 9A610.a, except for Military Commercial Derivative Aircraft;
+
+b.8. Conformal fuel tanks and “parts” and “components” “specially designed” therefor;
+
+b.9. Electrical “equipment,” “parts,” and “components” “specially designed” for electro-magnetic interference (EMI)—i.e., conducted emissions, radiated emissions, conducted susceptibility and radiated susceptibility—protection of aircraft that conform to the requirements of MIL-STD-461;
+
+b.10. HOTAS (Hand-on Throttle and Stick) controls, HOCAS (Hands on Collective and Stick), Active Inceptor Systems (i.e., a combination of Active Side Stick Control Assembly, Active Throttle Quadrant Assembly, and Inceptor Control Unit), rudder pedal assemblies for digital flight control systems, and parts and components “specially designed” therefor;
+
+b.11. Integrated Vehicle Health Management Systems (IVHMS), Condition Based Maintenance (CBM) Systems, and Flight Data Monitoring (FDM) systems;
+
+b.12. Equipment “specially designed” for system prognostic and health management of aircraft;
+
+b.13. Active Vibration Control Systems;
+
+b.14. Self-sealing fuel bladders “specially designed” to pass a .50 caliber or larger gunfire test (MIL-DTL-5578, MIL-DTL-27422); or
+
+b.15. Technology “required” for the “development” or “production” of “parts” or “components” controlled in 9A610.x and “specially designed” for damage or failure-adaptive flight control systems controlled in Category VIII(h)(7) of the USML.
+
+c. through x. [Reserved]
+
+y. Specific “technology” “required” for the “production,” “development,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities or software enumerated in ECCN 9A610.y or 9D610.y.

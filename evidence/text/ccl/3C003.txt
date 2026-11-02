@@ -1,0 +1,29 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3C003；eCFR 2026-10-29〕
+
+3C003 Organo-inorganic compounds as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: $3000
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: This entry controls only compounds whose metallic, partly metallic or non-metallic element is directly linked to carbon in the organic part of the molecule.
+
+Related Definition: N/A
+
+Items: a. Organo-metallic compounds of aluminum, gallium or indium, having a purity (metal basis) better than 99.999%;
+
+b. Organo-arsenic, organo-antimony and organo-phosphorus compounds, having a purity (inorganic element basis) better than 99.999%.

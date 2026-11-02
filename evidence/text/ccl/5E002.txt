@@ -1,0 +1,51 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 5E002；eCFR 2026-10-29〕
+
+5E002 “Technology” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, EI
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1.
+
+RS applies to “technology” for commodities controlled by 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a or “software” specified by 5D002 (for 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a commodities) | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+
+RS applies to “technology” for commodities controlled by 5A002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b or 5A004.z.1.b, z.2.b or “software” specified by 5D002 (for 5A002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b or 5A004.z.1.b, z.2.b commodities) | To or within the United Arab Emirates or destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+EI applies to “technology” in 5E002.a for commodities or “software” controlled for EI reasons in ECCNs 5A002, 5A004 or 5D002, and to “technology” in 5E002.b | Refer to § 742.15 of the EAR.
+
+License Requirements Notes: (1) See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating “information security” functionality, and associated “software” and “technology” for the “production” or “development” of such microprocessors.
+
+(2) When a person performs or provides technical assistance that incorporates, or otherwise draws upon, “technology” that was either obtained in the United States or is of U.S.-origin, then a release of the “technology” takes place. Such technical assistance, when rendered with the intent to aid in the “development” or “production” of encryption commodities or software that would be controlled for “EI” reasons under ECCN 5A002, 5A004 or 5D002, may require authorization under the EAR even if the underlying encryption algorithm to be implemented is from the public domain or is not of U.S.-origin.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+ENC: Yes for certain EI controlled technology. See § 740.17 of the EAR for eligibility.
+
+AIA: Yes for “technology” for commodities controlled by 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a or “software” specified by 5D002 (for 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a commodities)
+
+ACM: Yes for “technology” for commodities controlled by 5A002.z or 5A004.z or “software” specified by 5D002 (for 5A002.z or 5A004.z commodities
+
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for technology for .z paragraphs under ECCNs 5A002, 5A004 or “software” specified by 5D002 (for 5A002.z or 5A004.z commodities).
+
+List of Items Controlled
+
+Related Controls: See also 5E992. This entry does not control “technology” “required” for the “use” of equipment excluded from control under the Related Controls paragraph or the Technical Notes in ECCN 5A002 or “technology” related to equipment excluded from control under ECCN 5A002.
+
+Related Definitions: N/A
+
+Items:
+
+a. “Technology” according to the General Technology Note for the “development,” “production” or “use” of equipment controlled by 5A002, 5A003, 5A004 or 5B002, or of “software” controlled by 5D002.a, z.1 through z.3, or 5D002.c, z.6 through z.8.
+
+Note: 5E002.a does not apply to “technology” for items specified by 5A004.b, z.3 or z.4, 5D002.a.3.b, z.4, or 5D002.c.3.b.
+
+b. “Technology” having the characteristics of a 'cryptographic activation token' specified by 5A002.b, z.2.
+
+Note: 5E002 includes “information security” technical data resulting from procedures carried out to evaluate or determine the implementation of functions, features or techniques specified in Category 5—Part 2.

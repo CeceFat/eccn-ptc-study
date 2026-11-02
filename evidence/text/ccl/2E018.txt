@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2E018；eCFR 2026-10-29〕
+
+2E018 “Technology” for the “use” of equipment controlled by 2B018.
+
+License Requirements
+
+Reason for Control: NS, MT, AT, UN
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1.
+
+MT applies to “technology” for equipment controlled by 2B018 for MT reasons | MT Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+UN applies to entire entry. | See § 746.1(b) for UN controls.
+
+TSR: Yes.
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

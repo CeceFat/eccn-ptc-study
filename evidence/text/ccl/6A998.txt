@@ -1,0 +1,43 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6A998；eCFR 2026-10-29〕
+
+6A998 Radar systems, equipment and major “components,” n.e.s., and “specially designed” “components” therefor, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: RS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+RS applies to 6A998.b | RS Column 1
+
+RS applies to 6A998.c | RS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Unit: $ value.
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Airborne radar equipment, n.e.s., and “specially designed” “components” therefor.
+
+b. “Space-qualified” “laser” radar or Light Detection and Ranging (LIDAR) equipment “specially designed” for surveying or for meteorological observation.
+
+c. Millimeter wave enhanced vision radar imaging systems “specially designed” for rotary wing aircraft and having all of the following:
+
+c.1. Operates at a frequency of 94 GHz;
+
+c.2. An average output power of less than 20 mW;
+
+c.3. Radar beam width of 1 degree; and
+
+c.4. Operating range equal to or greater than 1500 m.

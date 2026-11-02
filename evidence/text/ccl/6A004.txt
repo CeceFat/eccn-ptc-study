@@ -1,0 +1,165 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6A004；eCFR 2026-10-29〕
+
+6A004 Optical equipment and “components,” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $3000
+
+GBS: Yes for 6A004.a.1, a.2, a.4, .b, d.2, and .f.
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA may not be used to ship any commodity in 6A004.c or .d to any of the destinations listed in Country Group A:6 (See Supplement No. 1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) For optical mirrors or 'aspheric optical elements' “specially designed” for lithography “equipment,” see ECCN 3B001. (2) See USML Category XII(e) for gimbals “subject to the ITAR.” (3) See also 6A994.
+
+Related Definitions: An 'aspheric optical element' is any element used in an optical system whose imaging surface or surfaces are designed to depart from the shape of an ideal sphere.
+
+Items:
+
+a. Optical mirrors (reflectors) as follows:
+
+Technical Note: For the purposes of 6A004.a, Laser Induced Damage Threshold (LIDT) is measured according to ISO 21254-1:2011.
+
+a.1. 'Deformable mirrors' having an active optical aperture greater than 10 mm and having any of the following, and “specially designed” components therefor:
+
+a.1.a. Having all the following:
+
+a.1.a.1. A mechanical resonant frequency of 750 Hz or more; and
+
+a.1.a.2. More than 200 actuators; or
+
+a.1.b. A Laser Induced Damage Threshold (LIDT) being any of the following:
+
+a.1.b.1. Greater than 1 kW/cm 2 using a “CW laser”; or
+
+a.1.b.2. Greater than 2 J/cm 2 using 20 ns “laser” pulses at 20 Hz repetition rate;
+
+Technical Notes: For the purposes of 6A004.a.1:
+
+1. 'Deformable mirrors' are mirrors having any of the following:
+
+a. A single continuous optical reflecting surface which is dynamically deformed by the application of individual torques or forces to compensate for distortions in the optical waveform incident upon the mirror; or
+
+b. Multiple optical reflecting elements that can be individually and dynamically repositioned by the application of torques or forces to compensate for distortions in the optical waveform incident upon the mirror.
+
+2. 'Deformable mirrors' are also known as adaptive optic mirrors.
+
+a.2. Lightweight monolithic mirrors having an average “equivalent density” of less than 30 kg/m 2 and a total mass exceeding 10 kg;
+
+a.3. Lightweight “composite” or foam mirror structures having an average “equivalent density” of less than 30 kg/m 2 and a total mass exceeding 2 kg;
+
+Note: 6A004.a.2 and 6A004.a.3 do not apply to mirrors “specially designed” to direct solar radiation for terrestrial heliostat installations.
+
+a.4. Mirrors “specially designed” for beam steering mirror stages specified in 6A004.d.2.a with a flatness of λ/10 or better (λ is equal to 633 nm) and having any of the following:
+
+a.4.a. Diameter or major axis length greater than or equal to 100 mm; or
+
+a.4.b. Having all of the following:
+
+a.4.b.1. Diameter or major axis length greater than 50 mm but less than 100 mm; and
+
+a.4.b.2. A Laser Induced Damage Threshold (LIDT) being any of the following:
+
+a.4.b.2.a. Greater than 10 kW/cm2 using a “CW laser”; or
+
+a.4.b.2.b. Greater than 20 J/cm2 using 20 ns “laser” pulses at 20 Hz repetition rate;
+
+N.B. For optical mirrors “specially designed” for lithography equipment, see 3B001.
+
+b. Optical “components” made from zinc selenide (ZnSe) or zinc sulfide (ZnS) with transmission in the wavelength range exceeding 3,000 nm but not exceeding 25,000 nm and having any of the following:
+
+b.1. Exceeding 100 cm 3 in volume; or
+
+b.2. Exceeding 80 mm in diameter or length of major axis and 20 mm in thickness (depth);
+
+c. “Space-qualified” “components” for optical systems, as follows:
+
+c.1. “Components” lightweighted to less than 20% “equivalent density” compared with a solid blank of the same aperture and thickness;
+
+c.2. Raw substrates, processed substrates having surface coatings (single-layer or multi-layer, metallic or dielectric, conducting, semiconducting or insulating) or having protective films;
+
+c.3. Segments or assemblies of mirrors designed to be assembled in space into an optical system with a collecting aperture equivalent to or larger than a single optic 1 m in diameter;
+
+c.4. “Components” manufactured from “composite” materials having a coefficient of linear thermal expansion, in any coordinate direction, equal to or less than 5 × 10−6/K;
+
+d. Optical control equipment as follows:
+
+d.1. Equipment “specially designed” to maintain the surface figure or orientation of the “space-qualified” “components” controlled by 6A004.c.1 or 6A004.c.3;
+
+d.2. Steering, tracking, stabilisation and resonator alignment equipment as follows:
+
+d.2.a. Beam steering mirror stages designed to carry mirrors having diameter or major axis length greater than 50 mm and having all of the following, and “specially designed” electronic control equipment therefor:
+
+d.2.a.1. A maximum angular travel of ±26 mrad or more;
+
+d.2.a.2. A mechanical resonant frequency of 500 Hz or more; and
+
+d.2.a.3. An angular “accuracy” of 10 µrad (microradians) or less (better);
+
+d.2.b. Resonator alignment equipment having bandwidths equal to or more than 100 Hz and an “accuracy” of 10 µrad or less (better);
+
+d.3. Gimbals having all of the following:
+
+d.3.a. A maximum slew exceeding 5°;
+
+d.3.b. A bandwidth of 100 Hz or more;
+
+d.3.c. Angular pointing errors of 200 µrad (microradians) or less; and
+
+d.3.d. Having any of the following:
+
+d.3.d.1. Exceeding 0.15 m but not exceeding 1 m in diameter or major axis length and capable of angular accelerations exceeding 2 rad (radians)/s 2; or
+
+d.3.d.2. Exceeding 1 m in diameter or major axis length and capable of angular accelerations exceeding 0.5 rad (radians)/s 2;
+
+d.4. [Reserved]
+
+e. 'Aspheric optical elements' having all of the following:
+
+e.1. Largest dimension of the optical-aperture greater than 400 mm;
+
+e.2. Surface roughness less than 1 nm (rms) for sampling lengths equal to or greater than 1 mm; and
+
+e.3. Coefficient of linear thermal expansion's absolute magnitude less than 3 × 10−6/K at 25 °C;
+
+Technical Note: 1. For the purposes of 6A004.e, an 'aspheric optical element' is any element used in an optical system whose imaging surface or surfaces are designed to depart from the shape of an ideal sphere.
+
+2. For the purposes of 6A004.e.2, manufacturers are not required to measure the surface roughness unless the optical element was designed or manufactured with the intent to meet, or exceed, the control parameter.
+
+Note: 6A004.e does not control 'aspheric optical elements' having any of the following:
+
+a. Largest optical-aperture dimension less than 1 m and focal length to aperture ratio equal to or greater than 4.5:1;
+
+b. Largest optical-aperture dimension equal to or greater than 1 m and focal length to aperture ratio equal to or greater than 7:1;
+
+c. Designed as Fresnel, flyeye, stripe, prism or diffractive optical elements;
+
+d. Fabricated from borosilicate glass having a coefficient of linear thermal expansion greater than 2.5 × 10−6/K at 25 °C; or
+
+e. An x-ray optical element having inner mirror capabilities (e.g., tube-type mirrors).
+
+f. Dynamic wavefront measuring equipment having all of the following:
+
+f.1. 'Frame rates' equal to or more than 1 kHz; and
+
+f.2. A wavefront accuracy equal to or less (better) than λ/20 at the designed wavelength.
+
+Technical Note: For the purposes of 6A004.f, 'frame rate' is a frequency at which all “active pixels” in the “focal plane array” are integrated for recording images projected by the wavefront sensor optics.

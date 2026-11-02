@@ -1,0 +1,43 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2B119；eCFR 2026-10-29〕
+
+2B119 Balancing machines and related equipment, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See also 7B101.
+
+Related Definitions: N/A
+
+Items:
+
+a. Balancing machines having all of the following characteristics:
+
+a.1. Not capable of balancing rotors/assemblies having a mass greater than 3 kg;
+
+a.2. Capable of balancing rotors/assemblies at speeds greater than 12,500 rpm;
+
+a.3. Capable of correcting unbalance in two planes or more; and
+
+a.4. Capable of balancing to a residual specific unbalance of 0.2 g mm per kg of rotor mass.
+
+Note: 2B119.a. does not control balancing machines designed or modified for dental or other medical equipment.
+
+b. Indicator heads designed or modified for use with machines specified in 2B119.a.
+
+Note: Indicator heads are sometimes known as balancing instrumentation.

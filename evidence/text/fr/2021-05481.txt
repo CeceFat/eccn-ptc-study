@@ -1,0 +1,4574 @@
+〔Federal Register / BIS｜86 FR 16482 — Export Administration Regulations: Implementation of Wassenaar Arrangement 2019 Plenary Decisions; Elimination of Reporting Requirements for Certain Encryption Items｜抓取 2026-11-02｜https://www.federalregister.gov/documents/full_text/text/2021/03/29/2021-05481.txt〕
+
+[Federal Register Volume 86, Number 58 (Monday, March 29, 2021)]
+[Rules and Regulations]
+[Pages 16482-16506]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2021-05481]
+
+
+
+[[Page 16481]]
+
+Vol. 86
+
+Monday,
+
+No. 58
+
+March 29, 2021
+
+Part III
+
+
+
+
+
+ Department of Commerce
+
+
+
+
+
+-----------------------------------------------------------------------
+
+
+
+
+
+ Bureau of Industry and Security
+
+
+
+
+
+-----------------------------------------------------------------------
+
+
+
+
+
+15 CFR Parts 734, 740, 742, et al.
+
+
+
+
+
+Export Administration Regulations: Implementation of Wassenaar 
+Arrangement 2019 Plenary Decisions; Elimination of Reporting 
+Requirements for Certain Encryption Items; Final Rule
+
+Federal Register / Vol. 86, No. 58 / Monday, March 29, 2021 / Rules 
+and Regulations
+
+[[Page 16482]]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Parts 734, 740, 742, 772, and 774
+
+[Docket No. 210310-0051]
+RIN 0694-AI00
+
+
+Export Administration Regulations: Implementation of Wassenaar 
+Arrangement 2019 Plenary Decisions; Elimination of Reporting 
+Requirements for Certain Encryption Items
+
+AGENCY: Bureau of Industry and Security, Commerce.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Bureau of Industry and Security (BIS) maintains, as part 
+of its Export Administration Regulations (EAR), the Commerce Control 
+List (CCL), which identifies certain items subject to Department of 
+Commerce jurisdiction. This final rule revises the CCL, as well as 
+corresponding parts of the EAR, to implement changes to the Wassenaar 
+Arrangement List of Dual-Use Goods and Technologies (WA List) that were 
+decided upon by governments participating in the Wassenaar Arrangement 
+on Export Controls for Conventional Arms and Dual-Use Goods and 
+Technologies (Wassenaar Arrangement, or WA) at the December 2019 WA 
+Plenary meeting. The Wassenaar Arrangement advocates implementation of 
+effective export controls on strategic items with the objective of 
+improving regional and international security and stability. This rule 
+harmonizes the CCL with the decisions reached at the 2019 Plenary 
+meeting by revising Export Control Classification Numbers (ECCNs) 
+controlled for national security reasons in each category of the CCL. 
+This rule also makes associated changes to the EAR as well as 
+corrections. This rule also makes changes to various provisions related 
+to Category 5--Part 2 of the CCL in the EAR, including provisions on 
+License Exception Encryption commodities, software, and technology 
+(ENC). These changes, which include the elimination of reporting 
+requirements for certain encryption items, are designed to reduce the 
+regulatory burden for exporters while still fulfilling U.S. national 
+security and foreign policy objectives.
+
+DATES: This rule is effective March 29, 2021.
+
+FOR FURTHER INFORMATION CONTACT: For general questions, contact Sharron 
+Cook, Office of Exporter Services, Bureau of Industry and Security, 
+U.S. Department of Commerce at 202-482-2440 or by email: 
+[email protected].
+    For technical questions contact:
+
+Categories 0, 1 & 2: Joseph Giunta at 202-482-3127 or 
+[email protected]
+Category 3: Carlos Monroy at 202-482-3246 or [email protected]
+Categories 4 & 5: Aaron Amundson or Anita Zinzuvadia 202-482-0707 or 
+[email protected] or [email protected]
+Category 6 (optics): John Varesi at 202-482-1114 or 
+[email protected]
+Category 6 (lasers and radar): Michael Rithmire 202-482-6105 or 
+[email protected]
+Category 6 (sensors and cameras): John Varesi 202-482-1114 or 
+[email protected]
+Categories 7: David Rosenberg at 202-482-5987, Michael Tu at 202-482-
+6462 or John Varesi at 202-482-1114 or [email protected], 
+[email protected] or [email protected]
+Category 8: Michael Tu 202-6462 or [email protected]
+Category 9: David Rosenberg at 202-482-5987 or Michael Tu at 202-6462 
+or [email protected] or [email protected]
+Category 9x515 (satellites): Michael Tu 202-482-6462 or 
+[email protected]
+Category ``600 Series'' (munitions items): Jeffrey Leitz at 202-482-
+7417 or [email protected]
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    The Wassenaar Arrangement on Export Controls for Conventional Arms 
+and Dual-Use Goods and Technologies (Wassenaar Arrangement or WA) 
+(http://www.wassenaar.org/) is a group of 42 like-minded states 
+committed to promoting responsibility and transparency in the global 
+arms trade and preventing destabilizing accumulations of arms. As a 
+Participating State of the WA (Participating State), the United States 
+has committed to controlling for export all items on the WA control 
+lists. The lists were first established in 1996 and have been revised 
+annually thereafter. Proposals for changes to the WA control lists that 
+achieve consensus are approved by Participating States at annual 
+plenary meetings. Participating States are charged with implementing 
+the list changes as soon as possible after approval. The United States' 
+implementation of WA control list changes ensures that U.S. companies 
+have a level playing field with their competitors in other WA 
+Participating States.
+    BIS published a final rule on October 25, 2020 (85 FR 62583) 
+implementing certain new controls on emerging technologies, as approved 
+at the December 2019 WA Plenary meeting. The changes in this rule, 
+which represent the remaining approved changes to the WA control lists, 
+update the corresponding items listed in the EAR and reflect recent 
+technical advancements and clarifications. Unless explicitly discussed 
+below, the revisions made by this rule will not impact the number of 
+license applications submitted to BIS.
+    Revisions to the Commerce Control List Related to WA 2019 Plenary 
+Decisions Revises 22 ECCNs: 0A502, 0A503, 0A606, 1A002, 1A005, 1A006, 
+1A613, 1B002, 1C001, 1C002, 1C006, 1C010, 2A001, 3B001, 3E002, 5A002, 
+6A004, 6A005, 6A008, 9A011, 9D515, 9E003.
+
+Category 0--Nuclear Materials, Facilities, and Equipment [and 
+Miscellaneous Items]
+
+0A502 Shotguns . . .
+
+    The Header of ECCN 0A502 is amended by adding the phrase ``to 
+slaughter domestic animals'' to the exclusion text. This phrase is 
+added because shotguns are often used in the humane slaughter of 
+domestic animals such as cattle, sheep, or horses.
+
+0A503 Discharge Type Arms and Devices To Administer Electric Shock . . 
+.
+
+    The header of ECCN 0A503 is amended by adding the phrase ``to 
+slaughter domestic animals'' to the exclusion text. This phrase is 
+added because discharge type arms are often used in the humane 
+slaughter of domestic animals such as cattle, sheep, or horses.
+
+0A606 Ground Vehicles and Related Commodities
+
+    Paragraphs 0A606.b.1 (unarmed vehicles that are derived from 
+civilian vehicles) and 0A606.b.2 (Parts and components) are amended by 
+revising the parameters in Items paragraphs b.1.a and b.2.b to add the 
+defined term ``equivalent standards'' as an alternative to the U.S. 
+standard of ``level III (National Institute of Justice standard 
+0108.01, September 1985).'' This revision is made to allow WA 
+Participating States to be able to use ``comparable national or 
+international standards recognized by one or more Wassenaar Arrangement 
+Participating States and applicable to the relevant
+
+[[Page 16483]]
+
+entry.'' This definition of ``equivalent standards'' is added to part 
+772 of the EAR. The word ``for'' is added before the word ``vehicles'' 
+in Items paragraph b.1.b as an editorial correction decided to by the 
+WA.
+
+Category 1--Special Materials and Related Equipment, Chemicals, 
+``Microorganisms,'' and ``Toxins''
+
+1A002 ``Composite'' Structures or Laminates
+
+    Note 5 is added at the end of the Items paragraph to exclude 
+``mechanically chopped, milled, or cut carbon ``fibrous or filamentary 
+materials'' 25.0 mm or less in length'' from the control in Items 
+paragraph b.1 (carbon ``fibrous or filamentary materials'').
+
+1A005 Body Armor and ``Specially Designed'' ``Components'' Therefor
+
+    Notes 2 and 3 in the Related Controls paragraph are amended to add 
+the defined term ``equivalent standards'' after the U.S. ``NIJ level 
+III'' standard, in order to allow WA Participating States to be able to 
+use ``comparable national or international standards recognized by one 
+or more Wassenaar Arrangement Participating States and applicable to 
+the relevant entry.'' In Items paragraph .b (hard body armor plates 
+that provide ballistic protection), the term ``national equivalents,'' 
+which is not defined in the EAR, is replaced with the defined term 
+``equivalent standards,'' which is added to Sec.  772.1 of the EAR by 
+this rule. This change will also allow the use of equivalent national 
+standards of Participating States and international standards 
+recognized by one or more WA Participating States.
+
+1A006 Equipment, ``Specially Designed'' or Modified for the Disposal of 
+Improvised Explosive Devices (IEDs)
+
+    The Header is amended by capitalizing each of the individual words 
+in the term ``Improvised Explosive Devices'', as well as adding the 
+acronym IEDs in parentheses. The Related Controls paragraph is amended 
+by replacing ``Improvised Explosive Devices'' with the acronym IEDs. 
+The unilateral definition for `disruptors' is removed from the Related 
+Definitions paragraph because the WA definition of this term is 
+included in the Technical Note that is added to 1A006.b. A Note is also 
+added at the end of the Items paragraph to inform the public that the 
+controls of ECCN 1A006 do not apply to equipment that accompanies its 
+operator.
+
+1A613 Armored and Protective ``Equipment'' and Related Commodities
+
+    Items paragraphs .c (military helmets), d.1 (soft body armor and 
+protective garments), d.2 (hard body armor plates), and the Note after 
+Items paragraph d.2 are amended by adding ``or ``equivalent standard'' 
+after the National Institute of Justice (NIJ) standard, in order to 
+allow the use of ``comparable national or international standards 
+recognized by one or more Wassenaar Arrangement Participating States 
+and applicable to the relevant entry.''
+
+1B002 Equipment Designed To Produce Metal Alloy Powder or Particulate 
+Materials
+
+    The header is amended to revise the text of the header and move two 
+unchanged control parameters into two sub-paragraphs in the Items 
+paragraph section. The header text is amended by replacing ``for 
+producing metal alloys, metal alloy powder or alloyed materials, 
+``specially designed'' to avoid contamination and ``specially 
+designed'' for use in one of the processes specified in 1C002.c.2.'' 
+with ``designed to produce metal alloy powder or particulate materials 
+and having any of the following (see List of Items Controlled).'' Metal 
+alloy powders are specified in 1C002.c, but the actual text refers to 
+``metal alloy powder or particulate material''. The equipment in 1B002 
+make the metal alloy powder specified in 1C002.c, but not the metal 
+alloys in 1C002.b. Therefore, ``metal alloys'' is removed from the 
+header of 1B002.
+
+1C001 Materials ``Specially Designed'' for Absorbing Electromagnetic 
+Radiation, or Intrinsically Conductive Polymers
+
+    Exclusion Note 1 to 1C001.a is amended by revising paragraph d.2 
+relating to planar absorbers made of sintered ferrite to add ``or 
+less'' to the end of the parameter relating to maximum operating 
+temperature to clarify that the exclusion is not exclusively limited to 
+materials having a maximum operating temperature of 548 K.
+
+1C002 Metal Alloys, Metal Alloy Powder and Alloyed Materials
+
+    Technical Note 3, which defines `low cycle fatigue life,' is 
+amended by replacing the defined term ``average stress'' with ``average 
+stress ratio'' to correctly state what the formula that follows 
+calculates.
+
+1C006 Fluids and Lubricating Materials
+
+    This rule amends Items paragraph 1C006.d by replacing 
+``fluorocarbon electronic cooling fluids'' with ``fluorocarbon fluids 
+designed for electronic cooling'' to reflect the fact that certain 
+fluorocarbon fluids are designed for electronic cooling. This revision 
+narrows the scope of control to only those fluorocarbon fluids designed 
+for electronic cooling.
+
+1C010 ``Fibrous or Filamentary Materials''
+
+    Items paragraph 1C010.c is intended to capture inorganic/ceramic 
+fibers that are tested or used for applications involving high-stress 
+and high-temperature environments. However, the current level of 
+control captured a large number of inorganic fibers that are not 
+suitable for critical structural applications requiring high modulus 
+and strength retention at high temperatures. The following changes will 
+narrow the scope to better target the control. This rule amends Items 
+paragraph 1C010.c, inorganic ``fibrous or filamentary materials,'' by 
+splitting paragraph c.1 into two subparagraphs c.1.a and c.1.b, by 
+adding a silicon dioxide (SiO2) composition element to the existing 
+``specific modulus'' parameter in 1C010.c.1.a, as well as by adding a 
+new ``specific modulus'' parameter in paragraph c.1.b, ``exceeding 5.6 
+x 10\6\ m.''
+
+Category 2--Materials Processing
+
+2A001 Anti-Friction Bearings and Bearing Systems
+
+    The Heading of 2A001 is amended by moving ``and ``components'' 
+therefor'' from the end of the heading to immediately after ``bearing 
+systems,'' because only paragraph 2A001.c has controls on 
+``components.'' In addition, Items paragraph 2A001.c is amended by 
+adding ``and ``specially designed'' components therefor'' because the 
+component control in the heading no longer applies to all the Items 
+paragraphs and 2A001.c does include a component control. Replacing 
+``and ``components'' therefor'' with ``and specially designed'' 
+components therefor'' narrows the scope of control to only those 
+components that rise to the level of warranting control. Exclusion Note 
+2 to 2A001 relating to balls with tolerances specified by the 
+manufacturer in accordance with ISO 3290 is removed because 
+investigation into ISO 3290 has revealed that versions of this standard 
+dated 1998 and 2001 have only applied to steel balls.
+
+[[Page 16484]]
+
+Category 3--Electronics
+
+3B001 Equipment for the Manufacturing of Semiconductor Devices or 
+Materials
+
+    A nota bene (N.B.) is added after the Note to 3B001.h to point the 
+public to 6B002 for masks and reticles ``specially designed'' for 
+optical sensors.
+
+3E002 ``Technology'' According to the General Technology Note Other 
+Than That Controlled in 3E001 for the ``Development'' or ``Production'' 
+of a ``Microprocessor Microcircuit'', ``Micro-Computer Microcircuit'' 
+and Microcontroller Microcircuit Core
+
+    In order to better understand the control parameters, this rule 
+adds two Technical Notes at the end of the Items paragraph to refer to 
+IEEE-754 for `floating-point' and to define `fixed-point,' as a fixed-
+width real number with both an integer component and a fractional 
+component, and which does not include integer-only formats. Single 
+quotation marks are added around these terms throughout 3E002, as they 
+are defined in the context of this ECCN.
+
+Category 5--Part 2--``Information Security''
+
+5A002 ``Information security'' systems, equipment and ``components''
+
+    This rule amends 5A002.a by replacing ``by means of ``cryptographic 
+activation'' not employing a secure mechanism'' with ``by any means 
+other than secure ``cryptographic activation''.'' This is an editorial 
+change made to clarify what is controlled in 5A002.a. It does not 
+change the scope of the entry.
+    This rule also expands the scope of paragraph f (wireless 
+``personal area network'' functionality) of the 5A002.a exclusion Note 
+2 by removing the limitations on range and number of connections 
+specified in the two subparagraphs of paragraph f. As a result, any 
+item using only published or commercial cryptographic standards where 
+the ``information security'' functionality is limited to ``personal 
+area network'' functionality, as defined in part 772 of the EAR, is 
+excluded from Category 5 Part 2, regardless of the range or number of 
+connections. In addition, a new Note is being added to the definition 
+of ``personal area network'' in part 772 to clarify that a ``local area 
+network'' is not a ``personal area network''. Without the note, the 
+definition of ``personal area network'' could be read to include some 
+short-range ``local area networks''.
+    This rule adds ``gateways'' to paragraph h of the 5A002.a exclusion 
+Note 2 to exclude gateways where the ``information security'' 
+functionality is limited to the tasks of ``Operations, Administration 
+or Maintenance'' (``OAM'') implementing only published or commercial 
+cryptographic standards.
+
+Category 6--Sensors and Lasers
+
+6A004 Optical Equipment and ``Components''
+
+    This rule amends Items paragraph 6A004.c.4 by moving the phrase 
+``in any coordinate direction'' from the end of the parameter to the 
+middle of the paragraph after ``linear thermal expansion,'' as well as 
+adding the unit ``/K'' (per Kelvin) after 5 x 10-6. These 
+changes make the control text clearer; they do not change the scope of 
+the control.
+
+6A005 ``Lasers,'' ``Components'' and Optical Equipment
+
+    This rule amends Items paragraphs a.6.a.1 and a.6.a.2.a (non-
+``tunable'' continuous wave ``(CW) lasers,'' `single transverse mode' 
+output) to replace the term ``average output power'' with ``output 
+power'' because CW lasers generally have a steady state output power 
+after a transient time period.
+
+6A008 Radar Systems, Equipment and Assemblies
+
+    This rule amends Items paragraph 6A008.j and the associated Note by 
+replacing ``instrumented range'' with `instrumented range' because this 
+rule moves the definition for this term from Sec.  772.1 to a Technical 
+Note added above Items paragraph j. The definition is moved because it 
+is only used in 6A008. There is no change to the definition.
+
+Category 9--Aerospace and Propulsion
+
+9A011 Ramjet, Scramjet or `Combined Cycle Engines', and ``Specially 
+Designed'' ``Parts'' and ``Components'' Therefor
+
+    This rule adds a Technical Note below the heading to define 
+`combined cycle engines' and adds single quotes around the term in the 
+heading. Items specified in ECCN 9A011 are ``subject to the 
+International Traffic in Arms Regulations (ITAR),'' see 22 CFR parts 
+120 through 130. The Technical Note is added to assist the public in 
+identifying items specified in ECCN 9A011.
+
+9D515 ``Software'' ``Specially Designed'' for the ``Development,'' 
+``Production,'' Operation, Installation, Maintenance, Repair, Overhaul, 
+or Refurbishing of ``Spacecraft'' and Related Commodities
+
+    This rule numbers each sentence in the Related Controls paragraph 
+and adds a third sentence to direct people to use the appropriate 
+associated ``software'' ECCN for items listed in 9A004.d when these 
+items are incorporated into ``spacecraft payloads'' rather than using 
+9D515 as the classification for such ``software''. Specifically, 
+persons should use the appropriate associated software ECCN for any of 
+the following incorporated items: 3A001.b.1.a.4, 3A002.g, 5A001.a.1, 
+5A001.b.3, 5A002.c, 5A002.e, 6A002.a.1, 6A002.a.2, 6A002.b, 6A002.d, 
+6A003.b, 6A004.c, 6A004.e, 6A008.d, 6A008.e, 6A008.k, 6A008.l or 
+9A010.c.
+
+9E003 Other ``Technology''
+
+    This rule amends Item paragraph 9E003.a.11 (`fan blades') to better 
+define parameters for a fan blade with a substantially open interior. 
+Since the origin of this entry, numerous fan blade construction methods 
+have been developed utilizing materials such as metal foams, 
+honeycombs, and other low density materials in order to reduce weight. 
+As the term `hollow' is undefined and has no threshold, the scope of 
+the entry was not clear. Without a specific definition of `hollow', it 
+is both difficult to identify which components fall under 9.E.3.a.11. 
+and the technology ``required'' to meet the `hollow' characteristic, 
+particularly in the absence of parameters or performance requirements. 
+The term `fan blade' is defined in order to precisely indicate the 
+items of concern. The structure of the note identifies `fan blades' as 
+elements of turbofan engines, excluding other types of gas turbine 
+engines.
+
+Supplement No. 6 to Part 774--Sensitive List
+
+    Sensitive Items set forth in Supplement No. 6 to Part 774 and its 
+subset of Very Sensitive Items set forth in Supplement No. 7 to Part 
+774 have reporting requirements in order for WA member countries to 
+inform one another of transactions involving these items. This rule 
+amends paragraphs (1)(i)--1A002.a.1 and (1)(vi)--1D002 of Supplement 
+No. 6 to part 774 (Sensitive List) to align the EAR Sensitive List with 
+the WA Sensitive List. (For the subset of Very Sensitive items, such as 
+stealth technology materials and advanced radar, members are called on 
+to ``exert extreme vigilance'' in exports.)
+
+Changes to Various Provisions Related to Category 5--Part 2 Encryption 
+Items
+
+    BIS is amending various provisions in the EAR related to items in 
+Category 5--Part 2, including by eliminating reporting requirements in 
+order to reduce exporters' regulatory burdens. In
+
+[[Page 16485]]
+
+summary, this rule makes the following changes: (1) Eliminates the 
+email notification requirement for `publicly available' encryption 
+source code and beta test encryption software, except for `publicly 
+available' encryption source code and beta test encryption software 
+implementing ``non-standard cryptography''; (2) eliminates the self-
+classification reporting requirement for certain `mass market' 
+encryption products under Sec.  740.17(b)(1); and (3) allows self-
+classification reporting for ECCN 5A992.c or 5D992.c components of 
+`mass market' products (and their `executable software'). This rule 
+moves ``mass market'' ``components,'' `executable software', toolsets, 
+and toolkits out of Sec.  740.17(b)(3)(i) and into (b)(1). Of those 
+four items, only ``mass market'' ``components'' and `executable 
+software' are subject to self-classification reporting. Mass market 
+toolsets and toolkits are not subject to self-classification reporting.
+    This rule does not change any of the License Exception ENC 
+requirements for any non-`mass market' encryption item, or for any 
+encryption item (`mass market' or not) that implements ``non-standard 
+cryptography''.
+
+Sec.  734.4 De Minimis
+
+    This rule revises the title of paragraph (b) and the introductory 
+paragraph (b)(1) to accommodate the addition of digital forensics items 
+(digital investigative tools). This rule also revises paragraph 
+(b)(1)(i) by replacing ``notification requirement of'' with ``criteria 
+specified in,'' because of the change that is simultaneously being made 
+to the notification requirement provisions in Sec.  742.15(b) of the 
+EAR.
+
+Sec.  734.17 Export of Encryption Source Code and Object Code Software
+
+    This rule revises paragraph (b)(2) by replacing ``notification 
+requirements for'' with ``additional requirements'' in the second 
+sentence and ``notification requirements'' in the last sentence with 
+``additional requirements'', because of this rule's removal of the 
+notification requirement set forth in Sec.  742.15(b) of the EAR for 
+the majority of publicly available software. The reference to Sec.  
+742.15(b) remains in light of the other requirements that this 
+provision contains, including notification requirements that remain in 
+effect for a small percentage of certain publicly available software.
+
+Sec.  740.9 Temporary Imports, Exports, Reexports, and Transfers (In-
+Country) (TMP)
+
+    This rule revises paragraph (c)(8), regarding the notification 
+requirement associated with beta test encryption software eligible 
+under License Exception TMP, by narrowing the scope of the requirement 
+to apply only to beta test encryption software implementing ``non-
+standard cryptography,'' as that term is defined in part 772 of the 
+EAR.
+
+Sec.  740.13 Technology and Software Unrestricted (TSU)
+
+    This rule revises paragraph (d)(2), regarding mass market software 
+exclusions, by correcting citation references. In a rule published on 
+September 20, 2016 (81 FR 64657), EAR requirements for ``mass market'' 
+encryption software were updated and moved from Sec.  742.15(b) to 
+Sec.  740.17(b). However, BIS inadvertently did not update the 
+citations in paragraph (d)(2) at that time and is consequently 
+correcting that oversight in this rule.
+
+Sec.  740.17 Encryption Commodities, Software and Technology (ENC)
+
+    This rule revises the title of introductory paragraph (b), from 
+``Classification request or self-classification report'' to 
+``Classification request or self-classification'' because self-
+classification reports are required for some, but not all, items that 
+exporters can self-classify. Introductory paragraph (b) is also revised 
+by adding the word ``certain'' to the first sentence to indicate that 
+as a consequence of changes made in this rule, not all products 
+described in paragraph (b)(1) that are self-classified require a self-
+classification report. Paragraph (b)(3) is revised by removing a 
+reference to (b)(3)(i) in the last sentence, because (b)(3)(i) no 
+longer applies to any ``mass market'' component, toolset or toolkit as 
+a consequence of the revisions made in this rule. This rule adds the 
+term ``Non-``mass market'' to the title of paragraph (b)(3)(i). It also 
+revises the sentence in this paragraph to read in this manner: 
+``Specified components classified under ECCN 5A002.a and equivalent or 
+related software classified under ECCN 5D002 that do not meet the 
+criteria set forth in Note 3 to Category 5--Part 2 of the CCL (the 
+``mass market'' note) and are not described by paragraph (b)(2) or 
+(b)(3)(ii) of this section, as follows:''. These changes eliminate 
+mandatory submission of a classification request to BIS for the review 
+of ECCN 5A992.c components and ECCN 5D992.c `executable software' of 
+``mass market'' products, except for ``non-standard cryptography''. 
+With the elimination of this classification request requirement, the 
+eligible ``mass market'' ``components'' and `executable software' now 
+default to `(b)(1)' status and consequently may be self-classified and 
+annually reported to BIS and the ENC Encryption Request Coordinator, 
+Ft. Meade, MD (via email to [email protected] and [email protected], 
+respectively). In addition, a reference to paragraph (b)(3)(ii) is 
+added to the end of this sentence in paragraph (b)(3)(i) in order to 
+avoid confusion related to ``non-standard cryptography'', as the 
+paragraph (b)(3)(ii) requirement to submit a classification request for 
+``non-standard cryptography'' remains. In summary, BIS is making the 
+following changes to the License Exception ENC requirements for items 
+formerly described in Sec.  740.17(b)(3)(i) prior to this rule:
+    (a) ``Mass market'' chips, chipsets, electronic assemblies and 
+field programmable logic devices, and their qualifying `executable 
+software', that are not described in paragraph (b)(2) of License 
+Exception ENC are now authorized under Sec.  740.17(b)(1) instead of 
+Sec.  740.17(b)(3)(i)(A). These items can now be self-classified and 
+require a self-classification report. BIS anticipates that most 
+cryptographic libraries and modules will remain in Sec.  
+740.17(b)(3)(i)(B), because paragraph b of Category 5--Part 2 Note 3 
+(Cryptography Note) excludes items whose primary function is 
+``information security''.
+    (b) ``Mass market'' development kits (toolsets) and toolkits that 
+are stand-alone products (e.g., are not ``components'' or `executable 
+software' of another ``mass market'' product) are also now authorized 
+under Sec.  740.17(b)(1). These items can now be self-classified under 
+ECCN 5A992c or 5D992.c, and self-classification reporting is not 
+required.
+    There is no change in the status of or requirements relating to 
+items described in Sec. Sec.  740.17(b)(3)(ii), (iii), or (iv).
+
+Revisions to Sec.  740.17(e) Reporting Requirements
+
+    Paragraph (e)(3), self-classification reporting, is revised by 
+adding after the reference to commodities, software, and components in 
+the second sentence ``and components exported or reexported meeting the 
+criteria specified in paragraph (b)(1) of this section.'' It also adds 
+a sentence immediately thereafter that explains that the reporting 
+requirement applies to ``mass market'' encryption ``components'' and 
+`executable software' that meet the criteria of the Cryptography Note--
+Note 3 to Category 5--Part 2 of the CCL (``mass market'' note) and are 
+classified under ECCN 5A992.c or 5D992.c following self-classification, 
+provided these items are not further described by paragraph (b)(2) or 
+(b)(3) of Section
+
+[[Page 16486]]
+
+740.17. The reporting requirement also applies to non-``mass market'' 
+encryption commodities, software, and components that remain classified 
+in ECCN 5A002, 5B002 or 5D002 following self-classification, provided 
+these items are not further described by paragraph (b)(2) or (b)(3) of 
+Section 740.17. A new note is added for this paragraph that defines 
+`executable software,' as well as clarifies that `executable software' 
+does not include complete binary images of the ``software'' running on 
+an end-item, corresponding to similar notes in the Cryptography Note 
+(Note 3 to Category 5--Part 2 in the CCL, Supplement No. 1 to part 
+774). Clarifying phrases are also added to this paragraph to indicate 
+which non-``mass market'' commodities and software still require self-
+classification reporting. Under these revisions, ``mass market'' 
+encryption items that fall under Sec.  740.17(b)(1) no longer require 
+classification by BIS or submission of a self-classification report 
+except as noted above. There is no change to the classification or 
+self-classification reporting requirements for non-``mass market'' 
+encryption items controlled under ECCNs 5A002, 5B002 or 5D002. These 
+revisions are estimated to produce a 60% reduction in encryption self-
+classification reports.
+
+Sec.  742.15 Encryption Items
+
+    This rule renames and revises paragraph (b)(2), regarding the 
+notification requirement for `publicly available' encryption software, 
+to eliminate email notification to BIS and the ENC Encryption Request 
+Coordinator of such software except for ``non-standard cryptography.'' 
+These revisions are estimated to produce an 80% reduction in 
+notifications regarding publicly available encryption software.
+
+Category 5--Part 2
+
+    This rule revises the Nota Bene (N.B.) to Note 3 (Cryptography 
+Note) by adding the word ``certain'' before ``mass market encryption 
+commodities and software'' in the first sentence to indicate that as a 
+result of this rule, not all ``mass market'' encryption requires 
+classification by BIS or the submission of a self-classification report 
+to be released from encryption items (EI) and national security (NS) 
+controls of ECCN 5A002 or 5D002. A sentence is added to the end of this 
+N.B. to clarify the status of ``mass market'' commodities and software 
+that no longer require a self-classification report, including that 
+such items are released from EI and NS controls of ECCN 5A002 or 5D002 
+but remain controlled under ECCN 5A992.c or 5D992.c.
+
+Export Control Reform Act of 2018
+
+    On August 13, 2018, the President signed the Export Control Reform 
+Act of 2018 (ECRA), 50 U.S.C. Sections 4801-4852, which provides the 
+legal basis for BIS's principal authorities and serves as the authority 
+under which BIS issues this rule.
+
+Savings Clause
+
+    Shipments of items removed from license exception eligibility or 
+eligibility for export, reexport or transfer (in-country) without a 
+license as a result of this regulatory action that were on dock for 
+loading, on lighter, laden aboard an exporting carrier, or en route 
+aboard a carrier to a port of export, on March 29, 2021, pursuant to 
+actual orders for exports, reexports and transfers (in-country) to a 
+foreign destination, may proceed to that destination under the previous 
+license exception eligibility or without a license so long as they have 
+been exported, reexported or transferred (in-country) before May 28, 
+2021. Any such items not actually exported, reexported or transferred 
+(in-country) before midnight, on May 28, 2021, require a license in 
+accordance with this final rule.
+
+Executive Order Requirements
+
+    Executive Orders 13563 and 12866 direct agencies to assess all 
+costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public 
+health and safety effects, distributive impacts, and equity). Executive 
+Order 13563 emphasizes the importance of quantifying costs and 
+benefits, reducing costs, harmonizing rules, and promoting flexibility.
+    This rule has been designated a ``significant regulatory action'' 
+under Executive Order 12866.
+    This rule does not contain policies with Federalism implications as 
+that term is defined under Executive Order 13132.
+
+Paperwork Reduction Act Requirements
+
+    Notwithstanding any other provision of law, no person is required 
+to respond to, nor shall any person be subject to a penalty for failure 
+to comply with, a collection of information subject to the requirements 
+of the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), 
+unless that collection of information displays a currently valid Office 
+of Management and Budget (OMB) Control Number.
+    This rule involves the following OMB-approved collections of 
+information subject to the PRA: 0694-0088, ``Multi-Purpose 
+Application'' which carries a burden hour estimate of 29.6 minutes for 
+a manual or electronic submission; 0694-0137 ``License Exceptions and 
+Exclusions'', which carries a burden hour estimate average of 1.5 hours 
+per submission (Note: Submissions for License Exceptions are rarely 
+required); 0694-0096 ``Five Year Records Retention Period'', which 
+carries a burden hour estimate of less than 1 minute; and 0607-0152 
+``Automated Export System (AES) Program'', which carries a burden hour 
+estimate of 3 minutes per electronic submission. Specific license 
+application submission estimates are discussed further in the preamble 
+of this rule where the revisions are explained. BIS estimates that 
+revisions that are editorial (e.g., moving the location of control text 
+on the CCL), or that are clarifications will result in no change in 
+license application submissions. Regarding the self-classification 
+notifications for License Exception ENC under collection 0694-137, 75% 
+of encryption self-classification notifications are now entirely mass 
+market submissions. Of those mass market submissions, BIS estimates 
+that 80% of the encryption products in these submissions implement 
+standards-based cryptography. Therefore, the elimination of encryption 
+self-classification notifications for encryption products that 
+implement standards-based cryptography under License Exception ENC is 
+anticipated to result in a 60% reduction of submissions. However, 
+because all 18 license exceptions set forth in Part 740 of the EAR are 
+bundled into one collection, the revisions included in this rule result 
+in no change to the overall burden for collection 0694-0137.
+
+Administrative Procedure Act and Regulatory Flexibility Act 
+Requirements
+
+    Pursuant to Sec.  4821 of ECRA, this action is exempt from the 
+Administrative Procedure Act (5 U.S.C. 553) (APA) requirements for 
+notice of proposed rulemaking, opportunity for public participation, 
+and delay in the date of effectiveness.
+    Because a notice of proposed rulemaking and an opportunity for 
+public comment are not required to be given for this rule under the APA 
+or by any other law, the analytical requirements of the Regulatory 
+Flexibility Act (5 U.S.C. 601 et seq.) are not applicable. Accordingly, 
+no
+
+[[Page 16487]]
+
+regulatory flexibility analysis is required, and none has been 
+prepared.
+
+List of Subjects
+
+15 CFR Part 734
+
+    Administrative practice and procedure, Exports, Inventions and 
+patents, Research, Science and technology.
+
+15 CFR Part 740
+
+    Administrative practice and procedure, Exports, Reporting and 
+recordkeeping requirements.
+
+15 CFR Part 742
+
+    Exports, Terrorism.
+
+15 CFR Part 772
+
+    Exports.
+
+15 CFR Part 774
+
+    Exports, Reporting and recordkeeping requirements.
+
+    Accordingly, parts 734, 740, 742, 772 and 774 of the Export 
+Administration Regulations (15 CFR parts 730 through 774) are amended 
+as follows:
+
+PART 734--[AMENDED]
+
+0
+1. The authority citation for part 734 is revised to read as follows:
+
+    Authority:  50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 
+950; E.O. 13020, 61 FR 54079, 3 CFR, 1996 Comp., p. 219; E.O. 13026, 
+61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 
+CFR, 2001 Comp., p. 783; E.O. 13637, 78 FR 16129, 3 CFR, 2014 Comp., 
+p. 223; Notice of November 12, 2020, 85 FR 72897 (November 13, 
+2020).
+
+
+0
+2. Section 734.4 is amended by revising the paragraph (b) subject 
+heading and paragraphs (b)(1) introductory text and (b)(1)(i) to read 
+as follows:
+
+
+Sec.  734.4  De minimis U.S. content.
+
+* * * * *
+    (b) Special requirements for certain Category 5, Part 2 items.* * *
+    (1) The U.S.-origin commodities or software, if controlled under 
+ECCN 5A002, ECCN 5B002, equivalent or related software therefor 
+classified under ECCN 5D002, and ``cryptanalytic items'' or digital 
+forensics items (investigative tools) classified under ECCN 5A004 or 
+5D002, must have been:
+    (i) Publicly available encryption source code classified under ECCN 
+5D002 that has met the criteria specified in Sec.  742.15(b), see Sec.  
+734.3(b)(3) of the EAR. Such source code does not have to be counted as 
+controlled U.S.-origin content in a de minimis calculation;
+* * * * *
+
+0
+3. Section 734.17 is amended by revising paragraph (b)(2) to read as 
+follows:
+
+
+Sec.  734.17   Export of encryption source code and object code 
+software.
+
+* * * * *
+    (b) * * *
+    (2) Making such ``software'' available for transfer outside the 
+United States, over wire, cable, radio, electromagnetic, photo optical, 
+photoelectric or other comparable communications facilities accessible 
+to persons outside the United States, including transfers from 
+electronic bulletin boards, internet file transfer protocol and World 
+Wide websites, unless the person making the ``software'' available 
+takes precautions adequate to prevent unauthorized transfer of such 
+code. See Sec.  742.15(b) of the EAR for additional requirements 
+pursuant to which exports or reexports of encryption source code 
+``software'' are considered to be publicly available consistent with 
+the provisions of Sec.  734.3(b)(3). Publicly available encryption 
+source code ``software'' and corresponding object code are not subject 
+to the EAR, when the encryption source code ``software'' meets the 
+additional requirements in Sec.  742.15(b) of the EAR.
+* * * * *
+
+PART 740--[AMENDED]
+
+0
+4. The authority citation for part 740 continues to read as follows:
+
+    Authority:  50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; 22 U.S.C. 7201 et seq.; E.O. 13026, 61 FR 
+58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 
+2001 Comp., p. 783.
+
+
+0
+5. Section 740.9 is amended by revising paragraph (c)(8) to read as 
+follows:
+
+
+Sec.  740.9  Temporary Imports, Exports, Reexports, and Transfers (in-
+country) (TMP).
+
+* * * * *
+    (c) * * *
+    (8) Notification of beta test encryption software implementing 
+``non-standard cryptography.'' For beta test encryption software 
+eligible under this license exception that provides or performs ``non-
+standard cryptography'' as defined in part 772 of the EAR, by the time 
+of export or reexport you must submit the information described in 
+paragraphs (a) through (d) of supplement No. 6 to part 742 of the EAR 
+by email to BIS at [email protected] and to the ENC Encryption Request 
+Coordinator at [email protected].
+* * * * *
+
+0
+6. Section 740.13 is amended by revising paragraph (d)(2) to read as 
+follows:
+
+
+Sec.  740.13   Technology and software--unrestricted (TSU).
+
+* * * * *
+    (d) * * *
+    (2) Exclusions. The provisions of this paragraph (d) are not 
+available for encryption software controlled for ``EI'' reasons under 
+ECCN 5D002 or for encryption software with symmetric key length 
+exceeding 64-bits that qualifies as mass market encryption software 
+under the criteria in the Cryptography Note (Note 3) of Category 5, 
+Part 2, of the CCL (supplement No. 1 to part 774 of the EAR). (Once 
+such mass market encryption software has been released from ``EI'' and 
+``NS'' controls pursuant to Sec.  740.17(b) of the EAR, it is 
+controlled under ECCN 5D992.c and is thus outside the scope of License 
+Exception TSU.) See Sec.  740.17(b) of the EAR for exports and 
+reexports of mass market encryption products controlled under ECCN 
+5D992.c.
+* * * * *
+
+0
+7. Section 740.17 is amended by:
+0
+a. Revising the paragraph (b) subject heading;
+0
+b. Revising the first sentence of paragraph (b) introductory text;
+0
+c. Revising the last sentence of paragraph (b)(3) introductory text;
+0
+d. Revising paragraph (b)(3)(i) introductory text;
+0
+e. Revising paragraph (e)(3) introductory text; and
+0
+f. Adding a note to paragraph (e)(3) introductory text.
+    The revisions and addition read as follows:
+
+
+Sec.  740.17   Encryption Commodities, Software and Technology (ENC).
+
+* * * * *
+    (b) Classification request or self-classification. For certain 
+products described in paragraph (b)(1) of this section that are self-
+classified, a self-classification report in accordance with paragraph 
+(e)(3) of this section is required from specified exporters, 
+reexporters and transferors; for products described in paragraph (b)(1) 
+of this section that are classified by BIS via a CCATS, a self-
+classification report is not required. * * *
+    (3) * * * Thirty (30) days after a classification request is 
+submitted to BIS in accordance with paragraph (d) of this section and 
+subject to the reporting requirements in paragraph (e) of this section, 
+this paragraph authorizes exports, reexports, and transfers (in-
+country) of the items submitted for classification, as further 
+described in
+
+[[Page 16488]]
+
+this paragraph (b)(3), to any end user, provided the item does not 
+perform the functions, or otherwise meet the specifications, of any 
+item described in paragraph (b)(2) of this section. Items described in 
+paragraph (b)(3)(ii) or (iv) of this section that meet the criteria set 
+forth in Note 3 to Category 5--Part 2 of the CCL (the ``mass market'' 
+note) are classified under ECCN 5A992.c or 5D992.c following 
+classification by BIS.
+* * * * *
+    (i) Non-``mass market'' ``components,'' toolsets, and toolkits. 
+Specified components classified under ECCN 5A002.a and equivalent or 
+related software classified under ECCN 5D002 that do not meet the 
+criteria set forth in Note 3 to Category 5--Part 2 of the CCL (the 
+``mass market'' note) and are not described by paragraph (b)(2) or 
+(b)(3)(ii) of this section, as follows:
+* * * * *
+    (e) * * *
+    (3) Self-classification reporting for certain encryption 
+commodities, software, and components. This paragraph (e)(3) sets forth 
+requirements for self-classification reporting to BIS and the ENC 
+Encryption Request Coordinator (Ft. Meade, MD) of certain encryption 
+commodities, software, and components exported or reexported meeting 
+the criteria specified in paragraph (b)(1) of this section. 
+Specifically, this reporting requirement applies to ``mass market'' 
+encryption components and `executable software' that meet the criteria 
+of the Cryptography Note--Note 3 to Category 5--Part 2 of the CCL 
+(``mass market'' note) and are classified under ECCN 5A992.c or 5D992.c 
+following self-classification, as well as to non-``mass market'' 
+encryption commodities and software that remain classified in ECCN 
+5A002, 5B002 or 5D002 following self-classification, provided these 
+items are not further described by paragraph (b)(2) or (3) of this 
+section.
+    Note to introductory text of paragraph (e)(3): For the purposes of 
+this paragraph (e)(3), `executable software' means ``software'' in 
+executable form, from an existing hardware component excluded from ECCN 
+5A002 by the Cryptography Note. `Executable software' does not include 
+complete binary images of the ``software'' running on an end item.
+* * * * *
+
+PART 742--[AMENDED]
+
+0
+8. The authority citation for part 742 is revised to read as follows:
+
+    Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; 22 U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 
+U.S.C. 7201 et seq.; 22 U.S.C. 7210; Sec. 1503, Pub. L. 108-11, 117 
+Stat. 559; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; E.O. 
+12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 FR 
+59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 61 FR 58767, 3 CFR, 
+1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 
+783; Presidential Determination 2003-23, 68 FR 26459, 3 CFR, 2004 
+Comp., p. 320; Notice of November 12, 2020, 85 FR 72897 (November 
+13, 2020).
+
+0
+9. Section 742.15 is amended by revising paragraph (b)(2) to read as 
+follows:
+
+
+Sec.  742.15   Encryption items.
+
+* * * * *
+    (b) * * *
+    (2) Notification requirement for ``non-standard cryptography.'' For 
+publicly available encryption source code classified under ECCN 5D002 
+that provides or performs ``non-standard cryptography'' as defined in 
+part 772 of the EAR, you must notify BIS and the ENC Encryption Request 
+Coordinator via email of the internet location (e.g., URL or internet 
+address) of the source code or provide each of them a copy of the 
+publicly available encryption source code. If you update or modify the 
+source code, you must also provide additional copies to each of them 
+each time the cryptographic functionality of the source code is updated 
+or modified. In addition, if you posted the source code on the 
+internet, you must notify BIS and the ENC Encryption Request 
+Coordinator each time the internet location is changed, but you are not 
+required to notify them of updates or modifications made to the 
+encryption source code at the previously notified location. In all 
+instances, submit the notification or copy to [email protected] and to 
+[email protected].
+* * * * *
+
+PART 772--[AMENDED]
+
+0
+10. The authority citation for part 772 continues to read as follows:
+
+    Authority:  50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 
+783.
+
+
+0
+11. Section 772.1 is amended by:
+0
+a. Adding a definition for ``equivalent standards'' in alphabetical 
+order;
+0
+b. Removing the definition of ``instrumented range''; and
+0
+c. Revising the definitions of ``personal area network (Cat 5 Part 2)'' 
+and ``superalloy''.
+    The addition and revisions read as follows:
+
+
+Sec.  772.1  Definitions of Terms As Used In the Export Administration 
+Regulations (EAR).
+
+* * * * *
+    Equivalent standards. (Cat 1)--Comparable national or international 
+standards recognized by one or more Wassenaar Arrangement Participating 
+States and applicable to the relevant entry.
+* * * * *
+    Personal area network (Cat 5 Part 2)--A data communication system 
+having all of the following characteristics:
+    (1) Allows an arbitrary number of independent or interconnected 
+`data devices' to communicate directly with each other; and
+    (2) Is confined to the communication between devices within the 
+immediate physical vicinity of an individual person or device 
+controller (e.g., single room, office, or automobile).
+
+Technical Notes:
+
+    1. `Data device' means equipment capable of transmitting or 
+receiving sequences of digital information.
+    2. The ``local area network'' extends beyond the geographical 
+area of the ``personal area network''.
+* * * * *
+    Superalloy. (Cat 2 and 9) Nickel, cobalt, or iron base alloys 
+having a stress rupture life greater than 1,000 hours at 400 MPa and 
+an ultimate tensile strength greater than 850 MPa, at 922 K (649 
+[deg]C) or higher.
+* * * * *
+
+PART 774--[AMENDED]
+
+0
+12. The authority citation for part 774 continues to read as follows:
+
+    Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; 10 U.S.C. 8720; 10 U.S.C. 8730(e); 22 U.S.C. 
+287c, 22 U.S.C. 3201 et seq.; 22 U.S.C. 6004; 42 U.S.C. 2139a; 15 
+U.S.C. 1824; 50 U.S.C. 4305; 22 U.S.C. 7201 et seq.; 22 U.S.C. 7210; 
+E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 
+FR 44025, 3 CFR, 2001 Comp., p. 783.
+
+Supplement No. 1 to Part 774 --[Amended]
+
+0
+13. In supplement no. 1 to part 774 (the CCL), Category 0, ECCN 0A502 
+is revised to read as follow:
+
+Supplement No. 1 to Part 774--The Commerce Control List
+
+0A502 Shotguns; shotguns ``parts'' and ``components,'' consisting of 
+complete trigger mechanisms; magazines and magazine extension tubes; 
+``complete breech mechanisms;'' except equipment used to slaughter 
+domestic animals or used exclusively to treat or tranquilize 
+animals, and except arms designed solely for signal, flare, or 
+saluting use.
+
+[[Page 16489]]
+
+License Requirements
+
+Reason for Control: RS, CC, FC, UN, AT, NS
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to shotguns with a barrel        NS Column 1
+ length less than 18 inches (45.72 cm).
+RS applies to shotguns with a barrel        RS Column 1
+ length less than 18 inches (45.72 cm).
+FC applies to entire entry................  FC Column 1
+CC applies to shotguns with a barrel        CC Column 1
+ length less than 24 in. (60.96 cm) and
+ shotgun ``components'' controlled by this
+ entry regardless of end user.
+CC applies to shotguns with a barrel        CC Column 2
+ length greater than or equal to 24 in.
+ (60.96 cm), regardless of end user.
+CC applies to shotguns with a barrel        CC Column 3
+ length greater than or equal to 24 in.
+ (60.96 cm) if for sale or resale to
+ police or law enforcement.
+UN applies to entire entry................  See Sec.   746.1(b) of the
+                                             EAR for UN controls
+AT applies to shotguns with a barrel        AT Column 1
+ length less than 18 inches (45.72 cm).
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: $500 for 0A502 shotgun ``parts'' and ``components,'' consisting 
+of complete trigger mechanisms; magazines and magazine extension 
+tubes. $500 for 0A502 shotgun ``parts'' and ``components,'' 
+consisting of complete trigger mechanisms; magazines and magazine 
+extension tubes, ``complete breech mechanisms'' if the ultimate 
+destination is Canada.
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: Shotguns that are fully automatic are ``subject to 
+the ITAR.''
+Related Definitions: N/A
+Items: The list of items controlled is contained in the ECCN 
+heading.
+
+    Note 1 to 0A502:
+    Shotguns made in or before 1898 are considered antique shotguns 
+and designated as EAR99.
+
+
+    Technical Note:
+    Shot pistols or shotguns that have had the shoulder stock 
+removed and a pistol grip attached are controlled by ECCN 0A502. 
+Slug guns are also controlled under ECCN 0A502.
+
+
+0
+14. In supplement no. 1 to part 774 (the CCL), Category 0, ECCN 0A503 
+is revised to read as follow:
+
+0A503 Discharge type arms; non-lethal or less-lethal grenades and 
+projectiles, and ``specially designed'' ``parts'' and ``components'' 
+of those projectiles; and devices to administer electric shock, for 
+example, stun guns, shock batons, shock shields, electric cattle 
+prods, immobilization guns and projectiles; except equipment used to 
+slaughter domestic animals or used exclusively to treat or 
+tranquilize animals, and except arms designed solely for signal, 
+flare, or saluting use; and ``specially designed'' ``parts'' and 
+``components,'' n.e.s.
+
+License Requirements
+
+Reason for Control: CC, UN
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+CC applies to entire entry................  A license is required for
+                                             ALL destinations, except
+                                             Canada, regardless of end
+                                             use. Accordingly, a column
+                                             specific to this control
+                                             does not appear on the
+                                             Commerce Country Chart.
+                                             (See part 742 of the EAR
+                                             for additional information)
+UN applies to entire entry................  See Sec.   746.1(b) of the
+                                             EAR for UN controls
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: N/A
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: Law enforcement restraint devices that administer 
+an electric shock are controlled under ECCN 0A982. Electronic 
+devices that monitor and report a person's location to enforce 
+restrictions on movement for law enforcement or penal reasons are 
+controlled under ECCN 3A981.
+Related Definitions: N/A
+Items: The list of items controlled is contained in the ECCN 
+heading.
+
+0
+15. In supplement no. 1 to part 774 (the CCL), Category 0, ECCN 0A606 
+is revised to read as follow:
+
+0A606 Ground vehicles and related commodities, as follows (see List 
+of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, UN
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry, except 0A606.b  NS Column 1
+ and .y.
+NS applies to 0A606.b.....................  NS Column 2
+RS applies to entire entry, except 0A606.b  RS Column 1
+ and .y.
+RS applies to 0A606.b.....................  RS Column 2
+RS applies to 0A606.y.....................  China, Russia, or Venezuela
+                                             (see Sec.   742.6(a)(7))
+AT applies to entire entry................  AT Column 1
+UN applies to entire entry, except 0A606.y  See Sec.   746.1(b) for UN
+                                             controls
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: $1500
+GBS: N/A
+
+Special Conditions for STA
+
+STA: (1) Paragraph (c)(1) of License Exception STA (Sec.  
+740.20(c)(1) of the EAR) may not be used for any item in 0A606.a, 
+unless determined by BIS to be eligible for License Exception STA in 
+accordance with Sec.  740.20(g) (License Exception STA eligibility 
+requests for 9x515 and ``600 series'' items). (2) Paragraph (c)(2) 
+of License Exception STA (Sec.  740.20(c)(2) of the EAR) may not be 
+used for any item in 0A606.
+
+List of Items Controlled
+
+Related Controls: (1) The ground vehicles, other articles, technical 
+data (including software) and services described in 22 CFR part 121, 
+Category VII are subject to the jurisdiction of the International 
+Traffic in Arms Regulations. (2) See ECCN 0A919 for foreign-made 
+``military commodities'' that incorporate more than a de minimis 
+amount of U.S.-origin ``600 series'' controlled content.
+Related Definitions: N/A
+Items:
+
+    a. Ground vehicles, whether manned or unmanned, ``specially 
+designed'' for a military use and not enumerated or otherwise 
+described in USML Category VII.
+
+    Note 1 to paragraph .a:
+    For purposes of paragraph .a, ``ground vehicles'' include (i) 
+tanks and armored vehicles manufactured prior to 1956 that have not 
+been modified since 1955 and that do not contain a functional weapon 
+or a weapon capable of becoming functional through repair; (ii) 
+military railway trains except those that are armed or are 
+``specially designed'' to launch missiles; (iii) unarmored military 
+recovery and other support vehicles; (iv) unarmored, unarmed 
+vehicles with mounts or hard points for firearms of .50 caliber or 
+less; and (v) trailers ``specially designed'' for use with other 
+ground vehicles enumerated in USML Category VII or ECCN 0A606.a, and 
+not separately enumerated or otherwise described in USML Category 
+VII. For purposes of this note, the term ``modified'' does not 
+include incorporation of safety features required by law, cosmetic 
+changes (e.g., different paint or repositioning of bolt holes) or 
+addition of ``parts'' or ``components'' available prior to 1956.
+
+
+    Note 2 to paragraph .a:
+    A ground vehicle's being ``specially designed'' for
+
+[[Page 16490]]
+
+military use for purposes of determining controls under paragraph 
+.a. entails a structural, electrical or mechanical feature involving 
+one or more ``components'' that are ``specially designed'' for 
+military use. Such ``components'' include:
+    a. Pneumatic tire casings of a kind ``specially designed'' to be 
+bullet-proof;
+    b. Armored protection of vital ``parts'' (e.g., fuel tanks or 
+vehicle cabs);
+    c. Special reinforcements or mountings for weapons;
+    d. Black-out lighting.
+
+    b. Other ground vehicles, ``parts'' and ``components,'' as 
+follows:
+    b.1. Unarmed vehicles that are derived from civilian vehicles 
+and that have all of the following:
+    b.1.a. Manufactured or fitted with materials or ``components'' 
+other than reactive or electromagnetic armor to provide ballistic 
+protection equal to or better than level III (National Institute of 
+Justice standard 0108.01, September 1985) or ``equivalent 
+standards'';
+    b.1.b. A transmission to provide drive to both front and rear 
+wheels simultaneously, including those for vehicles having 
+additional wheels for load bearing purposes whether driven or not;
+    b.1.c. Gross vehicle weight rating (GVWR) greater than 4,500 kg; 
+and
+    b.1.d. Designed or modified for off-road use.
+    b.2. ``Parts'' and ``components'' having all of the following:
+    b.2.a. ``Specially designed'' for vehicles specified in 
+paragraph .b.1 of this entry; and
+    b.2.b. Providing ballistic protection equal to or better than 
+level III (National Institute of Justice standard 0108.01, September 
+1985) or ``equivalent standards''.
+
+    Note 1 to paragraph b:
+    Ground vehicles otherwise controlled by 0A606.b.1 that contain 
+reactive or electromagnetic armor are subject to the controls of 
+USML Category VII.
+
+
+    Note 2 to paragraph b:
+    ECCN 0A606.b.1 does not control civilian vehicles ``specially 
+designed'' for transporting money or valuables.
+
+
+    Note 3 to paragraph b:
+    ``Unarmed'' means not having installed weapons, installed 
+mountings for weapons, or special reinforcements for mounts for 
+weapons.
+
+    c. Air-cooled diesel engines and engine blocks for armored 
+vehicles that weigh more than 40 tons.
+    d. Fully automatic continuously variable transmissions for 
+tracked combat vehicles.
+    e. Deep water fording kits ``specially designed'' for ground 
+vehicles controlled by ECCN 0A606.a or USML Category VII.
+    f. Self-launching bridge ``components'' not enumerated in USML 
+Category VII(g) ``specially designed'' for deployment by ground 
+vehicles enumerated in USML Category VII or this ECCN.
+    g. through w. [Reserved]
+    x. ``Parts,'' ``components,'' ``accessories,'' and 
+``attachments'' that are ``specially designed'' for a commodity 
+enumerated or otherwise described in ECCN 0A606 (other than 0A606.b 
+or 0A606.y) or a defense article enumerated in USML Category VII and 
+not elsewhere specified on the USML or in 0A606.y.
+
+    Note 1:
+    Forgings, castings, and other unfinished products, such as 
+extrusions and machined bodies, that have reached a stage in 
+manufacture where they are clearly identifiable by mechanical 
+properties, material composition, geometry, or function as 
+commodities controlled by ECCN 0A606.x are controlled by ECCN 
+0A606.x.
+
+
+    Note 2:
+    ``Parts,'' ``components,'' ``accessories'' and ``attachments'' 
+enumerated in USML paragraph VII(g) are subject to the controls of 
+that paragraph. ``Parts,'' ``components,'' ``accessories'' and 
+``attachments'' described in ECCN 0A606.y are subject to the 
+controls of that paragraph.
+
+    y. Specific ``parts,'' ``components,'' ``accessories,'' and 
+``attachments'' ``specially designed'' for a commodity enumerated or 
+otherwise described in this ECCN (other than ECCN 0A606.b) or for a 
+defense article in USML Category VII and not elsewhere specified on 
+the USML or the CCL, as follows, and ``parts,'' ``components,'' 
+``accessories,'' and ``attachments'' ``specially designed'' 
+therefor:
+    y.1. Brake discs, rotors, drums, calipers, cylinders, pads, 
+shoes, lines, hoses, vacuum boosters, and parts therefor;
+    y.2. Alternators and generators;
+    y.3. Axles;
+    y.4. Batteries;
+    y.5. Bearings (e.g., ball, roller, wheel);
+    y.6. Cables, cable assembles, and connectors;
+    y.7. Cooling system hoses;
+    y.8. Hydraulic, fuel, oil, and air filters, not controlled by 
+ECCN 1A004;
+    y.9. Gaskets and o-rings;
+    y.10. Hydraulic system hoses, fittings, couplings, adapters, and 
+valves;
+    y.11. Latches and hinges;
+    y.12. Lighting systems, fuses, and ``components;''
+    y.13. Pneumatic hoses, fittings, adapters, couplings, and 
+valves;
+    y.14. Seats, seat assemblies, seat supports, and harnesses;
+    y.15 Tires, except run flat; and
+    y.16 Windows, except those for armored vehicles.
+
+0
+16. In supplement no. 1 to part 774 (the CCL), Category 1, ECCN 1A002 
+is revised to read as follow:
+
+1A002 ``Composite'' structures or laminates, as follows (see List of 
+Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, NP, AT
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry................  NS Column 2
+NP applies to 1A002.b.1 in the form of      NP Column 1
+ tubes with an inside diameter between 75
+ mm and 400 mm.
+AT applies to entire entry................  AT Column 1
+ 
+
+Reporting Requirements
+
+    See Sec.  743.1 of the EAR for reporting requirements for 
+exports under License Exceptions, and Validated End-User 
+authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: $1,500; N/A for NP; N/A for ``composite'' structures or 
+laminates controlled by 1A002.a, having an organic ``matrix'' and 
+made from materials controlled by 1C010.c or 1C010.d.
+GBS: N/A
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any item in this 
+entry to any of the destinations listed in Country Group A:6 (See 
+Supplement No. 1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 1E001 (``development'' and 
+``production'') and 1E201 (``use'') for technology for items 
+controlled by this entry. (2) Also see ECCNs 1A202, 1C010, 1C210, 
+9A010, and 9A110. (3) ``Composite'' structures ``specially 
+designed'' for missile applications (including ``specially 
+designed'' subsystems, ``parts,'' and ``components'') are controlled 
+by ECCN 9A110. (4) ``Composite'' structures or laminates ``specially 
+designed'' or prepared for use in separating uranium isotopes are 
+subject to the export licensing authority of the Nuclear Regulatory 
+Commission (see 10 CFR part 110).
+Related Definitions: N/A
+Items:
+
+    a. Made from any of the following:
+    a.1. An organic ``matrix'' and ``fibrous or filamentary 
+materials'' specified by 1C010.c or 1C010.d; or
+    a.2. Prepregs or preforms specified by 1C010.e;
+    b. Made from a metal or carbon ``matrix'', and any of the 
+following:
+    b.1. Carbon ``fibrous or filamentary materials'' having all of 
+the following:
+    b.1.a. A ``specific modulus'' exceeding 10.15 x 10\6\ m; and
+    b.1.b. A ``specific tensile strength'' exceeding 17.7 x 10\4\ m; 
+or
+    b.2. Materials controlled by 1C010.c.
+
+    Note 1:
+    1A002 does not control ``composite'' structures or laminates 
+made from epoxy resin impregnated carbon ``fibrous or filamentary 
+materials'', for the repair of ``civil aircraft'' structures or 
+laminates, having all of the following:
+    a. An area not exceeding 1 m\2\;
+    b. A length not exceeding 2.5 m; and
+    c. A width exceeding 15 mm.
+
+
+    Note 2:
+    1A002 does not control semi-finished items, ``specially 
+designed'' for civilian applications as follows:
+    a. Sporting goods;
+
+[[Page 16491]]
+
+    b. Automotive industry;
+    c. Machine tool industry;
+    d. Medical applications.
+
+
+    Note 3:
+    1A002.b.1 does not apply to semi-finished items containing a 
+maximum of two dimensions of interwoven filaments and ``specially 
+designed'' for applications as follows:
+    a. Metal heat-treatment furnaces for tempering metals;
+    b. Silicon boule production equipment.
+
+
+    Note 4:
+    1A002 does not apply to finished items ``specially designed'' 
+for a specific application.
+
+
+    Note 5:
+    1A002.b.1 does not apply to mechanically chopped, milled, or cut 
+carbon ``fibrous or filamentary materials'' 25.0 mm or less in 
+length.
+
+
+0
+17. In supplement no. 1 to part 774 (the CCL), Category 1, ECCN 1A005 
+is revised to read as follow:
+
+1A005 Body armor and ``specially designed'' ``components'' therefor, 
+as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, UN, AT
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry................  NS Column 2
+UN applies to entire entry................  See Sec.   746.1(b) for UN
+                                             controls
+AT applies to entire entry................  AT Column 1
+ 
+
+
+    License Requirements Notes:
+    1. Soft body armor not manufactured to military standards or 
+specifications must provide ballistic protection equal to or less 
+than NIJ level III (NIJ 0101.06, July 2008) to be controlled under 
+1A005.a. 2. For purposes of 1A005.a, military standards and 
+specifications include, at a minimum, specifications for 
+fragmentation protection.
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: N/A
+GBS: Yes, except UN
+
+List of Items Controlled
+
+Related Controls: (1) Bulletproof and bullet resistant vests (body 
+armor) providing NIJ Type IV protection or greater are ``subject to 
+the ITAR'' (see 22 CFR 121.1 Category X(a)). (2) Soft body armor and 
+protective garments manufactured to military standards or 
+specifications that provide protection equal to or less than NIJ 
+level III or ``equivalent standards'' are classified under ECCN 
+1A613.d.1. (3) Hard armor plates providing NIJ level III or 
+``equivalent standard'' ballistic protection are classified under 
+ECCN 1A613.d.2. (4) Police helmets and shields are classified under 
+ECCN 0A979. (5) Other personal protective ``equipment'' ``specially 
+designed'' for military applications not controlled by the USML or 
+elsewhere in the CCL is classified under ECCN 1A613.e. (6) For 
+``fibrous or filamentary materials'' used in the manufacture of body 
+armor, see ECCN 1C010.
+Related Definitions: N/A
+Items:
+
+    a. Soft body armor not manufactured to military standards or 
+specifications, or to their equivalents, and ``specially designed'' 
+``components'' therefor;
+    b. Hard body armor plates that provide ballistic protection less 
+than NIJ level III (NIJ 0101.06, July 2008) or ``equivalent 
+standards''.
+
+    Notes to ECCN 1A005:
+
+    1. This entry does not control body armor when accompanying its 
+user for the user's own personal protection.
+    2. This entry does not control body armor designed to provide 
+frontal protection only from both fragment and blast from non-
+military explosive devices.
+    3. This entry does not apply to body armor designed to provide 
+protection only from knife, spike, needle or blunt trauma.
+
+
+0
+18. In supplement no. 1 to part 774 (the CCL), Category 1, ECCN 1A006 
+is revised to read as follow:
+
+1A006 Equipment, ``specially designed'' or modified for the disposal 
+of Improvised Explosive Devices (IEDs), as follows (see List of 
+Items Controlled), and ``specially designed'' ``components'' and 
+``accessories'' therefor.
+
+License Requirements
+
+Reason for Control: NS, AT
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry................  NS Column 2
+AT applies to entire entry................  AT Column 1
+ 
+
+
+    License Requirement Note:
+    1A006 does not apply to equipment when accompanying its 
+operator.
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: N/A
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: Equipment ``specially designed'' for military use 
+for the disposal of IEDs is ``subject to the ITAR'' (see 22 CFR 
+parts 120 through 130, including USML Category IV).
+Related Definitions: N/A
+Items:
+
+    a. Remotely operated vehicles;
+    b. `Disruptors'.
+
+    Technical Note:
+    For the purpose of 1A006.b `disruptors' are devices ``specially 
+designed'' for the purpose of preventing the operation of an 
+explosive device by projecting a liquid, solid or frangible 
+projectile.
+
+
+    Note:
+    1A006 does not apply to equipment when accompanying its 
+operator.
+
+
+0
+19. In supplement no. 1 to part 774 (the CCL), Category 1, ECCN 1A613 
+is revised to read as follow:
+
+1A613 Armored and protective ``equipment'' and related commodities, 
+as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, UN
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry except 1A613.y.  NS Column 1
+RS applies to entire entry except 1A613.y.  RS Column 1
+RS applies 1A613.y........................  China, Russia, or Venezuela
+                                             (see Sec.   742.6(a)(7))
+AT applies to entire entry................  AT Column 1
+UN applies to entire entry, except 1A613.y  See Sec.   746.1(b) for UN
+                                             controls
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: $1500
+GBS: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (Sec.  740.20(c)(2) 
+of the EAR) may not be used for any item in 1A613.
+
+List of Items Controlled
+
+Related Controls: (1) Defense articles, such as materials made from 
+classified information, that are controlled by USML Category X or 
+XIII of the ITAR, and technical data (including software) directly 
+related thereto, are ``subject to the ITAR.'' (2) See ECCN 0A919 for 
+foreign-made ``military commodities'' that incorporate more than a 
+de minimis amount of US-origin ``600 series'' controlled content. 
+(3) See ECCN 9A610.g for anti-gravity suits (``G-suits'') and 
+pressure suits capable of operating at altitudes higher than 55,000 
+feet above sea level.
+Related Definitions: References to ``NIJ Type'' protection are to 
+the National Institute of Justice Classification guide at NIJ 
+Standard 0101.06, Ballistic Resistance of Body Armor, and NIJ 
+Standard 0108.01, Ballistic Resistant Protective Materials.
+    Items:
+
+    a. Metallic or non-metallic armored plate ``specially designed'' 
+for military use and not controlled by the USML.
+
+    Note to paragraph a:
+    For controls on body armor plates, see ECCN 1A613.d.2 and USML 
+Category X(a)(1).
+
+    b. Shelters ``specially designed'' to:
+    b.1. Provide ballistic protection for military systems; or
+    b.2. Protect against nuclear, biological, or chemical 
+contamination.
+    c. Military helmets (other than helmets controlled under 
+1A613.y.1) providing less than NIJ Type IV or ``equivalent 
+standards''
+
+[[Page 16492]]
+
+protection and ``specially designed'' helmet shells, liners, or 
+comfort pads therefor.
+
+    Note 1:
+    See ECCN 0A979 for controls on police helmets.
+
+
+    Note 2:
+    See USML Category X(a)(5) and (a)(6) for controls on other 
+military helmets.
+
+    d. Body armor and protective garments, as follows:
+    d.1. Soft body armor and protective garments manufactured to 
+military standards or specifications, or to their equivalents, that 
+provide ballistic protection equal to or less than NIJ level III 
+(NIJ 0101.06, July 2008) or ``equivalent standards''; or
+
+    Note:
+    For 1A613.d.1, military standards or specifications include, at 
+a minimum, specifications for fragmentation protection.
+
+    d.2. Hard body armor plates that provide ballistic protection 
+equal to NIJ level III (NIJ 0101.06, July 2008) or ``equivalent 
+standards''.
+
+    Note:
+    See ECCN 1A005 for controls on soft body armor not manufactured 
+to military standards or specifications and hard body armor plates 
+providing less than NIJ level III or ``equivalent standards'' 
+protection. For body armor providing NIJ Type IV protection or 
+greater, see USML Category X(a)(1).
+
+    e. Atmospheric diving suits ``specially designed'' for rescue 
+operations for submarines controlled by the USML or the CCL.
+    f. Other personal protective ``equipment'' ``specially 
+designed'' for military applications not controlled by the USML, not 
+elsewhere controlled on the CCL.
+    g. to w. [Reserved]
+    x. ``Parts,'' ``components,'' ``accessories,'' and 
+``attachments'' that are ``specially designed'' for a commodity 
+controlled by ECCN 1A613 (except for 1A613.y) or an article 
+enumerated in USML Category X, and not controlled elsewhere in the 
+USML.
+
+    Note:
+    Forgings, castings, and other unfinished products, such as 
+extrusions and machined bodies, that have reached a stage in 
+manufacturing where they are clearly identifiable by mechanical 
+properties, material composition, geometry, or function as 
+commodities controlled by ECCN 1A613.x are controlled by ECCN 
+1A613.x.
+
+    y. Other commodities as follows:
+    y.1 Conventional military steel helmets.
+
+    N.B. to paragraph y.1:
+    For other military helmet ``components'' or ``accessories,'' see 
+the relevant ECCN in the CCL or USML Entry.
+
+    y.2 [Reserved]
+
+0
+20. In supplement no. 1 to part 774 (the CCL), Category 1, ECCN 1B002 
+is revised to read as follow:
+
+1B002 Equipment designed to produce metal alloy powder or 
+particulate materials and having any of the following (see List of 
+Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry................  NS Column 2
+AT applies to entire entry................  AT Column 1
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: $5000
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+Related Definitions: N/A
+Items:
+
+    a. ``Specially designed'' to avoid contamination; and
+    b. ``Specially designed'' for use in one of the processes 
+specified by 1C002.c.2.
+
+0
+21. In supplement no. 1 to part 774 (the CCL), Category 1, ECCN 1C001 
+is revised to read as follow:
+
+1C001 Materials ``specially designed'' for absorbing electromagnetic 
+radiation, or intrinsically conductive polymers, as follows (see 
+List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, MT, AT
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry................  NS Column 1
+MT applies to items that meet or exceed     MT Column 1
+ the parameters of ECCN 1C101.
+AT applies to entire entry................  AT Column 1
+ 
+
+Reporting Requirements
+
+    See Sec.  743.1 of the EAR for reporting requirements for 
+exports under License Exceptions, and Validated End-User 
+authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: N/A
+GBS: N/A
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any item in this 
+entry to any of the destinations listed in Country Group A:6 (See 
+Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: See also 1C101
+Related Definitions: N/A
+Items:
+
+    a. Materials for absorbing frequencies exceeding 2 x 10\8\ Hz 
+but less than 3 x 10\12\ Hz.
+
+    Note 1:
+    1C001.a does not control:
+    a. Hair type absorbers, constructed of natural or synthetic 
+fibers, with non-magnetic loading to provide absorption;
+    b. Absorbers having no magnetic loss and whose incident surface 
+is non-planar in shape, including pyramids, cones, wedges and 
+convoluted surfaces;
+    c. Planar absorbers, having all of the following:
+    1. Made from any of the following:
+    a. Plastic foam materials (flexible or non-flexible) with 
+carbon-loading, or organic materials, including binders, providing 
+more than 5% echo compared with metal over a bandwidth exceeding 
+15% of the center frequency of the incident 
+energy, and not capable of withstanding temperatures exceeding 450 K 
+(177 [deg]C); or
+    b. Ceramic materials providing more than 20% echo compared with 
+metal over a bandwidth exceeding 15% of the 
+center frequency of the incident energy, and not capable of 
+withstanding temperatures exceeding 800 K (527 [deg]C);
+
+
+    Technical Note:
+    Absorption test samples for 1C001.a. Note 1.c.1 should be a 
+square at least 5 wavelengths of the center frequency on a side and 
+positioned in the far field of the radiating element.
+
+    2. Tensile strength less than 7 x 10\6\ N/m\2\; and
+    3. Compressive strength less than 14 x 10\6\ N/m\2\;
+    d. Planar absorbers made of sintered ferrite, having all of the 
+following:
+    1. A specific gravity exceeding 4.4; and
+    2. A maximum operating temperature of 548 K (275 [deg]C) or 
+less;
+    e. Planar absorbers having no magnetic loss and fabricated from 
+`open-cell foams' plastic material with a density of 0.15 grams/
+cm\3\ or less.
+
+    Technical Note:
+    `Open-cell foams' are flexible and porous materials, having an 
+inner structure open to the atmosphere. `Open-cell foams' are also 
+known as reticulated foams.
+
+
+    Note 2:
+    Nothing in Note 1 releases magnetic materials to provide 
+absorption when contained in paint.
+
+    b. Materials not transparent to visible light and specially 
+designed for absorbing near-infrared radiation having a wavelength 
+exceeding 810 nm but less than 2,000 nm (frequencies exceeding 150 
+THz but less than 370 THz);
+
+    Note:
+    1C001.b does not apply to materials, ``specially designed'' or 
+formulated for any of the following applications:
+    a. ``Laser'' marking of polymers; or
+    b. ``Laser'' welding of polymers.
+
+    c. Intrinsically conductive polymeric materials with a `bulk 
+electrical conductivity' exceeding 10,000 S/m (Siemens per meter) or 
+a `sheet (surface) resistivity' of less than 100 ohms/square, based 
+on any of the following polymers:
+    c.1. Polyaniline;
+    c.2. Polypyrrole;
+    c.3. Polythiophene;
+    c.4. Poly phenylene-vinylene; or
+    c.5. Poly thienylene-vinylene.
+
+    Note:
+    1C001.c does not apply to materials in a liquid form.
+
+
+    Technical Note:
+    `Bulk electrical conductivity' and `sheet (surface) resistivity'
+
+[[Page 16493]]
+
+should be determined using ASTM D-257 or national equivalents.
+
+
+0
+22. In supplement no. 1 to part 774 (the CCL), Category 1, ECCN 1C002 
+is revised to read as follow:
+
+1C002 Metal alloys, metal alloy powder and alloyed materials, as 
+follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, NP, AT
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry................  NS Column 2
+NP applies to 1C002.b.3 or b.4 if they      NP Column 1
+ exceed the parameters stated in 1C202.
+AT applies to entire entry................  AT Column 1
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: $3000; N/A for NP
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 1E001 (``development'' and 
+``production'') and 1E201 (``use'') for technology for items 
+controlled by this entry. (2) Also see ECCN 1C202. (3) Aluminum 
+alloys and titanium alloys in physical forms and finished products 
+``specially designed'' or prepared for use in separating uranium 
+isotopes are subject to the export licensing authority of the 
+Nuclear Regulatory Commission (see 10 CFR part 110).
+Related Definition: N/A
+Items:
+
+
+    Note:
+    1C002 does not control metal alloys, metal alloy powder and 
+alloyed materials, specially formulated for coating purposes.
+
+
+    Technical Note 1:
+    The metal alloys in 1C002 are those containing a higher 
+percentage by weight of the stated metal than of any other element.
+
+
+    Technical Note 2:
+    `Stress-rupture life' should be measured in accordance with ASTM 
+standard E-139 or national equivalents.
+
+
+    Technical Note 3:
+    `Low cycle fatigue life' should be measured in accordance with 
+ASTM Standard E-606 `Recommended Practice for Constant-Amplitude 
+Low-Cycle Fatigue Testing' or national equivalents. Testing should 
+be axial with an average stress ratio equal to 1 and a stress-
+concentration factor (Kt) equal to 1. The average stress ratio is 
+defined as maximum stress minus minimum stress divided by maximum 
+stress.
+
+    a. Aluminides, as follows:
+    a.1. Nickel aluminides containing a minimum of 15% by weight 
+aluminum, a maximum of 38% by weight aluminum and at least one 
+additional alloying element;
+    a.2. Titanium aluminides containing 10% by weight or more 
+aluminum and at least one additional alloying element;
+    b. Metal alloys, as follows, made from the powder or particulate 
+material controlled by 1C002.c:
+    b.1. Nickel alloys having any of the following:
+    b.1.a. A `stress-rupture life' of 10,000 hours or longer at 923 
+K (650 [deg]C) at a stress of 676 MPa; or
+    b.1.b. A `low cycle fatigue life' of 10,000 cycles or more at 
+823 K (550 [deg]C) at a maximum stress of 1,095 MPa;
+    b.2. Niobium alloys having any of the following:
+    b.2.a. A `stress-rupture life' of 10,000 hours or longer at 
+1,073 K (800 [deg]C) at a stress of 400 MPa; or
+    b.2.b. A `low cycle fatigue life' of 10,000 cycles or more at 
+973 K (700 [deg]C) at a maximum stress of 700 MPa;
+    b.3. Titanium alloys having any of the following:
+    b.3.a. A `stress-rupture life' of 10,000 hours or longer at 723 
+K (450 [deg]C) at a stress of 200 MPa; or
+    b.3.b. A `low cycle fatigue life' of 10,000 cycles or more at 
+723 K (450 [deg]C) at a maximum stress of 400 MPa;
+    b.4 Aluminum alloys having any of the following:
+    b.4.a. A tensile strength of 240 MPa or more at 473 K (200 
+[deg]C); or
+    b.4.b. A tensile strength of 415 MPa or more at 298 K (25 
+[deg]C);
+    b.5. Magnesium alloys having all the following:
+    b.5.a. A tensile strength of 345 MPa or more; and
+    b.5.b. A corrosion rate of less than 1 mm/year in 3% sodium 
+chloride aqueous solution measured in accordance with ASTM standard 
+G-31 or national equivalents;
+    c. Metal alloy powder or particulate material, having all of the 
+following:
+    c.1. Made from any of the following composition systems:
+
+    Technical Note:
+    X in the following equals one or more alloying elements.
+
+    c.1.a. Nickel alloys (Ni-Al-X, Ni-X-Al) qualified for turbine 
+engine ``parts'' or ``components,'' i.e., with less than 3 non-
+metallic particles (introduced during the manufacturing process) 
+larger than 100 [mu]m in 10\9\ alloy particles;
+    c.1.b. Niobium alloys (Nb-Al-X or Nb-X-Al, Nb-Si-X or Nb-X-Si, 
+Nb-Ti-X or Nb-X-Ti);
+    c.1.c. Titanium alloys (Ti-Al-X or Ti-X-Al);
+    c.1.d. Aluminum alloys (Al-Mg-X or Al-X-Mg, Al-Zn-X or Al-X-Zn, 
+Al-Fe-X or Al-X-Fe); or
+    c.1.e. Magnesium alloys (Mg-Al-X or Mg-X-Al);
+    c.2. Made in a controlled environment by any of the following 
+processes:
+    c.2.a. `Vacuum atomization';
+    c.2.b. `Gas atomization';
+    c.2.c. `Rotary atomization';
+    c.2.d. `Splat quenching';
+    c.2.e. `Melt spinning' and `comminution';
+    c.2.f. `Melt extraction' and `comminution';
+    c.2.g. `Mechanical alloying'; or
+    c.2.h. `Plasma atomization'; and
+    c.3. Capable of forming materials controlled by 1C002.a or 
+1C002.b;
+    d. Alloyed materials, having all the following:
+    d.1. Made from any of the composition systems specified by 
+1C002.c.1;
+    d.2. In the form of uncomminuted flakes, ribbons or thin rods; 
+and
+    d.3. Produced in a controlled environment by any of the 
+following:
+    d.3.a. `Splat quenching';
+    d.3.b. `Melt spinning'; or
+    d.3.c. `Melt extraction'.
+
+    Technical Notes:
+
+    1. `Vacuum atomization' is a process to reduce a molten stream 
+of metal to droplets of a diameter of 500 [mu]m or less by the rapid 
+evolution of a dissolved gas upon exposure to a vacuum.
+    2. `Gas atomization' is a process to reduce a molten stream of 
+metal alloy to droplets of 500 [mu]m diameter or less by a high 
+pressure gas stream.
+    3. `Rotary atomization' is a process to reduce a stream or pool 
+of molten metal to droplets of a diameter of 500 [mu]m or less by 
+centrifugal force.
+    4. `Splat quenching' is a process to `solidify rapidly' a molten 
+metal stream impinging upon a chilled block, forming a flake-like 
+product.
+    5. `Melt spinning' is a process to `solidify rapidly' a molten 
+metal stream impinging upon a rotating chilled block, forming a 
+flake, ribbon or rod-like product.
+    6. `Comminution' is a process to reduce a material to particles 
+by crushing or grinding.
+    7. `Melt extraction' is a process to `solidify rapidly' and 
+extract a ribbon-like alloy product by the insertion of a short 
+segment of a rotating chilled block into a bath of a molten metal 
+alloy.
+    8. `Mechanical alloying' is an alloying process resulting from 
+the bonding, fracturing and rebonding of elemental and master alloy 
+powders by mechanical impact. Non-metallic particles may be 
+incorporated in the alloy by addition of the appropriate powders.
+    9. `Plasma atomization' is a process to reduce a molten stream 
+or solid metal to droplets of 500 [mu]m diameter or less, using 
+plasma torches in an inert gas environment.
+    10. `Solidify rapidly' is a process involving the solidification 
+of molten material at cooling rates exceeding 1000 K/sec.
+
+
+0
+23. In supplement no. 1 to part 774 (the CCL), Category 1, ECCN 1C006 
+is revised to read as follow:
+
+1C006 Fluids and lubricating materials, as follows (see List of 
+Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry................  NS Column 2
+AT applies to entire entry................  AT Column 1
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: $3000
+
+[[Page 16494]]
+
+GBS: Yes for 1C006.d
+
+List of Items Controlled
+
+Related Controls: See also 1C996.
+Related Definitions: N/A
+Items:
+
+    a. [Reserved]
+    b. Lubricating materials containing, as their principal 
+ingredients, any of the following:
+    b.1. Phenylene or alkylphenylene ethers or thio-ethers, or their 
+mixtures, containing more than two ether or thio-ether functions or 
+mixtures thereof; or
+    b.2. Fluorinated silicone fluids with a kinematic viscosity of 
+less than 5,000 mm\2\/s (5,000 centistokes) measured at 298 K (25 
+[deg]C);
+    c. Damping or flotation fluids having all of the following:
+    c.1. Purity exceeding 99.8%;
+    c.2. Containing less than 25 particles of 200 [mu]m or larger in 
+size per 100 ml; and
+    c.3. Made from at least 85% of any of the following:
+    c.3.a.Dibromotetrafluoroethane (CAS 25497-30-7, 124-73-2, 27336-
+23-8);
+    c.3.b.Polychlorotrifluoroethylene (oily and waxy modifications 
+only); or
+    c.3.c.Polybromotrifluoroethylene;
+    d. Fluorocarbon fluids designed for electronic cooling and 
+having all of the following:
+    d.1. Containing 85% by weight or more of any of the following, 
+or mixtures thereof:
+    d.1.a. Monomeric forms of perfluoropolyalkylether-triazines or 
+perfluoroaliphatic-ethers;
+    d.1.b. Perfluoroalkylamines;
+    d.1.c. Perfluorocycloalkanes; or
+    d.1.d. Perfluoroalkanes;
+    d.2. Density at 298 K (25 [deg]C) of 1.5 g/ml or more;
+    d.3. In a liquid state at 273 K (0 [deg]C); and
+    d.4. Containing 60% or more by weight of fluorine.
+
+    Note:
+    1C006.d does not apply to materials specified and packaged as 
+medical products.
+
+
+0
+24. In supplement no. 1 to part 774 (the CCL), Category 1, ECCN 1C010 
+is revised to read as follow:
+
+1C010 ``Fibrous or filamentary materials'' as follows (see List of 
+Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, NP, AT
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry................  NS Column 2
+NP applies to 1C010.a (aramid ``fibrous or  NP Column 1
+ filamentary materials'', b (carbon
+ ``fibrous and filamentary materials''),
+ and e.1 for ``fibrous and filamentary
+ materials'' that meet or exceed the
+ control criteria of ECCN 1C210.
+AT applies to entire entry................  AT Column 1
+ 
+
+Reporting Requirements
+
+    See Sec.  743.1 of the EAR for reporting requirements for 
+exports under License Exceptions, and Validated End-User 
+authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: $1500, N/A for NP
+GBS: N/A
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any item in 
+1C010.c to any of the destinations listed in Country Group A:6 (See 
+Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 1E001 (``development'' and 
+``production'') and 1E201 (``use'') for technology for items 
+controlled by this entry. (2) Also see ECCNs 1C210 and 1C990. (3) 
+See also 9C110 for material not controlled by 1C010.e, as defined by 
+notes 1 or 2.
+Related Definitions: (1.) ``Specific modulus'': Young's modulus in 
+pascals, equivalent to N/m\2\ divided by specific weight in N/m\3\, 
+measured at a temperature of (2962) K ((232)[deg]C) and a relative humidity of (505)%. (2.) 
+``Specific tensile strength'': Ultimate tensile strength in pascals, 
+equivalent to N/m\2\ divided by specific weight in N/m\3\, measured 
+at a temperature of (2962) K ((232)[deg]C) 
+and a relative humidity of (505)%.
+Items:
+
+
+    Technical Notes:
+
+    1. For the purpose of calculating ``specific tensile strength'', 
+``specific modulus'' or specific weight of ``fibrous or filamentary 
+materials'' in 1C010.a, 1C010.b or 1C010.c, the tensile strength and 
+modulus should be determined by using Method A described in ISO 
+10618 (2004) or national equivalents.
+    2. Assessing the ``specific tensile strength'', ``specific 
+modulus'' or specific weight of non-unidirectional ``fibrous or 
+filamentary materials'' (e.g., fabrics, random mats or braids) in 
+1C010 is to be based on the mechanical properties of the constituent 
+unidirectional monofilaments (e.g., monofilaments, yarns, rovings or 
+tows) prior to processing into the non-unidirectional ``fibrous or 
+filamentary materials''.
+
+    a. Organic ``fibrous or filamentary materials'', having all of 
+the following:
+    a.1. ``Specific modulus'' exceeding 12.7 x 10\6\ m; and
+    a.2. ``Specific tensile strength'' exceeding 23.5 x 10\4\ m;
+
+    Note:
+     1C010.a does not control polyethylene.
+
+    b. Carbon ``fibrous or filamentary materials'', having all of 
+the following:
+    b.1. ``Specific modulus'' exceeding 14.65 x 10\6\ m; and
+    b.2. ``Specific tensile strength'' exceeding 26.82 x 10\4\ m;
+
+    Note:
+     1C010.b does not control:
+    a. ``Fibrous or filamentary materials'', for the repair of 
+``civil aircraft'' structures or laminates, having all of the 
+following:
+     1. An area not exceeding 1 m2;
+    2. A length not exceeding 2.5 m; and
+    3. A width exceeding 15 mm.
+    b. Mechanically chopped, milled or cut carbon ``fibrous or 
+filamentary materials'' 25.0 mm or less in length.
+
+    c. Inorganic ``fibrous or filamentary materials'', having all of 
+the following:
+    c.1. Having any of the following:
+    c.1.a. Composed of 50% or more by weight silicon dioxide 
+(SiO2) and having a ``specific modulus'' exceeding 2.54 x 
+10\6\ m; or
+    c.1.b. Not specified in 1C010.c.1.a and having a ``specific 
+modulus'' exceeding 5.6 x 10\6\ m; and
+    c.2. Melting, softening, decomposition or sublimation point 
+exceeding 1,922 K (1,649 [deg]C) in an inert environment;
+
+    Note:
+     1C010.c does not control:
+    a. Discontinuous, multiphase, polycrystalline alumina fibers in 
+chopped fiber or random mat form, containing 3% by weight or more 
+silica, with a ``specific modulus'' of less than 10 x 106 m;
+    b. Molybdenum and molybdenum alloy fibers;
+    c. Boron fibers;
+    d. Discontinuous ceramic fibers with a melting, softening, 
+decomposition or sublimation point lower than 2,043 K (1,770 [deg]C) 
+in an inert environment.
+
+    d. ``Fibrous or filamentary materials'', having any of the 
+following:
+    d.1. Composed of any of the following:
+    d.1.a. Polyetherimides controlled by 1C008.a; or
+    d.1.b. Materials controlled by 1C008.b to 1C008.f; or
+    d.2. Composed of materials controlled by 1C010.d.1.a or 
+1C010.d.1.b and `commingled' with other fibers controlled by 
+1C010.a, 1C010.b or 1C010.c;
+
+    Technical Note:
+     `Commingled' is filament to filament blending of thermoplastic 
+fibers and reinforcement fibers in order to produce a fiber 
+reinforcement ``matrix'' mix in total fiber form.
+
+    e. Fully or partially resin impregnated or pitch impregnated 
+``fibrous or filamentary materials'' (prepregs), metal or carbon 
+coated ``fibrous or filamentary materials'' (preforms) or `carbon 
+fiber preforms', having all of the following:
+    e.1. Having any of the following:
+    e.1.a. Inorganic ``fibrous or filamentary materials'' controlled 
+by 1C010.c; or
+    e.1.b. Organic or carbon ``fibrous or filamentary materials'', 
+having all of the following:
+    e.1.b.1. ``Specific modulus'' exceeding 10.15 x 10\6\ m; and
+    e.1.b.2 ``Specific tensile strength'' exceeding 17.7 x 10\4\ m; 
+and
+    e.2. Having any of the following:
+    e.2.a. Resin or pitch, controlled by 1C008 or 1C009.b;
+    e.2.b. `Dynamic Mechanical Analysis glass transition temperature 
+(DMA Tg)' equal to or exceeding 453 K (180 [deg]C) and 
+having a phenolic resin; or
+
+[[Page 16495]]
+
+    e.2.c. `Dynamic Mechanical Analysis glass transition temperature 
+(DMA Tg)' equal to or exceeding 505 K (232 [deg]C) and 
+having a resin or pitch, not specified by 1C008 or 1C009.b, and not 
+being a phenolic resin;
+
+    Note 1:
+    Metal or carbon coated ``fibrous or filamentary materials'' 
+(preforms) or `carbon fiber preforms', not impregnated with resin or 
+pitch, are specified by ``fibrous or filamentary materials'' in 
+1C010.a, 1C010.b or 1C010.c.
+
+
+    Note 2:
+     1C010.e does not apply to:
+    a. Epoxy resin ``matrix'' impregnated carbon ``fibrous or 
+filamentary materials'' (prepregs) for the repair of ``civil 
+aircraft'' structures or laminates, having all of the following:
+    1. An area not exceeding 1 m2;
+    2. A length not exceeding 2.5 m; and
+    3. A width exceeding 15 mm;
+    b. Fully or partially resin-impregnated or pitch-impregnated 
+mechanically chopped, milled or cut carbon ``fibrous or filamentary 
+materials'' 25.0 mm or less in length when using a resin or pitch 
+other than those specified by 1C008 or 1C009.b.
+
+
+    Technical Notes:
+
+    1. `Carbon fiber preforms' are an ordered arrangement of 
+uncoated or coated fibers intended to constitute a framework of a 
+part before the ``matrix'' is introduced to form a ``composite''.
+    2. The `Dynamic Mechanical Analysis glass transition temperature 
+(DMA Tg)' for materials controlled by 1C010.e is determined using 
+the method described in ASTM D 7028 -07, or equivalent national 
+standard, on a dry test specimen. In the case of thermoset 
+materials, degree of cure of a dry test specimen shall be a minimum 
+of 90% as defined by ASTM E 2160 04 or equivalent national standard.
+
+
+0
+25. In supplement no. 1 to part 774, Category 2, ECCN 2A001 is revised 
+to read as follows:
+
+2A001 Anti-friction bearings, bearing systems and ``components,'' as 
+follows, (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, MT, AT
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry................  NS Column 2
+MT applies to radial ball bearings having   MT Column 1
+ all tolerances specified in accordance
+ with ISO 492 Tolerance Class 2 (or ANSI/
+ ABMA Std 20 Tolerance Class ABEC-9, or
+ other national equivalents) or better and
+ having all the following characteristics:
+ an inner ring bore diameter between 12
+ and 50 mm; an outer ring outside diameter
+ between 25 and 100 mm; and a width
+ between 10 and 20 mm.
+AT applies to entire entry................  AT Column 1
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: $3000, N/A for MT
+GBS: Yes, for 2A001.a, N/A for MT
+
+List of Items Controlled
+
+Related Controls: (1) See also 2A991. (2) Quiet running bearings are 
+``subject to the ITAR'' (see 22 CFR parts 120 through 130.)
+Related Definitions: Annular Bearing Engineers Committee (ABEC).
+Items:
+
+
+    Note:
+    2A001.a includes ball bearing and roller elements ``specially 
+designed'' for the items specified therein.
+
+    a. Ball bearings and solid roller bearings, having all 
+tolerances specified by the manufacturer in accordance with ISO 492 
+Tolerance Class 4 or Class 2 (or national equivalents), or better, 
+and having both `rings' and `rolling elements', made from monel or 
+beryllium;
+
+    Note:
+     2A001.a does not control tapered roller bearings.
+
+
+    Technical Notes:
+
+    1. `Ring'--annular part of a radial rolling bearing 
+incorporating one or more raceways (ISO 5593:1997).
+    2. `Rolling element'--ball or roller which rolls between 
+raceways (ISO 5593:1997).
+
+    b. [Reserved]
+    c. Active magnetic bearing systems using any of the following, 
+and ``specially designed'' components therefor:
+    c.1. Materials with flux densities of 2.0 T or greater and yield 
+strengths greater than 414 MPa;
+    c.2. All-electromagnetic 3D homopolar bias designs for 
+actuators; or
+    c.3. High temperature (450 K (177[deg]C) and above) position 
+sensors.
+
+
+0
+26. In supplement no. 1 to part 774, Category 3, ECCN 3B001 is revised 
+to read as follows:
+
+3B001 Equipment for the manufacturing of semiconductor devices or 
+materials, as follows (see List of Items Controlled) and ``specially 
+designed'' ``components'' and ``accessories'' therefor.
+
+License Requirements
+
+Reason for Control: NS, AT
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry................  NS Column 2
+AT applies to entire entry................  AT Column 1
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: $500
+GBS: Yes, except a.3 (molecular beam epitaxial growth equipment 
+using gas sources), .e (automatic loading multi-chamber central 
+wafer handling systems only if connected to equipment controlled by 
+3B001. a.3, or .f), and .f (lithography equipment).
+
+List of Items Controlled
+
+Related Controls: See also 3B991.
+Related Definitions: N/A
+Items:
+
+    a. Equipment designed for epitaxial growth as follows:
+    a.1. Equipment designed or modified to produce a layer of any 
+material other than silicon with a thickness uniform to less than 
+ 2.5% across a distance of 75 mm or more;
+
+    Note:
+    3B001.a.1 includes atomic layer epitaxy (ALE) equipment.
+
+    a.2. Metal Organic Chemical Vapor Deposition (MOCVD) reactors 
+designed for compound semiconductor epitaxial growth of material 
+having two or more of the following elements: aluminum, gallium, 
+indium, arsenic, phosphorus, antimony, or nitrogen;
+    a.3. Molecular beam epitaxial growth equipment using gas or 
+solid sources;
+    b. Equipment designed for ion implantation and having any of the 
+following:
+    b.1. [Reserved]
+    b.2. Being designed and optimized to operate at a beam energy of 
+20 keV or more and a beam current of 10 mA or more for hydrogen, 
+deuterium, or helium implant;
+    b.3. Direct write capability;
+    b.4. A beam energy of 65 keV or more and a beam current of 45 mA 
+or more for high energy oxygen implant into a heated semiconductor 
+material ``substrate''; or
+    b.5. Being designed and optimized to operate at beam energy of 
+20keV or more and a beam current of 10mA or more for silicon implant 
+into a semiconductor material ``substrate'' heated to 600 [deg]C or 
+greater;
+    c. [Reserved]
+    d. [Reserved]
+    e. Automatic loading multi-chamber central wafer handling 
+systems having all of the following:
+    e.1. Interfaces for wafer input and output, to which more than 
+two functionally different `semiconductor process tools' controlled 
+by 3B001.a.1, 3B001.a.2, 3B001.a.3 or 3B001.b are designed to be 
+connected; and
+
+[[Page 16496]]
+
+    e.2. Designed to form an integrated system in a vacuum 
+environment for `sequential multiple wafer processing';
+
+    Note:
+    3B001.e does not control automatic robotic wafer handling 
+systems ``specially designed'' for parallel wafer processing.
+
+
+    Technical Notes:
+
+    1. For the purpose of 3B001.e, `semiconductor process tools' 
+refers to modular tools that provide physical processes for 
+semiconductor production that are functionally different, such as 
+deposition, implant or thermal processing.
+    2. For the purpose of 3B001.e, `sequential multiple wafer 
+processing' means the capability to process each wafer in different 
+`semiconductor process tools', such as by transferring each wafer 
+from one tool to a second tool and on to a third tool with the 
+automatic loading multi-chamber central wafer handling systems.
+
+    f. Lithography equipment as follows:
+    f.1. Align and expose step and repeat (direct step on wafer) or 
+step and scan (scanner) equipment for wafer processing using photo-
+optical or X-ray methods and having any of the following:
+    f.1.a. A light source wavelength shorter than 193 nm; or
+    f.1.b. Capable of producing a pattern with a ``Minimum 
+Resolvable Feature size'' (MRF) of 45 nm or less;
+
+    Technical Note:
+    The `Minimum Resolvable Feature size' (MRF) is calculated by the 
+following formula:
+
+[GRAPHIC] [TIFF OMITTED] TR29MR21.006
+
+where the K factor = 0.35
+    f.2 Imprint lithography equipment capable of production features 
+of 45 nm or less;
+
+    Note:
+    3B001.f.2 includes:
+
+
+--Micro contact printing tools
+--Hot embossing tools
+--Nano-imprint lithography tools
+--Step and flash imprint lithography (S-FIL) tools
+
+    f.3. Equipment ``specially designed'' for mask making having all 
+of the following:
+    f.3.a. A deflected focused electron beam, ion beam or ``laser'' 
+beam; and
+    f.3.b. Having any of the following:
+    f.3.b.1. A Full-Width Half-Maximum (FWHM) spot size smaller than 
+65 nm and an image placement less than 17 nm (mean + 3 sigma); or
+    f.3.b.2. [Reserved]
+    f.3.b.3. A second-layer overlay error of less than 23 nm (mean + 
+3 sigma) on the mask;
+    f.4. Equipment designed for device processing using direct 
+writing methods, having all of the following:
+    f.4.a. A deflected focused electron beam; and
+    f.4.b. Having any of the following:
+    f.4.b.1. A minimum beam size equal to or smaller than 15 nm; or
+    f.4.b.2. An overlay error less than 27 nm (mean + 3 sigma);
+    g. Masks and reticles, designed for integrated circuits 
+controlled by 3A001;
+    h. Multi-layer masks with a phase shift layer not specified by 
+3B001.g and designed to be used by lithography equipment having a 
+light source wavelength less than 245 nm;
+
+    Note:
+     3B001.h. does not control multi-layer masks with a phase shift 
+layer designed for the fabrication of memory devices not controlled 
+by 3A001.
+
+
+    N.B.:
+     For masks and reticles, ``specially designed'' for optical 
+sensors, see 6B002.
+
+    i. Imprint lithography templates designed for integrated 
+circuits by 3A001;
+    j. Mask ``substrate blanks'' with multilayer reflector structure 
+consisting of molybdenum and silicon, and having all of the 
+following:
+    j.1. ``Specially designed'' for `Extreme Ultraviolet (EUV)' 
+lithography; and
+    j.2. Compliant with SEMI Standard P37.
+
+    Technical Note:
+    `Extreme Ultraviolet (EUV)' refers to electromagnetic spectrum 
+wavelengths greater than 5 nm and less than 124 nm.
+
+
+0
+27. In supplement no. 1 to part 774, Category 3, ECCN 3E002 is revised 
+to read as follows:
+
+3E002 ``Technology'' according to the General Technology Note other 
+than that controlled in 3E001 for the ``development'' or 
+``production'' of a ``microprocessor microcircuit'', ``micro-
+computer microcircuit'' and microcontroller microcircuit core, 
+having an arithmetic logic unit with an access width of 32 bits or 
+more and any of the following features or characteristics (see List 
+of Items Controlled).
+
+License Requirements
+
+    Reason for Control: NS, AT
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry................  NS Column 1
+AT applies to entire entry................  AT Column 1
+ 
+
+
+    License Requirements Note:
+     See Sec.  744.17 of the EAR for additional license requirements 
+for microprocessors having a processing speed of 5 GFLOPS or more 
+and an arithmetic logic unit with an access width of 32 bit or more, 
+including those incorporating ``information security'' 
+functionality, and associated ``software'' and ``technology'' for 
+the ``production'' or ``development'' of such microprocessors.
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+TSR: Yes
+
+List of Items Controlled
+
+Related Controls: N/A
+Related Definitions: N/A
+Items:
+
+    a. A `vector processor unit' designed to perform more than two 
+calculations on `floating-point' vectors (one-dimensional arrays of 
+32-bit or larger numbers) simultaneously;
+
+    Technical Note:
+     A `vector processor unit' is a processor element with built-in 
+instructions that perform multiple calculations on `floating-point' 
+vectors (one-dimensional arrays of 32-bit or larger numbers) 
+simultaneously, having at least one vector arithmetic logic unit and 
+vector registers of at least 32 elements each.
+
+
+    b. Designed to perform more than four 64-bit or larger 
+`floating-point' operation results per cycle; or
+    c. Designed to perform more than eight 16-bit `fixed-point' 
+multiply-accumulate results per cycle (e.g., digital manipulation of 
+analog information that has been previously converted into digital 
+form, also known as digital ``signal processing'').
+
+    Note 1:
+    3E002 does not control ``technology'' for multimedia extensions.
+
+
+    Note 2:
+    3E002 does not control ``technology'' for microprocessor cores, 
+having all of the following:
+    a. Using ``technology'' at or above 0.130 [micro]m; and
+    b. Incorporating multi-layer structures with five or fewer metal 
+layers.
+
+
+    Note 3:
+     3E002 includes ``technology'' for the ``development'' or 
+``production'' of digital signal processors and digital array 
+processors.
+
+
+    Technical Notes:
+
+    1. For the purpose of 3E002.a and 3E002.b, `floating-point' is 
+defined by IEEE-754.
+
+[[Page 16497]]
+
+    2. For the purpose of 3E002.c, `fixed-point' refers to a fixed-
+width real number with both an integer component and a fractional 
+component, and which does not include integer-only formats.
+
+
+0
+28. In supplement no. 1 to part 774, Category 5 Part 2 is amended by 
+revising the Nota Bene to Note 3 (Cryptography Note) to read as 
+follows:
+* * * * *
+
+Category 5--Telecommunications and ``Information Security''
+
+Part 2--``Information Security''
+
+* * * * *
+
+    Note 3: * * *
+
+
+
+    N.B. to Note 3 (Cryptography Note):
+    You must submit a classification request or self-classification 
+report to BIS for certain mass market encryption commodities and 
+software eligible for the Cryptography Note employing a key length 
+greater than 64 bits for the symmetric algorithm (or, for 
+commodities and software not implementing any symmetric algorithms, 
+employing a key length greater than 768 bits for asymmetric 
+algorithms described by Technical note 2.b to 5A002.a or greater 
+than 128 bits for elliptic curve algorithms, or any asymmetric 
+algorithm described by Technical Note 2.c to 5A002.a) in accordance 
+with the requirements of Sec.  740.17(b) of the EAR in order to be 
+released from the ``EI'' and ``NS'' controls of ECCN 5A002 or 5D002. 
+For mass market commodities and software that do not require a self-
+classification report pursuant to Sec.  740.17(b) and (e)(3) of the 
+EAR, such items are also released from ``EI'' and ``NS'' controls 
+and controlled under ECCN 5A992.c or 5D992.c.
+
+* * * * *
+
+0
+28. In supplement no. 1 to part 774, Category 5 Part 2, ECCN 5A002 is 
+revised to read as follows:
+
+5A002 ``Information security'' systems, equipment and 
+``components,'' as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT, EI
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry................  NS Column 1
+AT applies to entire entry................  AT Column 1
+EI applies to entire entry................  Refer to Sec.   742.15 of
+                                             the EAR
+ 
+
+
+    License Requirements Note:
+     See Sec.  744.17 of the EAR for additional license requirements 
+for microprocessors having a processing speed of 5 GFLOPS or more 
+and an arithmetic logic unit with an access width of 32 bit or more, 
+including those incorporating ``information security'' 
+functionality, and associated ``software'' and ``technology'' for 
+the ``production'' or ``development'' of such microprocessors.
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: Yes: $500 for ``components''. N/A for systems and equipment.
+GBS: N/A
+ENC: Yes for certain EI controlled commodities, see Sec.  740.17 of 
+the EAR for eligibility.
+
+List of Items Controlled
+
+Related Controls: (1) ECCN 5A002.a controls ``components'' providing 
+the means or functions necessary for ``information security.'' All 
+such ``components'' are presumptively ``specially designed'' and 
+controlled by 5A002.a. (2) See USML Categories XI (including XI(b)) 
+and XIII(b) (including XIII(b)(2)) for controls on systems, 
+equipment, and components described in 5A002.d or .e that are 
+subject to the ITAR. (3) For ``satellite navigation system'' 
+receiving equipment containing or employing decryption see 7A005, 
+and for related decryption ``software'' and ``technology'' see 7D005 
+and 7E001. (4) Noting that items may be controlled elsewhere on the 
+CCL, examples of items not controlled by ECCN 5A002.a.4 include the 
+following: (a) An automobile where the only `cryptography for data 
+confidentiality' having a `described security algorithm' is 
+performed by a Category 5--Part 2 Note 3 eligible mobile telephone 
+that is built into the car. In this case, secure phone 
+communications support a non-primary function of the automobile but 
+the mobile telephone (equipment), as a standalone item, is not 
+controlled by ECCN 5A002 because it is excluded by the Cryptography 
+Note (Note 3) (See ECCN 5A992.c). (b) An exercise bike with an 
+embedded Category 5--Part 2 Note 3 eligible web browser, where the 
+only controlled cryptography is performed by the web browser. In 
+this case, secure web browsing supports a non-primary function of 
+the exercise bike but the web browser (``software''), as a 
+standalone item, is not controlled by ECCN 5D002 because it is 
+excluded by the Cryptography Note (Note 3) (See ECCN 5D992.c). (5) 
+After classification or self-classification in accordance with Sec.  
+740.17(b) of the EAR, mass market encryption commodities that meet 
+eligibility requirements are released from ``EI'' and ``NS'' 
+controls. These commodities are designated 5A992.c.
+Related Definitions: N/A
+Items:
+    a. Designed or modified to use `cryptography for data 
+confidentiality' having a `described security algorithm', where that 
+cryptographic capability is usable, has been activated, or can be 
+activated by any means other than secure ``cryptographic 
+activation'', as follows:
+    a.1. Items having ``information security'' as a primary 
+function;
+    a.2. Digital communication or networking systems, equipment or 
+components, not specified in paragraph 5A002.a.1;
+    a.3. Computers, other items having information storage or 
+processing as a primary function, and components therefor, not 
+specified in paragraphs 5A002.a.1 or .a.2;
+
+    N.B.:
+     For operating systems see also 5D002.a.1 and .c.1.
+
+    a.4. Items, not specified in paragraphs 5A002.a.1 to a.3, where 
+the `cryptography for data confidentiality' having a `described 
+security algorithm' meets all of the following:
+    a.4.a. It supports a non-primary function of the item; and
+    a.4.b. It is performed by incorporated equipment or ``software'' 
+that would, as a standalone item, be specified by ECCNs 5A002, 
+5A003, 5A004, 5B002 or 5D002.
+
+    N.B. to paragraph a.4:
+     See Related Control Paragraph (4) of this ECCN 5A002 for 
+examples of items not controlled by 5A002.a.4.
+
+
+    Technical Notes:
+
+    1. For the purposes of 5A002.a, `cryptography for data 
+confidentiality' means ``cryptography'' that employs digital 
+techniques and performs any cryptographic function other than any of 
+the following:
+    1.a. ``Authentication;''
+    1.b. Digital signature;
+    1.c. Data integrity;
+    1.d. Non-repudiation;
+    1.e. Digital rights management, including the execution of copy-
+protected ``software;''
+    1.f. Encryption or decryption in support of entertainment, mass 
+commercial broadcasts or medical records management; or
+    1.g. Key management in support of any function described in 
+paragraphs 1.a to 1.f of this Technical Note paragraph 1.
+    2. For the purposes of 5A002.a, `described security algorithm' 
+means any of the following:
+    2.a. A ``symmetric algorithm'' employing a key length in excess 
+of 56 bits, not including parity bits;
+    2.b. An ``asymmetric algorithm'' where the security of the 
+algorithm is based on any of the following:
+    2.b.1. Factorization of integers in excess of 512 bits (e.g., 
+RSA);
+    2.b.2. Computation of discrete logarithms in a multiplicative 
+group of a finite field of size greater than 512 bits (e.g., Diffie-
+Hellman over Z/pZ); or
+    2.b.3. Discrete logarithms in a group other than mentioned in 
+paragraph 2.b.2 of this Technical Note in excess of 112 bits (e.g., 
+Diffie-Hellman over an elliptic curve); or
+    2.c. An ``asymmetric algorithm'' where the security of the 
+algorithm is based on any of the following:
+    2.c.1. Shortest vector or closest vector problems associated 
+with lattices (e.g., NewHope, Frodo, NTRUEncrypt, Kyber, Titanium);
+    2.c.2. Finding isogenies between Supersingular elliptic curves 
+(e.g., Supersingular Isogeny Key Encapsulation); or
+    2.c.3. Decoding random codes (e.g., McEliece, Niederreiter).
+
+
+    Technical Note:
+    An algorithm described by Technical Note 2.c. may be referred to 
+as being post-quantum, quantum-safe or quantum-resistant.
+
+
+    Note 1:
+    Details of items must be accessible and provided upon request, 
+in order to establish any of the following:
+    a. Whether the item meets the criteria of 5A002.a.1 to a.4; or
+
+[[Page 16498]]
+
+    b. Whether the cryptographic capability for data confidentiality 
+specified by 5A002.a is usable without ``cryptographic activation.''
+
+
+    Note 2:
+    5A002.a does not control any of the following items, or 
+specially designed ``information security'' components therefor:
+    a. Smart cards and smart card `readers/writers' as follows:
+    a.1. A smart card or an electronically readable personal 
+document (e.g., token coin, e-passport) that meets any of the 
+following:
+    a.1.a. The cryptographic capability meets all of the following:
+    a.1.a.1. It is restricted for use in any of the following:
+    a.1.a.1.a. Equipment or systems, not described by 5A002.a.1 to 
+a.4;
+    a.1.a.1.b. Equipment or systems, not using `cryptography for 
+data confidentiality' having a `described security algorithm'; or
+    a.1.a.1.c. Equipment or systems, excluded from 5A002.a by 
+entries b. to f. of this Note; and
+    a.1.a.2. It cannot be reprogrammed for any other use; or
+    a.1.b. Having all of the following:
+    a.1.b.1. It is specially designed and limited to allow 
+protection of `personal data' stored within;
+    a.1.b.2. Has been, or can only be, personalized for public or 
+commercial transactions or individual identification; and
+    a.1.b.3. Where the cryptographic capability is not user-
+accessible;
+
+
+    Technical Note to paragraph a.1.b of Note 2:
+     `Personal data' includes any data specific to a particular 
+person or entity, such as the amount of money stored and data 
+necessary for ``authentication.''
+    a.2. `Readers/writers' specially designed or modified, and 
+limited, for items specified by paragraph a.1 of this Note;
+
+
+    Technical Note to paragraph a.2 of Note 2:
+    `Readers/writers' include equipment that communicates with smart 
+cards or electronically readable documents through a network.
+    b. Cryptographic equipment specially designed and limited for 
+banking use or `money transactions';
+
+
+    Technical Note to paragraph b. of Note 2:
+     `Money transactions' in 5A002 Note 2 paragraph b. includes the 
+collection and settlement of fares or credit functions.
+    c. Portable or mobile radiotelephones for civil use (e.g., for 
+use with commercial civil cellular radio communication systems) that 
+are not capable of transmitting encrypted data directly to another 
+radiotelephone or equipment (other than Radio Access Network (RAN) 
+equipment), nor of passing encrypted data through RAN equipment 
+(e.g., Radio Network Controller (RNC) or Base Station Controller 
+(BSC));
+    d. Cordless telephone equipment not capable of end-to-end 
+encryption where the maximum effective range of unboosted cordless 
+operation (i.e., a single, unrelayed hop between terminal and home 
+base station) is less than 400 meters according to the 
+manufacturer's specifications;
+    e. Portable or mobile radiotelephones and similar client 
+wireless devices for civil use, that implement only published or 
+commercial cryptographic standards (except for anti-piracy 
+functions, which may be non-published) and also meet the provisions 
+of paragraphs a.2 to a.4 of the Cryptography Note (Note 3 in 
+Category 5--Part 2), that have been customized for a specific civil 
+industry application with features that do not affect the 
+cryptographic functionality of these original non-customized 
+devices;
+    f. Items, where the ``information security'' functionality is 
+limited to wireless ``personal area network'' functionality 
+implementing only published or commercial cryptographic standards;
+    g. Mobile telecommunications Radio Access Network (RAN) 
+equipment designed for civil use, which also meet the provisions of 
+paragraphs a.2 to a.4 of the Cryptography Note (Note 3 in Category 
+5--Part 2), having an RF output power limited to 0.1W (20 dBm) or 
+less, and supporting 16 or fewer concurrent users;
+    h. Routers, switches, gateways or relays, where the 
+``information security'' functionality is limited to the tasks of 
+``Operations, Administration or Maintenance'' (``OAM'') implementing 
+only published or commercial cryptographic standards;
+    i. General purpose computing equipment or servers, where the 
+``information security'' functionality meets all of the following:
+    i.1. Uses only published or commercial cryptographic standards; 
+and
+    i.2. Is any of the following:
+    i.2.a. Integral to a CPU that meets the provisions of Note 3 in 
+Category 5--Part 2;
+    i.2.b. Integral to an operating system that is not specified by 
+5D002; or
+    i.2.c. Limited to ``OAM'' of the equipment; or
+    j. Items specially designed for a `connected civil industry 
+application', meeting all of the following:
+    j.1. Being any of the following:
+    j.1.a. A network-capable endpoint device meeting any of the 
+following:
+    j.1.a.1. The ``information security'' functionality is limited 
+to securing 'non-arbitrary data' or the tasks of ``Operations, 
+Administration or Maintenance'' (``OAM''); or
+    j.1.a.2. The device is limited to a specific 'connected civil 
+industry application'; or
+    j.1.b. Networking equipment meeting all of the following:
+    j.1.b.1. Being specially designed to communicate with the 
+devices specified by paragraph j.1.a. above; and
+    j.1.b.2. The ``information security'' functionality is limited 
+to supporting the `connected civil industry application' of devices 
+specified by paragraph j.1.a. above, or the tasks of ``OAM'' of this 
+networking equipment or of other items specified by paragraph j. of 
+this Note; and
+    j.2. Where the ``information security'' functionality implements 
+only published or commercial cryptographic standards, and the 
+cryptographic functionality cannot easily be changed by the user.
+
+
+    Technical Notes:
+
+    1. `Connected civil industry application' means a network-
+connected consumer or civil industry application other than 
+``information security'', digital communication, general purpose 
+networking or computing.
+    2. `Non-arbitrary data' means sensor or metering data directly 
+related to the stability, performance or physical measurement of a 
+system (e.g., temperature, pressure, flow rate, mass, volume, 
+voltage, physical location, etc.), that cannot be changed by the 
+user of the device.
+
+    b. Being a `cryptographic activation token';
+
+    Technical Note:
+    A `cryptographic activation token' is an item designed or 
+modified for any of the following:
+    1. Converting, by means of ``cryptographic activation'', an item 
+not specified by Category 5--Part 2 into an item specified by 
+5A002.a or 5D002.c.1, and not released by the Cryptography Note 
+(Note 3 in Category 5--Part 2); or
+    2. Enabling by means of ``cryptographic activation'', additional 
+functionality specified by 5A002.a of an item already specified by 
+Category 5--Part 2;
+
+    c. Designed or modified to use or perform ``quantum cryptography'';
+
+    Technical Note:
+    ``Quantum cryptography'' is also known as Quantum Key 
+Distribution (QKD).
+
+    d. Designed or modified to use cryptographic techniques to generate 
+channelizing codes, scrambling codes or network identification codes, 
+for systems using ultra-wideband modulation techniques and having any 
+of the following:
+    d.1. A bandwidth exceeding 500 MHz; or
+    d.2. A ``fractional bandwidth'' of 20% or more;
+    e. Designed or modified to use cryptographic techniques to generate 
+the spreading code for ``spread spectrum'' systems, not specified by 
+5A002.d, including the hopping code for ``frequency hopping'' systems.
+
+
+0
+29. In supplement no. 1 to part 774, Category 6, ECCN 6A004 is revised 
+to read as follows:
+
+6A004 Optical equipment and ``components,'' as follows (see List of 
+Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry................  NS Column 2
+AT applies to entire entry................  AT Column 1
+ 
+
+Reporting Requirements
+
+    See Sec.  743.1 of the EAR for reporting requirements for 
+exports under License
+
+[[Page 16499]]
+
+Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: $3000
+GBS: Yes for 6A004.a.1, a.2, a.4, .b, d.2, and .f.
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA may not be used to 
+ship any commodity in 6A004.c or .d to any of the destinations 
+listed in Country Group A:6 (See Supplement No.1 to part 740 of the 
+EAR).
+
+List of Items Controlled
+
+Related Controls: (1) For optical mirrors or `aspheric optical 
+elements' ``specially designed'' for lithography ``equipment,'' see 
+ECCN 3B001. (2) See USML Category XII(e) for gimbals ``subject to 
+the ITAR.'' (3) See also 6A994.
+Related Definitions: An 'aspheric optical element' is any element 
+used in an optical system whose imaging surface or surfaces are 
+designed to depart from the shape of an ideal sphere.
+Items:
+
+    a. Optical mirrors (reflectors) as follows:
+
+    Technical Note:
+    For the purpose of 6A004.a, Laser Induced Damage Threshold 
+(LIDT) is measured according to ISO 21254-1:2011.
+
+    a.1. `Deformable mirrors' having an active optical aperture 
+greater than 10 mm and having any of the following, and specially 
+designed components therefor:
+    a.1.a. Having all the following:
+    a.1.a.1. A mechanical resonant frequency of 750 Hz or more; and
+    a.1.a.2. More than 200 actuators; or
+    a.1.b. A Laser Induced Damage Threshold (LIDT) being any of the 
+following:
+    a.1.b.1. Greater than 1 kW/cm\2\ using a ``CW laser''; or
+    a.1.b.2. Greater than 2 J/cm\2\ using 20 ns ``laser'' pulses at 
+20 Hz repetition rate;
+
+    Technical Notes:
+
+    1. `Deformable mirrors' are mirrors having any of the following:
+    a. A single continuous optical reflecting surface which is 
+dynamically deformed by the application of individual torques or 
+forces to compensate for distortions in the optical waveform 
+incident upon the mirror; or
+    b. Multiple optical reflecting elements that can be individually 
+and dynamically repositioned by the application of torques or forces 
+to compensate for distortions in the optical waveform incident upon 
+the mirror.
+    2. `Deformable mirrors' are also known as adaptive optic 
+mirrors.
+
+    a.2. Lightweight monolithic mirrors having an average 
+``equivalent density'' of less than 30 kg/m\2\ and a total mass 
+exceeding 10 kg;
+    a.3. Lightweight ``composite'' or foam mirror structures having 
+an average ``equivalent density'' of less than 30 kg/m\2\ and a 
+total mass exceeding 2 kg;
+
+    Note:
+    6A004.a.2 and 6A004.a.3 do not apply to mirrors ``specially 
+designed'' to direct solar radiation for terrestrial heliostat 
+installations.
+
+    a.4. Mirrors specially designed for beam steering mirror stages 
+specified in 6A004.d.2.a with a flatness of [lambda]/10 or better 
+([lambda] is equal to 633 nm) and having any of the following:
+    a.4.a. Diameter or major axis length greater than or equal to 
+100 mm; or
+    a.4.b. Having all of the following:
+    a.4.b.1. Diameter or major axis length greater than 50 mm but 
+less than 100 mm; and
+    a.4.b.2. A Laser Induced Damage Threshold (LIDT) being any of 
+the following:
+    a.4.b.2.a. Greater than 10 kW/cm2 using a ``CW laser''; or
+    a.4.b.2.b. Greater than 20 J/cm2 using 20 ns ``laser'' pulses at 
+20 Hz repetition rate;
+
+    N.B. For optical mirrors specially designed for lithography 
+equipment, see 3B001.
+
+    b. Optical ``components'' made from zinc selenide (ZnSe) or zinc 
+sulphide (ZnS) with transmission in the wavelength range exceeding 
+3,000 nm but not exceeding 25,000 nm and having any of the 
+following:
+    b.1. Exceeding 100 cm\3\ in volume; or
+    b.2. Exceeding 80 mm in diameter or length of major axis and 20 
+mm in thickness (depth);
+    c. ``Space-qualified'' ``components'' for optical systems, as 
+follows:
+    c.1. ``Components'' lightweighted to less than 20% ``equivalent 
+density'' compared with a solid blank of the same aperture and 
+thickness;
+    c.2. Raw substrates, processed substrates having surface 
+coatings (single-layer or multi-layer, metallic or dielectric, 
+conducting, semiconducting or insulating) or having protective 
+films;
+    c.3. Segments or assemblies of mirrors designed to be assembled 
+in space into an optical system with a collecting aperture 
+equivalent to or larger than a single optic 1 m in diameter;
+    c.4. ``Components'' manufactured from ``composite'' materials 
+having a coefficient of linear thermal expansion, in any coordinate 
+direction, equal to or less than 5 x 10-6/K;
+    d. Optical control equipment as follows:
+    d.1. Equipment ``specially designed'' to maintain the surface 
+figure or orientation of the ``space-qualified'' ``components'' 
+controlled by 6A004.c.1 or 6A004.c.3;
+    d.2. Steering, tracking, stabilisation and resonator alignment 
+equipment as follows:
+    d.2.a. Beam steering mirror stages designed to carry mirrors 
+having diameter or major axis length greater than 50 mm and having 
+all of the following, and specially designed electronic control 
+equipment therefor:
+    d.2.a.1. A maximum angular travel of 26 mrad or 
+more;
+    d.2.a.2. A mechanical resonant frequency of 500 Hz or more; and
+    d.2.a.3. An angular ``accuracy'' of 10 [mu]rad (microradians) or 
+less (better);
+    d.2.b. Resonator alignment equipment having bandwidths equal to 
+or more than 100 Hz and an ``accuracy'' of 10 [mu]rad or less 
+(better);
+    d.3. Gimbals having all of the following:
+    d.3.a. A maximum slew exceeding 5[deg];
+    d.3.b. A bandwidth of 100 Hz or more;
+    d.3.c. Angular pointing errors of 200 [mu]rad (microradians) or 
+less; and
+    d.3.d. Having any of the following:
+    d.3.d.1. Exceeding 0.15 m but not exceeding 1 m in diameter or 
+major axis length and capable of angular accelerations exceeding 2 
+rad (radians)/s\2\; or
+    d.3.d.2. Exceeding 1 m in diameter or major axis length and 
+capable of angular accelerations exceeding 0.5 rad (radians)/s\2\;
+    d.4. [Reserved]
+    e. `Aspheric optical elements' having all of the following:
+    e.1. Largest dimension of the optical-aperture greater than 400 
+mm;
+    e.2. Surface roughness less than 1 nm (rms) for sampling lengths 
+equal to or greater than 1 mm; and
+    e.3. Coefficient of linear thermal expansion's absolute 
+magnitude less than 3 x 10-6/K at 25 [deg]C;
+
+    Technical Note:
+
+    1. [See Related Definitions section of this ECCN]
+    2. Manufacturers are not required to measure the surface 
+roughness listed in 6A004.e.2 unless the optical element was 
+designed or manufactured with the intent to meet, or exceed, the 
+control parameter.
+
+
+    Note:
+    6A004.e does not control `aspheric optical elements' having any 
+of the following:
+    a. Largest optical-aperture dimension less than 1 m and focal 
+length to aperture ratio equal to or greater than 4.5:1;
+    b. Largest optical-aperture dimension equal to or greater than 1 
+m and focal length to aperture ratio equal to or greater than 7:1;
+    c. Designed as Fresnel, flyeye, stripe, prism or diffractive 
+optical elements;
+    d. Fabricated from borosilicate glass having a coefficient of 
+linear thermal expansion greater than 2.5 x 10-6/K at 25 [deg]C; or
+    e. An x-ray optical element having inner mirror capabilities 
+(e.g., tube-type mirrors).
+
+    f. Dynamic wavefront measuring equipment having all of the 
+following:
+    f.1. `Frame rates' equal to or more than 1 kHz; and
+    f.2. A wavefront accuracy equal to or less (better) than 
+[lambda]/20 at the designed wavelength.
+
+    Technical Note:
+    For the purposes of 6A004.f, `frame rate' is a frequency at 
+which all ``active pixels'' in the ``focal plane array'' are 
+integrated for recording images projected by the wavefront sensor 
+optics.
+
+
+0
+30. In supplement no. 1 to part 774, Category 6, ECCN 6A005 is revised 
+to read as follows:
+
+6A005 ``Lasers,'' ``components'' and optical equipment, as follows 
+(see List of Items Controlled), excluding items that are subject to 
+the export licensing authority of the Nuclear Regulatory Commission 
+(see 10 CFR part 110).
+
+License Requirements
+
+Reason for Control: NS, NP, AT
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry................  NS Column 2
+
+[[Page 16500]]
+
+ 
+NP applies to lasers controlled by          NP Column 1
+ 6A005.a.2, a.3, a.4, b.2.b, b.3, b.4,
+ b.6.c, c.1.b, c.2.b, d.2, d.3.c, or d.4.c
+ that meet or exceed the technical
+ parameters described in 6A205.
+AT applies to entire entry................  AT Column 1
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: N/A for NP items, $3,000 for all other items
+GBS: Neodymium-doped (other than glass) ``lasers'' controlled by 
+6A005.b.6.d.2 (except 6A005.b.6.d.2.b) that have an output 
+wavelength exceeding 1,000 nm, but not exceeding 1,100 nm, and an 
+average or CW output power not exceeding 2kW, and operate in a 
+pulse-excited, non-``Q-switched'' multiple-transverse mode, or in a 
+continuously excited, multiple-transverse mode; Dye and Liquid 
+Lasers controlled by 6A005.c.1, c.2 and c.3, except for a pulsed 
+single longitudinal mode oscillator having an average output power 
+exceeding 1 W and a repetition rate exceeding 1 kHz if the ``pulse 
+duration'' is less than 100 ns; CO ``lasers'' controlled by 
+6A005.d.2 having a CW maximum rated single or multimode output power 
+not exceeding 10 kW; CO2 or CO/CO2 ``lasers'' 
+controlled by 6A005.d.3 having an output wavelength in the range 
+from 9,000 to 11,000 nm and having a pulsed output not exceeding 2 J 
+per pulse and a maximum rated average single or multimode output 
+power not exceeding 5 kW; and CO2 ``lasers'' controlled 
+by 6A005.d.3 that operate in CW multiple-transverse mode, and having 
+a CW output power not exceeding 15kW.
+
+List of Items Controlled
+
+Related Controls: (1) See ECCN 6D001 for ``software'' for items 
+controlled under this entry. (2) See ECCNs 6E001 (``development''), 
+6E002 (``production''), and 6E201 (``use'') for ``technology'' for 
+items controlled under this entry. (3) Also see ECCNs 6A205 and 
+6A995. (4) See ECCN 3B001 for excimer ``lasers'' ``specially 
+designed'' for lithography equipment. (5) ``Lasers'' ``specially 
+designed'' or prepared for use in isotope separation are subject to 
+the export licensing authority of the Nuclear Regulatory Commission 
+(see 10 CFR part 110). (6) See USML Category XII(b) and (e) for 
+laser systems or lasers subject to the ITAR. (7) See USML Category 
+XVIII for certain laser-based directed energy weapon systems, 
+equipment, and components subject to the ITAR.
+Related Definitions: (1) `Wall-plug efficiency' is defined as the 
+ratio of ``laser'' output power (or ``average output power'') to 
+total electrical input power required to operate the ``laser'', 
+including the power supply/conditioning and thermal conditioning/
+heat exchanger, see 6A005.a.6.b.1 and 6A005.b.6; (2) `Non-repetitive 
+pulsed' refers to ``lasers'' that produce either a single output 
+pulse or that have a time interval between pulses exceeding one 
+minute, see Note 2 of 6A005 and 6A005.d.6.
+Items:
+
+
+    Notes:
+
+    1. Pulsed ``lasers'' include those that run in a continuous wave 
+(CW) mode with pulses superimposed.
+    2. Excimer, semiconductor, chemical, CO, CO2, and `non-
+repetitive pulsed' Nd:glass ``lasers'' are only specified by 
+6A005.d.
+
+
+    Technical Note:
+    `Non-repetitive pulsed' refers to ``lasers'' that produce either 
+a single output pulse or that have a time interval between pulses 
+exceeding one minute.
+    3. 6A005 includes fiber ``lasers''.
+    4. The control status of ``lasers'' incorporating frequency 
+conversion (i.e., wavelength change) by means other than one 
+``laser'' pumping another ``laser'' is determined by applying the 
+control parameters for both the output of the source ``laser'' and 
+the frequency-converted optical output.
+    5. 6A005 does not control ``lasers'' as follows:
+    a. Ruby with output energy below 20 J;
+    b. Nitrogen;
+    c. Krypton.
+    6. For the purposes of 6A005.a and 6A005.b, `single transverse 
+mode' refers to ``lasers'' with a beam profile having an M\2\-factor 
+of less than 1.3, while `multiple transverse mode' refers to 
+``lasers'' with a beam profile having an M\2\-factor of 1.3 or 
+higher.
+
+    a. Non-``tunable'' continuous wave ``(CW) lasers'' having any of 
+the following:
+    a.1. Output wavelength less than 150 nm and output power 
+exceeding 1 W;
+    a.2. Output wavelength of 150 nm or more but not exceeding 510 
+nm and output power exceeding 30 W;
+
+    Note:
+    6A005.a.2 does not control Argon ``lasers'' having an output 
+power equal to or less than 50 W.
+
+    a.3. Output wavelength exceeding 510 nm but not exceeding 540 nm 
+and any of the following:
+    a.3.a. `Single transverse mode' output and output power 
+exceeding 50 W; or
+    a.3.b. `Multiple transverse mode' output and output power 
+exceeding 150 W;
+    a.4. Output wavelength exceeding 540 nm but not exceeding 800 nm 
+and output power exceeding 30 W;
+    a.5. Output wavelength exceeding 800 nm but not exceeding 975 nm 
+and any of the following:
+    a.5.a. `Single transverse mode' output and output power 
+exceeding 50 W; or
+    a.5.b. `Multiple transverse mode' output and output power 
+exceeding 80 W;
+    a.6. Output wavelength exceeding 975 nm but not exceeding 1,150 
+nm and any of the following;
+    a.6.a. `Single transverse mode' output and any of the following:
+    a.6.a.1. Output power exceeding 1,000 W; or
+    a.6.a.2. Having all of the following:
+    a.6.a.2.a. Output power exceeding 500 W; and
+    a.6.a.2.b. Spectral bandwidth less than 40 GHz; or
+    a.6.b. `Multiple transverse mode' output and any of the 
+following:
+    a.6.b.1. `Wall-plug efficiency' exceeding 18% and output power 
+exceeding 1,000 W; or
+    a.6.b.2. Output power exceeding 2 kW;
+
+    Note 1:
+    6A005.a.6.b does not control `multiple transverse mode', 
+industrial ``lasers'' with output power exceeding 2 kW and not 
+exceeding 6 kW with a total mass greater than 1,200 kg. For the 
+purpose of this note, total mass includes all ``components'' 
+required to operate the ``laser,'' e.g., ``laser,'' power supply, 
+heat exchanger, but excludes external optics for beam conditioning 
+or delivery.
+
+
+    Note 2:
+    6A005.a.6.b does not apply to `multiple transverse mode', 
+industrial ``lasers'' having any of the following:
+    a. [Reserved];
+    b. Output power exceeding 1 kW but not exceeding 1.6 kW and 
+having a BPP exceeding 1.25 mm[middot]mrad;
+    c. Output power exceeding 1.6 kW but not exceeding 2.5 kW and 
+having a BPP exceeding 1.7 mm[middot]mrad;
+    d. Output power exceeding 2.5 kW but not exceeding 3.3 kW and 
+having a BPP exceeding 2.5 mm[middot]mrad;
+    e. Output power exceeding 3.3 kW but not exceeding 6 kW and 
+having a BPP exceeding 3.5 mm[middot]mrad;
+    f. [Reserved]
+    g. [Reserved]
+    h. Output power exceeding 6 kW but not exceeding 8 kW and having 
+a BPP exceeding 12 mm[middot]mrad; or
+    i. Output power exceeding 8 kW but not exceeding 10 kW and 
+having a BPP exceeding 24 mm[middot]mrad;
+
+    a.7. Output wavelength exceeding 1,150 nm but not exceeding 
+1,555 nm and any of the following:
+    a.7.a. `Single transverse mode' and output power exceeding 50 W; 
+or
+    a.7.b. `Multiple transverse mode' and output power exceeding 80 
+W;
+    a.8. Output wavelength exceeding 1,555 nm but not exceeding 
+1,850 nm and output power exceeding 1 W;
+    a.9. Output wavelength exceeding 1,850 nm but not exceeding 
+2,100 nm, and any of the following:
+    a.9.a. `Single transverse mode' and output power exceeding 1 W; 
+or
+    a.9. b. `Multiple transverse mode' output and output power 
+exceeding 120 W; or
+    a.10. Output wavelength exceeding 2,100 nm and output power 
+exceeding 1 W;
+    b. Non-``tunable'' ``pulsed lasers'' having any of the 
+following:
+    b.1. Output wavelength less than 150 nm and any of the 
+following:
+    b.1.a. Output energy exceeding 50 mJ per pulse and ``peak 
+power'' exceeding 1 W; or
+    b.1.b. ``Average output power'' exceeding 1 W;
+    b.2. Output wavelength of 150 nm or more but not exceeding 510 
+nm and any of the following:
+
+[[Page 16501]]
+
+    b.2.a. Output energy exceeding 1.5 J per pulse and ``peak 
+power'' exceeding 30 W; or
+    b.2.b. ``Average output power'' exceeding 30 W;
+
+    Note:
+    6A005.b.2.b does not control Argon ``lasers'' having an 
+``average output power'' equal to or less than 50 W.
+
+    b.3. Output wavelength exceeding 510 nm, but not exceeding 540 
+nm and any of the following:
+    b.3.a. `Single transverse mode' output and any of the following:
+    b.3.a.1. Output energy exceeding 1.5 J per pulse and ``peak 
+power'' exceeding 50 W; or
+    b.3.a.2. ``Average output power'' exceeding 50 W; or
+    b.3.b. `Multiple transverse mode' output and any of the 
+following:
+    b.3.b.1. Output energy exceeding 1.5 J per pulse and ``peak 
+power'' exceeding 150 W; or
+    b.3.b.2. ``Average output power'' exceeding 150 W;
+    b.4. Output wavelength exceeding 540 nm but not exceeding 800 nm 
+and any of the following:
+    b.4.a. ``Pulse duration'' less than 1 ps and any of the 
+following:
+    b.4.a.1. Output energy exceeding 0.005 J per pulse and ``peak 
+power'' exceeding 5 GW; or
+    b.4.a.2. ``Average output power'' exceeding 20 W; or
+    b.4.b. ``Pulse duration'' equal to or exceeding 1 ps and any of 
+the following:
+    b.4.b.1. Output energy exceeding 1.5 J per pulse and ``peak 
+power'' exceeding 30 W; or
+    b.4.b.2. ``Average output power'' exceeding 30 W;
+    b.5. Output wavelength exceeding 800 nm but not exceeding 975 nm 
+and any of the following:
+    b.5.a. ``Pulse duration'' less than 1ps and any of the 
+following:
+    b.5.a.1. Output energy exceeding 0.005 J per pulse and ``peak 
+power'' exceeding 5 GW; or
+    b.5.a.2. `Single transverse mode' output and ``average output 
+power'' exceeding 20 W;
+    b.5.b. ``Pulse duration'' equal to or exceeding 1 ps and not 
+exceeding 1 [mu]s and any of the following:
+    b.5.b.1. Output energy exceeding 0.5 J per pulse and ``peak 
+power'' exceeding 50 W;
+    b.5.b.2. `Single transverse mode' output and ``average output 
+power'' exceeding 20 W; or
+    b.5.b.3. `Multiple transverse mode' output and ``average output 
+power'' exceeding 50 W; or
+    b.5.c. ``Pulse duration'' exceeding 1 [mu]s and any of the 
+following:
+    b.5.c.1. Output energy exceeding 2 J per pulse and ``peak 
+power'' exceeding 50 W;
+    b.5.c.2. `Single transverse mode' output and ``average output 
+power'' exceeding 50 W; or
+    b.5.c.3. `Multiple transverse mode' output and ``average output 
+power'' exceeding 80 W.
+    b.6. Output wavelength exceeding 975 nm but not exceeding 1,150 
+nm and any of the following:
+    b.6.a. ``Pulse duration'' of less than 1 ps, and any of the 
+following:
+    b.6.a.1. Output ``peak power'' exceeding 2 GW per pulse;
+    b.6.a.2. ``Average output power'' exceeding 30 W; or
+    b.6.a.3. Output energy exceeding 0.002 J per pulse;
+    b.6.b. ``Pulse duration'' equal to or exceeding 1 ps and less 
+than 1 ns, and any of the following:
+    b.6.b.1. Output ``peak power'' exceeding 5 GW per pulse;
+    b.6.b.2. ``Average output power'' exceeding 50 W; or
+    b.6.b.3. Output energy exceeding 0.1 J per pulse;
+    b.6.c. ``Pulse duration'' equal to or exceeding 1 ns but not 
+exceeding 1 [mu]s and any of the following:
+    b.6.c.1. `Single transverse mode' output and any of the 
+following:
+    b.6.c.1.a. ``Peak power'' exceeding 100 MW;
+    b.6.c.1.b. ``Average output power'' exceeding 20 W limited by 
+design to a maximum pulse repetition frequency less than or equal to 
+1 kHz;
+    b.6.c.1.c. `Wall-plug efficiency' exceeding 12%, ``average 
+output power'' exceeding 100 W and capable of operating at a pulse 
+repetition frequency greater than 1 kHz;
+    b.6.c.1.d. ``Average output power'' exceeding 150 W and capable 
+of operating at a pulse repetition frequency greater than 1 kHz; or
+    b.6.c.1.e. Output energy exceeding 2 J per pulse; or
+    b.6.c.2. `Multiple transverse mode' output and any of the 
+following:
+    b.6.c.2.a. ``Peak power'' exceeding 400 MW;
+    b.6.c.2.b. `Wall-plug efficiency' exceeding 18% and ``average 
+output power'' exceeding 500 W;
+    b.6.c.2.c. ``Average output power'' exceeding 2 kW; or
+    b.6.c.2.d. Output energy exceeding 4 J per pulse; or
+    b.6.d. ``Pulse duration'' exceeding 1 [mu]s and any of the 
+following:
+    b.6.d.1. `Single transverse mode' output and any of the 
+following:
+    b.6.d.1.a. ``Peak power'' exceeding 500 kW;
+    b.6.d.1.b. `Wall-plug efficiency' exceeding 12% and ``average 
+output power'' exceeding 100 W; or
+    b.6.d.1.c. ``Average output power'' exceeding 150 W; or
+    b.6.d.2. `Multiple transverse mode' output and any of the 
+following:
+    b.6.d.2.a. ``Peak power'' exceeding 1 MW;
+    b.6.d.2.b. `Wall-plug efficiency' exceeding 18% and ``average 
+output power'' exceeding 500 W; or
+    b.6.d.2.c. ``Average output power'' exceeding 2 kW;
+    b.7. Output wavelength exceeding 1,150 nm but not exceeding 
+1,555 nm and any of the following:
+    b.7.a. ``Pulse duration'' not exceeding 1 [mu]s and any of the 
+following:
+    b.7.a.1. Output energy exceeding 0.5 J per pulse and ``peak 
+power'' exceeding 50 W;
+    b.7.a.2. `Single transverse mode' output and ``average output 
+power'' exceeding 20 W; or
+    b.7.a.3. `Multiple transverse mode' output and ``average output 
+power'' exceeding 50 W; or
+    b.7.b. ``Pulse duration'' exceeding 1 [mu]s and any of the 
+following:
+    b.7.b.1. Output energy exceeding 2 J per pulse and ``peak 
+power'' exceeding 50 W;
+    b.7.b.2. `Single transverse mode' output and ``average output 
+power'' exceeding 50 W; or
+    b.7.b.3. `Multiple transverse mode' output and ``average output 
+power'' exceeding 80 W;
+    b.8. Output wavelength exceeding 1,555 nm but not exceeding 
+1,850 nm, and any of the following:
+    b.8.a. Output energy exceeding 100 mJ per pulse and ``peak 
+power'' exceeding 1 W; or
+    b.8.b. ``Average output power'' exceeding 1 W;
+    b.9. Output wavelength exceeding 1,850 nm but not exceeding 
+2,100 nm, and any of the following:
+    b.9.a. `Single transverse mode' and any of the following:
+    b.9.a.1. Output energy exceeding 100 mJ per pulse and ``peak 
+power'' exceeding 1 W; or
+    b.9.a.2. ``Average output power'' exceeding 1 W;
+    b.9.b. `Multiple transverse mode' and any of the following:
+    b.9.b.1. Output energy exceeding 100 mJ per pulse and ``peak 
+power'' exceeding 10 kW; or
+    b.9.b.2. ``Average output power'' exceeding 120 W; or
+    b.10. Output wavelength exceeding 2,100 nm and any of the 
+following:
+    b.10.a. Output energy exceeding 100 mJ per pulse and ``peak 
+power'' exceeding 1 W; or
+    b.10.b. ``Average output power'' exceeding 1 W;
+    c. ``Tunable'' lasers having any of the following:
+    c.1. Output wavelength less than 600 nm and any of the 
+following:
+    c.1.a. Output energy exceeding 50 mJ per pulse and ``peak 
+power'' exceeding 1 W; or
+    c.1.b. Average or CW output power exceeding 1W;
+
+    Note:
+    6A005.c.1 does not apply to dye ``lasers'' or other liquid 
+``lasers,'' having a multimode output and a wavelength of 150 nm or 
+more but not exceeding 600 nm and all of the following:
+    1. Output energy less than 1.5 J per pulse or a ``peak power'' 
+less than 20 W; and
+    2. Average or CW output power less than 20 W.
+
+    c.2. Output wavelength of 600 nm or more but not exceeding 1,400 
+nm, and any of the following:
+    c.2.a. Output energy exceeding 1 J per pulse and ``peak power'' 
+exceeding 20 W; or
+    c.2.b. Average or CW output power exceeding 20 W; or
+    c.3. Output wavelength exceeding 1,400 nm and any of the 
+following:
+    c.3.a. Output energy exceeding 50 mJ per pulse and ``peak 
+power'' exceeding 1 W; or
+    c.3.b. Average or CW output power exceeding 1 W;
+    d. Other ``lasers'', not controlled by 6A005.a., 6A005.b, or 
+6A005.c as follows:
+    d.1. Semiconductor ``lasers'' as follows:
+
+    Note:
+
+    1. 6A005.d.1 includes semiconductor ``lasers'' having optical 
+output connectors (e.g., fiber optic pigtails).
+    2. The control status of semiconductor ``lasers'' ``specially 
+designed'' for other
+
+[[Page 16502]]
+
+equipment is determined by the control status of the other 
+equipment.
+
+    d.1.a. Individual single transverse mode semiconductor 
+``lasers'' having any of the following:
+    d.1.a.1. Wavelength equal to or less than 1,510 nm and average 
+or CW output power, exceeding 1.5 W; or
+    d.1.a.2. Wavelength greater than 1,510 nm and average or CW 
+output power, exceeding 500 mW;
+    d.1.b. Individual `multiple-transverse mode' semiconductor 
+``lasers'' having any of the following:
+    d.1.b.1. Wavelength of less than 1,400 nm and average or CW 
+output power, exceeding 15 W;
+    d.1.b.2. Wavelength equal to or greater than 1,400 nm and less 
+than 1,900 nm and average or CW output power, exceeding 2.5 W; or
+    d.1.b.3. Wavelength equal to or greater than 1,900 nm and 
+average or CW output power, exceeding 1 W;
+    d.1.c. Individual semiconductor ``laser'' `bars' having any of 
+the following:
+    d.1.c.1. Wavelength of less than 1,400 nm and average or CW 
+output power, exceeding 100 W;
+    d.1.c.2. Wavelength equal to or greater than 1,400 nm and less 
+than 1,900 nm and average or CW output power, exceeding 25 W; or
+    d.1.c.3. Wavelength equal to or greater than 1,900 nm and 
+average or CW output power, exceeding 10 W;
+    d.1.d. Semiconductor ``laser'' `stacked arrays' (two dimensional 
+arrays) having any of the following:
+    d.1.d.1. Wavelength less than 1,400 nm and having any of the 
+following:
+    d.1.d.1.a. Average or CW total output power less than 3 kW and 
+having average or CW output `power density' greater than 500 W/
+cm\2\;
+    d.1.d.1.b. Average or CW total output power equal to or 
+exceeding 3 kW but less than or equal to 5 kW, and having average or 
+CW output `power density' greater than 350W/cm\2\;
+    d.1.d.1.c. Average or CW total output power exceeding 5 kW;
+    d.1.d.1.d. Peak pulsed `power density' exceeding 2,500 W/cm\2\; 
+or
+
+    Note:
+    6A005.d.1.d.1.d does not apply to epitaxially-fabricated 
+monolithic devices.
+
+    d.1.d.1.e. Spatially coherent average or CW total output power, 
+greater than 150 W;
+    d.1.d.2. Wavelength greater than or equal to 1,400 nm but less 
+than 1,900 nm, and having any of the following:
+    d.1.d.2.a. Average or CW total output power less than 250 W and 
+average or CW output `power density' greater than 150 W/cm2;
+    d.1.d.2.b. Average or CW total output power equal to or 
+exceeding 250 W but less than or equal to 500 W, and having average 
+or CW output `power density' greater than 50W/cm\2\;
+    d.1.d.2.c. Average or CW total output power exceeding 500 W;
+    d.1.d.2.d. Peak pulsed `power density' exceeding 500 W/cm\2\; or
+
+    Note:
+    6A005.d.1.d.2.d does not apply to epitaxially-fabricated 
+monolithic devices.
+
+    d.1.d.2.e. Spatially coherent average or CW total output power, 
+exceeding 15 W;
+    d.1.d.3. Wavelength greater than or equal to 1,900 nm and having 
+any of the following:
+    d.1.d.3.a. Average or CW output `power density' greater than 50 
+W/cm\2\;
+    d.1.d.3.b. Average or CW output power greater than 10 W; or
+    d.1.d.3.c. Spatially coherent average or CW total output power, 
+exceeding 1.5 W; or
+    d.1.d.4. At least one ``laser'' `bar' specified by 6A005.d.1.c;
+
+    Technical Note:
+    For the purposes of 6A005.d.1.d, `power density' means the total 
+``laser'' output power divided by the emitter surface area of the 
+`stacked array'.
+
+    d.1.e. Semiconductor ``laser'' `stacked arrays', other than 
+those specified by 6.A005.d.1.d., having all of the following:
+    d.1.e.1. ``Specially designed'' or modified to be combined with 
+other `stacked arrays' to form a larger `stacked array'; and
+    d.1.e.2. Integrated connections, common for both electronics and 
+cooling;
+
+    Note 1:
+    `Stacked arrays', formed by combining semiconductor ``laser'' 
+`stacked arrays' specified by 6A005.d.1.e, that are not designed to 
+be further combined or modified are specified by 6A005.d.1.d.
+
+
+    Note 2:
+    `Stacked arrays', formed by combining semiconductor ``laser'' 
+`stacked arrays' specified by 6A005.d.1.e, that are designed to be 
+further combined or modified are specified by 6A005.d.1.e.
+
+
+    Note 3:
+    6A005.d.1.e does not apply to modular assemblies of single 
+`bars' designed to be fabricated into end to end stacked linear 
+arrays.
+
+
+    Technical Notes:
+
+    1. Semiconductor ``lasers'' are commonly called ``laser'' 
+diodes.
+    2. A `bar' (also called a semiconductor ``laser'' `bar', a 
+``laser'' diode `bar' or diode `bar') consists of multiple 
+semiconductor ``lasers'' in a one dimensional array.
+    3. A `stacked array' consists of multiple `bars' forming a two 
+dimensional array of semiconductor ``lasers''.
+
+    d.2. Carbon monoxide (CO) ``lasers'' having any of the 
+following:
+    d.2.a. Output energy exceeding 2 J per pulse and ``peak power'' 
+exceeding 5 kW; or
+    d.2.b. Average or CW output power, exceeding 5 kW;
+    d.3. Carbon dioxide (CO2) ``lasers'' having any of 
+the following:
+    d.3.a. CW output power exceeding 15 kW;
+    d.3.b. Pulsed output with ``pulse duration'' exceeding 10 [mu]s 
+and any of the following:
+    d.3.b.1. ``Average output power'' exceeding 10 kW; or
+    d.3.b.2. ``Peak power'' exceeding 100 kW; or
+    d.3.c. Pulsed output with a ``pulse duration'' equal to or less 
+than 10 [mu]s and any of the following:
+    d.3.c.1. Pulse energy exceeding 5 J per pulse; or
+    d.3.c.2. ``Average output power'' exceeding 2.5 kW;
+    d.4. Excimer ``lasers'' having any of the following:
+    d.4.a. Output wavelength not exceeding 150 nm and any of the 
+following:
+    d.4.a.1. Output energy exceeding 50 mJ per pulse; or
+    d.4.a.2. ``Average output power'' exceeding 1 W;
+    d.4.b. Output wavelength exceeding 150 nm but not exceeding 190 
+nm and any of the following:
+    d.4.b.1. Output energy exceeding 1.5 J per pulse; or
+    d.4.b.2. ``Average output power'' exceeding 120 W;
+    d.4.c. Output wavelength exceeding 190 nm but not exceeding 360 
+nm and any of the following:
+    d.4.c.1. Output energy exceeding 10 J per pulse; or
+    d.4.c.2. ``Average output power'' exceeding 500 W; or
+    d.4.d. Output wavelength exceeding 360 nm and any of the 
+following:
+    d.4.d.1. Output energy exceeding 1.5 J per pulse; or
+    d.4.d.2. ``Average output power'' exceeding 30 W;
+
+    Note:
+    For excimer ``lasers'' ``specially designed'' for lithography 
+equipment, see 3B001.
+
+    d.5. ``Chemical lasers'' as follows:
+    d.5.a. Hydrogen Fluoride (HF) ``lasers';
+    d.5.b. Deuterium Fluoride (DF) ``lasers'';
+    d.5.c. `Transfer lasers' as follows:
+    d.5.c.1. Oxygen Iodine (O2-I) ``lasers'';
+    d.5.c.2. Deuterium Fluoride-Carbon dioxide (DF-CO2) 
+``lasers'';
+
+    Technical Note:
+    `Transfer lasers' are ``lasers'' in which the lasing species are 
+excited through the transfer of energy by collision of a non-lasing 
+atom or molecule with a lasing atom or molecule species.
+
+    d.6. `Non-repetitive pulsed' Neodymium (Nd) glass ``lasers'' 
+having any of the following:
+    d.6.a. A ``pulse duration'' not exceeding 1 [mu]s and output 
+energy exceeding 50 J per pulse; or
+    d.6.b. A ``pulse duration'' exceeding 1 [mu]s and output energy 
+exceeding 100 J per pulse;
+    e. ``Components'' as follows:
+    e.1. Mirrors cooled either by `active cooling' or by heat pipe 
+cooling;
+
+    Technical Note:
+    `Active cooling' is a cooling technique for optical 
+``components'' using flowing fluids within the subsurface (nominally 
+less than 1 mm below the optical surface) of the optical component 
+to remove heat from the optic.
+
+    e.2. Optical mirrors or transmissive or partially transmissive 
+optical or electro-optical-``components,'' other than fused tapered 
+fiber combiners and Multi-Layer Dielectric gratings (MLDs), 
+``specially designed'' for use with controlled ``lasers'';
+
+    Note to 6A005.e.2:
+    Fiber combiners and MLDs are specified by 6A005.e.3.
+
+    e.3. Fiber ``laser'' ``components'' as follows:
+    e.3.a. Multimode to multimode fused tapered fiber combiners 
+having all of the following:
+    e.3.a.1. An insertion loss better (less) than or equal to 0.3 dB 
+maintained at a rated total average or CW output power (excluding 
+output power transmitted through the single mode core if present) 
+exceeding 1,000 W; and
+    e.3.a.2. Number of input fibers equal to or greater than 3;
+
+[[Page 16503]]
+
+    e.3.b. Single mode to multimode fused tapered fiber combiners 
+having all of the following:
+    e.3.b.1. An insertion loss better (less) than 0.5 dB maintained 
+at a rated total average or CW output power exceeding 4,600 W;
+    e.3.b.2. Number of input fibers equal to or greater than 3; and
+    e.3.b.3. Having any of the following:
+    e.3.b.3.a. A Beam Parameter Product (BPP) measured at the output 
+not exceeding 1.5 mm mrad for a number of input fibers less than or 
+equal to 5; or
+    e.3.b.3.b. A BPP measured at the output not exceeding 2.5 mm 
+mrad for a number of input fibers greater than 5;
+    e.3.c. MLDs having all of the following:
+    e.3.c.1. Designed for spectral or coherent beam combination of 5 
+or more fiber ``lasers;'' and
+    e.3.c.2. CW ``Laser'' Induced Damage Threshold (LIDT) greater 
+than or equal to 10 kW/cm\2\;
+    f. Optical equipment as follows:
+
+    N.B.:
+    For shared aperture optical elements, capable of operating in 
+``Super-High Power Laser'' (``SHPL'') applications, see the U.S. 
+Munitions List (22 CFR part 121).
+
+    f.1. [Reserved]
+
+    N.B.:
+    For items previously specified by 6A005.f.1, see 6A004.f.
+
+    f.2. ``Laser'' diagnostic equipment ``specially designed'' for 
+dynamic measurement of ``SHPL'' system angular beam steering errors 
+and having an angular ``accuracy'' of 10 [mu]rad (microradians) or 
+less (better);
+    f.3. Optical equipment and ``components'', ``specially 
+designed'' for coherent beam combination in a phased-array ``SHPL'' 
+system and having any of the following:
+    f.3.a. An ``accuracy'' of 0.1 [micro]m or less, for wavelengths 
+greater than 1 [micro]m; or
+    f.3.b. An ``accuracy'' of [lambda]/10 or less (better) at the 
+designed wavelength, for wavelengths equal to or less than 1 
+[micro]m;
+    f.4. Projection telescopes ``specially designed'' for use with 
+``SHPL'' systems;
+    g. `Laser acoustic detection equipment' having all of the 
+following:
+    g.1. CW ``laser'' output power greater than or equal to 20 mW;
+    g.2. ``Laser'' frequency stability equal to or better (less) 
+than 10 MHz;
+    g.3. ``Laser'' wavelengths equal to or exceeding 1,000 nm but 
+not exceeding 2,000 nm;
+    g.4. Optical system resolution better (less) than 1 nm; and
+    g.5. Optical Signal to Noise ratio equal or exceeding to 10\3\.
+
+    Technical Note:
+    `Laser acoustic detection equipment' is sometimes referred to as 
+a ``Laser'' Microphone or Particle Flow Detection Microphone.
+
+
+0
+31. In supplement no. 1 to part 774, Category 6, ECCN 6A008 is revised 
+to read as follows:
+
+6A008 Radar systems, equipment and assemblies, having any of the 
+following (see List of Items Controlled), and ``specially designed'' 
+``components'' therefor.
+
+License Requirements
+
+Reason for Control: NS, MT, RS, AT
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry................  NS Column 2
+MT applies to items that are designed for   MT Column 1
+ airborne applications and that are usable
+ in systems controlled for MT reasons.
+RS applies to 6A008.j.1...................  RS Column 1
+AT applies to entire entry................  AT Column 1
+ 
+
+Reporting Requirements
+
+    See Sec.  743.1 of the EAR for reporting requirements for 
+exports under License Exceptions, and Validated End-User 
+authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+LVS: $5000; N/A for MT and for 6A008.j.1.
+GBS: Yes, for 6A008.b, .c, and l.1 only
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any commodity in 
+6A008.d, 6A008.h or 6A008.k to any of the destinations listed in 
+Country Group A:6 (See Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) See also ECCNs 6A108 and 6A998. ECCN 6A998 
+controls, inter alia, the Light Detection and Ranging (LIDAR) 
+equipment excluded by the note to paragraph j of this ECCN (6A008). 
+(2) See USML Category XII(b) for certain LIDAR, Laser Detection and 
+Ranging (LADAR), or range-gated systems subject to the ITAR.
+Related Definitions: N/A
+Items:
+
+    Note:
+    6A008 does not control:
+
+--Secondary surveillance radar (SSR);
+--Civil Automotive Radar;
+--Displays or monitors used for air traffic control (ATC);
+--Meteorological (weather) radar;
+--Precision Approach Radar (PAR) equipment conforming to ICAO 
+standards and employing electronically steerable linear (1-
+dimensional) arrays or mechanically positioned passive antennas.
+
+    a. Operating at frequencies from 40 GHz to 230 GHz and having 
+any of the following:
+    a.1. An average output power exceeding 100 mW; or
+    a.2. Locating ``accuracy'' of 1 m or less (better) in range and 
+0.2 degree or less (better) in azimuth;
+    b. A tunable bandwidth exceeding 6.25% of the 
+`center operating frequency';
+
+    Technical Note:
+    The `center operating frequency' equals one half of the sum of 
+the highest plus the lowest specified operating frequencies.
+
+    c. Capable of operating simultaneously on more than two carrier 
+frequencies;
+    d. Capable of operating in synthetic aperture (SAR), inverse 
+synthetic aperture (ISAR) radar mode, or sidelooking airborne (SLAR) 
+radar mode;
+    e. Incorporating electronically scanned array antennae;
+
+    Technical Note:
+    Electronically scanned array antennae are also known as 
+electronically steerable array antennae.
+
+    f. Capable of heightfinding non-cooperative targets;
+    g. ``Specially designed'' for airborne (balloon or airframe 
+mounted) operation and having Doppler ``signal processing'' for the 
+detection of moving targets;
+    h. Employing processing of radar signals and using any of the 
+following:
+    h.1. ``Radar spread spectrum'' techniques; or
+    h.2. ``Radar frequency agility'' techniques;
+    i. Providing ground-based operation with a maximum `instrumented 
+range' exceeding 185 km;
+
+    Note:
+     6A008.i does not control:
+    a. Fishing ground surveillance radar;
+    b. Ground radar equipment ``specially designed'' for en route 
+air traffic control, and having all of the following:
+    1. A maximum `instrumented range' of 500 km or less;
+    2. Configured so that radar target data can be transmitted only 
+one way from the radar site to one or more civil ATC centers;
+    3. Contains no provisions for remote control of the radar scan 
+rate from the en route ATC center; and
+    4. Permanently installed;
+    c. Weather balloon tracking radars.
+
+
+    Technical Note:
+     For the purposes of 6A008.i, `instrumented range' is the 
+specified unambiguous display range of a radar.
+
+    j. Being ``laser'' radar or Light Detection and Ranging (LIDAR) 
+equipment and having any of the following:
+    j.1. ``Space-qualified'';
+    j.2. Employing coherent heterodyne or homodyne detection 
+techniques and having an angular resolution of less (better) than 20 
+[mu]rad (microradians); or
+    j.3. Designed for carrying out airborne bathymetric littoral 
+surveys to International Hydrographic Organization (IHO) Order 1a 
+Standard (5th Edition February 2008) for Hydrographic Surveys or 
+better, and using one or more ``lasers'' with a wavelength exceeding 
+400 nm but not exceeding 600 nm;
+
+    Note 1:
+     LIDAR equipment ``specially designed'' for surveying is only 
+specified by 6A008.j.3.
+
+
+    Note 2:
+     6A008.j does not apply to LIDAR equipment ``specially 
+designed'' for meteorological observation.
+
+
+    Note 3:
+     Parameters in the IHO Order 1a Standard 5th Edition February 
+2008 are summarized as follows:
+    Horizontal Accuracy (95% Confidence Level) = 5 m + 5% of depth.
+    Depth Accuracy for Reduced Depths (95% confidence level) = 
+[radic](a2+(b*d)2) where:
+
+
+a = 0.5 m = constant depth error, i.e. the sum of all constant depth 
+errors
+
+[[Page 16504]]
+
+b = 0.013 = factor of depth dependent error
+b*d = depth dependent error, i.e. the sum of all depth dependent 
+errors
+d = depth
+Feature Detection = Cubic features >2 m in depths up to 40 m; 10% of 
+depth beyond 40 m
+    k. Having ``signal processing'' sub-systems using ``pulse 
+compression'' and having any of the following:
+    k.1. A ``pulse compression'' ratio exceeding 150; or
+    k.2. A compressed pulse width of less than 200 ns; or
+
+    Note:
+     6A008.k.2 does not apply to two dimensional `marine radar' or 
+`vessel traffic service' radar, having all of the following:
+    a. ``Pulse compression'' ratio not exceeding 150;
+    b. Compressed pulse width of greater than 30 ns;
+    c. Single and rotating mechanically scanned antenna;
+    d. Peak output power not exceeding 250 W; and
+    e. Not capable of ``frequency hopping''.
+    l. Having data processing sub-systems and having any of the 
+following:
+
+    l.1. `Automatic target tracking' providing, at any antenna 
+rotation, the predicted target position beyond the time of the next 
+antenna beam passage; or
+
+    Note:
+     6A008.l.1 does not control conflict alert capability in ATC 
+systems, or `marine radar'.
+
+
+    Technical Note:
+     `Automatic target tracking' is a processing technique that 
+automatically determines and provides as output an extrapolated 
+value of the most probable position of the target in real time.
+
+    1.2. [Reserved]
+    1.3. [Reserved]
+    1.4. Configured to provide superposition and correlation, or 
+fusion, of target data within six seconds from two or more 
+`geographically dispersed' radar sensors to improve the aggregate 
+performance beyond that of any single sensor specified by 6A008.f, 
+or 6A008.i.
+
+    Technical Note:
+     Sensors are considered `geographically dispersed' when each 
+location is distant from any other more than 1,500 m in any 
+direction. Mobile sensors are always considered `geographically 
+dispersed'.
+
+
+    N.B.:
+     See also the USML (22 CFR part 121).
+
+
+    Note:
+     6A008.l does not apply to systems, equipment and assemblies 
+designed for `vessel traffic services'.
+
+
+    Technical Notes:
+
+    1. For the purposes of 6A008, `marine radar' is a radar that is 
+used to navigate safely at sea, inland waterways or near-shore 
+environments.
+    2. For the purposes of 6A008, `vessel traffic service' is a 
+vessel traffic monitoring and control service similar to air traffic 
+control for ``aircraft.''
+
+
+0
+32. In supplement no. 1 to part 774, Category 9, ECCN 9A011 is revised 
+to read as follows:
+
+9A011 Ramjet, scramjet or `combined cycle engines', and ``specially 
+designed'' ``parts'' and ``components'' therefor. (These items are 
+``subject to the ITAR.'' See 22 CFR parts 120 through 130.)
+
+    Technical Note:
+     For the purposes of 9A011, `combined cycle engines' combine two 
+or more of the following types of engines:
+
+
+--Gas turbine engine (turbojet, turboprop and turbofan);
+--Ramjet or scramjet;
+--Rocket motor or engine (liquid/gel/solid-propellant and hybrid).
+
+0
+33. In supplement no. 1 to part 774, Category 9, ECCN 9D515 is revised 
+to read as follows:
+
+9D515 ``Software'' ``specially designed'' for the ``development,'' 
+``production,'' operation, installation, maintenance, repair, 
+overhaul, or refurbishing of ``spacecraft'' and related commodities, 
+as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry except 9D515.y.  NS Column 1
+RS applies to entire entry except 9D515.y.  RS Column 1
+RS applies to 9D515.y, except to Russia     China, Russia, or Venezuela
+ for use in, with, or for the                (see *Sec.   742.6(a)(7))
+ International Space Station (ISS),
+ including launch to the ISS.
+AT applies to entire entry................  AT Column 1
+ 
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+TSR: N/A
+
+Special Conditions for STA
+
+STA: (1) Paragraph (c)(1) of License Exception STA (Sec.  
+740.20(c)(1) of the EAR) may not be used for 9D515.b, .d, or .e. (2) 
+Paragraph (c)(2) of License Exception STA (Sec.  740.20(c)(2) of the 
+EAR) may not be used for any ``software'' in 9D515.
+
+List of Items Controlled
+
+Related Controls: (1) ``Software'' directly related to articles 
+enumerated in USML Category XV is subject to the control of USML 
+paragraph XV(f). (2) See also ECCNs 3D001, 6D001, 6D002, and 6D991 
+for controls of specific ``software'' ``specially designed'' for 
+certain ``space-qualified'' items. (3) For ``software'' for items 
+listed in 9A004.d that are incorporated into ``spacecraft 
+payloads'', see the appropriate ``software'' ECCN within those 
+Categories.
+Related Definitions: N/A
+Items:
+
+    a. ``Software'' (other than ``software'' controlled in 
+paragraphs .b, .d, or .e of this entry) ``specially designed'' for 
+the ``development,'' ``production,'' operation, installation, 
+maintenance, repair, overhaul, or refurbishing of commodities 
+controlled by ECCN 9A515 (except 9A515.d or .e) or 9B515.
+    b. ``Source code'' that:
+    b.1. Contains the algorithms or control principles (e.g., for 
+clock management), precise orbit determination (e.g., for ephemeris 
+or pseudo range analysis), signal construct (e.g., pseudo-random 
+noise (PRN) anti-spoofing) ``specially designed'' for items 
+controlled by ECCN 9A515;
+    b.2. Is ``specially designed'' for the integration, operation, 
+or control of items controlled by ECCN 9A515;
+    b.3. Contains algorithms or modules ``specially designed'' for 
+system, subsystem, component, part, or accessory calibration, 
+manipulation, or control of items controlled by ECCN 9A515;
+    b.4. Is ``specially designed'' for data assemblage, 
+extrapolation, or manipulation of items controlled by ECCN 9A515;
+    b.5. Contains the algorithms or control laws ``specially 
+designed'' for attitude, position, or flight control of items 
+controlled in ECCN 9A515; or
+    b.6. Is ``specially designed ``for built-in test and diagnostics 
+for items controlled by ECCN 9A515.
+    c. [Reserved]
+    d. ``Software'' ``specially designed'' for the ``development,'' 
+``production,'' operation, failure analysis or anomaly resolution of 
+commodities controlled by ECCN 9A515.d.
+    e. ``Software'' ``specially designed'' for the ``development,'' 
+``production,'' operation, failure analysis or anomaly resolution of 
+commodities controlled by ECCN 9A515.e.
+    f. through x. [Reserved]
+    y. Specific ``software'' ``specially designed'' for the 
+``development,'' ``production,'' operation, or maintenance of 
+commodities enumerated in ECCN 9A515.y.
+
+0
+34. In supplement no. 1 to part 774, Category 9, ECCN 9E003 is revised 
+to read as follows:
+
+9E003 Other ``technology'' as follows (see List of Items 
+Controlled).
+
+License Requirements
+
+Reason for Control: NS, SI, AT
+
+ 
+                                            Country Chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to entire entry................  NS Column 1
+SI applies to 9E003.a.1 through a.8, .h,    See Sec.   742.14 of the EAR
+ .i, and .k.                                 for additional information
+AT applies to entire entry................  AT Column 1
+ 
+
+Reporting Requirements
+
+    See Sec.  743.1 of the EAR for reporting requirements for 
+exports under License Exceptions, and Validated End-User 
+authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All 
+License Exceptions)
+
+TSR: N/A
+
+[[Page 16505]]
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship or transmit any 
+``technology'' in 9E003.a.1, 9E003.a.2 to a.5, 9E003.a.8, or 9E003.h 
+to any of the destinations listed in Country Group A:6 (See 
+Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) Hot section ``technology'' specifically 
+designed, modified, or equipped for military uses or purposes, or 
+developed principally with Department of Defense funding, is 
+``subject to the ITAR'' (see 22 CFR parts 120 through 130). (2) 
+``Technology'' is subject to the EAR when actually applied to a 
+commercial ``aircraft'' engine program. Exporters may seek to 
+establish commercial application either on a case-by-case basis 
+through submission of documentation demonstrating application to a 
+commercial program in requesting an export license from the 
+Department Commerce in respect to a specific export, or in the case 
+of use for broad categories of ``aircraft,'' engines, ``parts'' or 
+``components,'' a commodity jurisdiction determination from the 
+Department of State.
+Related Definitions: N/A
+Items:
+
+    a. ``Technology'' ``required'' for the ``development'' or 
+``production'' of any of the following gas turbine engine ``parts,'' 
+``components'' or systems:
+    a.1. Gas turbine blades, vanes or ``tip shrouds'', made from 
+directionally solidified (DS) or single crystal (SC) alloys and 
+having (in the 001 Miller Index Direction) a stress-rupture life 
+exceeding 400 hours at 1,273 K (1,000 [deg]C) at a stress of 200 
+MPa, based on the average property values;
+
+    Technical Note:
+    For the purposes of 9E003.a.1, stress-rupture life testing is 
+typically conducted on a test specimen.
+
+    a.2. Combustors having any of the following:
+    a.2.a. `Thermally decoupled liners' designed to operate at 
+`combustor exit temperature' exceeding 1,883K (1,610 [deg]C);
+    a.2.b. Non-metallic liners;
+    a.2.c. Non-metallic shells; or
+    a.2.d. Liners designed to operate at `combustor exit 
+temperature' exceeding 1,883K (1,610 [deg]C) and having holes that 
+meet the parameters specified by 9E003.c;
+
+    Note:
+    The ``required'' ``technology'' for holes in 9E003.a.2 is 
+limited to the derivation of the geometry and location of the holes.
+
+
+    Technical Notes:
+
+    1. `Thermally decoupled liners' are liners that feature at least 
+a support structure designed to carry mechanical loads and a 
+combustion facing structure designed to protect the support 
+structure from the heat of combustion. The combustion facing 
+structure and support structure have independent thermal 
+displacement (mechanical displacement due to thermal load) with 
+respect to one another, i.e., they are thermally decoupled.
+    2. `Combustor exit temperature' is the bulk average gas path 
+total (stagnation) temperature between the combustor exit plane and 
+the leading edge of the turbine inlet guide vane (i.e., measured at 
+engine station T40 as defined in SAE ARP 755A) when the engine is 
+running in a ``steady state mode'' of operation at the certificated 
+maximum continuous operating temperature.
+
+
+    N.B.:
+    See 9E003.c for ``technology'' ``required'' for manufacturing 
+cooling holes.
+
+    a.3. ``Parts'' or ``components,'' that are any of the following:
+    a.3.a. Manufactured from organic ``composite'' materials 
+designed to operate above 588 K (315 [deg]C);
+    a.3.b. Manufactured from any of the following:
+    a.3.b.1. Metal ``matrix'' ``composites'' reinforced by any of 
+the following:
+    a.3.b.1.a. Materials controlled by 1C007;
+    a.3.b.1.b. ``Fibrous or filamentary materials'' specified by 
+1C010; or
+    a.3.b.1.c. Aluminides specified by 1C002.a; or
+    a.3.b.2. Ceramic ``matrix'' ``composites'' specified by 1C007; 
+or
+    a.3.c. Stators, vanes, blades, tip seals (shrouds), rotating 
+blings, rotating blisks or `splitter ducts', that are all of the 
+following:
+    a.3.c.1. Not specified in 9E003.a.3.a;
+    a.3.c.2. Designed for compressors or fans; and
+    a.3.c.3. Manufactured from material controlled by 1C010.e with 
+resins controlled by 1C008;
+
+    Technical Note:
+    A `splitter duct' performs the initial separation of the air-
+mass flow between the bypass and core sections of the engine.
+
+    a.4. Uncooled turbine blades, vanes or ``tip shrouds'' designed 
+to operate at a `gas path temperature' of 1,373 K (1,100 [deg]C) or 
+more;
+    a.5. Cooled turbine blades, vanes or ``tip-shrouds'', other than 
+those described in 9E003.a.1, designed to operate at a `gas path 
+temperature' of 1,693 K (1,420 [deg]C) or more;
+
+    Technical Note:
+    `Gas path temperature' is the bulk average gas path total 
+(stagnation) temperature at the leading edge plane of the turbine 
+component when the engine is running in a ``steady state mode'' of 
+operation at the certificated or specified maximum continuous 
+operating temperature.
+
+    a.6. Airfoil-to-disk blade combinations using solid state 
+joining;
+    a.7. [Reserved]
+    a.8. `Damage tolerant' gas turbine engine rotor ``parts'' or 
+``components'' using powder metallurgy materials controlled by 
+1C002.b; or
+
+    Technical Note:
+    `Damage tolerant' ``parts'' and ``components'' are designed 
+using methodology and substantiation to predict and limit crack 
+growth.
+
+    a.9. [Reserved]
+
+    N.B.:
+    For ``FADEC systems'', see 9E003.h.
+
+    a.10. [Reserved]
+
+    N.B.:
+    For adjustable flow path geometry, see 9E003.i.
+
+    a.11. `Fan blades' having all of the following:
+    a.11.a. 20% or more of the total volume being one or more closed 
+cavities containing vacuum or gas only; and
+    a.11.b. One or more closed cavities having a volume of 5 cm\3\ 
+or larger;
+
+    Technical Note:
+    For the purposes of 9E003.a.11, a `fan blade' is the aerofoil 
+portion of the rotating stage or stages, which provide both 
+compressor and bypass flow in a gas turbine engine.
+
+    b. ``Technology'' ``required'' for the ``development'' or 
+``production'' of any of the following:
+    b.1. Wind tunnel aero-models equipped with non-intrusive sensors 
+capable of transmitting data from the sensors to the data 
+acquisition system; or
+    b.2. ``Composite'' propeller blades or prop-fans, capable of 
+absorbing more than 2,000 kW at flight speeds exceeding Mach 0.55;
+    c. ``Technology'' ``required'' for manufacturing cooling holes, 
+in gas turbine engine ``parts'' or ``components'' incorporating any 
+of the ``technologies'' specified by 9E003.a.1, 9E003.a.2 or 
+9E003.a.5, and having any of the following:
+    c.1. Having all of the following:
+    c.1.a. Minimum `cross-sectional area' less than 0.45 mm\2\;
+    c.1.b. `Hole shape ratio' greater than 4.52; and
+    c.1.c. `Incidence angle' equal to or less than 25[deg]; or
+    c.2. Having all of the following:
+    c.2.a. Minimum `cross-sectional area' less than 0.12 mm\2\;
+    c.2.b. `Hole shape ratio' greater than 5.65; and
+    c.2.c. `Incidence angle' more than 25[deg];
+
+    Note:
+    9E003.c does not apply to ``technology'' for manufacturing 
+constant radius cylindrical holes that are straight through and 
+enter and exit on the external surfaces of the component.
+
+
+    Technical Notes:
+
+    1. For the purposes of 9E003.c, the `cross-sectional area' is 
+the area of the hole in the plane perpendicular to the hole axis.
+    2. For the purposes of 9E003.c, `hole shape ratio' is the 
+nominal length of the axis of the hole divided by the square root of 
+its minimum `cross-sectional area'.
+    3. For the purposes of 9E003.c, `incidence angle' is the acute 
+angle measured between the plane tangential to the airfoil surface 
+and the hole axis at the point where the hole axis enters the 
+airfoil surface.
+    4. Techniques for manufacturing holes in 9E003.c include 
+``laser'' beam machining, water jet machining, Electro-Chemical 
+Machining (ECM).
+
+    d. ``Technology'' ``required'' for the ``development'' or 
+``production'' of helicopter power transfer systems or tilt rotor or 
+tilt wing ``aircraft'' power transfer systems;
+    e. ``Technology'' for the ``development'' or ``production'' of 
+reciprocating diesel engine ground vehicle propulsion systems having 
+all of the following:
+    e.1. `Box volume' of 1.2 m\3\ or less;
+    e.2. An overall power output of more than 750 kW based on 80/
+1269/EEC, ISO 2534 or national equivalents; and
+    e.3. Power density of more than 700 kW/m\3\ of `box volume';
+
+    Technical Note:
+    `Box volume' is the product of three perpendicular dimensions 
+measured in the following way:
+    Length: The length of the crankshaft from front flange to 
+flywheel face;
+
+[[Page 16506]]
+
+    Width: The widest of any of the following:
+    a. The outside dimension from valve cover to valve cover;
+    b. The dimensions of the outside edges of the cylinder heads; or
+    c. The diameter of the flywheel housing;
+    Height: The largest of any of the following:
+    a. The dimension of the crankshaft center-line to the top plane 
+of the valve cover (or cylinder head) plus twice the stroke; or
+    b. The diameter of the flywheel housing.
+
+    f. ``Technology'' ``required'' for the ``production'' of 
+``specially designed'' ``parts'' or ``components'' for high output 
+diesel engines, as follows:
+    f.1. ``Technology'' ``required'' for the ``production'' of 
+engine systems having all of the following ``parts'' and 
+``components'' employing ceramics materials controlled by 1C007:
+    f.1.a Cylinder liners;
+    f.1.b. Pistons;
+    f.1.c. Cylinder heads; and
+    f.1.d. One or more other ``part'' or ``component'' (including 
+exhaust ports, turbochargers, valve guides, valve assemblies or 
+insulated fuel injectors);
+    f.2. ``Technology'' ``required'' for the ``production'' of 
+turbocharger systems with single-stage compressors and having all of 
+the following:
+    f.2.a. Operating at pressure ratios of 4:1 or higher;
+    f.2.b. Mass flow in the range from 30 to 130 kg per minute; and
+    f.2.c. Variable flow area capability within the compressor or 
+turbine sections;
+    f.3. ``Technology'' ``required'' for the ``production'' of fuel 
+injection systems with a ``specially designed'' multifuel (e.g., 
+diesel or jet fuel) capability covering a viscosity range from 
+diesel fuel (2.5 cSt at 310.8 K (37.8 [deg]C)) down to gasoline fuel 
+(0.5 cSt at 310.8 K (37.8 [deg]C)) and having all of the following:
+    f.3.a. Injection amount in excess of 230 mm\3\ per injection per 
+cylinder; and
+    f.3.b. Electronic control features ``specially designed'' for 
+switching governor characteristics automatically depending on fuel 
+property to provide the same torque characteristics by using the 
+appropriate sensors;
+    g. ``Technology'' ``required'' for the development'' or 
+``production'' of `high output diesel engines' for solid, gas phase 
+or liquid film (or combinations thereof) cylinder wall lubrication 
+and permitting operation to temperatures exceeding 723 K (450 
+[deg]C), measured on the cylinder wall at the top limit of travel of 
+the top ring of the piston;
+
+    Technical Note:
+    `High output diesel engines' are diesel engines with a specified 
+brake mean effective pressure of 1.8 MPa or more at a speed of 2,300 
+r.p.m., provided the rated speed is 2,300 r.p.m. or more.
+
+    h. ``Technology'' for gas turbine engine ``FADEC systems'' as 
+follows:
+    h.1. ``Development'' ``technology'' for deriving the functional 
+requirements for the ``parts'' or ``components'' necessary for the 
+``FADEC system'' to regulate engine thrust or shaft power (e.g., 
+feedback sensor time constants and accuracies, fuel valve slew 
+rate);
+    h.2. ``Development'' or ``production'' ``technology'' for 
+control and diagnostic ``parts'' or ``components'' unique to the 
+``FADEC system'' and used to regulate engine thrust or shaft power;
+    h.3. ``Development'' ``technology'' for the control law 
+algorithms, including ``source code'', unique to the ``FADEC 
+system'' and used to regulate engine thrust or shaft power;
+
+    Note:
+    9E003.h does not apply to technical data related to engine-
+``aircraft'' integration required by civil aviation authorities of 
+one or more Wassenaar Arrangement Participating States (see 
+Supplement No. 1 to part 743 of the EAR) to be published for general 
+airline use (e.g., installation manuals, operating instructions, 
+instructions for continued airworthiness) or interface functions 
+(e.g., input/output processing, airframe thrust or shaft power 
+demand).
+
+    i. ``Technology'' for adjustable flow path systems designed to 
+maintain engine stability for gas generator turbines, fan or power 
+turbines, or propelling nozzles, as follows:
+    i.1. ``Development'' ``technology'' for deriving the functional 
+requirements for the ``parts'' or ``components'' that maintain 
+engine stability;
+    i.2. ``Development'' or ``production'' ``technology'' for 
+``parts'' or ``components'' unique to the adjustable flow path 
+system and that maintain engine stability;
+    i.3. ``Development'' ``technology'' for the control law 
+algorithms, including ``source code'', unique to the adjustable flow 
+path system and that maintain engine stability;
+
+    Note:
+    9E003.i does not apply to ``technology'' for any of the 
+following:
+    a. Inlet guide vanes;
+    b. Variable pitch fans or prop-fans;
+    c. Variable compressor vanes;
+    d. Compressor bleed valves; or
+    e. Adjustable flow path geometry for reverse thrust.
+
+    j. ``Technology'' ``required'' for the ``development'' of wing-
+folding systems designed for fixed-wing ``aircraft'' powered by gas 
+turbine engines.
+
+    N.B.:
+    For ``technology'' ``required'' for the ``development'' of wing-
+folding systems designed for fixed-wing ``aircraft'' specified in 
+USML Category VIII (a), see USML Category VIII (i).
+
+    k. ``Technology'' not otherwise controlled in 9E003.a.1 through 
+a.8, a.10, and .h and used in the ``development'', ``production'', 
+or overhaul of hot section ``parts'' or ``components'' of civil 
+derivatives of military engines controlled on the USML.
+
+
+0
+35. Supplement no. 6 to part 774 is amended in Category 1 by revising 
+paragraphs (1)(i) and (1)(vi) to read as follows:
+
+Supplement No. 6 to Part 774--Sensitive List
+
+* * * * *
+
+(1) Category 1
+
+    (i) 1A002.a.1--``Composite'' structures or laminates made from 
+an organic ``matrix'' and ``fibrous or filamentary materials'' 
+specified by 1C010.c or 1C010.d.
+* * * * *
+    (vi) 1D002--``Software'' for the ``development'' of organic 
+``matrix'', metal ``matrix'', or carbon ``matrix'' laminates or 
+composites controlled under 1A002.a.1, 1C001, 1C007.c, 1C010.c, 
+1C010.d, or 1C012.
+* * * * *
+
+Matthew S. Borman,
+Deputy Assistant Secretary for Export Administration.
+[FR Doc. 2021-05481 Filed 3-26-21; 8:45 am]
+BILLING CODE 3510-33-P

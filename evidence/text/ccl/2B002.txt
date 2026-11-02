@@ -1,0 +1,43 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2B002；eCFR 2026-10-29〕
+
+2B002 Numerically controlled optical finishing machine tools equipped for selective material removal to produce non-spherical optical surfaces having all of the following characteristics (See List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See also 2B001.
+
+Related Definitions: For the purposes of 2B002, ‘MRF’ is a material removal process using an abrasive magnetic fluid whose viscosity is controlled by a magnetic field. ‘ERF’ is a removal process using an abrasive fluid whose viscosity is controlled by an electric field. ‘Energetic particle beam finishing’ uses Reactive Atom Plasmas (RAP) or ion-beams to selectively remove material. ‘Inflatable membrane tool finishing’ is a process that uses a pressurized membrane that deforms to contact the workpiece over a small area.'Fluid jet finishing’ makes use of a fluid stream for material removal.
+
+Items: a. Finishing the form to less (better) than 1.0 µm;
+
+b. Finishing to a roughness less (better) than 100 nm rms;
+
+c. Four or more axes which can be coordinated simultaneously for “contouring control”; and
+
+d. Using any of the following processes:
+
+d.1. ‘Magnetorheological finishing (MRF)’;
+
+d.2. ‘Electrorheological finishing (ERF)’;
+
+d.3. ‘Energetic particle beam finishing’;
+
+d.4. ‘Inflatable membrane tool finishing’; or
+
+d.5. ‘Fluid jet finishing’.

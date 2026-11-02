@@ -1,0 +1,37 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9E604；eCFR 2026-10-29〕
+
+9E604 “Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by ECCN 9A604 or 9B604, or “software” controlled by ECCN 9D604 (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, MT, AT, UN
+
+Control(s) | Country chart(See Supp. No. 1to part 738)
+
+NS applies to entire entry | NS Column 1
+
+RS applies to entire entry | RS Column 1
+
+MT applies to “technology,” as described in paragraph .a of this entry, for commodities and “software” controlled for MT reasons in ECCN 9A604, 9B604 or 9D604 | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+UN applies to entire entry | See § 746.1(b) for UN controls
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in this ECCN 9E604.
+
+List of Items Controlled
+
+Related Controls: (1) Technical data directly related to articles enumerated or otherwise described in USML Category IV is controlled under USML Category IV(i). (2) See also ECCNs 9E002, 9E101, and 9E102 for controls on “technology” for the “development,” “production,” and “use” of missiles and related items controlled on the CCL.
+
+Related Definitions: N/A
+
+Items: a. “Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by ECCN 9A604 or 9B604, or “software” controlled by ECCN 9D604.
+
+b. [Reserved]

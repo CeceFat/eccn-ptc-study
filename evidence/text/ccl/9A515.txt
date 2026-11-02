@@ -1,0 +1,301 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9A515；eCFR 2026-10-29〕
+
+9A515 “Spacecraft” and related commodities, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, MT, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry, except .e, .x, and .y | NS Column 1.
+
+RS applies to entire entry, except .e, .x, and .y | RS Column 1.
+
+MT applies to microcircuits in 9A515.d and 9A515.e.2 when “usable in” “missiles” for protecting “missiles” against nuclear effects (e.g., Electromagnetic Pulse (EMP), X-rays, combined blast and thermal effects). MT also applies to 9A515.h when the total impulse capacity is equal to or greater than 8.41 × 105 newton seconds | MT Column 1.
+
+NS applies to 9A515.x | NS Column 2.
+
+RS applies to 9A515.e and .x | RS Column 2.
+
+RS applies to 9A515.y | China, Russia or Venezuela (see § 742.6(a)(7)).
+
+AT applies to entire entry | AT Column 1.
+
+License Requirement Notes: (1) The Commerce Country Chart is not used for determining license requirements for commodities classified in ECCN 9A515.a.1, .a.2, .a.3, .a.4, and .g. See § 742.6(a)(9), which specifies that such commodities are subject to a worldwide license requirement, except to Australia, Canada, and the United Kingdom.
+
+(2) ECCN 9A004.a through .f apply to certain space launch vehicles, spacecraft, spacecraft buses, spacecraft payloads, on-board systems or equipment, and terrestrial equipment. They are listed in ECCN 9A004.a through .f in order to harmonize 9A004 with the Wassenaar Arrangement Dual-Use List, even though the controls for these items are found under ECCN 9A515 and to direct exporters, reexporters, and transferors to see USML Category IV for 9A004.a. See UMSL Category IV for 9A004.a. See ECCN 9A515 for 9A004.b through .f, and .h. See this ECCN 9A004 for .g, .h, .r, .s, and .u through .y.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $1500
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: (1) Paragraph (c)(1) of License Exception STA (§ 740.20(c)(1) of the EAR) may not be used for “spacecraft” in ECCNs 9A515.a.1, a.2, a.3, or a.4, “sub-orbital craft,” or items in 9A515.g, unless determined by BIS to be eligible for License Exception STA in accordance with § 740.20(g) (License Exception STA eligibility requests for certain 9x515 and “600 series” items). (2) License Exception STA may not be used if the “spacecraft” controlled in ECCN 9A515.a.1, a.2, a.3, or a.4 contains a separable or removable propulsion system described in USML Category IV(d)(2) or USML Category XV(e)(12) and designated MT. (3) Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in 9A515.
+
+List of Items Controlled
+
+Related Controls: Spacecraft, launch vehicles and related articles that are described on the USML, and technical data (including “software”) directly related thereto, and all services (including training) directly related to the integration of any satellite or spacecraft to a launch vehicle, including both planning and onsite support, or furnishing any assistance (including training) in the launch failure analysis or investigation for items in ECCN 9A515.a, are “subject to the ITAR.” All other “spacecraft,” as enumerated below and defined in § 772.1, are subject to the controls of this ECCN. See also ECCNs 3A001, 3A002, 3A991, 3A992, 6A002, 6A004, 6A008, and 6A998 for specific “space-qualified” items, 7A004 and 7A104 for star trackers, and 9A004 for the International Space Station (ISS), the James Webb Space Telescope (JWST), and “specially designed” “parts” and “components” therefor. See USML Category XI(c) for controls on certain “Monolithic Microwave Integrated Circuit” (“MMIC”) amplifiers. See ECCN 9A610.g for pressure suits used for high altitude aircraft.
+
+Related Definitions: 'Microcircuit' means a device in which a number of passive or active elements are considered as indivisibly associated on or within a continuous structure to perform the function of a circuit.
+
+Items:
+
+“Spacecraft” and other items described in ECCN 9A515 remain subject to the EAR even if exported, reexported, or transferred (in-country) with defense articles “subject to the ITAR” integrated into and included therein as integral parts of the item. In all other cases, such defense articles are subject to the ITAR. For example, a 9A515.a “spacecraft” remains “subject to the EAR” even when it is exported, reexported, or transferred (in-country) with a “hosted payload” described in USML Category XV(e)(17) incorporated therein. In all other cases, a “hosted payload” performing a function described in USML Category XV(a) always remains a USML item. The removal of the defense article subject to the ITAR from the spacecraft is a retransfer under the ITAR and would require an ITAR authorization, regardless of the CCL authorization the spacecraft is exported under. Additionally, transfer of technical data regarding the defense article subject to the ITAR integrated into the spacecraft would require an ITAR authorization.
+
+a. “Spacecraft,” including satellites, and space vehicles and “sub-orbital craft,” whether designated developmental, experimental, research or scientific, not described in USML Category XV or described in ECCN 9A004.r, .u, or .w, that:
+
+a.1. Have electro-optical remote sensing capabilities and having a clear aperture greater than 0.35 meters, but less than or equal to 0.50 meters;
+
+a.2. Have remote sensing capabilities beyond NIR (i.e., SWIR, MWIR, or LWIR);
+
+a.3. Have radar remote sensing capabilities (e.g., AESA, SAR, or ISAR) having a center frequency equal to or greater than 1.0 GHz, but less than 10.0 GHz and having a bandwidth equal to or greater than 100 MHz, but less than 300 MHz;
+
+a.4. Provide space-based logistics, assembly, or servicing of another “spacecraft”; or
+
+a.5. Are not described in ECCN 9A515.a.1, .a.2, .a.3 or .a.4.
+
+Note 1 to 9A515: ECCN 9A515.a includes commercial communications satellites, remote sensing satellites, “sub-orbital craft,” and planetary and interplanetary probes, not identified in ECCN 9A004 or USML Category XV(a).
+
+b. Equipment for telemetry, tracking, and control, as follows:
+
+b.1. Ground control systems and training simulators “specially designed” for telemetry, tracking, and control of the “spacecraft” controlled in paragraphs 9A004.u or 9A515.a;
+
+b.2. Terrestrial equipment “specially designed” for “spacecraft,” as follows:
+
+b.2.a. Telemetry and telecommand equipment “specially designed” for any of the following data processing functions:
+
+b.2.a.1. Telemetry data processing of frame synchronization and error corrections, for monitoring of operational status (also known as health and safe status) of the “spacecraft bus;” or
+
+b.2.a.2. Command data processing for formatting command data being sent to the “spacecraft” to control the “spacecraft bus;”
+
+b.2.b. [Reserved]
+
+b.3. Simulators “specially designed” for 'verification of operational procedures' of “spacecraft.”
+
+Technical Note: For the purposes of 9A515.b.3, 'verification of operational procedures' is any of the following:
+
+1. Command sequence confirmation;
+
+2. Operational training;
+
+3. Operational rehearsals; or
+
+4. Operational analysis.
+
+c. [Reserved]
+
+d. Microelectronic circuits (e.g., integrated circuits, microcircuits, or MOSFETs) and discrete electronic components rated, certified, or otherwise specified or described as meeting or exceeding all the following characteristics and that are “specially designed” for defense articles, “600 series” items, or items controlled by ECCNs 9A004.v or 9A515:
+
+d.1. A total dose of 5 × 10 5 Rads (Si) (5 × 10 3 Gy (Si));
+
+d.2. A dose rate upset threshold of 5 × 10 8 Rads (Si)/sec (5 × 10 6 Gy (Si)/sec);
+
+d.3. A neutron dose of 1 × 10 14 n/cm 2 (1 MeV equivalent);
+
+d.4. An uncorrected single event upset sensitivity of 1 × 10− 10 errors/bit/day or less, for the CRÈME-MC geosynchronous orbit, Solar Minimum Environment for heavy ion flux; and
+
+d.5. An uncorrected single event upset sensitivity of 1 × 10− 10 errors/part or less for a fluence of 1 × 10 7 protons/cm 2 for proton energy greater than 50 MeV.
+
+e. Microelectronic circuits (e.g., integrated circuits, microcircuits, or MOSFETs) and discrete electronic components that are rated, certified, or otherwise specified or described as meeting or exceeding the characteristics in either paragraph e.1 or e.2, AND “specially designed” for defense articles described in USML Category XV or items controlled by ECCNs 9A004.u or 9A515:
+
+e.1. A total dose ≥1 × 10 5 Rads (Si) (1 × 10 3 Gy(Si)) and <5 × 10 5 Rads (Si) (5 × 10 3 Gy(Si)); and a single event effect (SEE) (i.e., single event latchup (SEL), single event burnout (SEB), or single event gate rupture (SEGR)) immunity to a linear energy transfer (LET) ≥80 MeV-cm 2/mg; or
+
+e.2. A total dose ≥5 × 10 5 Rads (Si) (5 × 10 3 Gy (Si)) and not described in 9A515.d.
+
+Note 2 to 9A515.d and .e: See USML Category XI for military electronics. See 3A611.f for PLDs and ASICs programmed for 600 series items.
+
+Note 3 to 9A515.d and .e: See 3A001.a and .z for controls on radiation-hardened microelectronic circuits “subject to the EAR” that are not controlled by 9A515.d or .e.
+
+f. Pressure suits (i.e., space suits) capable of operating at altitudes greater than or equal to 55,000 feet above sea level.
+
+g. Remote sensing components “specially designed” for “spacecraft” described in ECCNs 9A515.a.1 through .a.4 as follows:
+
+g.1. Space-qualified optics (i.e., lens, mirror, membrane having active properties (e.g., adaptive, deformable)) with the largest lateral clear aperture dimension equal to or less than 0.35 meters; or with the largest clear aperture dimension greater than 0.35 meters but less than or equal to 0.50 meters;
+
+g.2. Optical bench assemblies “specially designed” for ECCN 9A515.a.1, a.2, a.3, or a.4 “spacecraft;” or
+
+g.3. Primary, secondary, or hosted payloads that perform a function of ECCN 9A515.a.1, a.2, a.3, or a.4 “spacecraft.”
+
+h. Spacecraft thrusters using bi-propellants or mono-propellants that provide thrust equal to or less than 150 lbf (i.e., 667.23 N) vacuum thrust.
+
+i. through w. [RESERVED]
+
+w. “Parts,” “components,” “accessories,” and “attachments” that would otherwise be within the scope of ECCN 9A515.x but that have been identified by the interagency as warranting control in 9A515.w, as follows:
+
+w.1. [Reserved]
+
+x. “Parts,” “components,” “accessories” and “attachments” that are “specially designed” for defense articles described in USML Category XV or items controlled by 9A515, and that are NOT:
+
+x.1. Described on the USML or elsewhere within ECCNs 9A515 or 9A004;
+
+x.2. Microelectronic circuits and discrete electronic components;
+
+x.3. Described in ECCNs 7A004 or 7A104;
+
+x.4. Described in an ECCN containing “space-qualified” as a control criterion (i.e., 3A001.b.1, .e.4 or .z, 3A002.g.1, 3A991.o, 3A992.b.3, 6A002.a.1, .b.2, .d.1, 6A004.c and .d, 6A008.j.1, 6A998.b, or 7A003.d.2);
+
+x.5. Microwave solid state amplifiers and microwave assemblies (refer to ECCN 3A001.b.4 and .z for controls on these items);
+
+x.6. Travelling wave tube amplifiers (refer to ECCN 3A001.b.8 and .z for controls on these items); or
+
+x.7. Elsewhere specified in ECCN 9A515.y.
+
+Note 4 to 9A515.x: “Parts,” “components,” “accessories,” and “attachments” described on the USML, either in Category XV(e) or elsewhere, are subject to the ITAR.
+
+Note 5 to 9A515.b and .x: This note clarifies the scope of controls over baseband units (BBU). For purposes of 9A515.b and .x, a BBU means a device that interprets the original frequency range of a transmission signal. These devices are not controlled under 9A515.b or .x when they do not perform telemetry, track, and control.
+
+y. Items that would otherwise be within the scope of ECCN 9A515.x but that have been identified in an interagency-cleared commodity classification (CCATS) pursuant to § 748.3(e) as warranting control in 9A515.y.
+
+y.1. Discrete electronic components not specified in 9A515.e;
+
+y.2. Thermistors for spacecraft applications;
+
+y.3. RF microwave bandpass ceramic filters (e.g., Dielectric Resonator Bandpass Filters);
+
+y.4. Hall effect sensors for spacecraft applications;
+
+y.5. Subminiature (SMA and SMP) plugs and connectors, TNC plugs and cable and connector assemblies with SMA plugs and connectors for spacecraft applications;
+
+y.6. Flight cable assemblies for spacecraft applications;
+
+y.7. Public address (PA) systems;
+
+y.8. Audio selector panels;
+
+y.9. Spacecraft crew, passenger, or participant lavatories and body waste management systems;
+
+y.10. Spacecraft crew, passenger, or participant hygiene facilities and systems;
+
+y.11. Spacecraft crew, passenger, or participant crew rest equipment or sleeping quarters;
+
+y.12. Spacecraft crew, passenger, or participant galleys or food preparation or serving systems;
+
+y.13. Spacecraft crew, passenger, or participant entertainment systems;
+
+y.14. Spacecraft crew, passenger, or participant exercise systems;
+
+y.15. Spacecraft crew, passenger, or participant laundry systems;
+
+y.16. Spacecraft crew, passenger, or participant safety systems, not including launch abort systems/launch escape systems, ejector seats, spacesuits, flight suits, helmets, or “parts” and “components” therefor;
+
+y.17. Spacecraft crew, passenger, or participant storage units, facilities, or systems (for items related to human safety, welfare, and health);
+
+y.18. Spacecraft crew, passenger, or participant medical facilities or health-related systems for monitoring, evaluating, or assessing, or for providing treatments;
+
+y.19. Spacecraft crew, passenger, or participant information systems (e.g., personal laptops and phones);
+
+y.20. Name plates, identification plates, and identification systems;
+
+y.21. Internal, external, and emergency lighting systems;
+
+y.22. Humidity and CO2 removal systems;
+
+y.23. Potable water storage systems;
+
+y.24. Water regeneration systems;
+
+y.25. Air filters, filter networks, or air quality systems;
+
+y.26. Space heaters, temperature sensors, or thermostats for human habitation;
+
+y.27. Environmental control systems for human habitation;
+
+y.28. Spacecraft environmental control systems (e.g., air conditioner, air distribution, air filtration and sanitation, CO2 removal, cabin pressure control, dehumidifier, fire suppression system, nitrogen oxygen recharge system, heater systems, thermostats);
+
+y.29. Plant growth systems;
+
+y.30. Fire extinguishers;
+
+y.31. Flame, smoke, or CO2 detectors;
+
+y.32. Fire suppression systems;
+
+y.33. Spacecraft crew, passenger, or participant seats, other than ejection seats, and “parts” and “components;”
+
+y.34. Spaceflight crew, passenger, or participant ejection seat mounted survival aids;
+
+y.35. Spaceflight crew, passenger, or participant life rafts;
+
+y.36. Spacecraft crew, passenger, or participant locator beacons;
+
+y.37. Spacecraft crew, passenger, or participant mirrors;
+
+y.38. Spacecraft crew, passenger, or participant windows;
+
+y.39. Spacecraft locator beacons;
+
+y.40. Viewing windows on non-crewed spacecraft;
+
+y.41. Temperature sensors and pressure transducers;
+
+y.42. Thermal control pumps, accumulators, fluid filters and filter assemblies, control valves, heat exchangers, and radiators;
+
+y.43. Hydraulic, pneumatic, oil, fuel, gas, propellant, fluid, and thermal control fluid reservoirs, filters, filter assemblies, tubing, lines, hoses, check valves, and quick disconnects, and associated fittings, couplings, clamps, brackets, adapters, valves, gaskets, shims, and o-rings;
+
+y.44. Gauges and indicators;
+
+y.45. Filtered and unfiltered panel knobs, indicators, annunciator panels, switches, buttons and dials;
+
+y.46. Spacecraft tires and brake systems (does not include sintered mix or carbon/carbon materials);
+
+y.47. Bearings (e.g., Ball, roller, wheel);
+
+y.48. Energy dissipating pads for cargo or crew;
+
+y.49. Spacecraft bus structures;
+
+y.50. Bracket adapters for bus and payload structures;
+
+y.51. Latches and hinges;
+
+y.52. Boom assemblies;
+
+y.53. Cables, cable assemblies, and connectors;
+
+y.54. Batteries and associated battery management circuitry;
+
+y.55. Germanium coated polyimide tapes (e.g., Kapton tape);
+
+y.56. Multiplexors and Demultiplexors (MUX & DEMUX);
+
+y.57. Switches, switch bank assemblies, beam select switches, transfer switch assemblies, switch matrices, thermal switches;
+
+y.58. Magnetic torque bars;
+
+y.59. Filters, filter networks;
+
+y.60. Network switches;
+
+y.61. Reflectors, antennas;
+
+y.62. Antenna feed horns;
+
+y.63. Diplexers, modulators, demodulators;
+
+y.64. Second surface mirrors;
+
+y.65. Backshells, pins and contacts;
+
+y.66. Measurement devices;
+
+y.67. Electrical power distribution and control units;
+
+y.68. Electrical connectors;
+
+y.69. Non-propulsive landing systems (e.g., skids, inflatable);
+
+y.70. Electric fans;
+
+y.71. Microphones;
+
+y.72. Speakers;
+
+y.73. Circuit breakers; and
+
+y.74. Printed circuit boards “specially designed” for items classified under 9A515.y
+
+Note 6 to 9A515: An item operating on any celestial body other than Earth is treated as if it is on Earth for classification purposes on the CCL.

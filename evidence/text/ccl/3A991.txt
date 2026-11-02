@@ -1,0 +1,159 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3A991；eCFR 2026-10-29〕
+
+3A991 Electronic devices, and “components” not controlled by 3A001.
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1.
+
+License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating “information security” functionality, and associated “software” and “technology” for the “production” or “development” of such microprocessors.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) For associated “software” for commodities in this ECCN, see 3D991 and for associated “technology for commodities in this ECCN, see 3E991. (2) See also ECCNs 5A002.z, 5A004.z, and 5A992.z.
+
+Related Definitions: N/A
+
+Items:
+
+a. “Microprocessor microcircuits”, “microcomputer microcircuits”, and microcontroller microcircuits having any of the following:
+
+a.1. A performance speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more;
+
+a.2. A clock frequency rate exceeding 25 MHz; or
+
+a.3. More than one data or instruction bus or serial communication port that provides a direct external interconnection between parallel “microprocessor microcircuits” with a transfer rate of 2.5 Mbyte/s;
+
+b. Storage integrated circuits, as follows:
+
+b.1. Electrical erasable programmable read-only memories (EEPROMs) with a storage capacity;
+
+b.1.a. Exceeding 16 Mbits per package for flash memory types; or
+
+b.1.b. Exceeding either of the following limits for all other EEPROM types:
+
+b.1.b.1. Exceeding 1 Mbit per package; or
+
+b.1.b.2. Exceeding 256 kbit per package and a maximum access time of less than 80 ns;
+
+b.2. Static random access memories (SRAMs) with a storage capacity:
+
+b.2.a. Exceeding 1 Mbit per package; or
+
+b.2.b. Exceeding 256 kbit per package and a maximum access time of less than 25 ns;
+
+c. Analog-to-digital converters having any of the following:
+
+c.1. A resolution of 8 bit or more, but less than 12 bit, with an output rate greater than 200 million words per second;
+
+c.2. A resolution of 12 bit with an output rate greater than 105 million words per second;
+
+c.3. A resolution of more than 12 bit but equal to or less than 14 bit with an output rate greater than 10 million words per second; or
+
+c.4. A resolution of more than 14 bit with an output rate greater than 2.5 million words per second;
+
+d. Field programmable logic devices having a maximum number of single-ended digital input/outputs between 200 and 700;
+
+e. Fast Fourier Transform (FFT) processors having a rated execution time for a 1,024 point complex FFT of less than 1 ms;
+
+f. Custom integrated circuits for which either the function is unknown, or the control status of the equipment in which the integrated circuits will be used is unknown to the manufacturer, having any of the following:
+
+f.1. More than 144 terminals; or
+
+f.2. A typical “basic propagation delay time” of less than 0.4 ns;
+
+g. Traveling-wave “vacuum electronic devices,” pulsed or continuous wave, as follows:
+
+g.1. Coupled cavity devices, or derivatives thereof;
+
+g.2. Helix devices based on helix, folded waveguide, or serpentine waveguide circuits, or derivatives thereof, with any of the following:
+
+g.2.a. An “instantaneous bandwidth” of half an octave or more; and
+
+g.2.b. The product of the rated average output power (expressed in kW) and the maximum operating frequency (expressed in GHz) of more than 0.2;
+
+g.2.c. An “instantaneous bandwidth” of less than half an octave; and
+
+g.2.d. The product of the rated average output power (expressed in kW) and the maximum operating frequency (expressed in GHz) of more than 0.4;
+
+h. Flexible waveguides designed for use at frequencies exceeding 40 GHz;
+
+i. Surface acoustic wave and surface skimming (shallow bulk) acoustic wave devices (i.e., “signal processing” devices employing elastic waves in materials), having either of the following:
+
+i.1. A carrier frequency exceeding 1 GHz; or
+
+i.2. A carrier frequency of 1 GHz or less; and
+
+i.2.a. A frequency side-lobe rejection exceeding 55 Db;
+
+i.2.b. A product of the maximum delay time and bandwidth (time in microseconds and bandwidth in MHz) of more than 100; or
+
+i.2.c. A dispersive delay of more than 10 microseconds;
+
+j. Cells as follows:
+
+j.1. Primary cells having an energy density of 550 Wh/kg or less at 293 K (20 °C);
+
+j.2. Secondary cells having an energy density of 350 Wh/kg or less at 293 K (20 °C);
+
+Note: 3A991.j does not control batteries, including single cell batteries.
+
+Technical Notes: 1. For the purposes of 3A991.j energy density (Wh/kg) is calculated from the nominal voltage multiplied by the nominal capacity in ampere-hours divided by the mass in kilograms. If the nominal capacity is not stated, energy density is calculated from the nominal voltage squared then multiplied by the discharge duration in hours divided by the discharge load in Ohms and the mass in kilograms.
+
+2. For the purposes of 3A991.j, a 'cell' is defined as an electrochemical device, which has positive and negative electrodes, and electrolyte, and is a source of electrical energy. It is the basic building block of a battery.
+
+3. For the purposes of 3A991.j.1, a 'primary cell' is a 'cell' that is not designed to be charged by any other source.
+
+4. For the purposes of 3A991.j.2, a 'secondary cell' is a 'cell' that is designed to be charged by an external electrical source.
+
+k. “Superconductive” electromagnets or solenoids “specially designed” to be fully charged or discharged in less than one minute, having all of the following:
+
+Note: 3A991.k does not control “superconductive” electromagnets or solenoids designed for Magnetic Resonance Imaging (MRI) medical equipment.
+
+k.1. Maximum energy delivered during the discharge divided by the duration of the discharge of more than 500 kJ per minute;
+
+k.2. Inner diameter of the current carrying windings of more than 250 mm; and
+
+k.3. Rated for a magnetic induction of more than 8T or “overall current density” in the winding of more than 300 A/mm 2;
+
+l. Circuits or systems for electromagnetic energy storage, containing “components” manufactured from “superconductive” materials “specially designed” for operation at temperatures below the “critical temperature” of at least one of their “superconductive” constituents, having all of the following:
+
+l.1. Resonant operating frequencies exceeding 1 MHz;
+
+l.2. A stored energy density of 1 MJ/M 3 or more; and
+
+l.3. A discharge time of less than 1 ms;
+
+m. Hydrogen/hydrogen-isotope thyratrons of ceramic-metal construction and rate for a peak current of 500 A or more;
+
+n. Digital integrated circuits based on any compound semiconductor having an equivalent gate count of more than 300 (2 input gates);
+
+o. Solar cells, cell-interconnect-coverglass (CIC) assemblies, solar panels, and solar arrays, which are “space qualified” and not controlled by 3A001.e.4;
+
+p. Integrated circuits, n.e.s., having any of the following:
+
+p.1. A processing performance of 8 TOPS or more; or
+
+p.2. An aggregate bidirectional transfer rate over all inputs and outputs of 150 Gbyte/s or more to or from integrated circuits other than volatile memories.
+
+Technical Notes: For the purposes of 3A991.p:
+
+1. This ECCN includes but is not limited to central processing units (CPU), graphics processing units (GPU), tensor processing units (TPU), neural processors, in-memory processors, vision processors, text processors, co-processors/accelerators, adaptive processors, and field-programmable logic devices (FPLDs).
+
+2. TOPS is Tera Operations Per Second or 10 12 Operations per Second.
+
+3. For purposes of 3A991.p, TOPS is 2 × 'MacTOPS' aggregated over all processing units on the integrated circuit.
+
+a. For purposes of 3A991.p, 'MacTOPS' is the theoretical peak number of Tera (10^12) operations per second for multiply-accumulate computation (D = A × B + C).
+
+b. The 2 in the formula is based on industry convention of counting one multiply-accumulate computation, D = A × B + C, as 2 operations for purpose of datasheets. Therefore, 2 × 'MacTOPS' may correspond to the reported TOPS or FLOPS on a datasheet.

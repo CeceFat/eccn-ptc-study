@@ -1,0 +1,75 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 4E993；eCFR 2026-10-29〕
+
+4E993 “ Technology” for the “development” or “production” of equipment designed for “multi-data-stream processing.”
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.
+
+EAR99 Items subject to the EAR that are not elsewhere specified in this CCL Category or in any other category in the CCL are designated by the number EAR99.
+
+Technical Note on “Adjusted Peak Performance” (“APP”)
+
+“APP” is an adjusted peak rate at which “digital computers” perform 64-bit or larger floating point additions and multiplications.
+
+Abbreviations used in this Technical Note n number of processors in the “digital computer”
+
+I processor number (i . . . . n)
+
+ti processor cycle time (ti = 1/Fi)
+
+Fi processor frequency
+
+Ri peak floating point calculating rate
+
+Wi architecture adjustment factor
+
+“APP” is expressed in Weighted TeraFLOPS (WT), in units of 10 12 adjusted floating point operations per second.
+
+Outline of “APP” calculation method 1. For each processor i, determine the peak number of 64-bit or larger floating-point operations, FPOi, performed per cycle for each processor in the “digital computer”.
+
+Note In determining FPO, include only 64-bit or larger floating point additions or multiplications. All floating point operations must be expressed in operations per processor cycle; operations requiring multiple cycles may be expressed in fractional results per cycle. For processors not capable of performing calculations on floating-point operands of 64-bits or more the effective calculating rate R is zero.
+
+2. Calculate the floating point rate R for each processor
+
+Ri = FPOi/ti.
+
+3. Calculate “APP” as
+
+“APP” = W1 × R1 + W2 × R2 + . . . + Wn × Rn.
+
+4. For 'vector processors', Wi = 0.9. For non-'vector processors', Wi = 0.3.
+
+Note 1: For processors that perform compound operations in a cycle, such as an addition and multiplication, each operation is counted.
+
+Note 2: For a pipelined processor the effective calculating rate R is the faster of the pipelined rate, once the pipeline is full, or the non-pipelined rate.
+
+Note 3: The calculating rate R of each contributing processor is to be calculated at its maximum value theoretically possible before the “APP” of the combination is derived. Simultaneous operations are assumed to exist when the computer manufacturer claims concurrent, parallel, or simultaneous operation or execution in a manual or brochure for the computer.
+
+Note 4: Do not include processors that are limited to input/output and peripheral functions (e.g., disk drive, communication and video display) when calculating “APP”.
+
+Note 5: “APP” values are not to be calculated for processor combinations(inter)connected by “Local Area Networks”, Wide Area Networks, I/O shared connections/devices, I/O controllers and any communication interconnection implemented by “software”.
+
+Note 6: “APP” values must be calculated for processor combinations containing processors “specially designed” to enhance performance by aggregation, operating simultaneously and sharing memory.
+
+Technical Notes 1. Aggregate all processors and accelerators operating simultaneously and located on the same die.
+
+2. Processor combinations share memory when any processor is capable of accessing any memory location in the system through the hardware transmission of cache lines or memory words, without the involvement of any software mechanism, which may be achieved using “electronic assemblies” specified in 4A003.c, z.1, or z.3.
+
+Note 7: A 'vector processor' is defined as a processor with built-in instructions that perform multiple calculations on floating-point vectors (one-dimensional arrays of 64-bit or larger numbers) simultaneously, having at least 2 vector functional units and at least 8 vector registers of at least 64 elements each.

@@ -1,0 +1,57 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C353；eCFR 2026-10-29〕
+
+1C353 Genetic elements and genetically modified organisms, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: CB, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+CB applies to genetic elements of items controlled by 1C351.d.15 and .16 | CB Column 1.
+
+CB applies to entire entry | CB Column 2.
+
+AT applies to entire entry | AT Column 1.
+
+License Requirements Notes:
+
+1. Vaccines that contain genetic elements or genetically modified organisms identified in this ECCN are controlled by ECCN 1C991.
+
+2. Unless specified elsewhere in this ECCN 1C353 (e.g., in License Requirement Note 1), this ECCN controls genetic elements or genetically modified organisms for all biological agents and “toxins,” regardless of quantity or attenuation, that are identified in the List of Items Controlled for this ECCN, including genetic elements or genetically modified organisms for attenuated strains of select biological agents or “toxins” that are excluded from the lists of select biological agents or “toxins” by the Animal and Plant Health Inspection Service (APHIS), U.S. Department of Agriculture, or the Centers for Disease Control and Prevention (CDC), U.S. Department of Health and Human Services, in accordance with the APHIS regulations in 7 CFR part 331 and 9 CFR part 121 and the CDC regulations in 42 CFR part 73.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) The Animal and Plant Health Inspection Service (APHIS), U.S. Department of Agriculture, and the Centers for Disease Control and Prevention (CDC), U.S. Department of Health and Human Services, maintain controls on the possession, use, and transfer within the United States of certain items controlled by this ECCN, including (but not limited to) certain genetic elements, recombinant nucleic acids, and recombinant organisms associated with the agents or toxins in ECCN 1C351 or 1C354 (for APHIS, see 7 CFR 331.3(c), 9 CFR 121.3(c), and 9 CFR 121.4(c); for CDC, see 42 CFR 73.3(c) and 42 CFR 73.4(c)). (2) See USML Category XIV for modified biological agents and biologically derived substances that are “subject to the ITAR” (see 22 CFR parts 120 through 130).
+
+Related Definition: N/A
+
+Items:
+
+a. Any genetically modified organism that contains, or any genetic element that codes for, any of the following:
+
+a.1. Any gene, genes, translated product or translated products specific to any virus controlled by 1C351.a or .b or 1C354.c;
+
+a.2. Any gene or genes specific to any bacterium controlled by 1C351.c or 1C354.a, or any fungus controlled by 1C351.e or 1C354.b, and which;
+
+a.2.a. In itself or through its transcribed or translated products represents a significant hazard to human, animal or plant health; or
+
+a.2.b. Could endow or enhance pathogenicity; or
+
+a.3. Any toxins, or their subunits, controlled by 1C351.d.
+
+b. [Reserved].
+
+Technical Notes: 1. Genetically modified organisms include organisms in which the nucleic acid sequences have been created or altered by deliberate molecular manipulation.
+
+2. “Genetic elements” include, inter alia, chromosomes, genomes, plasmids, transposons, vectors, and inactivated organisms containing recoverable nucleic acid fragments, whether genetically modified or unmodified, or chemically synthesized in whole or in part. For the purposes of this ECCN 1C353, nucleic acids from an inactivated organism, virus, or sample are considered to be 'recoverable' if the inactivation and preparation of the material is intended or known to facilitate isolation, purification, amplification, detection, or identification of nucleic acids.
+
+3. This ECCN does not control nucleic acid sequences of shiga toxin producing Escherichia coli of serogroups O26, O45, O103, O104, O111, O121, O145, O157, and other shiga toxin producing serogroups, other than those genetic elements coding for shiga toxin, or for its subunits.
+
+4. 'Endow or enhance pathogenicity' is defined as when the insertion or integration of the nucleic acid sequence or sequences is/are likely to enable or increase a recipient organism's ability to be used to deliberately cause disease or death. This might include alterations to, inter alia: virulence, transmissibility, stability, route of infection, host range, reproducibility, ability to evade or suppress host immunity, resistance to medical countermeasures, or detectability.

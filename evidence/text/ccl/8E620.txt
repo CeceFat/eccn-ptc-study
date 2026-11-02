@@ -1,0 +1,43 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 8E620；eCFR 2026-10-29〕
+
+8E620 “Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by 8A620 or 8B620, or “software” controlled by 8D620 (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, UN
+
+Control(s) | Country chartsee Supp. No. 1 to part 738)
+
+NS applies to entire entry, except 8E620.b and .y | NS Column 1.
+
+RS applies to entire entry, except 8E620.y | RS Column 1.
+
+RS applies to 8E620.y | China, Russia, or Venezuela (see § 742.6(a)(7)).
+
+AT applies to entire entry | AT Column 1.
+
+UN applies to entire entry, except 8E620.y | See § 746.1(b) for UN controls.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any “technology” in 8E620.
+
+List of Items Controlled
+
+Related Controls: Technical data directly related to articles enumerated or otherwise described in USML Category XX are controlled under USML Category XX(d).
+
+Related Definitions: N/A
+
+Items:
+
+a. “Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by ECCN 8A620 or 8B620 or “software” controlled by ECCN 8D620 (except for commodities controlled by ECCN 8A620.b or .y or ECCN 8B620.b or “software” controlled by 8D620.b or .y).
+
+b. “Technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by ECCN 8A620.b or 8B620.b or “software” controlled by ECCN 8D620.b.
+
+c. through .x [Reserved]
+
+y. Specific “technology” “required” for the “development,” “production,” operation, installation, maintenance, repair, overhaul or refurbishing of commodities or software in ECCN 8A620.y or 8D620.y.

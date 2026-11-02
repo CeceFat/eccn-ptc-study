@@ -1,0 +1,33 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6C994；eCFR 2026-10-29〕
+
+6C994 Optical materials, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: (1) ‘Fluoride fibers’ are fibers manufactured from bulk fluoride compounds. (2) ‘Optical fiber preforms’ are bars, ingots, or rods of glass, plastic or other materials that have been specially processed for use in fabricating optical fibers. The characteristics of the preform determine the basic parameters of the resultant drawn optical fibers.
+
+Items: a. Low optical absorption materials, as follows:
+
+a.1. Bulk fluoride compounds containing ingredients with a purity of 99.999% or better; or
+
+Note: 6C994.a.1 controls fluorides of zirconium or aluminum and variants.
+
+a.2. Bulk fluoride glass made from compounds controlled by 6C004.e.1;
+
+b. ‘Optical fiber preforms’ made from bulk fluoride compounds containing ingredients with a purity of 99.999% or better, “specially designed” for the manufacture of ‘fluoride fibers’ controlled by 6A994.b.

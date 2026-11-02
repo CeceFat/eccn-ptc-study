@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2D202；eCFR 2026-10-29〕
+
+2D202 “Software” “specially designed” or modified for the “development”, “production” or “use” of equipment controlled by 2B201.
+
+License Requirements
+
+Reason for Control: NP, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NP applies to entire entry | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+ECCN Controls: ECCN 2D202 does not control part programming “software” that generates “numerical control” command codes, but does not allow direct use of equipment for machining various parts.
+
+Items: The list of items controlled is contained in the ECCN heading.

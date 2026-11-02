@@ -1,0 +1,23 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2A994；eCFR 2026-10-29〕
+
+2A994 Portable electric generators and “specially designed” “parts” and “components”.
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s): AT applies to entire entry. A license is required for items controlled by this entry to Iran and North Korea. The Commerce Country Chart is not designed to determine licensing requirements for this entry. See part 746 of the EAR for additional information on Iran. See § 742.19 of the EAR for additional information on North Korea.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See also 2D994 and 2E994.
+
+Related Definitions: ‘Portable electric generators’ - The generators that are in 2A994 are portable - 5,000 lbs. or less on wheels or transportable in a 2 1/2 ton truck without a special set up requirement.
+
+Items: The list of items controlled is contained in the ECCN heading.

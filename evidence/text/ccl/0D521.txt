@@ -1,0 +1,5 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 0D521；eCFR 2026-10-29〕
+
+0D521 Any software subject to the EAR that is not listed elsewhere in the CCL, but which is controlled for export because it provides at least a significant military or intelligence advantage to the United States or for foreign policy reasons.
+
+0D521 software is subject to RS1 controls with no license exception eligibility other than License Exception GOV for U.S. Government personnel and agencies under § 740.11(b)(2)(ii) of the EAR, or an item-specific license exception identified in Supplement No. 5 to part 774 particular to an item covered under ECCN 0D521. The list of software determined to be classified under ECCN 0D521 controls is published in Supplement No. 5 to part 774. The license requirements and licensing policy relating to ECCN 0D521 are set forth in § 742.6(a)(8) of the EAR.

@@ -1,0 +1,33 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2A101；eCFR 2026-10-29〕
+
+2A101 Radial Ball Bearings Having all Tolerances Specified in Accordance With ISO 492 Tolerance Class 2 (or ANSI/ABMA Std 20 Tolerance Class ABEC-9 or Other National Equivalents), or Better and Having all of the Following Characteristics (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See ECCN 2A001.
+
+Related Definitions: N/A
+
+Items:
+
+a. An inner ring bore diameter between 12 and 50 mm;
+
+b. An outer ring outside diameter between 25 and 100 mm; and
+
+c. A width between 10 and 20 mm.

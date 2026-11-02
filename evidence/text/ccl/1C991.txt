@@ -1,0 +1,59 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C991；eCFR 2026-10-29〕
+
+1C991 Vaccines, immunotoxins, medical products, diagnostic and food testing kits, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: CB, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+CB applies to 1C991.c | CB Column 3.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) Medical products containing ricin or saxitoxin, as follows, are controlled for CW reasons under ECCN 1C351:
+
+(a) Ricinus communis AgglutininII (RCAII), also known as ricin D, or Ricinus Communis LectinIII (RCLIII);
+
+(b) Ricinus communis LectinIV (RCLIV), also known as ricin E; or
+
+(c) Saxitoxin identified by C.A.S. #35523-89-8.
+
+(2) The export of a “medical product” that is an “Investigational New Drug” (IND), as defined in 21 CFR 312.3, is subject to certain U.S. Food and Drug Administration (FDA) requirements that are independent of the export requirements specified in this ECCN or elsewhere in the EAR. These FDA requirements are described in 21 CFR 312.110 and must be satisfied in addition to any requirements specified in the EAR.
+
+(3) Also see 21 CFR 314.410 for FDA requirements concerning exports of new drugs and new drug substances.
+
+Related Definitions: For the purpose of this entry, 'immunotoxins' are monoclonal antibodies linked to a toxin with the intention of destroying a specific target cell while leaving adjacent cells intact. For the purpose of this entry, 'medical products' are: (1) Pharmaceutical formulations designed for testing and human (or veterinary) administration in the treatment of medical conditions; (2) prepackaged for distribution as clinical or medical products; and (3) approved by the U.S. Food and Drug Administration either to be marketed as clinical or medical products or for use as an “Investigational New Drug” (IND) (see 21 CFR part 312). For the purpose of this entry, 'diagnostic and food testing kits' are specifically developed, packaged and marketed for diagnostic or public health purposes. Biological toxins in any other configuration, including bulk shipments, or for any other end-uses are controlled by ECCN 1C351. For the purpose of this entry, 'vaccine' is defined as a medicinal (or veterinary) product in a pharmaceutical formulation, approved by the U.S. Food and Drug Administration or the U.S. Department of Agriculture to be marketed as a medical (or veterinary) product or for use in clinical trials, that is intended to stimulate a protective immunological response in humans or animals in order to prevent disease in those to whom or to which it is administered.
+
+Items:
+
+Technical Note: For purposes of the controls described in this ECCN, 'toxins' refers to those toxins, or their subunits, controlled under ECCN 1C351.d.
+
+a. Vaccines containing, or designed for use against, items controlled by ECCN 1C351, 1C353 or 1C354.
+
+b. Immunotoxins containing toxins controlled by 1C351.d;
+
+c. Medical products that contain any of the following:
+
+c.1. Toxins controlled by ECCN 1C351.d (except for botulinum neurotoxins controlled by ECCN 1C351.d.3, conotoxins controlled by ECCN 1C351.d.6, or items controlled for CW reasons under ECCN 1C351.d.15 or .d.16); or
+
+c.2. Genetically modified organisms or genetic elements controlled by ECCN 1C353.a.3 (except for those that contain, or code for, botulinum neurotoxins controlled by ECCN 1C351.d.3 or conotoxins controlled by ECCN 1C351.d.6);
+
+d. Medical products not controlled by 1C991.c that contain any of the following:
+
+d.1. Botulinum neurotoxins controlled by ECCN 1C351.d.3;
+
+d.2. Conotoxins controlled by ECCN 1C351.d.6; or
+
+d.3. Genetically modified organisms or genetic elements controlled by ECCN 1C353.a.3 that contain, or code for, botulinum neurotoxins controlled by ECCN 1C351.d.3 or conotoxins controlled by ECCN 1C351.d.6;
+
+e. Diagnostic and food testing kits containing toxins controlled by ECCN 1C351.d (except for items controlled for CW reasons under ECCN 1C351.d.15 or .d.16).

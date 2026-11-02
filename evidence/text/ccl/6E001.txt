@@ -1,0 +1,45 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6E001；eCFR 2026-10-29〕
+
+6E001 “Technology” According to the General Technology Note for the “Development” of Equipment, Materials or “Software” Controlled by 6A (Except 6A991, 6A992, 6A994, 6A995, 6A996, 6A997, 6A998, or 6A999.c), 6B (Except 6B995), 6C (Except 6C992 or 6C994), or 6D (Except 6D991, 6D992, or 6D993).
+
+License Requirements
+
+Reason for Control: NS, MT, NP, RS, CC, AT, UN
+
+Control(s) | Country chart(see Supp. No. 1to part 738)
+
+NS applies to “technology” for items controlled by 6A001 to 6A008, 6B002 to 6B008, 6C002 to 6C005, or 6D001 to 6D003 | NS Column 1
+
+MT applies to “technology” for items controlled by 6A002, 6A007, 6A008, 6A102, 6A107, 6A108, 6B008, 6B108, 6D001, 6D002, 6D102 or 6D103 for MT reasons | MT Column 1
+
+NP applies to “technology” for items controlled by 6A003, 6A005, 6A202, 6A203, 6A205, 6A225, 6A226, 6D001, or 6D201 for NP reasons | NP Column 1
+
+RS applies to “technology” for items controlled by 6A002.a.1, .a.2, .a.3, .c, or .f, 6A003.b.3 or .b.4, or 6A008.j.1 | RS Column 1
+
+CC applies to “technology” for equipment controlled by 6A002 for CC reasons | CC Column 1
+
+AT applies to entire entry | AT Column 1
+
+UN applies to “technology” for equipment controlled by 6A002 or 6A003 for UN reasons | See § 746.1(b) for UN controls
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: Yes, except for the following: (1) Items controlled for MT reasons; (2) “Technology” for commodities controlled by 6A002, 6A004.e or 6A008.j.1; (3) “Technology” for 6A003 cameras, unless for “technology” for the integration of 6A003 cameras into camera systems “specially designed” for civil automotive applications; (4) “Technology” for “software” “specially designed” for “space qualified” “laser” radar or Light Detection and Ranging (LIDAR) equipment defined in 6A008.j.1 and controlled by 6D001 or 6D002; or (5) Exports or reexports to destinations outside of those countries listed in Country Group A:5 (See Supplement No. 1 to part 740 of the EAR) of “technology” for the “development” of the following: (a) Items controlled by 6A001.a.1.b, 6A001.a.1.e, 6A001.a.2.a.1, 6A001.a.2.a.2, 6A001.a.2.a.3, 6A001.a.2.a.5, 6A001.a.2.a.6, 6A001.a.2.b, 6A001.a.2.d, 6A001.a.2.e., 6A004.c, 6A004.d, 6A006.a.2, 6A006.c.1, 6A006.d, 6A006.e, 6A008.d, 6A008.h, 6A008.k, 6B008, or 6D003.a; (b) Equipment controlled by 6A001.a.2.c or 6A001.a.2.f when “specially designed” for real time applications; or (c) “Software” controlled by 6D001 and “specially designed” for the “development” or “production” of equipment controlled by 6B008, or 6D003.a.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship or transmit any technology in this entry to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) Technical data directly related to satellites and all other items described in USML Category XV are subject to the ITAR under USML Category XV(f). (2) Technical data directly related to laser systems, infrared imaging systems, and all other items described in USML Category XII are subject to the ITAR under USML Category XII(f). (3) Technical data directly related to read-out integrated circuits described in USML Categories XII(e) or XV(e)(3) is subject to the ITAR under USML Categories XII(f) or XV(f), respectively. (4) See also 6E101, 6E201, and 6E991.
+
+Related Definitions: N/A
+
+Items:
+
+The list of items controlled is contained in the ECCN heading.

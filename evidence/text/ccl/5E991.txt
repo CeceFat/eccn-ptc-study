@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 5E991；eCFR 2026-10-29〕
+
+5E991 “Technology” for the “Development”, “Production” or “Use” of Equipment Controlled by 5A991 or 5B991, or “Software” Controlled by 5D991, and Other “Technologies” as Follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: (1) “Synchronous digital hierarchy” (SDH) is a digital hierarchy providing a means to manage, multiplex, and access various forms of digital traffic using a synchronous transmission format on different types of media. The format is based on the Synchronous Transport Module (STM) that is defined by CCITT Recommendation G.703, G.707, G.708, G.709 and others yet to be published. The first level rate of ‘SDH’ is 155.52 Mbits/s. (2) ‘Synchronous optical network’ (SONET) is a network providing a means to manage, multiplex and access various forms of digital traffic using a synchronous transmission format on fiber optics. The format is the North America version of ‘SDH’ and also uses the Synchronous Transport Module (STM). However, it uses the Synchronous Transport Signal (STS) as the basic transport module with a first level rate of 51.81 Mbits/s. The SONET standards are being integrated into those of ‘SDH’.
+
+Items: a. Specific “technologies” as follows:
+
+a.1. “Technology” for the processing and application of coatings to optical fiber “specially designed” to make it suitable for underwater use;
+
+a.2. “Technology” for the “development” of equipment employing ‘Synchronous Digital Hierarchy’ (‘SDH’) or ‘Synchronous Optical Network’ (‘SONET’) techniques.

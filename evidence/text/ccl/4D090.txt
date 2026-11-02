@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 4D090；eCFR 2026-10-29〕
+
+4D090 “Software” “specially designed” or modified for the “development” or “production,” of computers and related equipment, “electronic assemblies,” and “components” therefor specified in ECCN 4A090.
+
+License Requirements
+
+Reason for Control: RS, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+RS applies to “software” for commodities controlled by 4A090.a | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+
+RS applies to “software” for commodities controlled by 4A090.b | To or within the United Arab Emirates or destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+AIA: Yes for commodities controlled by 4A090.a
+
+ACM: Yes
+
+List of Items Controlled
+
+Related Controls: For associated “technology” for software in this ECCN, see 4E001.
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

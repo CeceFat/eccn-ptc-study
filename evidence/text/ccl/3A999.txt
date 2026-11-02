@@ -1,0 +1,43 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3A999；eCFR 2026-10-29〕
+
+3A999 Specific Processing Equipment, n.e.s., as Follows (See List of Items Controlled).
+
+License Requirements
+
+Reason for Control: RS, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+RS applies to entire entry | A license is required for items controlled by this entry for export or reexport to Iraq or Pakistan or transfer within Iraq or Pakistan for regional stability reasons. The Commerce Country Chart is not designed to determine RS license requirements for this entry. See §§ 742.6 and 746.3 of the EAR for additional information.
+
+AT applies to entire entry | A license is required for items controlled by this entry to North Korea for anti-terrorism reasons. The Commerce Country Chart is not designed to determine AT licensing requirements for this entry. See § 742.19 of the EAR for additional information.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See also 3A225 (for frequency changers capable of operating in the frequency range of 600 Hz and above) and 3A233. (2) Certain auxiliary systems, equipment, “parts” and “components” for isotope separation plants made of or protected by UF6 resistant materials are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110). (3) See also 3A069 for flow cytometers and cell sorters that are “specially designed” for spectral analysis or contain 26 or greater detectors or channels as well as liquid chromatography mass spectrometry instruments (LC/MS and LC-MS/MS) “specially designed” for top-down proteomic analysis.
+
+Related Definitions: N/A
+
+Items:
+
+a. Frequency changers capable of operating in the frequency range from 300 up to 600 Hz, n.e.s;
+
+b. Mass spectrometers n.e.s;
+
+c. All flash x-ray machines, and “parts” or “components” of pulsed power systems designed thereof, including Marx generators, high power pulse shaping networks, high voltage capacitors, and triggers;
+
+d. Pulse amplifiers, n.e.s.;
+
+e. Electronic equipment for time delay generation or time interval measurement, as follows:
+
+e.1. Digital time delay generators with a resolution of 50 nanoseconds or less over time intervals of 1 microsecond or greater; or
+
+e.2. Multi-channel (three or more) or modular time interval meter and chronometry equipment with resolution of 50 nanoseconds or less over time intervals of 1 microsecond or greater;
+
+f. Chromatography and spectrometry analytical instruments, n.e.s.

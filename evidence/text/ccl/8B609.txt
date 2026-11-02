@@ -1,0 +1,37 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 8B609；eCFR 2026-10-29〕
+
+8B609 Test, inspection, and production “equipment” and related commodities “specially designed” for the “development,” “production,” repair, overhaul or refurbishing of commodities enumerated or otherwise described in ECCN 8A609 or USML Category VI (except for Cat VI(f)(7)), as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, UN
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1
+
+RS applies to entire entry | RS Column 1
+
+AT applies to entire entry | AT Column 1
+
+UN applies to entire entry | See § 746.1(b) for UN controls
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: $1500
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in 8B609.
+
+List of Items Controlled
+
+Related Controls: See ECCN 0A919 for foreign-made “military commodities” that incorporate more than a de minimis amount of U.S.-origin “600 series” controlled content.
+
+Related Definitions: N/A
+
+Items: a. Test, inspection, and production “equipment” “specially designed” for the “development,” “production,” repair, overhaul, or refurbishing of commodities enumerated or otherwise described in ECCN 8A609 (except for 8A609.y) or in USML Category VI (except for USML Cat VI(f)(7)), and “parts,” “components,” “accessories,” and “attachments” “specially designed” therefor.
+
+b. [Reserved]

@@ -1,0 +1,37 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2A983；eCFR 2026-10-29〕
+
+2A983 Explosives or detonator detection equipment, both bulk and trace based, consisting of an automated device, or combination of devices for automated decision making to detect the presence of different types of explosives, explosive residue, or detonators; and “parts” and “components,” n.e.s.
+
+License Requirements
+
+Reason for Control:RS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+RS applies to entire entry | RS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: Also see 1A004 and 1A995.
+
+Related Definitions: (1) For the purpose of this entry, automated decision making is the ability of the equipment to detect explosives or detonators at the design or operator-selected level of sensitivity and provide an automated alarm when explosives or detonators at or above the sensitivity level are detected. This entry does not control equipment that depends on operator interpretation of indicators such as inorganic/organic color mapping of the items(s) being scanned.
+
+(2) Explosives and detonators include commercial charges and devices controlled by 1C018 and 1C992 and energetic materials controlled by ECCNs 1C011, 1C111, 1C239 and 22 CFR 121.1 Category V.
+
+Items:
+
+Note: Explosives or detonation detection equipment in 2A983 includes equipment for screening people, documents, baggage, other personal effects, cargo and/or mail.
+
+a. Explosives detection equipment for automated decision making to detect and identify bulk explosives utilizing, but not limited to, x-ray (e.g., computed tomography, dual energy, or coherent scattering), nuclear (e.g., thermal neutron analysis, pulse fast neutron analysis, pulse fast neutron transmission spectroscopy, and gamma resonance absorption), or electromagnetic techniques (e.g., quadropole resonance and dielectrometry).
+
+b. [Reserved]
+
+c. Detonator detection equipment for automated decision making to detect and identify initiation devices (e.g. detonators, blasting caps) utilizing, but not limited to, x-ray (e.g. dual energy or computed tomography) or electromagnetic techniques.

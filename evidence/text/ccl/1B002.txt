@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1B002；eCFR 2026-10-29〕
+
+1B002 Equipment designed to produce metal alloy powder or particulate materials and having any of the following (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country Chart(See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $5000
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items:
+
+a. “Specially designed” to avoid contamination; and
+
+b. “Specially designed” for use in one of the processes specified by 1C002.c.2.

@@ -1,0 +1,37 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 5A003；eCFR 2026-10-29〕
+
+5A003 “Systems,” “equipment” and “components,” for non-cryptographic “information security,” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: Yes: $500 for “components.”
+
+N/A for systems and equipment.
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items:
+
+a. Communications cable systems designed or modified to use mechanical, electrical or electronic means to detect surreptitious intrusion;
+
+Note: 5A003.a applies only to physical layer security. For the purpose of 5A003.a, the physical layer includes Layer 1 of the Reference Model of Open Systems Interconnection (OSI) (ISO/IEC 7498-1).
+
+b. “Specially designed” or modified to reduce the compromising emanations of information-bearing signals beyond what is necessary for health, safety or electromagnetic interference standards.
+
+III. DEFEATING, WEAKENING, OR BYPASSING “INFORMATION SECURITY”

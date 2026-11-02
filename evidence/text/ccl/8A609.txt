@@ -1,0 +1,81 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 8A609；eCFR 2026-10-29〕
+
+8A609 Surface vessels of war and related commodities (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, UN
+
+Control(s) | Country chart(see Supp. No. 1 to part 738)
+
+NS applies to entire entry, except 8A609.y | NS Column 1.
+
+RS applies to entire entry, except 8A609.y | RS Column 1.
+
+RS applies to 8A609.y | China, Russia, or Venezuela (see § 742.6(a)(7)).
+
+AT applies to entire entry | AT Column 1.
+
+UN applies to entire entry, except 8A609.y | See § 746.1(b) for UN controls.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $1,500
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: (1) Paragraph (c)(1) of License Exception STA (§ 740.20(c)(1) of the EAR) may not be used for any item in 8A609.a, unless determined by BIS to be eligible for License Exception STA in accordance with § 740.20(g) (License Exception STA eligibility requests for 9x515 and “600 series” items). (2) Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in 8A609.
+
+List of Items Controlled
+
+Related Controls: (1) Surface vessels of war and special naval equipment, and technical data (including software), and services directly related thereto, described in 22 CFR part 121, Category VI, Surface Vessels of War and Special Naval Equipment, are subject to the jurisdiction of the International Traffic in Arms Regulations. (2) See ECCN 0A919 for foreign-made “military commodities” that incorporate more than a de minimis amount of U.S.- origin “600 series” controlled content. (3) For controls on diesel engines and electric motors that are “subject to the EAR” for surface vessels of war “subject to the EAR” or “subject to the ITAR,” see ECCN 8A992.g. For diesel engines and electric motors for surface vessels of war “subject to the ITAR,” see 22 CFR part 121, Category VI(c) for parts, components, accessories, and attachments, “specially designed” for developmental vessels funded by the Department of Defense via contract or other funding authorization. (4) For controls on military gas turbine engines and related items for vessels of war, see ECCN 9A619. (4) For controls on military gas turbine engines and related items for vessels of war, see ECCN 9A619.
+
+Related Definitions: N/A
+
+Items:
+
+a. Surface vessels of war “specially designed” for a military use and not enumerated or otherwise described in the USML.
+
+Note 1: 8A609.a includes: (i) Underway replenishment ships; (ii) surface vessel and submarine tender and repair ships, except vessels that are “specially designed” to support naval nuclear propulsion plants; (iii) non-submersible submarine rescue ships; (iv) other auxiliaries (e.g., AGDS, AGF, AGM, AGOR, AGOS, AH, AP, ARL, AVB, AVM, and AVT); (v) amphibious warfare craft, except those that are armed; and (vi) unarmored and unarmed coastal, patrol, roadstead, and Coast Guard and other patrol craft with mounts or hard points for firearms of .50 caliber or less.
+
+Note 2: For purposes of paragraph .a, surface vessels of war includes vessels “specially designed” for military use that are not identified in paragraph (a) of ITAR § 121.15, including any demilitarized vessels, regardless of origin or designation, manufactured prior to 1950 and that have not been modified since 1949. For purposes of this note, the term modified does not include incorporation of safety features required by law, cosmetic changes (e.g., different paint), or the addition of “parts” or “components” available prior to 1950.
+
+b. Non-magnetic diesel engines with a power output of 50 hp or more and either of the following:
+
+b.1. Non-magnetic content exceeding 25% of total weight; or
+
+b.2. Non-magnetic parts other than crankcase, block, head, pistons, covers, end plates, valve facings, gaskets, and fuel, lubrication and other supply lines.
+
+c. through w. [Reserved]
+
+x. “Parts,” “components,” “accessories” and “attachments” that are “specially designed” for a commodity enumerated or otherwise described in ECCN 8A609 (except for 8A609.y) or a defense article enumerated or otherwise described in USML Category VI and not specified elsewhere on the USML, in 8A609.y or 3A611.y.
+
+Note 1: Forgings, castings, and other unfinished products, such as extrusions and machined bodies, that have reached a stage in manufacturing where they are clearly identifiable by mechanical properties, material composition, geometry, or function as commodities controlled by ECCN 8A609.x are controlled by ECCN 8A609.x.
+
+Note 2: “Parts,” “components,” “accessories” and “attachments” specified in USML subcategory VI(f) are subject to the controls of that paragraph. “Parts,” “components,” “accessories,” and “attachments” specified in ECCN 8A609.y are subject to the controls of that paragraph.
+
+y. Specific “parts,” “components,” “accessories” and “attachments” “specially designed” for a commodity subject to control in this ECCN or for a defense article in USML Category VI and not elsewhere specified in the USML, as follows, and “parts,” “components,” “accessories,” and “attachments” “specially designed” therefor:
+
+y.1. Public address (PA) systems;
+
+y.2. Filters and filter assemblies, hoses, lines, fittings, couplings, and brackets for pneumatic, hydraulic, oil and fuel systems;
+
+y.3. Galleys;
+
+y.4. Lavatories;
+
+y.5. Magnetic compass, magnetic azimuth detector;
+
+y.6. Medical facilities;
+
+y.7. Potable water tanks, filters, valves, hoses, lines, fittings, couplings, and brackets;
+
+y.8. Panel knobs, indicators, switches, buttons, and dials whether unfiltered or filtered for use with night vision imaging systems;
+
+y.9. Emergency lighting;
+
+y.10. Gauges and indicators;
+
+y.11. Audio selector panels.

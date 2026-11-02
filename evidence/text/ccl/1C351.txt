@@ -1,0 +1,275 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C351；eCFR 2026-10-29〕
+
+1C351 Human and animal pathogens and “toxins,” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: CB, CW, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+CB applies to items controlled by 1C351.d.15 and .16 | CB Column 1.
+
+CB applies to entire entry | CB Column 2.
+
+CW applies to 1C351.d.15 and .d.16 and a license is required for CW reasons for all destinations, including Australia, Canada, and the United Kingdom, as follows: CW applies to 1C351.d.15 for ricin in the form of (1) Ricinus communis AgglutininII (RCAII), also known as ricin D or Ricinus Communis LectinIII (RCLIII) and (2) Ricinus communis LectinIV (RCLIV), also known as ricin E. CW applies to 1C351.d.16 for saxitoxin identified by C.A.S. #35523-89-8. See § 742.18 of the EAR for licensing information pertaining to chemicals subject to restriction pursuant to the Chemical Weapons Convention (CWC). The Commerce Country Chart is not designed to determine licensing requirements for items controlled for CW reasons.
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+AT applies to entire entry | Column 1.
+
+License Requirement Notes 1. All vaccines and 'immunotoxins' are excluded from the scope of this entry. Certain medical products and diagnostic and food testing kits that contain biological toxins controlled under 1C351.d, with the exception of toxins controlled for CW reasons under 1C351.d.15 or .d.16, are excluded from the scope of this entry. Vaccines, 'immunotoxins', certain medical products, and diagnostic and food testing kits excluded from the scope of this entry are controlled under ECCN 1C991.
+
+2. Clostridium perfringens strains, other than the epsilon toxin-producing strains of Clostridium perfringens described in 1C351.c.12, are excluded from the scope of this entry, since they may be used as positive control cultures for food testing and quality control.
+
+3. Unless specified elsewhere in this ECCN 1C351 (e.g., in License Requirement Notes 1-3), this ECCN controls all biological agents and “toxins,” regardless of quantity or attenuation, that are identified in the List of Items Controlled for this ECCN, including small quantities or attenuated strains of select biological agents or “toxins” that are excluded from the lists of select biological agents or “toxins” by the Animal and Plant Health Inspection Service (APHIS), U.S. Department of Agriculture (USDA), or the Centers for Disease Control and Prevention (CDC), U.S. Department of Health and Human Services (HHS), in accordance with their regulations in 9 CFR part 121 and 42 CFR part 73, respectively.
+
+4. Biological agents and pathogens are controlled under this ECCN 1C351 when they are an isolated live culture of a pathogen agent, or a preparation of a toxin agent that has been isolated or extracted from any source or material, including living material that has been deliberately inoculated or contaminated with the agent. Isolated live cultures of a pathogen agent include live cultures in dormant form or in dried preparations, whether the agent is natural, enhanced or modified.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) Certain forms of ricin and saxitoxin in 1C351.d.15 and .d.16 are CWC Schedule 1 chemicals (see § 742.18 of the EAR). The U.S. Government must provide advance notification and annual reports to the OPCW of all exports of Schedule 1 chemicals. See § 745.1 of the EAR for notification procedures. See 22 CFR part 121, Category XIV for CWC Schedule 1 chemicals that are “subject to the ITAR.” (2) The Animal and Plant Health Inspection Service (APHIS), U.S. Department of Agriculture, and the Centers for Disease Control and Prevention (CDC), U.S. Department of Health and Human Services, maintain controls on the possession, use, and transfer within the United States of certain items controlled by this ECCN (for APHIS, see 7 CFR 331.3(b), 9 CFR 121.3(b), and 9 CFR 121.4(b); for CDC, see 42 CFR 73.3(b) and 42 CFR 73.4(b)). (3) See USML Category XIV for modified biological agents and biologically derived substances that are “subject to the ITAR” (see 22 CFR parts 120 through 130).
+
+Related Definitions: For the purposes of this entry, 'immunotoxins' are monoclonal antibodies linked to a toxin with the intention of destroying a specific target cell while leaving adjacent cells intact.
+
+Items:
+
+a. Viruses identified on the Australia Group (AG) “List of Human and Animal Pathogens and Toxins for Export Control,” as follows:
+
+a.1. African horse sickness virus;
+
+a.2. African swine fever virus;
+
+a.3. Andes virus;
+
+a.4. Avian influenza (AI) viruses identified as having high pathogenicity (HP), as follows:
+
+a.4.a. AI viruses that have an intravenous pathogenicity index (IVPI) in 6-week-old chickens greater than 1.2; or
+
+a.4.b. AI viruses that cause at least 75% mortality in 4- to 8-week-old chickens infected intravenously.
+
+Note: Avian influenza (AI) viruses of the H5 or H7 subtype that do not have either of the characteristics described in 1C351.a.4 (specifically, 1C351.a.4.a or .a.4.b) should be sequenced to determine whether multiple basic amino acids are present at the cleavage site of the haemagglutinin molecule (HA0). If the amino acid motif is similar to that observed for other HPAI isolates, then the isolate being tested should be considered as HPAI and the virus is controlled under 1C351.a.4.
+
+a.5. Bluetongue virus;
+
+a.6. Chapare virus;
+
+a.7. Chikungunya virus;
+
+a.8. Choclo virus;
+
+a.9. Classical swine fever virus (Hog cholera virus);
+
+a.10. Crimean-Congo hemorrhagic fever virus;
+
+a.11. Dobrava-Belgrade virus;
+
+a.12. Eastern equine encephalitis virus;
+
+a.13. Ebolavirus (includes all members of the Ebolavirus genus);
+
+a.14. Foot-and-mouth disease virus;
+
+a.15. Goatpox virus;
+
+a.16. Guanarito virus;
+
+a.17. Hantaan virus;
+
+a.18. Hendra virus (Equine morbillivirus);
+
+a.19. Japanese encephalitis virus;
+
+a.20. Junin virus;
+
+a.21. Kyasanur Forest disease virus;
+
+a.22. Laguna Negra virus;
+
+a.23. Lassa virus;
+
+a.24. Louping ill virus;
+
+a.25. Lujo virus;
+
+a.26. Lumpy skin disease virus;
+
+a.27. Lymphocytic choriomeningitis virus;
+
+a.28. Machupo virus;
+
+a.29. Marburgvirus (includes all members of the Marburgvirus genus);
+
+a.30. Middle East respiratory syndrome-related coronavirus (MERS-related coronavirus);
+
+a.31. Monkeypox virus;
+
+a.32. Murray Valley encephalitis virus;
+
+a.33. Newcastle disease virus;
+
+a.34. Nipah virus;
+
+a.35. Omsk hemorrhagic fever virus;
+
+a.36. Oropouche virus;
+
+a.37. Peste-des-petits ruminants virus;
+
+a.38. Porcine Teschovirus;
+
+a.39. Powassan virus;
+
+a.40. Rabies virus and all other members of the Lyssavirus genus;
+
+a.41. Reconstructed 1918 influenza virus;
+
+Technical Note: 1C351.a.41 includes reconstructed replication competent forms of the 1918 pandemic influenza virus containing any portion of the coding regions of all eight gene segments.
+
+a.42. Rift Valley fever virus;
+
+a.43. Rinderpest virus;
+
+a.44. Rocio virus;
+
+a.45. Sabia virus;
+
+a.46. Seoul virus;
+
+a.47. Severe acute respiratory syndrome-related coronavirus (SARS-related coronavirus);
+
+a.48. Sheeppox virus;
+
+a.49. Sin Nombre virus;
+
+a.50. St. Louis encephalitis virus;
+
+a.51. Suid herpesvirus 1 (Pseudorabies virus; Aujeszky's disease);
+
+a.52. Swine vesicular disease virus;
+
+a.53. Tick-borne encephalitis virus (Far Eastern subtype, formerly known as Russian Spring-Summer encephalitis virus—see 1C351.b.3 for Siberian subtype);
+
+a.54. Variola virus;
+
+a.55. Venezuelan equine encephalitis virus;
+
+a.56. Vesicular stomatitis virus;
+
+a.57. Western equine encephalitis virus; or
+
+a.58. Yellow fever virus.
+
+b. Viruses identified on the APHIS/CDC “select agents” lists (see Related Controls paragraph #2 for this ECCN), but not identified on the Australia Group (AG) “List of Human and Animal Pathogens and Toxins for Export Control,” as follows:
+
+b.1. [Reserved];
+
+b.2. [Reserved]; or
+
+b.3. Tick-borne encephalitis virus (Siberian subtype, formerly West Siberian virus—see 1C351.a.53 for Far Eastern subtype).
+
+c. Bacteria identified on the Australia Group (AG) “List of Human and Animal Pathogens and Toxins for Export Control,” as follows:
+
+c.1. Bacillus anthracis;
+
+c.2. Brucella abortus;
+
+c.3. Brucella melitensis;
+
+c.4. Brucella suis;
+
+c.5. Burkholderia mallei (Pseudomonas mallei);
+
+c.6. Burkholderia pseudomallei (Pseudomonas pseudomallei);
+
+c.7. Chlamydia psittaci (Chlamydophila psittaci);
+
+c.8. Clostriduim argentinense (formerly known as Clostridium botulinum Type G), botulinum neurotoxin producing strains;
+
+c.9. Clostridium baratii, botulinum neurotoxin producing strains;
+
+c.10. Clostridium botulinum;
+
+c.11. Clostridium butyricum, botulinum neurotoxin producing strains;
+
+c.12. Clostridium perfringens, epsilon toxin producing types;
+
+c.13. Coxiella burnetii;
+
+c.14. Francisella tularensis;
+
+c.15. Mycoplasma capricolum subspecies capripneumoniae (“strain F38”);
+
+c.16. Mycoplasma mycoides subspecies mycoides SC (small colony) (a.k.a. contagious bovine pleuropneumonia);
+
+c.17. Rickettsia prowazekii;
+
+c.18. Salmonella enterica subspecies enterica serovar Typhi (Salmonella typhi);
+
+c.19. Shiga toxin producing Escherichia coli (STEC) of serogroups O26, O45, O103, O104, O111, O121, O145, O157, and other shiga toxin producing serogroups;
+
+Note: Shiga toxin producing Escherichia coli (STEC) includes, inter alia, enterohaemorrhagic E. coli (EHEC), verotoxin producing E. coli (VTEC) or verocytotoxin producing E. coli (VTEC).
+
+c.20. Shigella dysenteriae;
+
+c.21. Vibrio cholerae; or
+
+c.22. Yersinia pestis.
+
+d. “Toxins” identified on the Australia Group (AG) “List of Human and Animal Pathogens and Toxins for Export Control,” as follows, or their subunits:
+
+d.1. Abrin;
+
+d.2. Aflatoxins;
+
+d.3. Botulinum neurotoxins;
+
+d.4. Brevetoxins;
+
+d.5. Clostridium perfringens alpha, beta 1, beta 2, epsilon and iota toxins;
+
+d.6. Conotoxins;
+
+d.7. Diacetoxyscirpenol;
+
+d.8. Gonyautoxins;
+
+d.9. HT-2 toxin;
+
+d.10. Microcystins (Cyanginosins);
+
+d.11. Modeccin;
+
+d.12. Neosaxitoxin (NEO);
+
+d.13. Nodularins;
+
+d.14. Palytoxin;
+
+d.15. Ricin;
+
+d.16. Saxitoxin;
+
+d.17. Shiga toxins (shiga-like toxins, verotoxins, and verocytotoxins);
+
+d.18. Staphylococcus aureus enterotoxins, hemolysin alpha toxin, and toxic shock syndrome toxin (formerly known as Staphylococcus enterotoxin F);
+
+d.19. T-2 toxin;
+
+d.20. Tetrodotoxin;
+
+d.21. Viscumin (Viscum album lectin 1); or
+
+d.22. Volkensin.
+
+e. “Fungi”, as follows:
+
+e.1. Coccidioides immitis; or
+
+e.2. Coccidioides posadasii.

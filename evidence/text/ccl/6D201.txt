@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6D201；eCFR 2026-10-29〕
+
+6D201 “Software” “specially designed” to enhance or release the performance characteristics of high-speed cameras and imaging devices, and components therefor, to meet or exceed the level of the performance characteristics described in ECCN 6A203.
+
+License Requirements
+
+Reason for Control: NP, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NP applies to entire entry | NP Column 1 | 
+
+AT applies to entire entry | AT Column 1 | 
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: See ECCNs 6E001 (“development”) and 6E202 (“production” and “use”) for “technology” for items controlled under this entry.
+
+Related Definitions: N/A
+
+Items: a. “Software” or encryption keys/codes “specially designed” to enhance or release the performance characteristics of equipment not controlled by ECCN 6A203, or not controlled for NP reasons by ECCN 6A003, so that such equipment meets or exceeds the performance characteristics of equipment described in ECCN 6A203.
+
+b. “Software” or encryption keys/codes “specially designed” to enhance or release the performance characteristics of equipment controlled by ECCN 6A203 or equipment controlled by ECCN 6A003 that meets or exceeds the performance characteristics described in ECCN 6A203.

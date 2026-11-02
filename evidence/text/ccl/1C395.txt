@@ -1,0 +1,33 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C395；eCFR 2026-10-29〕
+
+1C395 Mixtures and Medical, Analytical, Diagnostic, and Food Testing Kits Not Controlled by ECCN 1C350, as follows (See List of Items Controlled).
+
+License Requirements
+
+Reason for Control: CB, CW, AT
+
+Control(s): CB applies to entire entry. The Commerce Country Chart is not designed to determine licensing requirements for items controlled for CB reasons in 1C395. A license is required, for CB reasons, to export or reexport mixtures controlled by 1C395.a and test kits controlled by 1C395.b to States not Party to the CWC (destinations not listed in Supplement No. 2 to part 745 of the EAR).
+
+CW applies to entire entry. The Commerce Country Chart is not designed to determine licensing requirements for items controlled for CW reasons. A license is required for CW reasons, as follows, to States not Party to the CWC (destinations not listed in Supplement No. 2 to part 745 of the EAR): (1) Exports and reexports of mixtures controlled by 1C395.a, (2) exports and reexports of test kits controlled by 1C395.b that contain CWC Schedule 2 chemicals controlled by ECCN 1C350, (3) exports of test kits controlled by 1C395.b that contain CWC Schedule 3 chemicals controlled by ECCN 1C350, except that a license is not required, for CW reasons, to export test kits containing CWC Schedule 3 chemicals if an End-Use Certificate issued by the government of the importing country is obtained by the exporter prior to export, and (4) reexports from States not Party to the CWC of test kits controlled by 1C395.b that contain CWC Schedule 3 chemicals. (See § 742.18 of the EAR for license requirements and policies for toxic and precursor chemicals controlled for CW reasons.)
+
+AT applies to entire entry. The Commerce Country Chart is not designed to determine licensing requirements for items controlled for AT reasons in 1C395. A license is required, for AT reasons, to export or reexport items controlled by 1C395 to a country in Country Group E:1 of Supplement No. 1 to part 740 of the EAR. (See part 742 of the EAR for additional information on the AT controls that apply to Iran, North Korea, Sudan, and Syria. See part 746 of the EAR for additional information on sanctions that apply to Iran, North Korea, and Syria.)
+
+License Requirements Notes: 1. 1C395.b does not control mixtures that contain precursor chemicals identified in ECCN 1C350.b or .c in concentrations below the control levels for mixtures indicated in 1C350.b or .c. 1C395.a and 1C995.a.1 and a.2.a control such mixtures, unless they are consumer goods, as described in License Requirements Note 2 of this ECCN.
+
+2. This ECCN does not control mixtures when the controlled chemicals are normal ingredients in consumer goods packaged for retail sale for personal use. Such consumer goods are classified as EAR99.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: 1. ECCN 1C350 controls mixtures containing 30 percent or higher concentrations, by weight, of any single CWC Schedule 2 chemical identified in ECCN 1C350.b; ECCN 1C995 controls such mixtures containing concentrations of 10 percent or less. 2. ECCN 1C995 controls “medical, analytical, diagnostic, and food testing kits” (as defined in the Related Definitions paragraph of this ECCN) that contain precursor chemicals listed in ECCN 1C350.d. ECCN 1C350 controls any such kits in which the amount of any single chemical listed in 1C350.b, .c, or .d exceeds 300 grams by weight.
+
+Related Definitions: For the purpose of this entry, “medical, analytical, diagnostic, and food testing kits” are pre-packaged materials of defined composition that are specifically developed, packaged and marketed for medical, analytical, diagnostic, or public health purposes. Replacement reagents for medical, analytical, diagnostic, and food testing kits described in 1C395.b are controlled by ECCN 1C350 if the reagents contain at least one of the precursor chemicals identified in that ECCN in concentrations equal to or greater than the control levels for mixtures indicated in 1C350.b. or .c.
+
+Items: a. Mixtures containing more than 10 percent, but less than 30 percent, by weight of any single CWC Schedule 2 chemical identified in ECCN 1C350.b (For controls on other mixtures containing these chemicals, see Note 1 in the Related Controls paragraph of this ECCN.).
+
+b. “Medical, analytical, diagnostic, and food testing kits” (as defined in the Related Definitions for this ECCN) that contain CWC Schedule 2 or 3 chemicals controlled by ECCN 1C350.b or .c in an amount not exceeding 300 grams per chemical. (For controls on other such test kits containing these and other controlled chemicals, see Note 2 in the Related Controls paragraph of this ECCN.)

@@ -1,0 +1,5 @@
+〔15 CFR Part 774, Supp. No. 1, cat4 Group D 開頭註記；eCFR 2026-10-29〕
+
+D. “Software”
+
+Note: The control status of “software” for equipment described in other Categories is dealt with in the appropriate Category.

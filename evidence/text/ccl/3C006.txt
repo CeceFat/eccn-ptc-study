@@ -1,0 +1,29 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3C006；eCFR 2026-10-29〕
+
+3C006 Materials, not specified by 3C001, consisting of a “substrate” specified by 3C005 with at least one epitaxial layer of Silicon Carbide (SiC), Gallium Nitride (GaN), Aluminum Nitride (AlN), Aluminum Gallium Nitride (AlGaN), Gallium Oxide (Ga2O3) or diamond.
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart(See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $3,000
+
+GBS: Yes
+
+List of Items Controlled
+
+Related Controls: See ECCN 3D001 for related “development” or “production” “software”, ECCN 3E001 for related “development” and “production” “technology”, and ECCN 3B991.b.1.b for related “production” equipment.
+
+Related Definition: N/A
+
+Items:
+
+The list of items controlled is contained in the ECCN heading.

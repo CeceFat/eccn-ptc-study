@@ -1,0 +1,11 @@
+〔15 CFR Part 774, Supp. No. 1, cat3 Group A 開頭註記；eCFR 2026-10-29〕
+
+A. “End Items,” “Equipment,” “Accessories,” “Attachments,” “Parts,” “Components,” and “Systems”
+
+Note 1: The control status of equipment and “components” described in 3A001(other than those described in 3A001.a.3 to 3A001.a.10, 3A001.a.12 to 3A001.a.14, 3A001.b.12, or 3A001.z), 3A002, 3A901, which are “specially designed” for or which have the same functional characteristics as other equipment is determined by the control status of the other equipment.
+
+Note 2: The control status of integrated circuits described in 3A001.a.3 to 3A001.a.9, 3A001.a.12 to 3A001.a.14, 3A001.z or 3A901 that are unalterably programmed or designed for a specific function for other equipment is determined by the control status of the other equipment.
+
+N.B.: When the manufacturer or applicant cannot determine the control status of the other equipment, the control status of the integrated circuits is determined in 3A001.a.3 to 3A001.a.9, or 3A001.a.12 to 3A001.a.14, 3A001.z and 3A901.
+
+Note 3: The status of wafers (finished or unfinished), in which the function has been determined, is to be evaluated against the parameters of items in 3A.

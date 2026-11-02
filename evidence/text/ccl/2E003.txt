@@ -1,0 +1,499 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2E003；eCFR 2026-10-29〕
+
+2E003 Other “technology”, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: Yes, except 2E003.b, .e and .f
+
+List of Items Controlled
+
+Related Controls: (1) See 2E001, 2E002, and 2E101 for “development” and “use” technology for equipment that are designed or modified for densification of carbon-carbon composites, structural composite rocket nozzles and reentry vehicle nose tips. (2) See 2E903 for “technology”, not specified elsewhere, for the “development” or “production” of coating systems (as defined in 2E903).
+
+Related Definitions: N/A
+
+Items:
+
+a. [Reserved]
+
+b. “Technology” for metal-working manufacturing processes, as follows:
+
+b.1. “Technology” for the design of tools, dies or fixtures “specially designed” for any of the following processes:
+
+b.1.a. “Superplastic forming”;
+
+b.1.b. “Diffusion bonding”; or
+
+b.1.c. 'Direct-acting hydraulic pressing';
+
+b.2. [Reserved]
+
+N.B.: For “technology” for metal-working manufacturing processes for gas turbine engines and components, see 9E003 and USML Category XIX.
+
+Technical Note: For the purposes of 2E003.b.1.c, 'direct-acting hydraulic pressing' is a deformation process which uses a fluid-filled flexible bladder in direct contact with the workpiece.
+
+c. “Technology” for the “development” or “production” of hydraulic stretch-forming machines and dies therefor, for the manufacture of airframe structures;
+
+d. [Reserved]
+
+e. “Technology” for the “development” of integration “software” for incorporation of expert systems for advanced decision support of shop floor operations into “numerical control” units;
+
+f. “Technology” for the application of inorganic overlay coatings or inorganic surface modification coatings (specified in column 3 of the following table) to non-electronic substrates (specified in column 2 of the following table), by processes specified in column 1 of the following table and defined in the Technical Note.
+
+1. Coating process (1) 1 | 2. Substrate | 3. Resultant coating
+
+A. Chemical Vapor Deposition (CVD) | “Superalloys” | Aluminides for internal passages
+
+ | Ceramics (19) and Low-expansion glasses (14) | Silicides CarbidesDielectric layers (15) Diamond Diamond-like carbon (17)
+
+ | Carbon-carbon, Ceramic, and Metal “matrix” “composites” | SilicidesCarbidesRefractory metals,Mixtures thereof (4)Dielectric layers (15)AluminidesAlloyed aluminides (2)Boron nitride
+
+ | Cemented tungsten carbide (16), Silicon Carbide (18) | CarbidesTungsten Mixtures thereof (4)Dielectric layers (15)
+
+ | Molybdenum and Molybdenum alloys | Dielectric layers (15)
+
+ | Beryllium and Beryllium alloys | Dielectric layers (15)DiamondDiamond-like carbon (17)
+
+ | Sensor window materials (9) | Dielectric layers (15)DiamondDiamond-like carbon (17)
+
+B. Thermal Evaportation Physical Vapor |  | 
+
+1. Physical Vapor Deposition (PVD): Deposition (TE-PVD) Electron-Beam (EB-PVD) | “Superalloys” | Alloyed silicidesAlloyed aluminides (2)McrAlX (5)
+
+ |  | Modified zirconia (12) Silicides
+
+ |  | Aluminides
+
+ |  | Mixtures thereof (4)
+
+ | Ceramics (19) and Low-expansion glasses (14) | Dielectric layers (15)
+
+ | Corrosion resistant steel (7) | MCrAIX (5)Modified zirconia (12)
+
+ |  | Mixtures thereof (4)
+
+ | Carbon-carbon, Ceramic and Metal “matrix” “composites” | SilicidesCarbidesRefractory metalsMixtures thereof (4)
+
+ |  | Dielectric layers (15)Boron nitride
+
+ | Cemented tungsten carbide (16), Silicon carbide (18) | CarbidesTungstenMixtures thereof (4)Dielectric layers (15)
+
+ | Molybdenum and Molybdenum alloys | Dielectric layers (15)
+
+ | Beryllium and Beryllium alloys | Dielectric layers (15)BoridesBeryllium
+
+ | Sensor window materials (9) | Dielectric layers (15)
+
+ | Titanium alloys (13) | BoridesNitrides
+
+2. Ion assisted resistive heating. Physical Vapor Deposition (PVD) (Ion Plating) | Ceramics (19) and Low-expansion glasses (14) | Dielectric layers (15)Diamond-like carbon (17)
+
+ | Carbon-carbon, Ceramic and Metal “matrix” “composites” | Dielectric layers (15)
+
+ | Cemented tungsten carbide (16), Silicon carbide | Dielectric layers (15)
+
+ | Molybdenum and Molybdenum alloys | Dielectric layers (15)
+
+ | Beryllium and Beryllium alloys | Dielectric layers (15)
+
+ | Sensor window materials (9) | Dielectric layers (15)Diamond-like carbon (17)
+
+3. Physical Vapor Deposition (PVD): “Laser” Vaporization | Ceramics (19) and Low-expansion glasses (14) | SilicidesDielectric layers (15)Diamond-like carbon (17)
+
+ | Carbon-carbon, Ceramic and Metal “matrix” “composites” | Dielectric layers (15)
+
+ | Cemented tungsten carbide (16), Silicon carbide | Dielectric layers (15)
+
+ | Molybdenum and Molybdenum alloys | Dielectric layers (15)
+
+ | Beryllium and Beryllium alloys | Dielectric layers (15)
+
+ | Sensor window materials (9) | Dielectric layers (15)Diamond-like carbon
+
+4. Physical Vapor Deposition (PVD): Cathodic Arc Discharge | “Superalloys” | Alloyed silicidesAlloyed Aluminides (2)MCrAlX (5)
+
+ | Polymers (11) and Organic “matrix” “composites” | BoridesCarbidesNitridesDiamond-like carbon (17)
+
+C. Pack cementation (see A above for out-of-pack cementation) (10) | Carbon-carbon, Ceramic and Metal “matrix” “composites” | SilicidesCarbidesMixtures thereof (4)
+
+ | Titanium alloys (13) | SilicidesAluminidesAlloyed aluminides (2)
+
+ | Refractory metals and alloys (8) | SilicidesOxides
+
+D. Plasma spraying | “Superalloys” | MCrAlX (5)Modified zirconia (12)Mixtures thereof (4)Abradable Nickel-GraphiteAbradable materials containing Ni-Cr-Al
+
+ |  | AbradableAl-Si-PolyesterAlloyed aluminides (2)
+
+ | Aluminum alloys (6) | MCrAIX (5)Modified zirconia (12)SilicidesMixtures thereof (4)
+
+ | Refractory metals and alloys (8), Carbides, Corrosion resistant steel (7) | AluminidesSilicidesMCrAIX (5)Modified zirconia (12)Mixtures thereof (4)
+
+ | Titanium alloys (13) | CarbidesAluminidesSilicidesAlloyed aluminides (2)
+
+ | Abradable, Nickel-Graphite | Abradable materials containing Ni-Cr-AlAbradable Al-Si-Polyester
+
+E. Slurry Deposition | Refractory metals and alloys (8) | Fused silicidesFused aluminides except for resistance heating elements
+
+ | Carbon-carbon, Ceramic and Metal “matrix” “composites” | SilicidesCarbidesMixtures thereof (4)
+
+F. Sputter Deposition | “Superalloys” | Alloyed silicidesAlloyed aluminides (2)Noble metal modified aluminides (3)McrAlX (5)Modified zirconia (12)Platinum Mixtures thereof (4)
+
+ | Ceramics and Low-expansion glasses (14) | SilicidesPlatinumMixtures thereof (4)Dielectric layers (15)Diamond-like carbon (17)
+
+ | Titanium alloys (13) | BoridesNitridesOxidesSilicidesAluminidesAlloyed aluminides (2)Carbides
+
+ | Carbon-carbon, Ceramic and Metal “matrix” “Composites” | SilicidesCarbidesRefractory metalsMixtures thereof (4)Dielectric layers (15)Boron nitride
+
+ | Cemented tungsten carbide (16), Silicon carbide (18) | CarbidesTungstenMixtures thereof (4)Dielectric layers (15)Boron nitride
+
+ | Molybdenum and Molybdenum alloys | Dielectric layers (15)
+
+ | Beryllium and Beryllium alloys | BoridesDielectric layers (15)Beryllium
+
+ | Sensor window materials (9) | Dielectric layers (15)Diamond-like carbon (17)
+
+ | Refractory metals and alloys (8) | AluminidesSilicidesOxidesCarbides
+
+G. Ion Implantation | High temperature bearing steels | Additions of Chromium, Tantalum, or Niobium (Columbium)
+
+ | Titanium alloys (13) | BoridesNitrides
+
+ | Beryllium and Beryllium alloys | Borides
+
+ | Cemented tungsten carbide (16) | CarbidesNitrides
+
+1 The numbers in parenthesis refer to the Notes following this Table.
+
+Notes to Table on Deposition Techniques 1. The term 'coating process' includes coating repair and refurbishing as well as original coating. 2. The term 'alloyed aluminide coating' includes single or multiple-step coatings in which an element or elements are deposited prior to or during application of the aluminide coating, even if these elements are deposited by another coating process. It does not, however, include the multiple use of single-step pack cementation processes to achieve alloyed aluminides.
+
+3. The term 'noble metal modified aluminide' coating includes multiple-step coatings in which the noble metal or noble metals are laid down by some other coating process prior to application of the aluminide coating.
+
+4. The term 'mixtures thereof' includes infiltrated material, graded compositions, co-deposits and multilayer deposits and are obtained by one or more of the coating processes specified in the Table.
+
+5. MCrAlX refers to a coating alloy where M equals cobalt, iron, nickel or combinations thereof and X equals hafnium, yttrium, silicon, tantalum in any amount or other intentional additions over 0.01% by weight in various proportions and combinations, except:
+
+a. CoCrAlY coatings which contain less than 22% by weight of chromium, less than 7% by weight of aluminum and less than 2% by weight of yttrium;
+
+b. CoCrAlY coatings which contain 22 to 24% by weight of chromium, 10 to 12% by weight of aluminum and 0.5 to 0.7% by weight of yttrium; or
+
+c. NiCrAlY coatings which contain 21 to 23% by weight of chromium, 10 to 12% by weight of aluminum and 0.9 to 1.1% by weight of yttrium.
+
+6. The term 'aluminum alloys' refers to alloys having an ultimate tensile strength of 190 MPa or more measured at 293 K (20 °C).
+
+7. The term 'corrosion resistant steel' refers to AISI (American Iron and Steel Institute) 300 series or equivalent national standard steels.
+
+8. 'Refractory metals and alloys' include the following metals and their alloys: niobium (columbium), molybdenum, tungsten and tantalum.
+
+9. 'Sensor window materials', as follows: alumina, silicon, germanium, zinc sulfide, zinc selenide, gallium arsenide, diamond, gallium phosphide, sapphire and the following metal halides: sensor window materials of more than 40 mm diameter for zirconium fluoride and hafnium fluoride.
+
+10. Category 2 does not include “technology” for single-step pack cementation of solid airfoils.
+
+11. 'Polymers', as follows: Polyimide, polyester, polysulfide, polycarbonates and polyurethanes.
+
+12. 'Modified zirconia' refers to additions of other metal oxides, (e.g., calcia, magnesia, yttria, hafnia, rare earth oxides) to zirconia in order to stabilize certain crystallographic phases and phase compositions. Thermal barrier coatings made of zirconia, modified with calcia or magnesia by mixing or fusion, are not controlled.
+
+13. 'Titanium alloys' refers only to aerospace alloys having an ultimate tensile strength of 900 MPa or more measured at 293 K (20 °C).
+
+14. 'Low-expansion glasses' refers to glasses which have a coefficient of thermal expansion of 1 × 10−7 K−1 or less measured at 293 K (20 °C).
+
+15. 'Dielectric layers' are coatings constructed of multi-layers of insulator materials in which the interference properties of a design composed of materials of various refractive indices are used to reflect, transmit or absorb various wavelength bands. Dielectric layers refers to more than four dielectric layers or dielectric/metal “composite” layers.
+
+16. 'Cemented tungsten carbide' does not include cutting and forming tool materials consisting of tungsten carbide/(cobalt, nickel), titanium carbide/(cobalt, nickel), chromium carbide/nickel-chromium and chromium carbide/nickel.
+
+17. “Technology” for depositing diamond-like carbon on any of the following is not controlled: magnetic disk drives and heads, equipment for the manufacture of disposables, valves for faucets, acoustic diaphragms for speakers, engine parts for automobiles, cutting tools, punching-pressing dies, office automation equipment, microphones, medical devices or molds, for casting or molding of plastics, manufactured from alloys containing less than 5% beryllium.
+
+18. 'Silicon carbide' does not include cutting and forming tool materials.
+
+19. Ceramic substrates, as used in this entry, does not include ceramic materials containing 5% by weight, or greater, clay or cement content, either as separate constituents or in combination.
+
+Technical Note to Table on Deposition Techniques: Processes specified in Column 1 of the Table are defined as follows:
+
+a. Chemical Vapor Deposition (CVD) is an overlay coating or surface modification coating process wherein a metal, alloy, “composite”, dielectric or ceramic is deposited upon a heated substrate. Gaseous reactants are decomposed or combined in the vicinity of a substrate resulting in the deposition of the desired elemental, alloy or compound material on the substrate. Energy for this decomposition or chemical reaction process may be provided by the heat of the substrate, a glow discharge plasma, or “laser” irradiation.
+
+Note 1: CVD includes the following processes: Directed gas flow out-of-pack deposition, pulsating CVD, controlled nucleation thermal decomposition (CNTD), plasma enhanced or plasma assisted CVD processes.
+
+Note 2: Pack denotes a substrate immersed in a powder mixture.
+
+Note 3: The gaseous reactants used in the out-of-pack process are produced using the same basic reactions and parameters as the pack cementation process, except that the substrate to be coated is not in contact with the powder mixture.
+
+b. Thermal Evaporation-Physical Vapor Deposition (TE-PVD) is an overlay coating process conducted in a vacuum with a pressure less than 0.1 Pa wherein a source of thermal energy is used to vaporize the coating material. This process results in the condensation, or deposition, of the evaporated species onto appropriately positioned substrates. The addition of gases to the vacuum chamber during the coating process to synthesize compound coatings is an ordinary modification of the process. The use of ion or electron beams, or plasma, to activate or assist the coating's deposition is also a common modification in this technique. The use of monitors to provide in-process measurement of optical characteristics and thickness of coatings can be a feature of these processes. Specific TE-PVD processes are as follows:
+
+1. Electron Beam PVD uses an electron beam to heat and evaporate the material which forms the coating;
+
+2. Ion Assisted Resistive Heating PVD employs electrically resistive heating sources in combination with impinging ion beam(s) to produce a controlled and uniform flux of evaporated coating species;
+
+3. “Laser” Vaporization uses either pulsed or continuous wave “laser” beams to vaporize the material which forms the coating;
+
+4. Cathodic Arc Deposition employs a consumable cathode of the material which forms the coating and has an arc discharge established on the surface by a momentary contact of a ground trigger. Controlled motion of arcing erodes the cathode surface creating a highly ionized plasma. The anode can be either a cone attached to the periphery of the cathode, through an insulator, or the chamber. Substrate biasing is used for non line-of-sight deposition;
+
+Note: This definition does not include random cathodic arc deposition with non-biased substrates.
+
+5. Ion Plating is a special modification of a general TE-PVD process in which a plasma or an ion source is used to ionize the species to be deposited, and a negative bias is applied to the substrate in order to facilitate the extraction of the species from the plasma. The introduction of reactive species, evaporation of solids within the process chamber, and the use of monitors to provide in-process measurement of optical characteristics and thicknesses of coatings are ordinary modifications of the process.
+
+c. Pack Cementation is a surface modification coating or overlay coating process wherein a substrate is immersed in a powder mixture (a pack), that consists of:
+
+1. The metallic powders that are to be deposited (usually aluminum, chromium, silicon or combinations thereof);
+
+2. An activator (normally a halide salt); and
+
+3. An inert powder, most frequently alumina.
+
+Note: The substrate and powder mixture is contained within a retort which is heated to between 1,030 K (757 °C) to 1,375 K (1,102 °C) for sufficient time to deposit the coating.
+
+d. Plasma Spraying is an overlay coating process wherein a gun (spray torch) which produces and controls a plasma accepts powder or wire coating materials, melts them and propels them towards a substrate, whereon an integrally bonded coating is formed. Plasma spraying constitutes either low pressure plasma spraying or high velocity plasma spraying.
+
+>Note 1: Low pressure means less than ambient atmospheric pressure.
+
+Note 2: High velocity refers to nozzle-exit gas velocity exceeding 750 m/s calculated at 293 K (20 °C) at 0.1 MPa.
+
+e. Slurry Deposition is a surface modification coating or overlay coating process wherein a metallic or ceramic powder with an organic binder is suspended in a liquid and is applied to a substrate by either spraying, dipping or painting, subsequent air or oven drying, and heat treatment to obtain the desired coating.
+
+f. Sputter Deposition is an overlay coating process based on a momentum transfer phenomenon, wherein positive ions are accelerated by an electric field towards the surface of a target (coating material). The kinetic energy of the impacting ions is sufficient to cause target surface atoms to be released and deposited on an appropriately positioned substrate.
+
+Note 1: The Table refers only to triode, magnetron or reactive sputter deposition which is used to increase adhesion of the coating and rate of deposition and to radio frequency (RF) augmented sputter deposition used to permit vaporization of non-metallic coating materials.
+
+Note 2: Low-energy ion beams (less than 5 keV) can be used to activate the deposition.
+
+g. Ion Implantation is a surface modification coating process in which the element to be alloyed is ionized, accelerated through a potential gradient and implanted into the surface region of the substrate. This includes processes in which ion implantation is performed simultaneously with electron beam physical vapor deposition or sputter deposition.
+
+Accompanying Technical Information to Table on Deposition Techniques:
+
+1. Technical information for pretreatments of the substrates listed in the Table, as follows:
+
+a. Chemical stripping and cleaning bath cycle parameters, as follows:
+
+1. Bath composition;
+
+a. For the removal of old or defective coatings corrosion product or foreign deposits;
+
+b. For preparation of virgin substrates;
+
+2. Time in bath;
+
+3. Temperature of bath;
+
+4. Number and sequences of wash cycles;
+
+b. Visual and macroscopic criteria for acceptance of the cleaned part;
+
+c. Heat treatment cycle parameters, as follows:
+
+1. Atmosphere parameters, as follows:
+
+a. Composition of the atmosphere;
+
+b. Pressure of the atmosphere;
+
+2. Temperature for heat treatment;
+
+3. Time of heat treatment;
+
+d. Substrate surface preparation parameters, as follows:
+
+1. Grit blasting parameters, as follows:
+
+a. Grit composition;
+
+b. Grit size and shape;
+
+c. Grit velocity;
+
+2. Time and sequence of cleaning cycle after grit blast;
+
+3. Surface finish parameters;
+
+4. Application of binders to promote adhesion;
+
+e. Masking technique parameters, as follows:
+
+1. Material of mask;
+
+2. Location of mask;
+
+2. Technical information for in situ quality assurance techniques for evaluation of the coating processes listed in the Table, as follows:
+
+a. Atmosphere parameters, as follows:
+
+1. Composition of the atmosphere;
+
+2. Pressure of the atmosphere;
+
+b. Time parameters;
+
+c. Temperature parameters;
+
+d. Thickness parameters;
+
+e. Index of refraction parameters;
+
+f. Control of composition;
+
+3. Technical information for post deposition treatments of the coated substrates listed in the Table, as follows:
+
+a. Shot peening parameters, as follows:
+
+1. Shot composition;
+
+2. Shot size;
+
+3. Shot velocity;
+
+b. Post shot peening cleaning parameters;
+
+c. Heat treatment cycle parameters, as follows:
+
+1. Atmosphere parameters, as follows:
+
+a. Composition of the atmosphere;
+
+b. Pressure of the atmosphere;
+
+2. Time-temperature cycles;
+
+d. Post heat treatment visual and macroscopic criteria for acceptance of the coated substrates;
+
+4. Technical information for quality assurance techniques for the evaluation of the coated substrates listed in the Table, as follows:
+
+a. Statistical sampling criteria;
+
+b. Microscopic criteria for:
+
+1. Magnification;
+
+2. Coating thickness, uniformity;
+
+3. Coating integrity;
+
+4. Coating composition;
+
+5. Coating and substrates bonding;
+
+6. Microstructural uniformity.
+
+c. Criteria for optical properties assessment (measured as a function of wavelength):
+
+1. Reflectance;
+
+2. Transmission;
+
+3. Absorption;
+
+4. Scatter;
+
+5. Technical information and parameters related to specific coating and surface modification processes listed in the Table, as follows:
+
+a. For Chemical Vapor Deposition (CVD):
+
+1. Coating source composition and formulation;
+
+2. Carrier gas composition;
+
+3. Substrate temperature;
+
+4. Time-temperature-pressure cycles;
+
+5. Gas control and part manipulation;
+
+b. For Thermal Evaporation-Physical Vapor Deposition (PVD):
+
+1. Ingot or coating material source composition;
+
+2. Substrate temperature;
+
+3. Reactive gas composition;
+
+4. Ingot feed rate or material vaporization rate;
+
+5. Time-temperature-pressure cycles;
+
+6. Beam and part manipulation;
+
+7. “Laser” parameters, as follows:
+
+a. Wave length;
+
+b. Power density;
+
+c. Pulse length;
+
+d. Repetition ratio;
+
+e. Source;
+
+c. For Pack Cementation:
+
+1. Pack composition and formulation;
+
+2. Carrier gas composition;
+
+3. Time-temperature-pressure cycles;
+
+d. For Plasma Spraying:
+
+1. Powder composition, preparation and size distributions;
+
+2. Feed gas composition and parameters;
+
+3. Substrate temperature;
+
+4. Gun power parameters;
+
+5. Spray distance;
+
+6. Spray angle;
+
+7. Cover gas composition, pressure and flow rates;
+
+8. Gun control and part manipulation;
+
+e. For Sputter Deposition:
+
+1. Target composition and fabrication;
+
+2. Geometrical positioning of part and target;
+
+3. Reactive gas composition;
+
+4. Electrical bias;
+
+5. Time-temperature-pressure cycles;
+
+6. Triode power;
+
+7. Part manipulation;
+
+f. For Ion Implantation:
+
+1. Beam control and part manipulation;
+
+2. Ion source design details;
+
+3. Control techniques for ion beam and deposition rate parameters;
+
+4. Time-temperature-pressure cycles.
+
+g. For Ion Plating:
+
+1. Beam control and part manipulation;
+
+2. Ion source design details;
+
+3. Control techniques for ion beam and deposition rate parameters;
+
+4. Time-temperature-pressure cycles;
+
+5. Coating material feed rate and vaporization rate;
+
+6. Substrate temperature;
+
+7. Substrate bias parameters.

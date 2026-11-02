@@ -1,0 +1,49 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C107；eCFR 2026-10-29〕
+
+1C107 Graphite and Ceramic Materials, Other Than Those Controlled by 1C007, Which Can be Machined to Any of the Following Products as Follows (See List of Items Controlled).
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See also 1C004, 1C007, and 1C298. (2) For commodities that meet the definition of defense articles under 22 CFR 120.3 of the ITAR, which describes similar commodities “subject to the ITAR” (See 22 CFR parts 120 through 130, including USML Category XIII). (3) “Special fissile materials” and “other fissile materials”; except, four “effective grams” or less when contained in a sensing component in instruments are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110).
+
+Related Definitions: N/A
+
+Items: a. Fine grain graphites with a bulk density of 1.72 g/cm 3 or greater, measured at 15 °C, and having a grain size of 100 micrometers or less, usable for rocket nozzles and reentry vehicle nose tips as follows:
+
+a.1. Cylinders having a diameter of 120 mm or greater and a length of 50 mm or greater;
+
+a.2. Tubes having an inner diameter of 65 mm or greater and a wall thickness of 25 mm or greater and a length of 50 mm or greater;
+
+a.3. Blocks having a size of 120 mm × 120 mm × 50 mm or greater.
+
+b. Pyrolytic or fibrous reinforced graphites, usable for rocket nozzles and reentry vehicle nose tips;
+
+c. Ceramic composite materials (dielectric constant is less than 6 at any frequency from 100 MHz to 100 GHz) for use in radomes useable in rockets, missiles, and unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km; or
+
+d. High-temperature ceramic materials, useable in rockets, missiles, and unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km, as follows:
+
+d.1. Bulk machinable silicon-carbide reinforced unfired ceramic, usable for nose tips.
+
+d.2. Reinforced silicon-carbide ceramic composites usable for nose tips, re-entry vehicles, nozzle flaps.
+
+d.3. Bulk machinable ceramic composite materials consisting of an 'Ultra High Temperature Ceramic (UHTC)' matrix with a melting point equal to or greater than 3000 °C and reinforced with fibers or filaments, usable for missile components (such as nose tips, re-entry vehicles, leading edges, jet vanes, control surfaces, or rocket motor throat inserts).
+
+Note: ECCN 1C107.d.3. does not control 'Ultra High Temperature Ceramic (UHTC)' materials in non-composite form.
+
+Technical Note: 'Ultra High Temperature Ceramics (UHTC)' includes: Titanium diboride (TiB2), zirconium diboride (ZrB2), niobium diboride (NbB2), hafnium diboride (HfB2), tantalum diboride (TaB2), titanium carbide (TiC), zirconium carbide (ZrC), niobium carbide (NbC), hafnium carbide (HfC), tantalum carbide (TaC).

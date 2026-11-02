@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3E994；eCFR 2026-10-29〕
+
+3E994 “Technology” “specially designed” for the “development” or “production” of commodities specified in 3B994 and “technology” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: RS, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+RS applies to entire entry | See § 742.6(a)(11) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship or transmit “technology” specified in this ECCN to any of the destinations listed in Country Group A:5 or A:6 (see supplement no. 1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: For additional controls that apply to this ECCN, see also § 744.11(a)(2)(v) and (a)(3) and § 744.23(a)(4)(iii) of the EAR.
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.
+
+EAR99 Items subject to the EAR that are not elsewhere specified in this CCL Category or in any other category in the CCL are designated by the number EAR99.

@@ -1,0 +1,25 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2B997；eCFR 2026-10-29〕
+
+2B997 “Robots” not controlled by 2B007 or 2B207 that are capable of employing feedback information in real-time processing from one or more sensors to generate or modify “programs” or to generate or modify numerical program data.
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6A102；eCFR 2026-10-29〕
+
+6A102 Radiation hardened detectors, other than those controlled by 6A002, “specially designed” or modified for protecting against nuclear effects (e.g., Electromagnetic Pulse (EMP), X-rays, combined blast and thermal effects) and usable for “missiles,” designed or rated to withstand radiation levels which meet or exceed a total irradiation dose of 5 × 10 5 rads (silicon).
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: In this entry, a detector is defined as a mechanical, electrical, optical or chemical device that automatically identifies and records, or registers a stimulus such as an environmental change in pressure or temperature, an electrical or electromagnetic signal or radiation from a radioactive material.
+
+Items: The list of items controlled is contained in the ECCN heading.

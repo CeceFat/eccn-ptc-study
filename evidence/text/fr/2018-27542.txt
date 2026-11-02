@@ -1,0 +1,338 @@
+〔Federal Register / BIS｜83 FR 65292 — Control of Military Electronic Equipment and Other Items the President Determines No Longer Warrant Control Under the United States Munitions List (USML); Correction｜抓取 2026-11-02｜https://www.federalregister.gov/documents/full_text/text/2018/12/20/2018-27542.txt〕
+
+[Federal Register Volume 83, Number 244 (Thursday, December 20, 2018)]
+[Rules and Regulations]
+[Pages 65292-65294]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 2018-27542]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 774
+
+[Docket No. 180918851-8851-01]
+RIN 0694-AH64
+
+
+Control of Military Electronic Equipment and Other Items the 
+President Determines No Longer Warrant Control Under the United States 
+Munitions List (USML); Correction
+
+AGENCY: Bureau of Industry and Security, Commerce.
+
+ACTION: Final rule; correcting amendments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: The Bureau of Industry and Security (BIS) is amending the 
+Export Administration Regulations (EAR) by correcting two entries on 
+the Commerce Control List (CCL) that control Global Navigation 
+Satellite Systems (GNSS) receiving equipment. It was brought to BIS' 
+attention that it did not implement controls over items that no longer 
+warrant control under the United States Munitions List (USML) in a 
+previous published rule. This rule corrects that error. BIS estimates 
+that there will be 12 license applications submitted to BIS annually as 
+a result of this rule.
+
+DATES: Effective date: This rule is effective: December 20, 2018.
+
+FOR FURTHER INFORMATION CONTACT: Dennis Krepp, Office of National 
+Security and Technology Transfer Controls, (202) 482-1309, 
+[email protected].
+
+SUPPLEMENTARY INFORMATION: 
+
+Background
+
+    On October 12, 2016, the Bureau of Industry and Security (BIS) 
+published a rule in the Federal Register entitled ``Revisions to the 
+Export Administration Regulations (EAR): Control of Fire Control, 
+Laser, Imaging, and Guidance Equipment the President Determines No 
+Longer Warrant Control Under the United States Munitions List (USML)'' 
+(81 FR 70320). This rule added to the Commerce Control List military 
+electronics and related items the President determined no longer 
+warrant control under the United States Munitions List (USML) of the 
+International Traffic in Arms Regulations (ITAR) (22 CFR 120-130). BIS 
+published the rule simultaneously with a Department of State rule that 
+amended the list of articles controlled by USML Category XII (22 CFR 
+121.1) to control only those articles the President had determined 
+warrant control in that category of the USML (81 FR 70340). The BIS 
+rule was supposed to change the License Requirement section of Export 
+Control Classification Number (ECCN) 7A005 to modify the CCL to cover 
+7A005.b, Global Navigation Satellite Systems (GNSS) receiving equipment 
+employing `adaptive antenna systems'. This equipment was removed from 
+the USML. However, BIS inadvertently did not update the CCL as 
+intended. The revisions described below provide that this equipment is 
+covered by 7A005.b, and that items otherwise subject to 7A005.a are 
+subject to the ITAR. In order to more clearly distinguish the national 
+security controlled items from the missile technology controlled items 
+in ECCN 7A005, BIS is fully listing the MTCR item 11.A.3 in the CCL 
+under ECCN 7A105. Some of the items that this rule lists in ECCN 7A105 
+would be fully or partially subject to the ITAR were they not listed on 
+the CCL. Therefore, it is very important for the public to employ the 
+order of review principles found in Supplement No. 4 to part 774 of the 
+EAR to classify their item correctly.
+
+Revision to ECCN 7A005
+
+    This correction rule amends the License Requirements section of 
+ECCN 7A005. The first amendment removes the text ``These items are 
+``subject to the ITAR'' (see 22 CFR parts 120 through 130).'' and adds 
+in its place ``Reason for Control: NS, MT and AT''. The second 
+amendment adds a License Requirements table to indicate a license 
+requirement for national security (NS) reasons for the export or 
+reexport of items listed in ECCN 7A005.b to all countries that have an 
+``X'' in NS Column 1 on the Commerce Country Chart (see Supplement No. 
+1 to part 738 of the EAR), i.e., all countries, except Canada. The 
+table also includes a license requirement for anti-terrorism (AT) 
+reasons for the export or reexport of such items to countries that have 
+an ``X'' in AT Column 1 of the Commerce Country Chart and for countries 
+for which the EAR indicates a license requirement in a referenced 
+section of the EAR on the Commerce Country Chart. Missile Technology 
+(MT) controls are also added to the License Requirements table for ECCN 
+7A005.b items that meet or exceed the parameters of ECCN 7A105 when 
+exported or reexported to countries that have an ``X'' in MT Column 1 
+of the Commerce Country Chart.
+    This rule also adds a License Exception section; however, no list 
+based license exceptions will be available for this item. Transaction-
+based license exceptions or License Exception STA may be available if 
+the transaction meets the criteria for any of those license exceptions 
+in part 740 of the EAR.
+    The Related Control paragraph in ECCN 7A005 is also amended. This 
+rule adds a reference to ECCN 7A611 in paragraph (1) and revises the 
+sentence in paragraph (1) to improve readability. It also replaces the 
+current text of paragraph (2) (``(2) See USML Category XII(d) for GNSS 
+receiving equipment subject to the ITAR.'') with the following text: 
+``See USML Category XII(d) for GNSS receiving equipment subject to the 
+ITAR and USML Category XI(c)(10) for antennae that are subject to the 
+ITAR.'' Lastly, it adds paragraph (3) to read as follows, ``(3) 7A005.a 
+is
+
+[[Page 65293]]
+
+``subject to the ITAR'' (see 22 CFR parts 120 through 130).''
+
+Revisions to ECCN 7A105
+
+    This rule revises the Heading of ECCN 7A105 by moving the parameter 
+to the Items paragraph in the List of Items Controlled section, and 
+adding a reference to the List of Items Controlled section for the 
+parameters. This rule replaces Related Control Note 2 with three more 
+specific Related Control Notes. The MTCR Annex item 11.A.3 parameters 
+are added to the Items paragraph of the List of Items Controlled 
+section of ECCN 7A105. See the background section of the preamble for 
+BIS's rationale.
+
+Export Control Reform Act of 2018
+
+    On August 13, 2018, the President signed into law the John S. 
+McCain National Defense Authorization Act for Fiscal Year 2019, which 
+included the Export Control Reform Act of 2018 (ECRA) (Title XVII, 
+Subtitle B of Pub. L. 115-232) that provides the legal basis for BIS's 
+principal authorities and serves as the authority under which BIS 
+issues this rule. As set forth in Section 1768 of ECRA, all 
+delegations, rules, regulations, orders, determinations, licenses, or 
+other forms of administrative action that have been made, issued, 
+conducted, or allowed to become effective under the Export 
+Administration Act of 1979 (50 U.S.C. 4601 et seq.) (as in effect prior 
+to August 13, 2018 and as continued in effect pursuant to the 
+International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) 
+and Executive Order 13222 of August 17, 2001, 3 CFR, 2001 Comp., p. 783 
+(2002), as amended by Executive Order 13637 of March 8, 2013, 78 FR 
+16129 (March 13, 2013), and as extended by the Notice of August 8, 
+2018, 83 FR 39871 (August 13, 2018)), or the Export Administration 
+Regulations, and are in effect as of August 13, 2018, shall continue in 
+effect according to their terms until modified, superseded, set aside, 
+or revoked under the authority of ECRA.
+
+Rulemaking Requirements
+
+    1. Executive Orders 13563 and 12866 direct agencies to assess all 
+costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public 
+health and safety effects, distributive impacts, and equity). Executive 
+Order 13563 emphasizes the importance of quantifying both costs and 
+benefits, of reducing costs, of harmonizing rules, and of promoting 
+flexibility. This rule has not been designated a ``significant 
+regulatory action,'' under section 3(f) of Executive Order 12866. This 
+rule is not an Executive Order 13771 regulatory action because this 
+rule is not significant under Executive Order 12866.
+    2. Pursuant to Section 1762 of the Export Control Reform Act of 
+2018 (Title XVII, Subtitle B of Pub. L. 115-232), which was included in 
+the John S. McCain National Defense Authorization Act for Fiscal Year 
+2019, this action is exempt from the Administrative Procedure Act (5 
+U.S.C. 553) requirements for notice of proposed rulemaking, opportunity 
+for public participation and delay in effective date. The analytical 
+requirements of the Regulatory Flexibility Act (5 U.S.C. 601 et. seq.) 
+are not applicable because no general notice of proposed rulemaking was 
+required for this action. Accordingly, no regulatory flexibility 
+analysis is required, and none has been prepared.
+    3. Notwithstanding any other provision of law, no person is 
+required to respond to, nor is subject to a penalty for failure to 
+comply with, a collection of information, subject to the requirements 
+of the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), 
+unless that collection of information displays a currently valid Office 
+of Management and Budget (OMB) Control Number. This regulation involves 
+collections previously approved by OMB under the following control 
+numbers: 0694-0088, 0694-0122, 0694-0134, and 0694-0137.
+    4. This rule does not contain policies with Federalism implications 
+as that term is defined in Executive Order 13132.
+
+List of Subjects in 15 CFR Part 774
+
+    Exports, Reporting and recordkeeping requirements.
+
+    Accordingly, part 774 of the Export Administration Regulations (15 
+CFR parts 730 through 774) is amended as follows:
+
+PART 774--[AMENDED]
+
+0
+1. The authority citation for part 774 continues to read as follows:
+
+    Authority:  Pub. L. 115-232, Title XVII, Subtitle B; 50 U.S.C. 
+4601 et seq.; 50 U.S.C. 1701 et seq.; 10 U.S.C. 7420; 10 U.S.C. 
+7430(e); 22 U.S.C. 287c, 22 U.S.C. 3201 et seq.; 22 U.S.C. 6004; 42 
+U.S.C. 2139a; 15 U.S.C. 1824a; 50 U.S.C. 4305; 22 U.S.C. 7201 et 
+seq.; 22 U.S.C. 7210; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 
+228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; Notice of 
+August 8, 2018, 83 FR 39871 (August 13, 2018).
+
+
+0
+2. In Supplement No. 1, Category 7, ECCN 7A005 is revised to read as 
+follows:
+
+Supplement No. 1 to Part 774--The Commerce Control List
+
+* * * * *
+7A005 Global Navigation Satellite Systems (GNSS) receiving equipment 
+having any of the following (see List of Items Controlled) and 
+``specially designed'' ``components'' therefor.
+
+License Requirements
+
+Reason for Control: NS, MT and AT
+
+ 
+                                            Country chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+NS applies to 7A005.b.....................  NS Column 1
+MT applies to commodities in 7A005.b that   MT Column 1
+ meet or exceed the parameters of 7A105.
+AT applies to 7A005.b.....................  AT Column 1
+ 
+
+List Based License Exceptions (See Part 740 for a description of all 
+license exceptions)
+
+LVS: N/A
+GBS: N/A
+CIV: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See also ECCNs 7A105, 7A611 and 7A994. 
+Commercially available GNSS receivers do not typically employ 
+decryption or adaptive antennae and are classified as 7A994. (2) See 
+USML Category XII(d) for GNSS receiving equipment subject to the 
+ITAR and USML Category XI(c)(10) for antennae that are subject to 
+the ITAR. (3) Items that otherwise would be covered by ECCN 7A005.a 
+are ``subject to the ITAR'' (see 22 CFR parts 120 through 130).
+Related Definitions: N/A
+Items:
+
+    a. Employing a decryption algorithm ``specially designed'' or 
+modified for government use to access the ranging code for position 
+and time; or
+    b. Employing `adaptive antenna systems'.
+
+    Note: 7A005.b does not apply to GNSS receiving equipment that 
+only uses ``components'' designed to filter, switch, or combine 
+signals from multiple omni-directional antennas that do not 
+implement adaptive antenna techniques.
+
+
+    Technical Note: For the purposes of 7A005.b `adaptive antenna 
+systems' dynamically generate one or more spatial nulls in an 
+antenna array pattern by signal processing in the time domain or 
+frequency domain.
+
+
+0
+3. In Supplement No. 1, Category 7, ECCN 7A105 is revised to read as 
+follows:
+
+7A105 Receiving equipment for `navigation satellite systems', having 
+any of the following characteristics (see List of
+
+[[Page 65294]]
+
+Items Controlled), and ``specially designed'' ``parts'' and 
+``components'' therefor.
+
+License Requirements
+
+Reason for Control: MT, AT
+
+ 
+                                            Country chart (See Supp. No.
+                Control(s)                         1 to part 738)
+ 
+MT applies to entire entry................  MT Column 1
+AT applies to entire entry................  AT Column 1
+ 
+
+List Based License Exceptions (See Part 740 for a description of all 
+license exceptions)
+
+LVS: N/A
+GBS: N/A
+CIV: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See also 7A005, 7A611 and 7A994. (2) See USML 
+Category XII(d) for GNSS receiving equipment subject to the ITAR and 
+USML Category XI(c)(10) for antennae that are subject to the ITAR. 
+(3) Items that otherwise would be covered by ECCN 7A105.b.2 are 
+``subject to the ITAR'' (see 22 CFR parts 120 through 130). (4) See 
+USML Category XII(d) for GPS receiving equipment in 7A105.a, b.1 and 
+b.3 that are subject to the ITAR.
+Related Definitions: `Navigation satellite systems' include Global 
+Navigation Satellite Systems (GNSS; e.g. GPS, GLONASS, Galileo or 
+BeiDou) and Regional Navigation Satellite Systems (RNSS; e.g. NavIC, 
+QZSS).
+Items:
+
+    a. Designed or modified for use in ``missiles''; or
+    b. Designed or modified for airborne applications and having any 
+of the following:
+    b.1. Capable of providing navigation information at speeds in 
+excess of 600 m/s;
+    b.2. Employing decryption, designed or modified for military or 
+governmental services, to gain access to a `navigation satellite 
+system' secure signal/data; or
+    b.3. Being ``specially designed'' to employ anti-jam features 
+(e.g., null steering antenna or electronically steerable antenna) to 
+function in an environment of active or passive countermeasures.
+
+    Note: 7A105.b.2 and 7A105.b.3 do not control equipment designed 
+for commercial, civil or Safety of Life (e.g., data integrity, 
+flight safety) `navigation satellite system' services.
+
+* * * * *
+
+    Dated: December 17, 2018.
+Matthew S. Borman,
+Deputy Assistant Secretary for Export Administration.
+[FR Doc. 2018-27542 Filed 12-19-18; 8:45 am]
+ BILLING CODE 3510-33-P

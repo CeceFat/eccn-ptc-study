@@ -1,0 +1,198 @@
+〔軍商兩用貨品及技術出口管制清單（115-02-11 公告附件）｜字首集合字與縮寫｜印刷頁 6–9（PDF 第 19–22 頁）〕
+
+                                字首集合字與縮寫
+
+      定義用詞之字首集合字與縮寫，請參見“本附件中使用的術語定義”。
+
+  字首集合字                                英文全名                   中文註解
+     或縮寫
+          Annular Bearing Engineers Committee         環狀軸承工程委員會
+ABEC      Analogue-to-Digital Converter               類比－數位轉換器
+ADC       American Gear Manufactures Association      美國齒輪製造協會
+AGMA      Attitude and Heading Reference Systems      飛行狀態及航向參考
+AHRS                                                  系統
+                                                      無空氣推進系統
+AIP       Air Independent Propulsion                  美國鋼鐵研究院
+                                                      原子層磊晶
+AISI      American Iron and Steel Institute           算術邏輯單元
+                                                      美國國家標準研究院
+ALE       Atomic Layer Epitaxy                        調整尖峰效能
+                                                      輔助動力裝置
+ALU       Arithmetic Logic Unit                       美國材料試驗學會
+                                                      飛航交通管制
+ANSI      American National Standard Institute        雙極型接面電晶體
+                                                      波束参數積
+APP       Adjusted Peak Performance                   基地台控制器
+                                                      電腦輔助設計
+APU       Auxiliary Power Unit                        化學摘要服務
+                                                      電荷耦合元件
+ASTM      American Society for Testing and Materials  控制及顯示單元
+                                                      誤差圓徑
+ATC       Air Traffic Control                         座標測量機具
+                                                      互補金屬氧化半導體
+BJT       Bipolar Junction Transistors                控制成核熱沉積
+                                                      複式可程式邏輯元件
+BPP       Beam Parameter Product                      中央處理器
+                                                      化學氣相沉積
+BSC       Base Station Controller                     化學戰
+                                                      連續波
+CAD       Computer-Aided-Design                       數位－類比轉換器
+                                                      平均雜訊位準
+CAS       Chemical Abstracts Service                  資料庫參考導航
+                                                      直接數位合成器
+CCD       Charge Coupled Device                       動態機械分析
+
+CDU       Control and Display Unit
+
+CEP       Circular Error Probable
+
+CMM       Coordinate Measuring Machine
+
+CMOS      Complementary Metal Oxide Semiconductor
+
+CNTD      Controlled Nucleation Thermal Deposition
+
+CPLD      Complex Programmable Logic Device
+
+CPU       Central Processing Unit
+
+CVD       Chemical Vapour Deposition
+
+CW        Chemical Warfare
+
+CW(for lasers) Continuous Wave
+
+DAC       Digital-to-Analogue Converter
+
+DANL      Displayed Average Noise Level
+
+DBRN      Data-Base Referenced Navigation
+
+DDS       Direct Digital Synthesizer
+
+DMA       Dynamic Mechanical Analysis
+
+DME      Distance Measuring Equipment                                測距儀
+DMOSFET  Diffused Metal Oxide Semiconductor Field Effect Transistor  雙擴散金屬氧化物半
+                                                                     導體場效應電晶體
+DS       directionally solidified                                    定向式凝固
+EB       Exploding Bridge                                            爆破橋
+EB-PVD   Electron Beam Physical Vapour Deposition                    電子束物理氣相沉積
+EBW      Exploding Bridge Wire                                       爆破橋導線
+ECAD     Electronic Computer-Aided Design                            電子計算機輔助設計
+ECM      Electron-Chemical Machining                                 電子化學加工
+EDM      Electrical Discharge Machines                               放電加工機
+EFI      Exploding Foil Initiators                                   箔引爆器
+EIRP     Effective Isotropic Radiated Power                          有效等向幅射功率
+EMP      Electromagnetic Pulse                                       電磁脈衝
+ENOB     Effective Number of Bits                                    有效位元數
+ERF      Electrorheological Finishing                                電流變精修
+ERP      Effective Radiated Power                                    有效幅射功率
+ESD      Electrostatic Discharge                                     靜電放電
+ETO      Emitter Turn-Off Thyristor                                  射極關閉閘流體
+ETT      Electrical Triggering Thyristor                             電觸發閘流體
+EUV      Extreme UltraViolet                                         極紫外線
+FADEC    Full Authority Digital Engine Control                       全權數位發動機控制
+FFT      Fast Fourier Transform                                      快速傅立葉轉換
+FPGA     Field Programmable Gate Array                               現場可程式閘陣列
+FPIC     Field Programmable Interconnect                             現場可程式相互連結
+FPLA     Field Programmable Logic Array                              現場可程式邏輯陣列
+FPO      Floating Point Operation                                    浮點運算
+FWHM     Full-Width Half-Maximum                                     半峰全寬
+GAAFET   Gate-All-Around Field-Effect Transistor                     環繞式閘極場效電晶
+                                                                     體
+GSM      Global System for Mobile Communications                     全球行動通訊系統
+GLONASS  Global Navigation Satellite System                          全球衛星導航系統
+GPS      Global Positioning System                                   全球定位系統
+GNSS     Global Navigation Satellite System                          全球導航衛星系統
+GTO      Gate Turn-off Thyristor                                     閘極關閉閘流體
+HBT      Hetero-Bipolar Transistors                                  異質雙極電晶體
+HDMI     High-Definition Multimedia Interface                        高解析度多媒體介面
+HEMT     High Electron Mobility Transistor                           高電子漂移率電晶體
+ICAO     Intermational Civil Aviation Organisation                   國際民航組織
+IEC      International Electro-Technical Commission                  國際電子技術委員會
+IED      Improvised Explosive Device                                 簡易爆炸裝置
+IEEE     Institute of Electrical and Electronic Engineers            電機電子工程師學會
+
+IFOV    Instantaneous-Field-Of-View                        瞬間視野
+IGBT    Insulated Gate Bipolar Transistor                  絕緣閘雙極電晶體
+IGCT    Integrated Gate Commutated Thyristor               整合閘整流閘流體
+IHO     International Hydrographic Organization            國際水道測量組織
+ILS     Instrument Landing System                          儀器降落系統
+IMU     Inertial Measurement Unit                          慣性測量單元
+INS     Inertial Navigation System                         慣性導航系統
+IP      Internet Protocol                                  網際網路協定
+IRS     Inertial Reference System                          慣性參考系統
+IRU     Inertial Reference Unit                            慣性參考單元
+ISA     International Standard Atmosphere                  國際標準大氣壓
+ISAR    Inverse Synthetic Aperture Radar                   逆向合成截面雷達
+ISO     International Organization for Standardization     國際標準化組織
+ITU     International Telecommunication Union              國際電信聯合會
+JT      Joule-Thomson                                      焦耳－湯姆生
+LIDAR   Light Detection and Ranging                        光偵測及距測
+LIDT    Laser Induced Damage Threshold                     雷射誘發傷害底線
+LOA     Length Overall                                     總長度
+LRU     Line Replaceable Unit                              線上可換元件
+LTT     Light Triggering Thyristor                         光觸發閘流體
+MLS     Microwave Landing Systems                          微波降落系統
+MMIC    Monolithic Microwave Integrated Circuit            單晶微波積體電路
+MOCVD   Metal Organic Chemical Vapour Deposition           有機金屬化學氣相沉
+                                                           積
+MOSFET  Metal-Oxide-Semiconductor Field Effect Transistor  金屬氧化物半導體場
+                                                           效應電晶體
+MPM     Microwave Power Module                             微波功率模組
+MRF     Magnetorheological Finishing                       磁流變精修
+MRF     Minimum Resolvable Feature size                    最小可解析特徵尺寸
+MRI     Magnetic Resonance Imaging                         電磁共振影像
+MTBF    Mean-Time-Between-Failures                         平均故障間隔時間
+MTTF    Mean-Time-To-Failure                               故障前平均時間
+NA      Numerical Aperture                                 數值孔徑
+NDT     Non-Destructive Test                               非破壞性試驗
+NEQ     Net Explosive Quantity                             淨炸藥重量
+NIJ     National Institute of Justice                      國家司法研究所
+OAM     Operations, Administration or Maintenance          操作、管理或維護
+OSI     Open Systems Interconnection                       開放系統互連
+PAI     Polyamide-imides                                   芳香族聚醯胺-醯亞胺
+PAR     Precision Approach Radar                           精密進場雷達
+PCL     Passive Coherent Location                          被動同調定位系統
+
+PDK    Process Design Kit                            製程設計套件
+PIN    Personal Identification Number                人員識別號碼
+PMR    Private Mobile Radio                          專用行動無線電
+PVD    Physical Vapour Deposition                    物理氣相沉積
+ppm    parts per million                             每百萬分之一
+QAM    Quadrature-Amplitude-Modulation               正交調幅
+QE     Quantum Efficiency                            量子效率
+RAP    Reactive Atom Plasmas                         反應性原子電漿
+RF     Radio Frequency                               射頻
+rms    Root Mean Square                              均方根
+RNC    Radio Network Controller                      無線電網路控制器
+RNSS   Regional Navigation Satellite System          區域衛星導航系統
+ROIC   Read-out Integrated Circuit                   讀出積體電路
+S-FIL  Step and Flash Imprint Lithography            步進快閃式壓模微影
+SAR    Synthetic Aperture Radar                      合成截面雷達
+SAS    Synthetic Aperture Sonar                      合成孔徑聲納
+SC     Single Crystal                                單晶體
+SCR    Silicon Controlled Rectifier                  矽控制整流器
+SFDR   Spurious Free Dynamic Range                   無雜訊動態範圍
+SHPL   Super High Powered Laser                      超高功率雷射
+SLAR   Sidelooking Airborne Radar                    側視機載雷達(空中側
+                                                     視雷達)
+SOI    Silicon-on-Insulator                          絕緣層上覆矽
+SQUID  Superconducting Quantum Interference Device   超導量子干涉元件
+SRA    Shop Replaceable Assembly                     場站修護組合件
+SRAM   Static Random Access Memory                   靜態隨機存取記憶體
+SSB    Single Sideband                               單邊帶
+SSR    Secondary Surveillance Radar                  次級搜索雷達
+SSS    Side Scan Sonar                               側向掃瞄聲納
+TIR    Total Indicated Reading                       總讀數
+TVR    Transmitting Voltage Response                 電壓響應
+u      Atomic mass unit                              原子質量單位
+UPR    Unidirectional Positioning Repeatability      單向定位重現性
+UV     UltraViolet                                   紫外線
+UTS    Ultimate Tensile Strength                     極限抗拉強度
+VJFET  Vertical Junction Field Effect Transistor     垂直接面場效應電晶
+                                                     體
+VOR    Very High Frequency Omni-directional Range    極高頻全向導航台
+WHO    World Health Organization                     世界衛生組織
+WLAN   Wireless Local Area Network                   無線區域網路

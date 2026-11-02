@@ -1,0 +1,25 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2D351；eCFR 2026-10-29〕
+
+2D351 Dedicated “software” for toxic gas monitors and monitoring systems, and their dedicated detecting “parts” and “components,” controlled by ECCN 2B351.
+
+License Requirements
+
+Reason for Control: CB, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+CB applies to entire entry | CB Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: (1) For the purposes of this entry, the term “dedicated” means committed entirely to a single purpose or device. (2) See Section 772.1 of the EAR for the definitions of “software,” “program,” and “microprogram.”
+
+Items: The list of items controlled is contained in the ECCN heading.

@@ -1,0 +1,171 @@
+〔U.S. BIS｜Encryption controls（官方指引頁）｜抓取 2026-11-02｜https://www.bis.gov/learn-support/encryption-controls〕
+
+Encryption controls | Bureau of Industry and Security An official website of the United States government
+
+Here's how you know
+
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+A lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+Skip to main content Bureau of Industry and Security
+U.S. Department of Commerce
+
+Homepage Email notifications
+
+- Regulations
+
+- Licensing
+
+- Learn & Support
+
+- News & Updates
+
+- Enforcement
+
+- About BIS
+
+- Regulations
+
+- Licensing
+
+- Learn & Support
+
+- News & Updates
+
+- Enforcement
+
+- About BIS
+
+Learn & Support
+
+- About Learn & Support
+
+- Events
+
+- Training videos
+
+- Decision tools
+
+- Chemical and biological controls
+
+- Deemed exports
+
+- Encryption controls
+
+- Export Compliance Programs (ECPs)
+
+- Reexports and exports from abroad
+
+- Guidance and Frequently Asked Questions
+
+- Advisory Opinions
+
+Encryption controls
+
+Quick links
+
+- Section 740.17: Encryption commodities, software, and technology (ENC)
+
+- Section 742.15: Encryption items
+
+- Decontrol notes
+
+- ENC/Mass Market 740.17 Table
+
+- Encryption FAQs
+
+On March 29, 2021, the Implementation of Wassenaar Arrangement 2019 Plenary Decisions was published in the Federal Register. This rule included changes to license exception ENC Section 740.17 of the EAR. Here is a summary of the changes made to license exception ENC by this rule.
+The U.S. Commerce Control List (CCL) is broken into 10 Categories 0 – 9 (see Supplement No. 1 to part 774 of the EAR). Encryption items fall under Category 5, Part 2 for Information Security. Cat. 5, Part 2 covers:
+
+- Cryptographic Information Security; (e.g., items that use cryptography)
+
+- Non-cryptographic Information Security (5A003); and
+
+- Defeating, Weakening of Bypassing Information Security (5A004)
+
+You can find a Quick Reference Guide to Cat. 5, Part 2 here .
+
+The controls in Cat. 5, Part 2 include multilateral and unilateral controls. The multilateral controls in Cat. 5, Part 2 of the EAR (e.g., 5A002, 5A003, 5A004, 5B002, 5D002, 5E002) come from the Wassenaar Arrangement List of Dual Use Goods and Technologies. Changes to the multilateral controls are agreed upon by the participating members of the Wassenaar Arrangement. Unilateral controls in Cat. 5, Part 2 (e.g., 5A992.c, 5D992.c, 5E992.b) of the EAR are decided on by the United States.
+
+The main license exception that is used for items in Cat. 5, Part 2 is License Exception ENC (Section 740.17). License exception ENC provides a broad set of authorizations for encryption products (items that implement cryptography) that vary depending on the item, the end-user, the end-use, and the destination. There is no "unexportable" level of encryption under license exception ENC. Most encryption products can be exported to most destinations under license exception ENC, once the exporter has complied with applicable reporting and classification requirements. Some items going to some destinations require licenses.
+
+This guidance does not apply to items subject to the exclusive jurisdiction of another agency. For example, ITAR USML Categories XI(b),(d), and XIII(b), (l) control software, technical data, and other items specially designed for military or intelligence applications.
+
+Flowcharts
+The following 2 flowcharts lay out the analysis to follow for determining if and how the EAR and Cat.5 Part 2 apply to a product incorporating cryptography:
+
+- Flowchart 1: Items Designed to Use Cryptography Including Items NOT controlled under Category 5 Part 2 of the EAR
+
+View flowchart
+
+- Flowchart 2: Classified in Category 5, Part 2 of the EAR
+
+View flowchart
+
+Outline
+The following outline provides the analysis to follow for determining if and how the EAR and Cat.5 Part 2 apply to a product incorporating cryptography. Although Category 5 Part 2 controls more than just cryptography, most items that are in Category 5 Part 2 fall under 5A002.a, 5A002.b, 5A004, or 5A992 or their software and technology equivalents.
+
+Step 1: Encryption items that are not subject to the EAR
+
+Step 2: Items subject to Cat. 5, Part 2
+
+Step 3: License exception ENC and mass market
+
+Step 4: Reports and reviews
+
+Step 5: Licenses
+
+Contact us
+
+Bureau of Industry and Security
+
+- Share to YouTube
+
+- Share to Twitter
+
+- Share to LinkedIn
+
+Advancing U.S. national security, foreign policy, and economic objectives by ensuring an effective export control and treaty compliance system and promoting continued U.S. strategic technology leadership.
+
+Regulations
+Export Administration Regulations (EAR) Chemical Weapons Convention Regulations (CWCR) Federal Register Notices
+
+Licensing
+About Licensing Determine what is subject to the EAR Classify your item Country guidance Guidance on end-use and end-user controls and U.S. person controls Apply for licenses (SNAP-R) Track applications (STELA) License exceptions BIS forms
+
+Learn & Support
+About Learn & Support Events Training videos Decision tools Chemical and biological controls Deemed exports Encryption controls Export Compliance Programs (ECPs) Reexports and exports from abroad Guidance & Frequently Asked Questions Advisory Opinions
+
+News & Updates
+News & Updates
+
+Enforcement
+About Export Enforcement Don't Let This Happen To You Offices & leadership Voluntary Self-Disclosure
+
+About BIS
+About BIS Guiding principles Leadership Offices Technical Advisory Committees (TAC) Annual reports Freedom of Information Act Privacy Policy Program Contact us
+
+- Website updates
+
+- FOIA
+
+- Disclaimer
+
+- Privacy Policy
+
+- SORN
+
+- Information Quality
+
+- Department of Commerce
+
+- USA.gov
+
+- Accessibility
+
+- Small Business Fairness
+
+- System Use Notice

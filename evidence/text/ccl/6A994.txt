@@ -1,0 +1,47 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6A994；eCFR 2026-10-29〕
+
+6A994 Optics, not controlled by 6A004, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Optical filters:
+
+a.1. For wavelengths longer than 250 nm, comprised of multi-layer optical coatings and having either of the following:
+
+a.1.a. Bandwidths equal to or less than 1 nm Full Width Half Intensity (FWHI) and peak transmission of 90% or more; or
+
+a.1.b. Bandwidths equal to or less than 0.1 nm FWHI and peak transmission of 50% or more;
+
+Note: 6A994 does not control optical filters with fixed air gaps or Lyot-type filters.
+
+a.2. For wavelengths longer than 250 nm, and having all of the following:
+
+a.2.a. Tunable over a spectral range of 500 nm or more;
+
+a.2.b. Instantaneous optical bandpass of 1.25 nm or less;
+
+a.2.c. Wavelength resettable within 0.1 ms to an accuracy of 1 nm or better within the tunable spectral range; and
+
+a.2.d. A single peak transmission of 91% or more;
+
+a.3. Optical opacity switches (filters) with a field of view of 30° or wider and a response time equal to or less than 1 ns;
+
+b. “Fluoride fiber” cable, or optical fibers therefor, having an attenuation of less than 4 dB/km in the wavelength range exceeding 1,000 nm but not exceeding 3,000 nm.

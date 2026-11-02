@@ -1,0 +1,5 @@
+.tmp.driveupload/
+evidence/local-only/
+__pycache__/
+*.pyc
+.claude/

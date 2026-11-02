@@ -1,0 +1,87 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 5A004；eCFR 2026-10-29〕
+
+5A004 “Systems,” “equipment” and “components” for defeating, weakening or bypassing “information security,” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT, EI
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1.
+
+RS applies to items controlled by 5A004.z.1.a, z.2.a | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+
+RS applies to items controlled by 5A004.z.1.b, z.2.b | To or within the United Arab Emirates or destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+EI applies to entire entry | Refer to § 742.15 of the EAR.
+
+License Requirements
+
+See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating “information security” functionality, and associated “software” and “technology” for the “production” or “development” of such microprocessors.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: Yes: $500 for “components”; N/A for 5A004.z. N/A for systems and equipment.
+
+GBS: N/A
+
+ENC: Yes for certain EI controlled commodities. See § 740.17 of the EAR for eligibility.
+
+NAC/ACA: Yes, for 5A004.z.1.b, z.2.b
+
+AIA: Yes for 5A004.z.1.a, z.2.a
+
+ACM: Yes for 5A004.z
+
+LPP: Yes for 5A004.z.1.a, z.2.a
+
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 5A004.z.
+
+List of Items Controlled
+
+Related Controls: (1) ECCN 5A004.a controls “components” providing the means or functions necessary for “information security.” All such “components” are presumptively “specially designed” and controlled by 5A004.a. (2) See also ECCNs 3A090 and 4A090.
+
+Related Definitions: N/A
+
+Items:
+
+a. Designed or modified to perform 'cryptanalytic functions.'
+
+Note: 5A004.a includes systems or equipment, designed or modified to perform 'cryptanalytic functions' by means of reverse engineering.
+
+Technical Note: For the purposes of 5A004.a, 'cryptanalytic functions' are functions designed to defeat cryptographic mechanisms in order to derive confidential variables or sensitive data, including clear text, passwords or cryptographic keys.
+
+b. Items, not specified by ECCNs 4A005 or 5A004.a, designed to perform all of the following:
+
+b.1. 'Extract raw data' from a computing or communications device; and
+
+b.2. Circumvent “authentication” or authorization controls of the device, in order to perform the function described in 5A004.b.1.
+
+Technical Note: For the purposes of 5A004.b.1, 'extract raw data' from a computing or communications device means to retrieve binary data from a storage medium, e.g., RAM, flash or hard disk, of the device without interpretation by the device's operating system or filesystem.
+
+Note 1: 5A004.b does not apply to systems or equipment specially designed for the “development” or “production” of a computing or communications device.
+
+Note 2: 5A004.b does not include:
+
+a. Debuggers, hypervisors;
+
+b. Items limited to logical data extraction;
+
+c. Data extraction items using chip-off or JTAG; or
+
+d. Items specially designed and limited to jail-breaking or rooting.
+
+c. through y. [Reserved]
+
+z. Other commodities, as follows:
+
+z.1.a Commodities that are described in 5A004.a and that also meet or exceed the performance parameters in 3A090.a or 4A090.a;
+
+z.1.b Commodities that are described in 5A004.a and that also meet or exceed the performance parameters in 3A090.b or 4A090.b;
+
+z.2.a Commodities that are described in 5A004.b and that also meet or exceed the performance parameters in 3A090.a or 4A090.a; or
+
+z.2.b Commodities that are described in 5A004.b and that also meet or exceed the performance parameters in 3A090.b or 4A090.b.

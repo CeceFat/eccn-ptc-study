@@ -1,0 +1,47 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3E002；eCFR 2026-10-29〕
+
+3E002 “Technology” according to the General Technology Note other than that controlled in 3E001 for the “development” or “production” of a “microprocessor microcircuit”, “micro-computer microcircuit” and microcontroller microcircuit core, having an arithmetic logic unit with an access width of 32 bits or more and any of the following features or characteristics (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1
+
+AT applies to entire entry | AT Column 1
+
+License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating “information security” functionality, and associated “software” and “technology” for the “production” or “development” of such microprocessors.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: Yes
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items:
+
+a. A 'vector processor unit' designed to perform more than two calculations on 'floating-point' vectors (one-dimensional arrays of 32-bit or larger numbers) simultaneously;
+
+Technical Note: For the purposes of 3E002.a, a 'vector processor unit' is a processor element with built-in instructions that perform multiple calculations on 'floating-point' vectors (one-dimensional arrays of 32-bit or larger numbers) simultaneously, having at least one vector arithmetic logic unit and vector registers of at least 32 elements each.
+
+b. Designed to perform more than four 64-bit or larger 'floating-point' operation results per cycle; or
+
+c. Designed to perform more than eight 16-bit 'fixed-point' multiply-accumulate results per cycle (e.g., digital manipulation of analog information that has been previously converted into digital form, also known as digital “signal processing”).
+
+Note 1: 3E002 does not control “technology” for multimedia extensions.
+
+Note 2: 3E002 does not control “technology” for microprocessor cores, having all of the following: a. Using “technology” at or above 0.130 µm; and
+
+b. Incorporating multi-layer structures with five or fewer metal layers.
+
+Note 3: 3E002 includes “technology” for the “development” or “production” of digital signal processors and digital array processors.
+
+Technical Notes: 1. For the purposes of 3E002.a and 3E002.b, 'floating-point' is defined by IEEE-754.
+
+2. For the purposes of 3E002.c, 'fixed-point' refers to a fixed-width real number with both an integer component and a fractional component, and which does not include integer-only formats.

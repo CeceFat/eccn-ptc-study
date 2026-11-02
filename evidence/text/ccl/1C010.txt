@@ -1,0 +1,135 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C010；eCFR 2026-10-29〕
+
+1C010 “Fibrous or filamentary materials” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, NP, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+NP applies to 1C010.a (aramid “fibrous or filamentary materials”, b (carbon “fibrous and filamentary materials”), and e.1 for “fibrous and filamentary materials” that meet or exceed the control criteria of ECCN 1C210 | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $1500, N/A for NP
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any item in 1C010.c to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 1E001 (“development” and “production”) and 1E201 (“use”) for technology for items controlled by this entry. (2) Also see ECCNs 1C210 and 1C990. (3) See also 9C110 for material not controlled by 1C010.e, as defined by notes 1 or 2.
+
+Related Definitions: (1) “Specific modulus”: Young's modulus in pascals, equivalent to N/m2 divided by specific weight in N/m3, measured at a temperature of (296+2) K ((23+2) °C) and a relative humidity of (50+5) %. (2) “Specific tensile strength”: ultimate tensile strength in pascals, equivalent to N/m2 divided by specific weight in N/m3, measured at a temperature of (296+2) K ((23+2) °C) and a relative humidity of (50+5) %.
+
+Items:
+
+Technical Notes: 1. For the purposes of calculating “specific tensile strength”, “specific modulus” or specific weight of “fibrous or filamentary materials” in 1C010.a, 1C010.b, 1C010.c, or 1C010.e.1.b the tensile strength and modulus should be determined by using Method A described in ISO 10618 (2004) or national equivalents.
+
+2. For the purposes of assessing the “specific tensile strength”, “specific modulus” or specific weight of non-unidirectional “fibrous or filamentary materials” (e.g., fabrics, random mats or braids) in 1C010, this is to be based on the mechanical properties of the constituent unidirectional monofilaments (e.g., monofilaments, yarns, rovings or tows) prior to processing into the non-unidirectional “fibrous or filamentary materials”.
+
+a. Organic “fibrous or filamentary materials”, having all of the following:
+
+a.1. “Specific modulus” exceeding 12.7 × 10 6 m; and
+
+a.2. “Specific tensile strength” exceeding 23.5 × 10 4 m;
+
+Note: 1C010.a does not control polyethylene.
+
+b. Carbon “fibrous or filamentary materials”, having all of the following:
+
+b.1. “Specific modulus” exceeding 14.65 × 10 6 m; and
+
+b.2. “Specific tensile strength” exceeding 26.82 × 10 4 m;
+
+Note: 1C010.b does not control:
+
+a. “Fibrous or filamentary materials”, for the repair of “civil aircraft” structures or laminates, having all of the following:
+
+1. An area not exceeding 1 m2;
+
+2. A length not exceeding 2.5 m; and
+
+3. A width exceeding 15 mm.
+
+b. Mechanically chopped, milled or cut carbon “fibrous or filamentary materials” 25.0 mm or less in length.
+
+c. Inorganic “fibrous or filamentary materials”, having all of the following:
+
+c.1. Having any of the following:
+
+c.1.a. Composed of 50% or more by weight silicon dioxide (SiO2) and having a “specific modulus” exceeding 2.54 × 10 6 m; or
+
+c.1.b. Not specified in 1C010.c.1.a and having a “specific modulus” exceeding 5.6 × 10 6 m; and
+
+c.2. Melting, softening, decomposition or sublimation point exceeding 1,922 K (1,649 °C) in an inert environment;
+
+Note: 1C010.c does not control:
+
+a. Discontinuous, multiphase, polycrystalline alumina fibers in chopped fiber or random mat form, containing 3% by weight or more silica, with a “specific modulus” of less than 10 × 106 m;
+
+b. Molybdenum and molybdenum alloy fibers;
+
+c. Boron fibers;
+
+d. Discontinuous ceramic fibers with a melting, softening, decomposition or sublimation point lower than 2,043 K (1,770 °C) in an inert environment.
+
+d. “Fibrous or filamentary materials”, having any of the following:
+
+d.1. Composed of any of the following:
+
+d.1.a. Polyetherimides controlled by 1C008.a; or
+
+d.1.b. Materials controlled by 1C008.b to 1C008.f; or
+
+d.2. Composed of materials controlled by 1C010.d.1.a or 1C010.d.1.b and 'commingled' with other fibers controlled by 1C010.a, 1C010.b or 1C010.c;
+
+Technical Note: For the purposes of 1C010.d.2, 'commingled' is filament to filament blending of thermoplastic fibers and reinforcement fibers in order to produce a fiber reinforcement “matrix” mix in total fiber form.
+
+e. Fully or partially resin impregnated or pitch impregnated “fibrous or filamentary materials” (prepregs), metal or carbon coated “fibrous or filamentary materials” (preforms) or 'carbon fiber preforms', having all of the following:
+
+e.1. Having any of the following:
+
+e.1.a. Inorganic “fibrous or filamentary materials” controlled by 1C010.c; or
+
+e.1.b. Organic or carbon “fibrous or filamentary materials”, having all of the following:
+
+e.1.b.1. “Specific modulus” exceeding 10.15 × 10 6 m; and
+
+e.1.b.2 “Specific tensile strength” exceeding 17.7 × 10 4m; and
+
+e.2. Having any of the following:
+
+e.2.a. Resin or pitch, controlled by 1C008 or 1C009.b;
+
+e.2.b. 'Dynamic Mechanical Analysis glass transition temperature (DMA Tg)' equal to or exceeding 453 K (180 °C) and having a phenolic resin; or
+
+e.2.c. 'Dynamic Mechanical Analysis glass transition temperature (DMA Tg)' equal to or exceeding 505 K (232 °C) and having a resin or pitch, not specified by 1C008 or 1C009.b, and not being a phenolic resin;
+
+Note 1: Metal or carbon coated “fibrous or filamentary materials” (preforms) or 'carbon fiber preforms', not impregnated with resin or pitch, are specified by “fibrous or filamentary materials” in 1C010.a, 1C010.b or 1C010.c.
+
+Note 2: 1C010.e does not apply to: a. Epoxy resin “matrix” impregnated carbon “fibrous or filamentary materials” (prepregs) for the repair of “civil aircraft” structures or laminates, having all of the following:
+
+1. An area not exceeding 1 m2
+
+2. A length not exceeding 2.5 m; and
+
+3. A width exceeding 15 mm;
+
+b. Fully or partially resin-impregnated or pitch-impregnated mechanically chopped, milled or cut carbon “fibrous or filamentary materials” 25.0 mm or less in length when using a resin or pitch other than those specified by 1C008 or 1C009.b.
+
+Technical Notes: 1. For the purposes of 1C010.e and Note 1, 'carbon fiber preforms' are an ordered arrangement of uncoated or coated fibers intended to constitute a framework of a part before the “matrix” is introduced to form a “composite”.
+
+2. For the purposes of 1C010.e.2, 'Dynamic Mechanical Analysis glass transition temperature (DMA Tg)' is determined using the method described in ASTM D 7028 -07, or equivalent national standard, on a dry test specimen. In the case of thermoset materials, degree of cure of a dry test specimen shall be a minimum of 90% as defined by ASTM E 2160 04 or equivalent national standard.

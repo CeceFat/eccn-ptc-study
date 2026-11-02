@@ -1,0 +1,61 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9D004；eCFR 2026-10-29〕
+
+9D004 Other “software” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry, except 9D004.e for 9A012.a.1 items | NS Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship or transmit software in 9D004.a and 9D004.c to any of the destinations listed in Country Group A:6 (See supplement no.1 to part 740 of the EAR)
+
+List of Items Controlled
+
+Related Controls: See also 9D104.
+
+Related Definitions: N/A
+
+Items:
+
+a. 2D or 3D viscous “software”, validated with wind tunnel or flight test data required for detailed engine flow modelling;
+
+b. “Software” for testing aero gas turbine engines, assemblies, “parts” or “components”, having all of the following:
+
+b.1. “Specially designed” for testing any of the following:
+
+b.1.a. Aero gas turbine engines, assemblies or components, incorporating “technology” specified by 9E003.a, 9E003.h or 9E003.i; or
+
+b.1.b. Multi-stage compressors providing either bypass or core flow, specially designed for aero gas turbine engines incorporating “technology” specified by 9E003.a or 9E003.h; and
+
+b.2. “Specially designed” for all of the following:
+
+b.2.a. Acquisition and processing of data, in real time; and
+
+b.2.b. Feedback control of the test article or test conditions (e.g., temperature, pressure, flow rate) while the test is in progress;
+
+Note: 9D004.b does not specify software for operation of the test facility or operator safety e.g., overspeed shutdown, fire detection and suppression), or production, repair or maintenance acceptance-testing limited to determining if the item has been properly assembled or repaired.
+
+c. “Software” “specially designed” to control directional solidification or single crystal material growth in equipment specified by 9B001.a or 9B001.c;
+
+d. [Reserved]
+
+e. “Software” “specially designed” or modified for the operation of items specified by 9A012;
+
+f. “Software” “specially designed” to design the internal cooling passages of aero gas turbine engine blades, vanes and “tip shrouds”;
+
+g. “Software” having all of the following:
+
+g.1. “Specially designed” to predict aero thermal, aeromechanical and combustion conditions in aero gas turbine engines; and
+
+g.2. Theoretical modeling predictions of the aero thermal, aeromechanical and combustion conditions, which have been validated with actual turbine engine (experimental or production) performance data.

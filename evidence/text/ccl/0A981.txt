@@ -1,0 +1,29 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 0A981；eCFR 2026-10-29〕
+
+0A981 Equipment designed for the execution of human beings as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: CC
+
+Control(s): CC applies to entire entry. A license is required for ALL destinations regardless of end-use. Accordingly, a column specific to this control does not appear on the Commerce Country Chart. (See § 742.7 of the EAR for additional information.)
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Gallows and guillotines.
+
+b. Electric chairs for the purpose of executing human beings.
+
+c. Air tight vaults designed for the execution of human beings by the administration of a lethal gas or substance.
+
+d. Automatic drug injection systems designed for the execution of human beings by administration of a lethal substance.

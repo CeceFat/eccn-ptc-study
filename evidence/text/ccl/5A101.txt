@@ -1,0 +1,39 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 5A101；eCFR 2026-10-29〕
+
+5A101 Telemetering and telecontrol equipment, including ground equipment, designed or modified for unmanned aerial vehicle (including cruise missiles, target drones, and reconnaissance drones) or rocket systems (including ballistic missiles, space launch vehicles, and sounding rockets) capable of a maximum “range” equal to or greater than 300 km.
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.
+
+Note: 5A101 does not control:
+
+1. Telecontrol equipment “specially designed” to be used for remote control of recreational model planes, boats or vehicles and having an electric field strength of not more than 200 microvolts per meter at a distance of 500 meters;
+
+2. Equipment designed or modified for manned aircraft or satellites;
+
+3. Ground based equipment designed or modified for terrestrial or marine applications;
+
+4. Equipment designed for commercial, civil, or safety of life (e.g., data integrity or flight safety) Global Navigation Satellite System services.
+
+Note: ECCN 5A101 does not include items not designed or modified for unmanned aerial vehicles (including cruise missiles, target drones, and reconnaissance drones) or rocket systems (including ballistic missiles, space launch vehicles and sounding rockets) capable of a maximum “range” equal to or greater than 300km (e.g., telemetry circuit cards limited by design to reception only and designed for use in personal computers).

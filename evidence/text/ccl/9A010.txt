@@ -1,0 +1,47 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9A010；eCFR 2026-10-29〕
+
+9A010 “Specially Designed” “Parts,” “Components,” Systems and Structures, for Launch Vehicles, Launch Vehicle Propulsion Systems or “Spacecraft”. (See Related Controls Paragraph.)
+
+List of Items Controlled
+
+Related Controls: (1) See USML Category IV of the International Traffic in Arms Regulations (ITAR) (22 CFR parts 120 through 130) and ECCN 9A604 for paragraphs 9A010.a, .b and .d. (2) See USML Category XV of the ITAR and ECCN 9A515 for paragraph 9A010.c. (3) See Supplement No. 4 to part 774, Order of Review for guidance on the process for determining classification of items.
+
+Related Definitions: N/A
+
+Items:
+
+a. “Parts”, “components” and structures, each exceeding 10 kg and “specially designed” for launch vehicles manufactured using any of the following:
+
+a.1. “Composite” materials consisting of “fibrous or filamentary materials” specified by 1C010.e and resins specified by 1C008 or 1C009.b;
+
+a.2. Metal “matrix” “composites” reinforced by any of the following:
+
+a.2.a. Materials specified by 1C007;
+
+a.2.b. “Fibrous or filamentary materials” specified by 1C010; or
+
+a.2.c. Aluminides specified by 1C002.a; or
+
+a.3. Ceramic “matrix” “composite” materials specified by 1C007;
+
+Note: The weight cut-off is not relevant for nose cones.
+
+b. “Parts”, “components” and structures, “specially designed” for launch vehicle propulsion systems specified by 9A005 to 9A009, manufactured using any of the following:
+
+b.1. “Fibrous or filamentary materials” specified by 1C010.e and resins specified by 1C008 or 1C009.b;
+
+b.2. Metal “Matrix “composites” reinforced by any of the following:
+
+b.2.a. Materials specified by 1C007;
+
+b.2.b. “Fibrous or filamentary materials” specified by 1C010; or
+
+b.2.c. Aluminides specified by 1C002.a; or
+
+b.3. Ceramic “matrix” “composite” materials specified by 1C007;
+
+c. Structural components and isolation systems, specially designed to control actively the dynamic response or distortion of “spacecraft” structures;
+
+d. Pulsed liquid rocket engines with thrust-to-weight ratios equal to or more than 1 kN/kg and a 'response time' of less than 30 ms.
+
+Technical Note: For the purposes of 9A010.d, 'response time' means the time required to achieve 90% of total rated thrust from start-up.

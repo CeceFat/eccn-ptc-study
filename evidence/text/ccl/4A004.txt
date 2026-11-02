@@ -1,0 +1,57 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 4A004；eCFR 2026-10-29〕
+
+4A004 Computers as follows (see List of Items Controlled) and “specially designed” related equipment, “electronic assemblies” and “components” therefor.
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+Control(s) | Country Chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2.
+
+RS applies to 4A004.z.1 | To or within any destination worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+
+RS applies to 4A004.z.2 | To or within the United Arab Emirates or destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $5000, N/A for 4A004.z
+
+GBS: N/A
+
+NAC/ACA: Yes, for 4A004.z.
+
+AIA: Yes for 4A004.z.1
+
+LPP: Yes for 4A004.z.1
+
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 4A004.z.
+
+List of Items Controlled
+
+Related Controls: See also ECCN 4A090.
+
+Related Definitions: N/A
+
+Items:
+
+a. 'Systolic array computers';
+
+b. 'Neural computers';
+
+c. 'Optical computers'.
+
+Technical Notes: 1. For the purposes of 4A004.a, 'systolic array computers' are computers where the flow and modification of the data is dynamically controllable at the logic gate level by the user.
+
+2. For the purposes of 4A004.b, 'neural computers' are computational devices designed or modified to mimic the behavior of a neuron or a collection of neurons, i.e., computational devices which are distinguished by their hardware capability to modulate the weights and numbers of the interconnections of a multiplicity of computational components based on previous data.
+
+3. For the purposes of 4A004.c, 'optical computers' are computers designed or modified to use light to represent data and whose computational logic elements are based on directly coupled optical devices.
+
+d. through y. [Reserved]
+
+z.1. Commodities that are described in 4A004 and that also meet or exceed the performance parameters in 4A090.a; or
+
+z.2 Commodities that are described in 4A004 and that also meet or exceed the performance parameters in 4A090.b.

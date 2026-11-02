@@ -1,0 +1,73 @@
+〔U.S. BIS｜Flowchart 1: Items Designed to Use Cryptography｜抓取 2026-11-02｜https://www.bis.gov/media/documents/new-v2-flowchart1-july-2017.pdf〕
+
+FLOWCHART 1: ITEMS DESIGNED TO USE CRYPTOGRAPHY INCLUDING ITEMS
+            NOT CONTROLLED UNDER CATEGORY 5, PART 2 OF THE EAR*
+
+   Start here                   No                Is it described      Yes               If 5A003.a or .b
+                                                                   Yes      Corresponding software is in 5D002.c
+    Is the item                                        in 5A003,            Corresponding technology is 5E002.a
+ designed to use
+“cryptography” or                                      5A004 or                License is required (except CA)
+  does it contain
+“cryptography”?                                    5A002.c‐.e?              If 5A004.a (cryptanalytic)or 5A002.c‐.e
+                                                                            Corresponding software is in 5D002.c
+  Yes                                            No                         Corresponding technology is 5E002.a
+                                                                             See ENC 740.17 table , 740.17(b)(2) –
+                                   Is the item publicly
+                                available source code* or                                 CCATS required
+
+                                 publicly available mass
+                                 market object code**?
+
+                                No                                               THE ITEM IS
+
+                                Does the item use                  No            NOT
+                                “cryptography for
+                                                                                 CONTROLLED
+                                data confidentiality”
+                                                                                 IN CATEGORY
+                                see definition ?
+
+                                Yes                                              5, PART 2 OF
+
+                                                                                 THE EAR
+
+     THIS ITEM IS               Is the cryptography in excess of             No  * “Publicly available”
+CONTROLLED UNDER                56 bits of symmetric key length            No    encryption source code:
+CATEGORY 5, PART 2                                                     No        an email notification per
+                                       or equivalent? (e.g.,                     742.15(b) is required.
+     OF THE EAR                   > 512 asym, or > 112 elliptic                  After email, the source
+     (PROCEED TO                                                                 code is NOT SUBJECT to
+  FLOWCHART 2 TO                               curve?                            the EAR. Corresponding
+      DETERMINE                                                                  object code is also NOT
+ AUTHORIZATION TO                      Yes                                       SUBJECT to the EAR.
+                                                                                 ** Once the mass market
+        EXPORT)                 Is the cryptographic capability                  items is properly
+                                usable without “cryptographic                    classified under the
+                                                                                 relevant section of
+                                   activation” or has it been                    740.17(b)(1) (after a
+                                            activated?                           classification by BIS
+                                                                                 (5D992.c) or self‐
+                                   Yes                                           classification with self‐
+                                                                                 classification report –
+                                            Is the item                          Supp. 8 to Part 742), if
+                                         described under                         the software is then
+                                         5A002 a.1‐a.4 or                        made “publicly available”
+                                                                                 it is NOT SUBJECT to the
+                                            equivalent                           EAR
+                                        5D002.c.1 sw and
+
+                                          5E002 “tech”?
+
+                                     Yes
+
+                                    Is the item
+
+                                described in a
+
+                    No              Note under                         Yes
+
+                                    5A002.a?
+
+*this chart applies to exports
+

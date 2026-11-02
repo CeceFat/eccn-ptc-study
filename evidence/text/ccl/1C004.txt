@@ -1,0 +1,33 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C004；eCFR 2026-10-29〕
+
+1C004 Uranium titanium alloys or tungsten alloys with a “matrix” based on iron, nickel or copper, having all of the following (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: $3000
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See also 1C117 and 1C226.
+
+Related Definitions: N/A
+
+Items: a. A density exceeding 17.5 g/cm 3;
+
+b. An elastic limit exceeding 880 MPa;
+
+c. An ultimate tensile strength exceeding 1,270 MPa; and
+
+d. An elongation exceeding 8%.

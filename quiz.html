@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>自我檢測 · 出口管制產品分類 自學站</title>
+<meta name="description" content="12 題自我檢測：分類順序、加密 5P2、3A090 推定、技術管制、台灣制度。每題附解說與條文出處。">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-in">
+    <a class="brand" href="index.html">出口管制產品分類<small>EAR ECCN × 台灣軍商兩用清單 · 自學站</small></a>
+    <nav class="main">
+      <a href="about.html">About</a>
+      <a href="start.html">入門</a>
+      <a href="index.html">總覽</a>
+      <a href="method.html">分類方法</a>
+      <a href="cat5p2.html">加密 5P2</a>
+      <a href="cat3.html">半導體 Cat 3</a>
+      <a href="taiwan.html">台灣制度</a>
+      <a href="cases.html">產品演練</a>
+      <a href="tech.html">技術與視同出口</a>
+      <a href="evidence.html">方法與證據</a>
+      <a href="quiz.html">自我檢測</a>
+    </nav>
+    <button class="theme-btn" data-theme-toggle aria-label="切換深淺色">☾</button>
+  </div>
+</header>
+
+<div class="wrap"><main class="page">
+
+<p class="kicker" style="margin-top:34px">自我檢測</p>
+<h1>十二題，用條文回答</h1>
+<p class="lede">點選答案後會顯示解說與出處。目標不是背答案，而是每一題都能說出「哪一條、哪一段」。</p>
+
+<div id="quiz"></div>
+<div class="card score" id="score">已作答 0 / 12，答對 0 題</div>
+
+<footer class="site">
+  <p>法規版本：美國 EAR 取自 eCFR（版本日 2026-10-29）；台灣軍商兩用清單為 115-02-11 經貿字第11550200140號公告附件。</p>
+  <p>個人自學整理，不是法律意見。</p>
+</footer>
+
+</main></div>
+
+<script src="assets/app.js"></script>
+<script>
+(function () {
+  "use strict";
+  var Q = [
+    { s: "一顆含 400 MHz MCU、沒有任何加密功能、也不符合 3A001 參數的藍牙晶片，最可能的 ECCN 是？",
+      o: ["EAR99", "3A991.a.2", "5A002.a.2", "5A992.c"], a: 1,
+      e: "3A991.a.2 涵蓋時脈超過 25 MHz 的微處理器、微電腦與微控制器電路。AT-only 不等於 EAR99。", l: "cat3.html#3a991" },
+    { s: "現行 EAR 下，藍牙晶片的加密功能只用於 WPAN，且只用公開標準。它為什麼不在 5A002.a？",
+      o: ["因為加密距離在 30 公尺以內", "因為 Note 2.f 除外，且 2021 年起不論距離與連線數", "因為 AES-128 未達門檻", "因為它屬於 Cat 5 Part 1"], a: 1,
+      e: "86 FR 16482（2021-03-29）刪除了 f 項的距離與連線數條件；AES-128 早已超過 56 位元門檻。", l: "cat5p2.html#gate3" },
+    { s: "Wi‑Fi 6 SoC 支援 WPA3。能不能用 WPAN 除外？",
+      o: ["可以，Wi‑Fi 也是短距離", "不行，WLAN 不是 WPAN", "可以，只要輸出功率低於 1 W", "要看是否在室內使用"], a: 1,
+      e: "§772.1 的 PAN 定義技術註解 2 明說 LAN 的範圍超出 PAN。Wi‑Fi 要走密碼學註解（大眾市場）路線。", l: "cat5p2.html#gate3" },
+    { s: "一顆大眾市場加密晶片符合密碼學註解 b 段，以自我分類出口。最遲什麼時候要交 2026 年度的報告？",
+      o: ["出口前 30 天", "2026-12-31", "2027-02-01", "不用交"], a: 2,
+      e: "§740.17(e)(3)(i)：當年度出口的自我分類報告須在次年 2 月 1 日前送達 BIS 與 ENC Encryption Request Coordinator。", l: "cat5p2.html#enc" },
+    { s: "下列哪個情形會讓晶片失去密碼學註解 b 段的資格？",
+      o: ["晶片在零售通路以外銷售", "為特定客戶修改了加密相關功能集", "晶片也支援藍牙", "晶片使用 AES-256"], a: 1,
+      e: "b.3 要求功能集固定、不是依客戶規格設計或修改。", l: "cat5p2.html#gate4" },
+    { s: "3A090 註解 1 的「推定」拘束誰？",
+      o: ["所有出口商", "IC 設計公司", "晶圓廠與封測廠", "最終使用者"], a: 2,
+      e: "條文明說推定不適用於晶圓廠（front-end fabricator）與 OSAT 以外的任何主體；設計公司的角色是提供推翻推定的資料。", l: "cat3.html#presumption" },
+    { s: "總部在台灣、同意讓晶圓廠向 BIS 回報的 IC 設計公司，2027 年 3 月要維持 authorized 身分，需要什麼？",
+      o: ["什麼都不用", "已提出成為 approved IC designer 的申請，且在申請後 180 天內", "取得台灣的輸出許可", "改由美國子公司下單"], a: 1,
+      e: "2026-12-31 以後，authorized 須同時符合原條件並已申請 approved；申請後 180 天失去 authorized 身分。", l: "cat3.html#presumption" },
+    { s: "一顆 SoC 是 3A991，它內含的 DSP 核心每週期可做 16 個 16 位元定點乘加。這個核心的開發技術可能是？",
+      o: ["EAR99", "3E991", "3E002.c（NS）", "不受管制，因為晶片只有 AT"], a: 2,
+      e: "3E002.c 管「每週期超過八個 16 位元定點乘加」的 32 位元以上核心的開發或生產技術；一般技術註解說技術不因用在較低等級產品而降低管制。", l: "cat3.html#tech" },
+    { s: "商用、無解密、單天線的多系統 GNSS 接收晶片，最可能的分類？",
+      o: ["USML XII(d)", "7A005.a", "7A005.b", "7A994"], a: 3,
+      e: "7A994 的 License Requirement Note：一般商用 GPS 不使用解密或自適應天線，分類為 7A994。", l: "cases.html#gnss" },
+    { s: "台灣公司在台灣境內讓一位第三國籍員工讀取受 EAR 管的受控技術，EAR 上怎麼定性？",
+      o: ["不是出口，因為沒有離開台灣", "視同出口", "視同再出口，到該員工最近的國籍或永久居留國", "境內移轉"], a: 2,
+      e: "§734.14(b)；例外條件見 §734.20。", l: "tech.html#deemed" },
+    { s: "外國產加密技術混入美國 5E002 技術，美國成分只占 3%。de minimis 能不能用？",
+      o: ["可以，低於 10%", "可以，低於 25%", "不行，5E002 沒有 de minimis", "要看目的地"], a: 2,
+      e: "§734.4(a)(2)：含美國 5E002 技術的外國產加密技術，不論比例都受 EAR 管。", l: "tech.html#deminimis" },
+    { s: "依台灣規定，一批屬於軍商兩用清單的貨品要出口到越南（非管制地區），需要什麼？",
+      o: ["不需要任何許可", "仍需戰略性高科技貨品輸出許可（符合特定條件可簡化文件）", "只要向海關申報 HS 碼", "只有輸往管制地區才需要"], a: 1,
+      e: "貿易法第 13 條：戰略性高科技貨品非經許可不得輸出，不限目的地；管理辦法第 15、18 條另有效期、免證與簡化文件的規定。", l: "taiwan.html#law" }
+  ];
+  var root = document.getElementById("quiz"), done = 0, right = 0;
+  Q.forEach(function (q, i) {
+    var d = document.createElement("div");
+    d.className = "quiz-q";
+    var h = '<p class="stem">' + (i + 1) + ". " + esc(q.s) + "</p>";
+    q.o.forEach(function (opt, k) {
+      h += '<label class="opt"><input type="radio" name="q' + i + '" value="' + k + '">' + esc(opt) + "</label>";
+    });
+    h += '<div class="expl">' + esc(q.e) + ' <a href="' + q.l + '">看原文 →</a></div>';
+    d.innerHTML = h;
+    d.addEventListener("change", function (ev) {
+      if (d.getAttribute("data-done")) return;
+      d.setAttribute("data-done", "1");
+      var pick = +ev.target.value;
+      var labs = d.querySelectorAll(".opt");
+      labs[q.a].classList.add("correct");
+      if (pick !== q.a) labs[pick].classList.add("wrong"); else right++;
+      d.querySelectorAll("input").forEach(function (x) { x.disabled = true; });
+      d.querySelector(".expl").classList.add("show");
+      done++;
+      document.getElementById("score").textContent = "已作答 " + done + " / " + Q.length + "，答對 " + right + " 題";
+    });
+    root.appendChild(d);
+  });
+})();
+</script>
+</body>
+</html>

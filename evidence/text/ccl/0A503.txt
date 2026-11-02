@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 0A503；eCFR 2026-10-29〕
+
+0A503 Discharge type arms; non-lethal or less-lethal grenades and projectiles, and “specially designed” “parts” and “components” of those projectiles; and devices to administer electric shock, for example, stun guns, shock batons, shock shields, electric cattle prods, immobilization guns and projectiles; except equipment used to slaughter domestic animals or used exclusively to treat or tranquilize animals, and except arms designed solely for signal, flare, or saluting use; and “specially designed” “parts” and “components,” n.e.s.
+
+License Requirements
+
+Reason for Control: CC, UN
+
+Control(s) | Country Chart(See Supp. No. 1 to part 738)
+
+CC applies to entire entry | A license is required for ALL destinations, except Canada, regardless of end use. Accordingly, a column specific to this control does not appear on the Commerce Country Chart. (See part 742 of the EAR for additional information)
+
+UN applies to entire entry | See § 746.1(b) of the EAR for UN controls
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: Law enforcement restraint devices that administer an electric shock are controlled under ECCN 0A982. Electronic devices that monitor and report a person's location to enforce restrictions on movement for law enforcement or penal reasons are controlled under ECCN 3A981.
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

@@ -1,0 +1,87 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 5D001；eCFR 2026-10-29〕
+
+5D001 “Software” as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, SL, AT
+
+Control(s) | Country chart(see Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1
+
+SL applies to the entire entry as applicable for equipment, functions, features, or characteristics controlled by 5A001.f.1 | A license is required for all destinations, as specified in § 742.13 of the EAR. Accordingly, a column specific to this control does not appear on the Commerce Country Chart (Supplement No. 1 to Part 738 of the EAR).
+
+ | Note to SL paragraph: This licensing requirement does not supersede, nor does it implement, construe or limit the scope of any criminal statute, including, but not limited to the Omnibus Safe Streets Act of 1968, as amended.
+
+AT applies to entire entry | AT Column 1.
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions
+
+(See Part 740 for a description of all license exceptions).
+
+TSR: Yes, except for exports and reexports to destinations outside of those countries listed in Country Group A:5 (See Supplement No. 1 to part 740 of the EAR) of “software” controlled by 5D001.a and “specially designed” for items controlled by 5A001.b.5 and 5A001.h, and N/A for “software” classified under ECCN 5D001.a (for 5A001.j) or 5D001.c (for 5A001.j or 5B001.a (for 5A001.j)).
+
+ACE: Yes for 5D001.a (for 5A001.j) and 5D001.c (for 5A001.j or 5B001.a (for 5A001.j)), except to Country Group E:1 or E:2. See § 740.22 of the EAR for eligibility criteria.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship or transmit 5D001.a “software” “specially designed” for the “development” or “production” of equipment, functions or features, specified by ECCN 5D001.a (for 5A001.j) and 5D001.c (for 5A001.j or 5B001.a (for 5A001.j)) to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR); 5A001.b.3, .b.5 or .h; and for 5D001.b. for “software” “specially designed” or modified to support “technology” specified by the STA paragraph in the License Exception section of ECCN 5E001 to any of the destinations listed in Country Group A:6.
+
+List of Items Controlled
+
+Related Controls: See also 5D980 and 5D991.
+
+Related Definitions: N/A
+
+Items:
+
+a. “Software” “specially designed” or modified for the “development”, “production” or “use” of equipment, functions or features controlled by 5A001;
+
+b. [Reserved]
+
+c. Specific “software” “specially designed” or modified to provide characteristics, functions or features of equipment, controlled by 5A001 or 5B001;
+
+d. “Software” “specially designed” or modified for the “development” of any of the following telecommunication transmission or switching equipment:
+
+d.1. [Reserved]
+
+d.2. Equipment employing a “laser” and having any of the following:
+
+d.2.a. A transmission wavelength exceeding 1,750 nm; or
+
+d.2.b. Employing analog techniques and having a bandwidth exceeding 2.5 GHz; or
+
+Note: 5D001.d.2.b does not control “software” “specially designed” or modified for the “development” of commercial TV systems.
+
+d.3. [Reserved]
+
+d.4. Radio equipment employing Quadrature-Amplitude-Modulation (QAM) techniques above level 1,024.
+
+e. “Software”, other than that specified by 5D001.a or 5D001.c, “specially designed” or modified for monitoring or analysis by law enforcement, providing all of the following:
+
+e.1. Execution of searches on the basis of “hard selectors” of either the content of communication or metadata acquired from a communications service provider using a 'handover interface'; and
+
+Technical Notes:
+
+1. For the purposes of 5D001.e, a 'handover interface' is a physical and logical interface, designed for use by an authorised law enforcement authority, across which targeted interception measures are requested from a communications service provider and the results of interception are delivered from a communications service provider to the requesting authority. The 'handover interface' is implemented within systems or equipment (e.g., mediation devices) that receive and validate the interception request, and deliver to the requesting authority only the results of interception that fulfil the validated request.
+
+2. 'Handover interfaces' may be specified by international standards (including but not limited to ETSI TS 101 331, ETSI TS 101 671, 3GPP TS 33.108) or national equivalents.
+
+e.2. Mapping of the relational network or tracking the movement of targeted individuals based on the results of searches on content of communication or metadata or searches as described in 5D001.e.1.
+
+Note: 5D001.e does not apply to “software” “specially designed” or modified for any of the following:
+
+a. Billing purposes;
+
+b. Network Quality of Service (QoS);
+
+c. Quality of Experience (QoE);
+
+d. Mediation devices; or
+
+e. Mobile payment or banking use.

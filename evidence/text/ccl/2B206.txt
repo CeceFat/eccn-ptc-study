@@ -1,0 +1,69 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2B206；eCFR 2026-10-29〕
+
+2B206 Dimensional inspection machines, instruments or systems, other than those described in 2B006, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NP, AT
+
+Control(s) | Country chart(see Supp. No. 1to part 738)
+
+NP applies to entire entry | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 2D002 and 2D201 for “software” for items controlled under this entry. (2) See ECCNs 2E001 (“development”), 2E002 (“production”), and 2E201 (“use”) for technology for items controlled under this entry. (3) Also see ECCNs 2B006 and 2B996.
+
+Related Definitions: N/A
+
+Items:
+
+Control Notes to ECCN 2B206: (1) Machine tools that can be used as measuring machines are controlled by ECCN 2B206 if they meet or exceed the control parameters specified in this entry for the measuring machine function. (2) The machines described in ECCN 2B206 are controlled by this entry if they exceed the specified control threshold anywhere in their operating range.
+
+Technical Note to ECCN 2B206: All parameters of measurement values in this entry represent plus/minus, i.e., not total band.
+
+a. Computer controlled or numerically controlled coordinate measuring machines (CMM) with either of the following characteristics:
+
+a.1. Having only two axes with a maximum permissible error of length measurement along any axis (one dimension), identified as any combination of E0x MPE, E0y MPE or E0z MPE, equal to or less (better) than (1.25 + L/1,000) µm (where L is the measured length in mm) at any point within the operating range of the machine (i.e., within the length of the axis), according to ISO 10360-2 (2009); or
+
+a.2. Having three or more axes with a three dimensional (volumetric) maximum permissible error of length measurement, identified as E0, MPE, equal to or less (better) than (1.7 + L/800) µm (where L is the measured length in mm) at any point within the operating range of the machine (i.e., within the length of the axis), according to ISO 10360-2 (2009).
+
+Technical Note to 2B206.a.2: The E0, MPE of the most accurate configuration of the CMM specified according to ISO 10360-2 (2009) by the manufacturer (e.g., best of the following: Probe, stylus length, motion parameters, environment) and with all compensations available shall be compared to the 1.7 + L/800 µm threshold.
+
+b. Systems for simultaneous linear-angular inspection of hemishells, having both of the following characteristics:
+
+b.1. “Measurement uncertainty” along any linear axis equal to or less (better) than 3.5 µm per 5 mm; and
+
+b.2. “Angular position deviation” equal to or less than 0.02°.
+
+c. Linear displacement measuring systems having both of the following characteristics:
+
+c.1. Containing a “laser;” and
+
+c.2. Capable of maintaining, for at least 12 hours over a temperature range of ± 1 K around a standard temperature and a standard pressure, both:
+
+c.2.a. A “resolution” over their full scale of 0.1 µm or better; and
+
+c.2.b. A “measurement uncertainty” equal to or better (less) than (0.2 + L/2,000) µm (L is the measured length in millimeters).
+
+Control Note to 2B206.c: 2B206.c does not control measuring interferometer systems, without closed or open loop feedback, containing a “laser” to measure slide movement errors of machine tools, dimensional inspection machines, or similar equipment.
+
+Technical Note to 2B206.c: In 2B206.c, “linear displacement” means the change of distance between the measuring probe and the measured object.
+
+d. Linear Variable Differential Transformer (LVDT) systems having all of the following:
+
+d.1. Having any of the following:
+
+d.1.a. “Linearity” equal to or less (better) than 0.1% measured from 0 to the full operating range, for LVDTs with a full operating range up to and including ±5 mm; or
+
+d.1.b. “Linearity” equal to or less (better) than 0.1% measured from 0 to 5 mm for LVDTs with a 'full operating range' greater than ±5 mm; and
+
+d.2. Drift equal to or less (better) than 0.1% per day at a standard ambient test room temperature ±1 K.

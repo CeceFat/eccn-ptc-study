@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9B004；eCFR 2026-10-29〕
+
+9B004 Tools, dies or fixtures, for the solid state joining of “superalloy”, titanium or intermetallic airfoil-to-disk combinations described in 9E003.a.3 or 9E003.a.6 for gas turbines.
+
+Reason for Control: NS, MT, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1
+
+MT applies to equipment for engines controlled under 9A001 for MT reasons and for engines controlled under 9A101 | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: $3000, except N/A for MT
+
+GBS: Yes, except N/A for MT
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

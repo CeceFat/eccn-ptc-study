@@ -1,0 +1,49 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6A108；eCFR 2026-10-29〕
+
+6A108 Radar systems and tracking systems, other than those controlled by 6A008, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) This entry does not control airborne civil weather radar conforming to international standards for civil weather radars provided that they do not incorporate any of the following: (a) Phased array antennas; (b) Frequency agility; (c) Spread spectrum; or (d) Signal processing “specially designed” for the tracking of vehicles. (2) Items in 6A108.a that are “specially designed” or modified for “missiles” or for items on the U.S. Munitions List are “subject to the ITAR” (see 22 CFR parts 120 through 130).
+
+Related Definitions: Laser radar systems are defined as those that embody specialized transmission, scanning, receiving and signal processing techniques for utilization of lasers for echo ranging, direction finding and discrimination of targets by location, radial speed and body reflection characteristics.
+
+Items: a. Radar and laser radar systems designed or modified for use in “missiles”;
+
+Note: 6A108.a includes the following:
+
+a. Terrain contour mapping equipment;
+
+b. Imaging sensor equipment;
+
+c. Scene mapping and correlation (both digital and analog) equipment;
+
+d. Doppler navigation radar equipment.
+
+b. Precision tracking systems, usable for rockets, missiles, or unmanned aerial vehicles capable of achieving a “range” equal to or greater than 300 km, as follows:
+
+b.1. Tracking systems which use a code translator installed on the rocket or unmanned aerial vehicle in conjunction with either surface or airborne references or navigation satellite systems to provide real-time measurements of in-flight position and velocity;
+
+b.2. Range instrumentation radars including associated optical/infrared trackers with all of the following capabilities:
+
+b.2.a. Angular resolution better than 1.5 milliradians;
+
+b.2.b. Range of 30 km or greater with a range resolution better than 10 m rms;
+
+b.2.c. Velocity resolution better than 3 m/s.

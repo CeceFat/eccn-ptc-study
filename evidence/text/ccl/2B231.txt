@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2B231；eCFR 2026-10-29〕
+
+2B231 Vacuum pumps having all of the characteristics described in this ECCN (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NP, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NP applies to entire entry | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 2E001 (“development”), 2E002 (“production”), and 2E201 (“use”) for “technology” for items controlled under this entry. (2) Also see bellows-sealed scroll-type compressors and bellows-sealed scroll-type vacuum pumps controlled under ECCN 2B233. (3) Vacuum pumps “specially designed” or prepared for the separation of uranium isotopes are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110).
+
+Related Definitions: (1) The pumping speed is determined at the measurement point with nitrogen gas or air. (2) The ultimate vacuum is determined at the input of the pump with the input of the pump blocked off.
+
+Items: a. Input throat size equal to or greater than 380 mm;
+
+b. Pumping speed equal to or greater than 15 m 3/s; and
+
+c. Capable of producing an ultimate vacuum better than 13.3 mPa.

@@ -1,0 +1,1108 @@
+<html>
+<head>
+<title>Federal Register, Volume 89 Issue 138 (Thursday, July 18, 2024)</title>
+</head>
+<body><pre>
+[Federal Register Volume 89, Number 138 (Thursday, July 18, 2024)]
+[Rules and Regulations]
+[Pages 58265-58274]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2024-15810]
+
+
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Parts 734, 744 and 772
+
+[Docket No. 240712-0190]
+RIN 0694-AI06
+
+
+Standards-Related Activities and the Export Administration 
+Regulations
+
+AGENCY: Bureau of Industry and Security, Commerce.
+
+ACTION: Interim final rule with request for comments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: In this interim final rule, the Bureau of Industry and 
+Security (BIS) amends the Export Administration Regulations (EAR) to 
+revise the scope and the terms used in the EAR to describe ``standards-
+related activities'' that are subject to the EAR. BIS is making these 
+revisions to ensure that
+
+[[Page 58266]]
+
+export controls and associated compliance concerns do not impede the 
+participation and leadership of U.S. companies in legitimate standards-
+related activities.
+
+DATES: 
+    Effective date: This rule is effective July 18, 2024.
+    Comment date: Comments must be received by BIS no later than 
+September 16, 2024.
+
+ADDRESSES: You may submit comments, identified by docket number BIS-
+2020-0017 or RIN 0694-AI06, through the Federal eRulemaking Portal: 
+<a href="http://www.regulations.gov">http://www.regulations.gov</a>. Follow the instructions for submitting 
+comments. You can find this interim final rule by searching for its 
+<a href="http://regulations.gov">regulations.gov</a> docket number, which is BIS-2020-0017.
+    All filers using the portal should use the name of the person or 
+entity submitting comments as the name of their files, in accordance 
+with the instructions below. Anyone submitting business confidential 
+information should clearly identify the business confidential portion 
+at the time of submission, file a statement justifying nondisclosure 
+and referring to the specific legal authority claimed, and also provide 
+a non-confidential version of the submission.
+    For comments submitted electronically containing business 
+confidential information, the file name of the business confidential 
+version should begin with the characters ``BC.'' Any page containing 
+business confidential information must be clearly marked ``BUSINESS 
+CONFIDENTIAL'' on the top of that page. The corresponding non-
+confidential version of those comments must be clearly marked 
+``PUBLIC.'' The file name of the non-confidential version should begin 
+with the character ``P.'' The ``BC'' and ``P'' should be followed by 
+the name of the person or entity submitting the comments. Any 
+submissions with file names that do not begin with a ``BC'' or ``P'' 
+will be assumed to be public and will be made publicly available 
+through <a href="http://www.regulations.gov">http://www.regulations.gov</a>.
+
+FOR FURTHER INFORMATION CONTACT: Susan Kramer, Regulatory Policy 
+Division, Bureau of Industry and Security, Department of Commerce. 
+Phone: (202) 482-2440; Email: <a href="/cdn-cgi/l/email-protection#f2a18781939cdcb980939f9780b2909b81dc969d91dc959d84"><span class="__cf_email__" data-cfemail="70230503111e5e3b02111d1502301219035e141f135e171f06">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION:
+
+A. Background
+
+    Participation and leadership in standards development is crucial to 
+protecting and enhancing U.S. national and economic security and has 
+been instrumental to the global technological leadership of the United 
+States. Standards development underpins U.S. economic prosperity and 
+fortifies U.S. leadership in critical and emerging technologies. The 
+U.S. standards development system is unique because it is built upon a 
+wide variety of processes that are open, voluntary, decentralized, and 
+led by the private sector. These processes feature openness to 
+participation by materially interested stakeholders and consensus-based 
+decision making. Finalized standards are primarily published by private 
+sector standards organizations, not the U.S. Government.
+    On May 4, 2023, the Biden-Harris Administration announced the 
+``United States Government National Standards Strategy for Critical and 
+Emerging Technology'' (USG NSSCET). The USG NSSCET is intended to 
+support and complement existing private sector-led activities and 
+plans, including the American National Standards Institute (ANSI) 
+United States Standards Strategy (USSS), with a focus on critical and 
+emerging technology(ies) (CET). Consistent with the USG NSSCET 
+strategy, the Commerce Department is committed to engaging ``with a 
+broad range of private sector, academic and other key stakeholders, 
+including foreign partners, to address gaps and bolster U.S. 
+participation in [CET] standards development activities.'' As outlined 
+in the USG NSSCET, the U.S. Government is prioritizing efforts for CET 
+standards development in identified areas that are essential to U.S. 
+national security and competitiveness in critical industries including 
+biotechnologies; positioning, navigation and timing services; 
+communications and networking technologies; and quantum information 
+technologies among others. The USG NSSCET outlines four objectives 
+(investment, participation, workforce, and integrity and inclusivity) 
+and eight corresponding lines of effort to ensure that the United 
+States remains a global leader in developing merit-based standards that 
+embrace transparency, openness, impartiality and consensus, 
+effectiveness and relevance, coherence, and broad participation. More 
+information regarding the USG NSSCET can be found here: <a href="https://www.whitehouse.gov/wp-content/uploads/2023/05/US-Gov-National-Standards-Strategy-2023.pdf">https://www.whitehouse.gov/wp-content/uploads/2023/05/US-Gov-National-Standards-Strategy-2023.pdf</a>.
+    Since 2019, BIS has made a number of revisions to the EAR (15 CFR 
+parts 730-774) that have affected U.S. participation and leadership in 
+standards-related activities. Most recently, BIS published an interim 
+final rule, ``Authorization of Certain ``Items'' to Entities on the 
+Entity List in the Context of Specific Standards Activities'' (see 87 
+FR 55241 (September 9, 2022)) (the September 2022 rule), that amended 
+the EAR to authorize the release of specified items subject to the EAR 
+when such release is for a ``standards-related activity'' as defined in 
+the EAR (a term in double quotes indicates the term is defined in part 
+772 (Definition of Terms) of the EAR). Additional information about 
+that process, the listing of Huawei Technologies Co., Ltd and its non-
+U.S. affiliates (collectively ``Huawei''), and associated licensing 
+requirements can be found at 84 FR 22961 (May 21, 2019) (background 
+section providing a brief overview of how entities are added to the 
+Entity List); see also 87 FR at 55241 (background section describing 
+licensing requirements for Huawei as a result of being added to the 
+Entity List).
+    The revisions promulgated in the September 2022 rule sought to 
+ensure that export controls do not impede the participation and 
+leadership of U.S. companies in standards-related activities. As noted 
+in that rule, any impediment to U.S. participation in standards 
+development forums is a national security threat to the United States 
+because it not only limits U.S. leadership in standards development, 
+but other countries are already racing to replace U.S. participation 
+with their own leadership and standards. In many cases, a decrease in 
+U.S. participation not only undermines U.S. national security and 
+foreign policy interests but also contributes to a potential future 
+global standards environment that works to oppose U.S. interests.
+
+BIS Regulatory Actions and Standards
+
+    BIS has been actively involved on issues related to standards and 
+export controls since the addition of Huawei to supplement no. 4 to 
+part 744 (Entity List) of the EAR on May 16, 2019 (See 84 FR 22961 (May 
+21, 2019)). The addition of Huawei to the Entity List imposed a license 
+requirement on all exports, reexports and transfers (in-country) to 
+Huawei and its listed affiliates. Since that action and subsequent 
+additions of other Huawei affiliates to the Entity List, BIS has 
+engaged with industry as well as the interagency on export controls and 
+standards-related activities and has published two interim final rules 
+specific to how the EAR treat standards-related activities.
+
+(a) TGL and the June 2020 IFR
+
+    First, to avoid disruption to existing U.S. and global 
+telecommunications networks, on May 22, 2019, BIS issued
+
+[[Page 58267]]
+
+a Temporary General License (TGL) to authorize certain activities with 
+Huawei, including, among other things, U.S. industry's participation as 
+necessary for the development of 5G standards by a duly recognized 
+standards body when Huawei was also participating in the standards-
+related activities (see 84 FR 23468 (May 22, 2019)). The TGL was 
+subsequently extended through August 13, 2020. As the TGL was set to 
+expire, BIS published an interim final rule with a request for comment, 
+``Release of ``Technology'' to Certain Entities on the Entity List in 
+the Context of Standards Organizations'' (see 85 FR 36719, June 18, 
+2020) (the June 2020 rule), that amended the EAR to authorize the 
+release of certain technology to Huawei and its affiliates on the 
+Entity List.
+    The June 2020 rule defined ``standards'' and ``standards 
+organizations'' on the basis of the Office of Management and Budget 
+Circular A-119 (OMB A-119) definitions and authorized limited releases 
+of low-level ``technology'' and ``software'' to Huawei in the context 
+of ``standards'' in a ``standards organization.'' In public comments 
+received in response to the June 2020 rule, U.S. industry raised 
+concerns that the definitions and provisions promulgated in the June 
+2020 rule were chilling U.S. industry's participation in standards 
+development.
+    Standards development in the United States, unlike in other 
+countries, is driven by the private sector (e.g., industry, academia, 
+etc.), which is an important factor that has fueled effective U.S. 
+leadership in standards development. The U.S. Government takes a 
+consultative role in this process through the work of the Department of 
+Commerce's National Institute of Standards and Technology (NIST). 
+Although the countries from which standards proposals originate are 
+identified during standards development and setting activities, company 
+affiliations are generally not known and are not a requirement for 
+membership or participation.
+    Certain export control-related factors in the standards-making 
+process, including but not limited to BIS's increased use of end-use 
+and end-user controls, led to an environment of uncertainty for U.S. 
+companies. They stopped sharing information and data in international 
+standards bodies and in legitimate standards development activities 
+because of, e.g., the participation of entities listed on the Entity 
+List (other than Huawei) in standards bodies and standards development 
+activities. Standards bodies began to view the United States as a less 
+than ideal place to hold standards meetings and discussions, as U.S. 
+export controls introduced an element of non-openness which is contrary 
+to the spirit and definition of standards organization espoused by OMB 
+A-119. As a result, U.S. leadership in international standards 
+development was at risk in key industries. The lack of U.S. 
+participation in standards that form the foundation of future 
+industrial and commercial development worldwide directly and negatively 
+impacts U.S. national security, and limits U.S. global commercial 
+influence. This encourages foreign actors to develop and promote their 
+own standards across the global community at the expense of the United 
+States. Additionally, U.S. non-participation in the development of 
+standards affects U.S. companies as they must manufacture items that 
+meet foreign standards.
+
+(b) September 2022 IFR
+
+    In response to the public comments received on the June 2020 rule 
+and following renewed consultation among government agencies, BIS 
+published the September 2022 rule amending the EAR to authorize the 
+release of specified items subject to the EAR without a license to 
+entities added to the Entity List pursuant to Sec.  744.11 in the 
+narrow circumstance when that release occurs in the context of a 
+``standards-related activity,'' as defined in the September 2022 rule. 
+Specifically, BIS clarified the scope and application of standards 
+activities covered by the authorization by removing the defined terms 
+for ``standards'' and ``standards organization'' from the EAR and 
+adding a new definition for ``standards-related activity'' that more 
+accurately reflects the standards-setting landscape. BIS authorized the 
+release of ``software'' controlled for anti-terrorism (AT) reasons only 
+and items designated EAR99 (i.e., items subject to the EAR but not 
+identified on the Commerce Control List (supplement no. 1 to part 774) 
+(CCL)) in the scope of the authorization and included the release of 
+specific ``software'' and ``technology'' only for the ``development,'' 
+``production,'' and ``use'' of cryptographic functionality in the 
+authorization. The rule also required that the items were authorized 
+for release only if there was an intent to ``publish'' the resulting 
+standard. Additionally, the language regarding ``standards-related 
+activity'' was removed from the License Requirement column in the 
+Entity List and added to Sec. Sec.  744.11 and 744.16 of the EAR. The 
+September 2022 rule thus revised the scope of the standards 
+authorization to apply to entities on the Entity List with license 
+requirement solely referencing Sec.  744.11 and not other end use and 
+end user license requirements in other sections of parts 744 (Control 
+Policy: End-User and End-Use Based) and 746 (Embargoes and Other 
+Special Controls) of the EAR.
+    Prior to the June 2020 rule, the majority of entities on the Entity 
+list had, and continue to have, a license requirement that refers to 
+Sec.  744.11. Since the publication of the June 2020 rule, however, BIS 
+has published a number of rules that have expanded end-use and end-user 
+controls. As a result, since the publication of the June 2020 rule, 
+over 400 additional entities have been added to the Entity List with a 
+license requirement that references a provision other than Sec.  
+744.11. In recognition of these circumstances, in the September 2022 
+rule, BIS requested comments on whether excluding these other end-use 
+and end-user provisions of the EAR from the authorization would 
+negatively impact and prevent U.S. industry from actively participating 
+and leading in ``standards-related activities,'' or if export controls 
+and compliance concerns would continue to limit U.S. leadership and 
+participation in standards-related activities, thereby negatively 
+impacting U.S. commercial and national security interests.
+
+B. Changes to Licensing Requirements in the Context of Specific 
+Standards Activities
+
+    Based on public comments received from the September 2022 rule (as 
+summarized in Section D), as well as continued discussions with other 
+U.S. Government agencies and industry, BIS is amending the EAR to 
+ensure that export controls and associated compliance concerns do not 
+continue to impede or jeopardize U.S. participation and leadership in 
+legitimate standards-related activities. The national security threat 
+that results from ceding, and in some cases ceasing, U.S. participation 
+and leadership in standards development and promulgation far outweighs 
+the risks related to the limited release of the authorized low-level 
+technology and software to parties on the Entity List when released in 
+the context of a ``standards-related activity.'' BIS has concluded that 
+excluding end-use and end-user controls from the authorization has had 
+and will continue to have unintended negative consequences on the U.S. 
+national security interests by curtailing U.S. involvement in 
+legitimate standards-related activities.
+    As further detailed in the White House report on USG NSSCET
+
+[[Page 58268]]
+
+discussing the key objective of U.S. participation, the U.S. Government 
+is taking action to ``remove and prevent barriers to private sector 
+participation in standards development.'' Standards activities and 
+development will continue to drive technological and industrial growth 
+with or without input from U.S. companies. For U.S. industry to keep 
+its leadership role and continued participation in standards 
+development, especially in critical and emerging technologies 
+identified in the USG NSSCET, the U.S. Government must address this 
+issue comprehensively. As public comments to prior efforts to control 
+exports related to standards development have shown, not addressing 
+U.S. industry's uncertainty regarding the end-use and end-user controls 
+in the EAR is counterproductive and endangers U.S. commercial and 
+strategic interests over the long term. To address these concerns and 
+to further streamline and clarify controls over technology and software 
+subject to the EAR as related to standards-related activities, BIS is 
+making the following revisions to the EAR:
+    1. Moving the authorization for ``standards-related activity'' that 
+was added to Sec.  744.11 in the September 2022 rule to Sec.  734.10. 
+BIS is also making necessary conforming changes to Sec.  744.16 and the 
+introductory paragraph to supplement no. 4 to Part 744. This final rule 
+does not change existing provisions in these sections regarding patents 
+and whether they are subject to the EAR.
+    2. Revising the existing definition of `standards-related activity' 
+and adding the revised definition to Sec.  734.10. This rule clarifies 
+that a ``standards-related activity'' includes activities conducted 
+with the intent to ``publish'' a standard as well as those conducted 
+for an already ``published'' standard. BIS revises the definition of 
+``standards-related activity'' to remove the phrase ``with which 
+compliance is not mandatory.'' In addition, in Part 772, BIS is 
+revising the definition for ``standards-related activity'' to reference 
+Sec.  734.10.
+    When ``technology'' or ``software'' is released for a ``standards-
+related activity,'' the same item scope promulgated in the September 
+2022 continues to apply, i.e., specific ``technology'' or ``software'' 
+is not subject to the EAR if the item is designated EAR99, controlled 
+on the CCL for anti-terrorism (AT) reasons only, or the release is of 
+specified ``software'' and ``technology'' when specifically for the 
+``development,'' ``production,'' and ``use'' of cryptographic 
+functionality.
+
+C. Request for Additional Public Comments for This Interim Final Rule
+
+    Instructions for submission of comments, including comments that 
+contain business confidential information, are found in the ADDRESSES 
+section of this interim final rule. BIS is requesting comment on 
+whether the revisions promulgated in this interim final rule 
+effectively promote Objective 2 of the USG NSSCET by removing and 
+preventing barriers to private sector participation in standards 
+development.
+
+D. Summary and Response to Comments Received Regarding the September 
+2022 Standards Interim Final Rule
+
+    The summary and responses to the nine relevant comments that BIS 
+received from the September 2022 interim final rule have been separated 
+into seven topic areas. For topics in which the comments expressed the 
+same or very similar viewpoints, BIS has addressed them by topic area 
+rather than by individual comment. For topic areas in which the 
+commenters expressed unique viewpoints, thoughts, or ideas, BIS has 
+addressed the individual comments. The majority of comments have been 
+addressed by the revisions to the EAR promulgated in this rule. BIS 
+greatly appreciates the public comments received and encourages 
+continued engagement and feedback.
+    Topic Area 1: Limits on standards-related activities due to export 
+controls creates economic and national security risks for the United 
+States.
+    Five commenters noted that any chilling of U.S. participation and 
+leadership in standards development creates new security risks and 
+vulnerabilities that threaten U.S. economic and national security 
+interests. For example, one commenter stated that when its organization 
+is restricted from engaging in information-sharing activities because 
+those activities are not covered under the definition of ``standards-
+related activities,'' its organization loses the opportunity to receive 
+valuable and potentially time-sensitive information about cyber 
+incidents, threats, and vulnerabilities as well as the ability to 
+further discuss those issues among the organization's members and 
+identify needed and appropriate resolutions.
+    Another commenter stated that ``it is important that there be a 
+two-way communication regarding security vulnerabilities discovered in 
+hardware and software items. If participation of Entity List entities 
+is restricted, then security vulnerabilities discovered by these 
+entities, many of which are quite large, may be withheld as they 
+develop their own competing standards after being locked out of access 
+to participation.'' The same commenter went on to state that ``we 
+believe that the revised EAR exemption, as amended by the IFR, 
+continues to work against the stated intent of the IFR and against the 
+national security interests of the United States by prohibiting the 
+dissemination of technology and software subject to the EAR in the 
+context [of] standards-related activity when these specified items are 
+released by open membership organizations'' that develop their 
+standards via an open process available to any member.
+    Response: BIS understands, as commenters have stated, that limits 
+on the sharing of information in a standards development environment 
+have both economic and national security implications. The national 
+security threat that results from ceding U.S. participation and 
+leadership in standards development and promulgation far outweighs the 
+risks related to the limited release of low-level technology and 
+software to parties on the Entity List in the context of a ``standards-
+related activity'' that supports U.S. commercial and economic 
+interests. Therefore, in this rule, BIS is amending part 734 of the EAR 
+so that activities that meet the definition of ``standards-related 
+activity'' are no longer subject to the EAR. Specifically, when 
+released for a ``standards-related activity,'' ``technology'' or 
+``software'' is not subject to the EAR if it meets the item scope of 
+734.10(b)(1) and is released for a ``published'' standard and/or occurs 
+with the intent that the resulting standard will be ``published.''
+    The USG NSSCET specifically highlights U.S. leadership in standards 
+development of critical technologies. The USG NSSCET Executive Summary 
+explicitly states that: ``strength in standards development has been 
+instrumental to the United States' global technological leadership. 
+Standards development underpins economic prosperity across the country 
+and fortifies U.S. leadership in the industries of the future at the 
+same time. Bolstering U.S. engagement in standards for critical and 
+emerging technology (CET) spaces will strengthen U.S. economic and 
+national security.''
+    Additionally, the Export Control Reform Act of 2018 (ECRA; 50 
+U.S.C. 4801-4852) states under Sec.  4811(3) that: ``the national 
+security of the United States requires that the United States maintain 
+its leadership in the science,
+
+[[Page 58269]]
+
+technology, engineering, and manufacturing sectors, including 
+foundational technology that is essential to innovation. Such 
+leadership requires that United States persons are competitive in 
+global markets.''
+    Both the USG NSSCET and ECRA support and endorse the revisions to 
+the EAR to ensure that export controls and licensing requirements do 
+not prove detrimental to or limit the ability of U.S. industry to 
+participate in and lead international standards development across 
+industries, especially in areas critical to United States industrial, 
+commercial, and national security leadership.
+    Topic Area 2: U.S. export controls continue to hinder U.S. 
+leadership and participation in international standards development.
+    Six commenters expressed concern that the export controls and 
+license requirements related to the sharing of information in a 
+standards-development forum, as implemented in the September 2022 rule, 
+were continuing to hinder and chill U.S. companies' participation in 
+international standards development. Specifically, one commenter stated 
+that ``[o]pen standardization is critical to U.S. leadership across 
+established and emerging technology areas and limiting [the] ability of 
+SSO's [standard setting organizations] would provide significant 
+barriers to U.S. participation and leadership in standardization.'' 
+Another commenter noted that the current authorization is 
+``[i]nsufficient to maintain U.S. leadership at organizations that work 
+on standards'' and that it does not adequately ``support global 
+cooperation on other critical activities conducted by standards 
+organizations.'' One commenter stated that unless BIS broadens the 
+scope of the authorization, they anticipate that the organization's 
+legal department will not allow it to participate in any meetings at 
+which Entity List parties could potentially be in attendance.
+    Four commenters noted that the export controls and license 
+requirements that apply only to U.S. companies have the effect of 
+walling off U.S. standards development from global development and 
+allowing foreign actors to develop and promote their own standards 
+across the global community at the expense of the United States. One of 
+the commenters stated that controls that lead SSOs to limit U.S. 
+entities' participation in global standards development will ``fragment 
+the standardization ecosystem that has served U.S. interests well to 
+date . . . .'' Another commenter stated that compliant use of the 
+limited authorization ``would impose a significant compliance burden as 
+international standards organizations would need to restructure groups 
+to isolate standards related activities from other activities and spend 
+resources to monitor communications among members.'' As noted above, 
+another commenter said, ``if participation of Entity List entities is 
+restricted, then security vulnerabilities discovered by these entities, 
+many of which are quite large, may be withheld as they develop their 
+own competing standards after being locked out of access to 
+participation.'' Finally, a commenter noted that artificial limits on 
+sharing of information favors compliance by larger commercial 
+enterprises at the expense of smaller parties, including other 
+standards organizations that do not have the same resources as large 
+commercial operations.
+    Response: BIS agrees that the September 2022 authorization is not 
+broad enough to allow U.S. companies to participate freely in standards 
+development due to uncertainty regarding whether the information they 
+are sharing is subject to the EAR and, if so, whether EAR license 
+requirements apply. BIS recognizes the importance of protecting 
+sensitive and leading-edge U.S. technology but understands the national 
+security implications of limiting U.S. participation and leadership in 
+international standards development. BIS appreciates that the U.S. 
+Government needs to apply U.S. export controls in a way that supports 
+and encourages U.S. technological leadership in standards development, 
+particularly in light of efforts by adversarial countries to 
+coordinate, subsidize, and promote activities in international 
+standards bodies for the benefit of their own enterprises and industry 
+leadership. BIS also recognizes that an environment of competing 
+national standards or the exclusion of U.S. companies in international 
+standards development is not advantageous to U.S. commercial or 
+national security interests. Therefore, in this final rule, BIS has 
+made ``standards-related activities'' not subject to the EAR as long as 
+the ``release'' of the ``software'' or ``technology'' during these 
+activities meets the criteria contained in revised Sec.  734.10 of the 
+EAR. This treatment of ``standards-related activity'' as defined in 
+Sec.  734.10 will support U.S. companies' efforts to create and 
+maintain a leadership position in the global standards community in all 
+industries.
+    BIS further agrees that fragmentation in the standards development 
+environment could provide foreign actors and organizations with an 
+opening to develop their own unique and separate international 
+standards, without U.S. industry input or participation, and at the 
+expense of U.S. commercial and national security interests. This 
+fragmentation leads to significant disadvantages for U.S. industry by 
+providing foreign actors with the opportunity to specify their own 
+indigenous benchmarks that U.S. companies must adhere to or lose market 
+share. U.S. non-participation in the foreign development of such 
+standards also affects U.S. companies' bottom line as they must revise 
+their manufacturing processes to meet the foreign standards. This final 
+rule alleviates such concerns by providing U.S. companies the ability 
+to freely participate in all standards-development forums by making the 
+release of software or technology in such forums not subject to the 
+EAR, provided the releases meet the criteria of new Sec.  734.10(b) of 
+the EAR. It also obviates the need for U.S. companies to wall off their 
+input into global standards development.
+    Topic Area 3: Revise the definition of ``standards-related 
+activity.''
+    BIS received comments requesting that the agency revise, expand, 
+and clarify the definition of ``standards-related activity.''
+    Four commenters suggested that BIS should expand the definition of 
+``standards-related activity.'' One commenter stated that the 
+definition should include but not be limited to ``the sharing of 
+technical assistance and exchange of information within conformity 
+assessment procedures, with the intent that the resulting standard will 
+be ``published'' in order to clarify that sharing and exchanging 
+technical information is within the scope of the authorization. Another 
+commenter suggested that the definition is too narrow and should be 
+expanded to ``activities outside of ``standards-related activities'' '' 
+so as to include ``many vital functions of international standards 
+organizations that are necessary and incidental to standards related 
+activity but may be conducted outside the context of standards 
+development, such as fostering the exchange of information on 
+developing industry trends and discussions of emerging issues among 
+members.'' Another commenter suggested expanding the definition ``to 
+include information sharing activities by members of standards 
+organizations on emerging issues and developments.'' The last commenter 
+on this topic proposed allowing a standards-related activity to occur 
+if conducted in a Voluntary Consensus Standards Body
+
+[[Page 58270]]
+
+(VCSB), as defined by OMB Circular A-119. In the September 2022 rule, 
+BIS removed the ``standards organization'' definition and replaced it 
+with a ``standards-related activity authorization.'' According to the 
+commenter, however, the VCSB definition does not require that standards 
+be ``published.''
+    Five commenters requested that BIS remove the word mandatory from 
+the definition of ``standards-related activity'' in part 772 of the 
+EAR. Essentially all of the commenters stated that in the context of 
+standards development, whether or not a standard will be voluntary or 
+mandatory makes no difference to the stakeholders involved in the 
+development of the standard. Additionally, some voluntary standards 
+become mandatory when adopted through national (domestic) regulations, 
+such as international aircraft standards promulgated by the 
+International Civil Aviation Organization (ICAO).
+    Five commenters stated that the current wording of the 
+authorization implied that standards-related activities were covered by 
+the authorization only before or during publication of the standard. 
+These commenters asked for clarification that such activities continued 
+to be covered by the authorization after publication of the standards. 
+One commenter noted that conformance testing is a vital component in 
+the commercialization of standards compliant products and that the 
+``vast majority of such activities only usefully occur after a standard 
+has been published and compliant products have been produced.'' Another 
+commenter noted that ``BIS already provides examples of activities that 
+occur in connection with already published standards (promulgating, 
+revising, amending, reissuing, interpreting, implementing . . .)'' but 
+that such actions do not occur for a standard that does not yet exist. 
+These commenters gave examples of three SSOs engaged in cellular, 
+wireless, and other devices that routinely engage in standards-related 
+activities for already published standards, such as conformity 
+assessments. Two commenters requested clarification on whether 
+organizations that are not VCSBs that ``require a party to be a member 
+of an organization to receive standards in their final form'' would 
+qualify for the authorization.
+    One commenter suggested that BIS extend the current authorization 
+to additional standards activities that occur before the standard is 
+published. According to this commenter, in information and 
+communications technology (ICT) ``compliance testing also includes pre-
+product release activities intended to help products reliably 
+interoperate with other products implementing the same standards. The 
+need for such activities arises from the fact that ICT standards 
+frequently do not provide sufficient detail to ensure complete 
+interoperability without additional tinkering.'' This commenter 
+suggests that the additional tinkering is often done via a ``plugfest'' 
+which is ``an activity that allows competing vendors to meet and test 
+their products against each other, often anonymous to each other, to 
+work out the final technical changes necessary to allow consumers and 
+business purchasers to achieve the type of `plug and play' ease of use 
+they require. Because plugfests are usually conducted before products 
+reach the marketplace, and often before their existence or 
+specifications have been publicly disclosed, they are non-public and 
+conducted on a confidential basis. Typically, the technical information 
+exchanged one on one between two vendors includes only that information 
+that is necessary to allow each vendor to work out the cause of a lack 
+of compatibility.''
+    Response: BIS agrees with most of these comments. In new Sec.  
+734.10(b), BIS revises and clarifies the scope of what is authorized 
+when released for a ``standards-related activity.'' When released for a 
+``standards-related activity,'' ``technology'' or ``software'' is not 
+subject to the EAR once it meets at least one condition in both Sec.  
+734.10(b)(1) and (2). The scope of the ``technology'' or ``software'' 
+covered by the authorization has not been revised and is now listed in 
+Sec.  734.10(b)(1). The conditions in Sec.  734.10(b)(2) clarify that 
+activities that occur after the publication of a standard are included 
+in the definition of ``standards-related activity''--i.e., a 
+``standards-related activity'' occurring specific to an already 
+``published'' standard is included in the authorization. BIS also 
+removed the phrase ``with which compliance is not mandatory'' from the 
+definition of ``standards-related activity.''
+    BIS is not expanding the definition of ``standards-related 
+activity'' to include activities that are conducted in a VCSB as the 
+expansion is unwarranted. Based on public comment and engagement with 
+other agencies, BIS has determined that the relevant activities of a 
+VCSB are already captured in the definition of ``standards-related 
+activity'' or, as in the example provided by the commenter, not subject 
+to the EAR (see discussion in Topic Area 4). BIS welcomes public 
+comments on whether there are additional VCSB activities that are 
+excluded from the current definition of ``standards-related activity'' 
+and remain subject to the EAR.
+    Topic Area 4: Expand the definition of ``published in Sec.  734.7 
+of the EAR.''
+    Comment: Six commenters suggested that the definition of 
+``published'' be expanded to cover standards development activities. 
+One commenter suggested that the EAR's definition of ``published'' 
+should be expanded to include the ``sharing of technical assistance and 
+exchange of information within conformity assessment procedures.''
+    Response: The definition of ``standards-development activity'' in 
+part 772 already explicitly includes the exchange of technical data in 
+the conformity process provided it is for the purpose of standards-
+development activities. Therefore, no further revisions are warranted 
+to the definition of ``published'' to reference the exchange of 
+technical data.
+    Comment: Another commenter suggested amending the text of Sec.  
+734.7 of the EAR to replace the phrase ``without restrictions upon its 
+further dissemination'' with the phrase ``in hard copy or electronic 
+form available from, or viewable at, one or more public websites.'' The 
+commenter makes this suggestion because ``virtually all standards bear 
+copyright notices, and many standards setting organizations (SSOs) add 
+further legends highlighting that copying and further distribution of 
+their standards are prohibited. Some vigorously defend their copyrights 
+in court.'' While it is true that many SSOs (and particularly 
+consortia) give their standards away for free, most traditional SSOs 
+derive a significant percentage of their revenues from the sale of 
+their standards. Thus, in the view of this commenter, ``requiring 
+unlimited downstream distribution'' as provided in existing Sec.  734.7 
+``would violate the copyrights of SSOs.''
+    Response: BIS believes that the regulatory amendments to Sec.  
+734.10 of the EAR promulgated in this rule obviate the need to amend 
+Sec.  734.7 of the EAR to account for standards that may be 
+copyrighted. In this final rule, BIS has removed ``standards-related 
+activities'' from being subject to the EAR, as long as the release of 
+the ``software'' or ``technology'' meets the definition of a 
+``standards-related activity'' as defined in part 772 of the EAR, and 
+meets the requirements for ``release'' in new Sec.  734.10(b)(1) and 
+the conditions of its ``release'' in new Sec.  734.10(b)(2) of the EAR.
+
+[[Page 58271]]
+
+    According to the criteria in new Sec.  734.10(b)(2), the 
+``standards-related activity'' must be either for a ``published'' 
+standard or occurs with the intent that the resulting standard will be 
+``published.''
+    Comment: Another commenter asked for confirmation that ``the 
+references to `published' standards in the definition are not limited 
+to standards-related activities only by those involved in the 
+standard's development.'' The commenter also asked for confirmation 
+that a third-party entity that is not a member of the organization that 
+published the standard (for example, a consortium or a certification 
+authority) but engages in ``standards-related activity'' with that 
+standard is consistent with the definition of ``published'' as used in 
+the definition of ``standards-related activity.''
+    Response: BIS confirms that this scenario is consistent with the 
+definition of ``standards-related activity'' in Sec.  734.10 and the 
+definition of ``published'' in Sec.  734.7 of the EAR. The changes in 
+this rule remove standards-related activities from being subject to the 
+EAR when the stated conditions are met; as long as the conditions in 
+new Sec.  734.10(b)(1) and (2) are met, then the activities would not 
+be subject to the EAR.
+    Comments: One commenter stated that their organization's ``model of 
+open membership dissemination does not publish in conformity with the 
+strict publish definition used in the IFR'' because although it makes 
+standards readily available to the public, the interested member of the 
+public must also be ``willing to agree to the terms and conditions in 
+its membership agreement and pay its dues.'' The organization releases 
+the resulting standards to all members without restriction. According 
+to that commenter, ``this model does not conform to the strict 
+definition of `published', so [the organization's] standards-related 
+activities do not qualify for the exemption under the terms of the 
+IFR.''
+    Another commenter suggested that the definition of ``published'' be 
+amended ``to include dissemination to membership organization . . . 
+that are open to the public without restriction, apart from 
+confidentiality responsibilities, standard terms and conditions, a 
+demonstrated interest in the design, development, manufacture or sale 
+of products or services which utilize the standards at issue, and dues 
+or membership fees.'' An additional commenter requested clarification 
+regarding the definition of ``published'' to make ``clear whether BIS 
+recognizes that some standards organizations require a party to be a 
+member of the organization to receive standards in their final form.''
+    Response: The relevant criteria in Sec.  734.7 of the EAR that 
+makes information not subject to the EAR is applicable when the 
+information has been made available to the public without restrictions 
+upon its further dissemination. This does not rely on cost or 
+membership, provided that any member of the interested public could pay 
+the associated membership dues and become a member if they so desired. 
+Further, Sec.  734.7(a)(1) states that unclassified ``technology'' or 
+``software'' is ``published'' and therefore not subject to the EAR, 
+when it has been made available to the public without restrictions upon 
+its further dissemination such as through ``subscriptions available 
+without restriction to any individual who desires to obtain or purchase 
+the published information.''
+    Topic Area 5: Apply standards authorization to sections of EAR 
+other than Sec.  744.11.
+    Three commenters expressed concern that the September 2022 
+authorization continued to chill U.S. industry participation in 
+international standards development because it applied only to releases 
+of ``software'' and ``technology'' to entities that were added to the 
+Entity List under Sec.  744.11 of the EAR. These commenters noted that 
+to allow the United States to freely participate in standards 
+development forums, the authorization must be extended to all end users 
+listed in part 744 of the EAR. One commenter stated the ``Entity (L)ist 
+is not all encompassing of potentially restricted parties, particularly 
+within context of EAR Part 744. Parties having other [part 744] 
+designations (such as military end-users (MEU) in Sec.  744.21) may be 
+present in such meetings or could otherwise receive the output 
+documentation of such meetings.'' Another commenter noted that the 
+authorization ``does not address territorial and end-use/end-user 
+controls beyond the Entity List,'' which have affected standards 
+organizations and that deter U.S. companies from participating and 
+requiring standards organization to restrict their participation. All 
+three commenters requested the expansion of the authorization to the 
+release of the same types of items enumerated in Sec.  744.11(a)(1) to 
+other part 744 end users.
+    Another commenter stated that modifications such as expansion or 
+flexibility should be applied to the end-use and end-user controls to 
+enable U.S. industry to remain a thought-leader on standards-related 
+activities. According to this commenter, the current authorization 
+``requires the U.S. party to continually monitor membership of a 
+standards organization to determine whether only parties on the Entity 
+List are present or whether other restricted parties are potential 
+recipients.'' This requires U.S. parties to ``over screen'' and 
+continuously perform and refresh their due diligence to ensure that a 
+non-designated party has not been added to one of the restricted lists.
+    Two additional commenters expressed the same concern with regard to 
+the amount of resources required to continuously monitor the end-use 
+and end-user controls in part 744 of the EAR. These commenters 
+suggested that the standards authorization be extended to other 
+sections in part 744 but that this extension could be limited to 
+countries listed in Country Group E (supplement no. 1 to part 740) of 
+the EAR.
+    Another commenter noted that the current sanctions and resulting 
+license requirements for Russia and Belarus extend to certain EAR99 and 
+AT-only controlled items; therefore, these restrictions have an even 
+larger effect on U.S. participation in standards development than 
+Entity List designations. This commenter stated that as long as the 
+standards-related authorization ``does not apply to MEU or parties in 
+Russia or Belarus, the international standards environment is likely to 
+continue to fragment, which undermines U.S. leadership in these 
+areas.'' This commenter also recommended expanding the authorization to 
+parties outside of Country Group E that are not on the Entity List ``so 
+that standards organizations (and U.S. membership) can fully benefit 
+from the intent of the [authorization].''
+    Three commenters requested that the current standards authorization 
+be expanded to all entities on the Entity List (supplement no. 4 to 
+part 744). One commenter noted that such an expansion would be 
+``critical to US leadership across established and emerging technology 
+areas'' and that limiting the authorization to only Entity List 
+entities provides ``significant barriers to U.S. participation and 
+leadership in standardization, fragment[s] the standardization 
+ecosystem that has served U.S. interests well to date and create[s] new 
+security risks and vulnerabilities that threaten U.S. economic and 
+national security interests.'' Another commenter noted that unless BIS 
+broadens the scope of the authorization, they anticipate that the 
+organization's legal department will
+
+[[Page 58272]]
+
+not allow it to participate in meetings that may include Entity List 
+entities.
+    Response: The September 2022 rule expanded the scope of the 
+authorization of releases of ``software'' and ``technology'' to all 
+entities that were added to the Entity List under Sec.  744.11 of the 
+EAR.
+    This rule addresses the commenter's other concerns by removing from 
+EAR jurisdiction ``technology'' and ``software'' listed in new Sec.  
+734.10(b)(1) when they meet at least one condition in new Sec.  
+734.10(b)(2). This means that the ``technology'' and ``software'' will 
+not be subject to the EAR when released for standards-related 
+activities as that term is defined in part 772 of the EAR to all end 
+users listed in part 744 of the EAR.
+    BIS notes that this change affects major industries in which global 
+participation is crucial to create, maintain, and monitor international 
+safety and operability standards. For example, as two commenters 
+pointed out, the Russian Federal Air Transportation Agency (FATA) and 
+the U.S. Federal Aviation Administration (FAA) both participate in the 
+ICAO, an agency of the United Nations that coordinates the principles 
+and techniques of international air navigation and sets worldwide 
+standards for civil aviation safety. ICAO has members that are subject 
+to unilateral U.S. export controls under part 744 of the EAR beyond the 
+Entity List; however, U.S. participation in the forum is crucial in 
+furtherance of U.S. support of civil air safety, security, efficiency, 
+capacity, and environmental protection and so that the commercial 
+interests of U.S. aircraft manufacturers and aviation equipment 
+manufacturers are sufficiently presented in the discussions. Lack of 
+U.S. participation would cede the development of international 
+standards to foreign actors that may not only disregard U.S. commercial 
+and national security interests but actively work to destabilize them.
+    This rule addresses these concerns by removing from EAR 
+jurisdiction ``technology'' and ``software'' listed in new Sec.  
+734.10(b)(1) when they meet at least one condition in new Sec.  
+734.10(b)(2). This means that the specified ``technology'' and 
+``software'' will not be subject to the EAR when released for 
+standards-related activities as that term is discussed in 734.
+    Topic Area 6: Current authorization and license requirements 
+increase the compliance burden for U.S. companies.
+    Four commenters stated that the current authorization increases the 
+export control compliance burden of U.S. companies and standards 
+organizations and their members. Two commenters stated this sentiment 
+explicitly, with one commenter adding that ``compliant use of the 
+exemption IFR would impose a significant compliance burden as 
+international standards organizations would need to restructure groups 
+to isolate standards related activities from other activities and spend 
+resources to monitor communications among members.'' A third commenter 
+stated that ``analyzing and complying with uneven or inconsistent rules 
+and exemptions requires additional resources that [their organization] 
+could allocate to projects, training, or developing standards.'' The 
+requester asked that BIS keep in mind that it (and other standards 
+organizations) do not have the same resources as large commercial 
+operations.'' However, another commenter stated that the changes 
+promulgated in the September 2022 rule reduced the compliance burden on 
+their organization.
+    Response: One organization's compliance burden has been reduced 
+under the existing regulations, and with the publication of this rule 
+and the changed focus on the activities themselves, BIS fully expects 
+that the compliance burden for the other organizations will also be 
+reduced. This is because this rule removes from EAR jurisdiction 
+``technology'' and ``software'' listed in new Sec.  734.10(b)(1) when 
+they meet at least one condition in new Sec.  734.10(b)(2). 
+Accordingly, the listed ``technology'' and ``software'' will not be 
+subject to the EAR when released for ``standards-related activities'' 
+as that term is discussed in part 734 of the EAR.
+    Topic Area 7: Use clear language and clarification.
+    One commenter suggested that BIS use clear language and 
+clarification in future regulations. Specifically, this commenter 
+stated that ``any efforts to simplify, clarify or limit [the 
+technology] restrictions would be gratefully received by SSO's, their 
+decision makers, and their members.''
+    Response: BIS will continue to strive to use clear language and to 
+use guidance, including a frequently asked questions (FAQ) document, to 
+further clarify published regulations in accordance with the Plain 
+Writing Act of 2010.
+
+Export Control Reform Act of 2018
+
+    On August 13, 2018, the President signed into law the John S. 
+McCain National Defense Authorization Act for Fiscal Year 2019, which 
+included the Export Control Reform Act of 2018 (ECRA) (codified, as 
+amended, at 50 U.S.C. 4801-4852). ECRA provides the legal basis for 
+BIS's principal authorities and serves as the authority under which BIS 
+issues this rule.
+
+Rulemaking Requirements
+
+    1. Executive Orders 13563 and 12866 direct agencies to assess all 
+costs and benefits of available regulatory alternatives and, if 
+regulation is necessary, to select regulatory approaches that maximize 
+net benefits (including potential economic, environmental, public 
+health and safety effects, distributive impacts, and equity). E.O. 
+13563 emphasizes the importance of quantifying both costs and benefits, 
+of reducing costs, of harmonizing rules, and of promoting flexibility. 
+This interim final rule has been designated as significant for purposes 
+of Executive Order 12866.
+    2. Notwithstanding any other provision of law, no person is 
+required to respond to or be subject to a penalty for failure to comply 
+with a collection of information, subject to the requirements of the 
+Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), unless 
+that collection of information displays a currently valid Office of 
+Management and Budget (OMB) Control Number. This interim final rule 
+involves the collection currently approved by OMB under control number 
+0694-0088, Simplified Network Application Processing System, which 
+includes, among other things, license applications. Total burden hours 
+associated with the PRA and OMB control number 0694-0088 are not 
+expected to change because this rule does not impose any additional 
+license requirements. Current information regarding this collection of 
+information--including all background materials--can be found at 
+<a href="https://www.reginfo.gov/public/do/PRAMain">https://www.reginfo.gov/public/do/PRAMain</a> by using the search function 
+to enter either the title of the collection or the OMB Control Number.
+    3. This rule does not contain policies with Federalism implications 
+as that term is defined in Executive Order 13132.
+    4. Pursuant to section 1762 of ECRA, this action is exempt from the 
+Administrative Procedure Act (5 U.S.C. 553) requirements, including 
+prior notice and the opportunity for public comment.
+    5. Because a notice of proposed rulemaking and an opportunity for 
+public comment are not required to be given for this rule by 5 U.S.C. 
+553, or by any other law, the analytical requirements of the Regulatory 
+Flexibility Act, 5 U.S.C. 601, et seq., are
+
+[[Page 58273]]
+
+not applicable. Accordingly, no regulatory flexibility analysis is 
+required, and none has been prepared.
+
+List of Subjects
+
+15 CFR Part 734
+
+    Administrative practice and procedure, Exports, Inventions and 
+patents, Research, Science and technology.
+
+15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+15 CFR Part 772
+
+    Exports.
+
+    Accordingly, parts 734, 744 and 772 of the Export Administration 
+Regulations (15 CFR parts 730 through 774) are amended as follows:
+
+PART 734--SCOPE OF THE EXPORT ADMINISTRATION REGULATIONS
+
+0
+1. The authority citation for 15 CFR part 734 is revised to read as 
+follows:
+
+    Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 
+950; E.O. 13020, 61 FR 54079, 3 CFR, 1996 Comp., p. 219; E.O. 13026, 
+61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 
+CFR, 2001 Comp., p. 783; E.O. 13637, 78 FR 16129, 3 CFR, 2014 Comp., 
+p. 223; Notice of November 1, 2023, 88 FR 75475 (November 3, 2023).
+
+
+0
+2. Amend Sec.  734.3 by revising paragraph (b)(3)(iv) to read as 
+follows:
+
+
+Sec.  734.3  Items subject to the EAR.
+
+* * * * *
+    (b) * * *
+    (3) * * *
+    (iv) Appear in patents or open (published) patent applications 
+available from or at any patent office, unless covered by an invention 
+secrecy order, or are otherwise patent information or are for a 
+standards-related activity as described in Sec.  734.10;
+* * * * *
+
+0
+3. Section 734.10 is revised to read as follows:
+
+
+Sec.  734.10   Patents and standards-related activity.
+
+    (a) Patents. ``Technology'' is not subject to the EAR if it is 
+contained in any of the following:
+    (1) A patent or an open (published) patent application available 
+from or at any patent office;
+    (2) A published patent or patent application prepared wholly from 
+foreign-origin ``technology'' where the application is being sent to 
+the foreign inventor to be executed and returned to the United States 
+for subsequent filing in the U.S. Patent and Trademark Office;
+    (3) A patent application, or an amendment, modification, supplement 
+or division of an application, and authorized for filing in a foreign 
+country in accordance with the regulations of the Patent and Trademark 
+Office, 37 CFR part 5; or
+    (4) A patent application when sent to a foreign country before or 
+within six months after the filing of a United States patent 
+application for the purpose of obtaining the signature of an inventor 
+who was in the United States when the invention was made or who is a 
+co-inventor with a person residing in the United States.
+    (b) Standards-related activity. A standards-related activity 
+includes the development, adoption, or application of a standard (i.e., 
+any document or other writing that provides, for common and repeated 
+use, rules, guidelines, technical or other characteristics for products 
+or related processes and production methods), including but not limited 
+to conformity assessment procedures. A ``standards-related activity'' 
+includes an action taken for the purpose of developing, promulgating, 
+revising, amending, issuing or reissuing, interpreting, implementing or 
+otherwise maintaining or applying such a standard. When released for a 
+``standards-related activity,'' ``technology'' or ``software'' is not 
+subject to the EAR provided it meets at least one condition in both 
+paragraphs (b)(1) and (2) of this section:
+    (1) The ``technology'' or ``software'' is:
+    (i) Designated EAR99;
+    (ii) Controlled on the CCL for anti-terrorism reasons only; or
+    (iii) For the following ECCN ``items'' level paragraphs of 
+``technology'' or ``software'' specifically for the ``development,'' 
+``production,'' or ``use'' of cryptographic functionality once the 
+release is for a ``standards-related activity:'' ``software'' that is 
+classified under ECCN 5D002.b or 5D002.c.1 (for equipment specified in 
+ECCN 5A002.a and 5A002.c only); ``technology'' that is classified under 
+ECCN 5E002 (for equipment specified in ECCN 5A002.a, .b and .c); and 
+``technology'' for software controlled under ECCN 5D002.b or .c.1 (for 
+equipment specified in ECCN 5A002.a and .c only) when the release is 
+for a ``standards-related activity;'' and
+    (2) The ``standards-related activity:''
+    (i) Is for a ``published'' standard; or
+    (ii) Occurs with the intent that the resulting standard will be 
+``published.''
+
+PART 744--CONTROL POLICY: END-USER AND END-USE BASED
+
+0
+4. The authority citation for 15 CFR part 744 is revised to read as 
+follows:
+
+    Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; 22 U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 
+U.S.C. 7201 et seq.; 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 
+1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 
+608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13020, 
+61 FR 54079, 3 CFR, 1996 Comp., p. 219; E.O. 13026, 61 FR 58767, 3 
+CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., 
+p. 783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786; 3 CFR, 
+2022 Comp., p. 563; Notice of September 7, 2023, 88 FR 62439 
+(September 11, 2023); Notice of November 1, 2023, 88 FR 75475 
+(November 3, 2023).
+
+
+0
+5. Section 744.11 is amended by revising paragraph (a) introductory 
+text and removing and reserving paragraph (a)(1) to read as follows:
+
+
+Sec.  744.11  License requirements that apply to entities acting 
+contrary to the national security or foreign policy interests of the 
+United States.
+
+* * * * *
+    (a) License requirement, availability of license exceptions, and 
+license application review policy. A license is required, to the extent 
+specified on the Entity List, to export, reexport, or transfer (in-
+country) any item subject to the EAR when an entity that is listed on 
+the Entity List is a party to the transaction as described in Sec.  
+748.5(c) through (f) of the EAR unless otherwise authorized or excluded 
+in this section. License exceptions may not be used unless authorized 
+in the Entity List entry for the entity that is party to the 
+transaction. Applications for licenses required by this section will be 
+evaluated as stated in the Entity List entry for the entity that is 
+party to the transaction, in addition to any other applicable review 
+policy stated elsewhere in the EAR.
+* * * * *
+
+0
+6. Section 744.16 is amended by revising paragraph (a) to read as 
+follows:
+
+
+Sec.  744.16   ENTITY LIST
+
+* * * * *
+    (a) License requirements. In addition to the license requirements 
+for items specified on the CCL, you may not, without a license from 
+BIS, export, reexport, or transfer (in-country) any items included in 
+the License Requirement column of an entity's entry on the Entity List 
+(supplement no. 4 to this part) when that entity is a party to a 
+transaction as described in Sec.  748.5(c) through (f) of the EAR. The 
+specific license requirement for each listed entity is identified in 
+the license requirement column on the Entity List in supplement no. 4 
+to this part.
+* * * * *
+
+[[Page 58274]]
+
+
+0
+7. Supplement no. 4 to part 744 is amended by revising the introductory 
+text to read as follows:
+
+Supplement No. 4 to Part 744--Entity List
+
+    This supplement lists certain entities subject to license 
+requirements for specified items under this part 744 and part 746 of 
+the EAR. License requirements for these entities include exports, 
+reexports, and transfers (in-country) unless otherwise stated. A 
+license is required, to the extent specified on the Entity List, to 
+export, reexport, or transfer (in-country) any item subject to the 
+EAR when an entity that is listed on the Entity List is a party to 
+the transaction as described in Sec.  748.5(c) through (f). of the 
+EAR This list of entities is revised and updated on a periodic basis 
+in this Supplement by adding new or amended notifications and 
+deleting notifications no longer in effect.
+* * * * *
+
+PART 772--DEFINITIONS OF TERMS
+
+0
+8. The authority citation for 15 CFR part 772 continues to read as 
+follows:
+
+    Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 
+783.
+
+
+0
+9. Section 772.1 is amended by
+0
+a. Revising the definition of ``Standards-related activity.''
+    The revisions read as follows:
+
+
+Sec.  772.1  Definitions of Terms as Used In the Export Administration 
+Regulations (EAR).
+
+* * * * *
+    Standards-related activity. See Sec.  734.10 of the EAR.
+* * * * *
+
+Thea D. Rozman Kendler,
+Assistant Secretary for Export Administration.
+[FR Doc. 2024-15810 Filed 7-17-24; 8:45 am]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

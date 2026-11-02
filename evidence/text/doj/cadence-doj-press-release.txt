@@ -1,0 +1,530 @@
+〔U.S. DOJ｜DOJ press release: Cadence Design Systems plea (2025-07-28)｜抓取 2026-11-02｜https://www.justice.gov/opa/pr/cadence-design-systems-agrees-plead-guilty-and-pay-over-140-million-unlawfully-exporting〕
+
+Office of Public Affairs | Cadence Design Systems Agrees to Plead Guilty and Pay Over $140 Million for Unlawfully Exporting Semiconductor Design Tools to a Restricted PRC Military University | United States Department of Justice
+
+Skip to main content
+
+An official website of the United States government
+
+Here's how you know
+
+Here's how you know
+
+Official websites use .gov
+
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+
+A lock (
+
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+DOJ Menu
+
+U.S. Department
+of Justice
+
+-
+
+About
+
+-
+
+The Attorney General
+
+-
+
+Organizational Chart
+
+-
+
+Budget & Performance
+
+-
+
+History & Museum
+
+-
+
+Privacy Program
+
+-
+
+Our Work
+
+-
+
+News
+
+-
+
+Press Releases
+
+-
+
+Speeches
+
+-
+
+Videos
+
+-
+
+Photo Galleries
+
+-
+
+Blogs
+
+-
+
+Podcasts
+
+-
+
+Resources
+
+-
+
+Guidance Documents
+
+-
+
+Forms
+
+-
+
+Publications
+
+-
+
+Information for Victims in Large Cases
+
+-
+
+Justice Manual
+
+-
+
+Business and Contracts
+
+-
+
+Grants
+
+-
+
+Employment
+
+-
+
+Why Justice ?
+
+-
+
+Benefits
+
+-
+
+DOJ Vacancies
+
+-
+
+Legal Careers at DOJ
+
+-
+Our Offices
+
+-
+Find Help
+
+-
+Contact Us
+
+Utilities
+
+-
+Our Offices
+
+-
+Find Help
+
+-
+Contact Us
+
+Search
+
+Menu
+Close
+
+-
+
+About
+
+-
+
+News
+
+-
+
+Documents
+
+-
+
+Internships
+
+-
+
+FOIA
+
+-
+
+Contact
+
+-
+
+Information for Journalists
+
+-
+Our Offices
+
+-
+Find Help
+
+-
+Contact Us
+
+Main Menu
+
+U.S. Department of Justice
+
+-
+
+About
+
+-
+title="About"
+
+About
+
+-
+
+The Attorney General
+
+-
+
+Organizational Chart
+
+-
+
+Budget & Performance
+
+-
+
+History & Museum
+
+-
+
+Privacy Program
+
+-
+
+Our Work
+
+-
+
+News
+
+-
+title="News"
+
+News
+
+-
+
+Press Releases
+
+-
+
+Speeches
+
+-
+
+Videos
+
+-
+
+Photo Galleries
+
+-
+
+Blogs
+
+-
+
+Podcasts
+
+-
+
+Resources
+
+-
+title="Guidance & Resources"
+
+Resources
+
+-
+
+Guidance Documents
+
+-
+
+Forms
+
+-
+
+Publications
+
+-
+
+Information for Victims in Large Cases
+
+-
+
+Justice Manual
+
+-
+
+Business and Contracts
+
+-
+
+Grants
+
+-
+
+Employment
+
+-
+
+Employment
+
+-
+
+Why Justice ?
+
+-
+
+Benefits
+
+-
+
+DOJ Vacancies
+
+-
+
+Legal Careers at DOJ
+
+-
+Our Offices
+
+-
+Find Help
+
+-
+Contact Us
+
+Search
+
+Breadcrumb
+
+-
+Justice.gov
+
+-
+Office of Public Affairs
+
+-
+News
+
+-
+Press Releases
+
+-
+Cadence Design Systems Agrees To Plead Guilty and Pay Over $140 Million For Unlawfully Exporting Semiconductor Design Tools To a Restricted PRC Military University
+
+MENU
+News
+
+-
+
+All News
+
+-
+
+Blogs
+
+-
+
+Photo Galleries
+
+-
+
+Podcasts
+
+-
+
+Press Releases
+
+-
+
+Speeches
+
+-
+
+Videos
+
+Archived Press Releases
+
+Archived News
+
+Press Release
+
+Cadence Design Systems Agrees to Plead Guilty and Pay Over $140 Million for Unlawfully Exporting Semiconductor Design Tools to a Restricted PRC Military University
+
+Monday, July 28, 2025
+
+Share
+
+-
+Facebook
+
+-
+X
+
+-
+LinkedIn
+
+-
+Email
+
+For Immediate Release
+
+Office of Public Affairs
+
+Note: View a copy of the plea agreement and criminal information .
+The Counterintelligence and Export Control Section (CES) of the Justice Department’s National Security Division (NSD), and the U.S. Attorney’s Office for the Northern District of California (NDCA) today announced that Cadence Design Systems Inc. (Cadence), a multinational electronic design automation (EDA) technology company headquartered in San Jose, California, has agreed to plead guilty to resolve charges that Cadence committed criminal violations of export controls by selling EDA hardware, software, and semiconductor design intellectual property (IP) technology to the National University of Defense Technology (NUDT).
+NUDT, a university in the People’s Republic of China (PRC) under the leadership of the PRC’s Central Military Commission, was added to the U.S. Department of Commerce’s Entity List in February 2015 due to its use of U.S.-origin components to produce supercomputers believed to support nuclear explosive simulation and military simulation activities in the PRC.
+Today, the Department filed in the U.S. District Court for the Northern District of California a criminal information charging Cadence with conspiracy to commit export control violations and the Department’s plea agreement with Cadence, pursuant to which the company has agreed to plead guilty and pay criminal penalties of nearly $118 million to resolve the charges.
+In addition to the criminal charges, the U.S. Department of Commerce, Bureau of Industry and Security (BIS) today announced the resolution of a parallel civil enforcement action against Cadence in which Cadence has agreed to pay over $95 million in civil penalties. The Department of Justice and BIS have coordinated the resolution of the parallel criminal and civil actions, with each agreeing to credit against their respective fines a portion of the payments made by Cadence to satisfy the other agency’s fine. After the Department of Justice and BIS credit payments made by Cadence under the coordinated agreements, Cadence will pay aggregate net criminal and civil penalties and forfeiture totaling more than $140 million.
+“Cadence has agreed to accept responsibility for unlawfully exporting sensitive semiconductor design tools to a restricted Chinese military university and has implemented a strong export compliance program to help prevent any further illegal transmission of American technology,” said Assistant Attorney General for National Security John A. Eisenberg. “American ingenuity is one of our Nation’s most precious assets, and the National Security Division will vigorously enforce U.S. export control laws to protect the technological advantage we enjoy because of that ingenuity.”
+“Export controls safeguard America’s advanced technological know-how from falling into the wrong hands, which is particularly important in the Silicon Valley as the epicenter of groundbreaking innovation,” said U.S. Attorney Craig H. Missakian for the Northern District of California. “With this plea, Cadence has admitted to unlawfully exporting its semiconductor design technology to a restricted PRC military university using a front company, and accepted responsibility for its wrongdoing. Cadence’s remedial measures are a positive step toward rectifying the company’s violations of export control laws and demonstrating corporate responsibility.”
+“Protecting the U.S. semiconductor industry is critical to our national defense,” said Assistant Director Roman Rozhavsky of the FBI’s Counterintelligence Division. “Working with NUDT, which has been on the entity list for a decade for its work to advance China’s military capabilities, is unacceptable. The FBI will stop at nothing to defend the homeland from China’s Communist Party.”
+According to Cadence’s admissions and court documents, from February 2015 to April 2021, Cadence and its indirectly owned and wholly controlled subsidiary in the PRC, Cadence Design Systems Management (Shanghai) Co. Ltd. (Cadence China), engaged in a conspiracy to commit export control violations in connection with the provision of EDA tools that were subject to the Export Administration Regulations (EAR) to NUDT through Central South CAD Center (CSCC), an alias for NUDT, and another associated entity, Phytium Technology Co. Ltd. (Phytium), without seeking or obtaining the requisite licenses from BIS. Specifically, Cadence, Cadence China, and their employees exported, reexported, and transferred in-country U.S.-origin EDA tools to CSCC in the PRC, despite having knowledge that CSCC was an alias for NUDT. As a result, Cadence and Cadence China exported and caused to be exported EDA tools at least 59 times through September 2020, when Cadence terminated Cadence China’s business relationship with CSCC due to CSCC’s association with NUDT.
+In court documents, Cadence admitted that Cadence China employees installed EDA hardware on NUDT’s Changsha, China, campus and that NUDT personnel downloaded EDA software and IP technology from Cadence’s download portals while Cadence and Cadence China, through its employees, had knowledge that NUDT had been added to the Entity List. On Feb. 18, 2015, the same day that NUDT was added to the Entity List, Cadence’s export control officer emailed Cadence and Cadence China employees that NUDT had been added to the Entity List “meaning that export licenses will be required if sales are made.” Further, in March 2016, a Cadence China employee authored a presentation for a quarterly sales review meeting with her colleagues stating (as translated from Chinese) that as of Feb. 18, 2015, the U.S. Department of Commerce had “embargoed” four national supercomputer centers in the PRC, including NUDT, due to U.S. microprocessor chips being used in the “TianHe” supercomputing systems believed to be used for nuclear explosion simulation. Cadence also admitted that its employees who conducted work at CSCC’s location on NUDT’s campus knew about connections between CSCC and the PRC military.
+According to Cadence’s admissions and court documents, employees of Cadence China did not disclose to and/or concealed from other Cadence personnel, including Cadence’s export compliance personnel, that exports to CSCC were in fact intended for delivery to NUDT and/or the PRC military. For example, in May 2015, a few months after NUDT was added to the Entity List, Cadence’s then-head of sales in China emailed colleagues, cautioning them to refer to their customer as CSCC in English and NUDT only in Chinese characters, writing that “the subject [was] too sensitive.” Further, in October 2019, a Cadence China employee instructed another to recall and recirculate an updated version of a weekly email on Cadence China’s customers in the PRC. The updated version of the weekly email removed a reference to the People’s Liberation Army of the PRC in relation to CSCC that was written in the original version. Employees of Cadence’s subsidiaries, including employees of Cadence China involved in sales to CSCC, also received sales commissions that incentivized achieving sales quotas as part of their compensation packages.
+Further, in October 2020, while Cadence and Cadence China had knowledge that items previously sold and exported to CSCC had in fact been exported to NUDT in violation of U.S. export control laws, Cadence consented to CSCC’s assignment to Phytium, a semiconductor company closely associated with CSCC and NUDT in the PRC, of CSCC’s contracts for Cadence EDA tools. Prior to the transfer of Cadence’s business from CSCC to Phytium in or about October 2020, Cadence’s business with CSCC included contractual agreements with Phytium, reflecting Phytium’s ongoing collaboration with CSCC and NUDT during the period in which CSCC was used as an alias for NUDT. Cadence, through its subsidiaries, including Cadence China also had knowledge that Cadence China’s business with CSCC involved Phytium, and that NUDT personnel were affiliated with Phytium. Some of Cadence China’s contracts with CSCC listed Phytium as the contractual party and stated that the work would occur at NUDT. Internal Cadence communications show certain Cadence employees’ understanding that CSCC and Phytium were effectively the same entity both before and after the decision to transfer Cadence China’s business from CSCC to Phytium. Cadence and Cadence China transferred U.S.-origin EDA software and IP technology to Phytium until February 2021. In March 2021, Cadence placed Phytium on export hold as a result of its internal compliance review and discontinued transactions with Phytium without completing all of the originally anticipated transfers, including any hardware transfers. Phytium was later designated on the Entity List in April 2021.
+CES and NDCA entered into the plea agreement with Cadence after considering the factors set forth in the Department’s Principles of Federal Prosecution of Business Organizations and the National Security Division Enforcement Policy for Business Organizations (NSD Enforcement Policy). The Department reached this resolution with Cadence based on a number of factors, including Cadence’s failure to voluntarily disclose the misconduct to NSD pursuant to the NSD Enforcement Policy; the nature and seriousness of the offense, which included exports of sensitive semiconductor design tools and technology to a restricted PRC military university involved in the development of supercomputers with applications for military and nuclear explosive simulations, and which included Cadence agreeing to an assignment of the hardware and software contracts to another PRC-based company despite being aware that those items had been unlawfully exported to a restricted PRC military university; Cadence’s willingness to accept responsibility for the actions of its employees and agents, including its subsidiary Cadence China, by entering into the plea agreement with the Department and resolving the parallel civil investigation with BIS; and Cadence’s efforts to remediate the root cause of the offense conduct by enhancing and agreeing to enhance further its export control compliance program. Cadence received partial credit for its cooperation with the Department’s investigation, which involved collecting and disclosing relevant evidence, facilitating interviews with certain employees, making detailed factual presentations, and agreeing to toll the statute of limitations, but Cadence did not receive full credit for cooperation because it failed proactively to obtain and disclose to the government relevant communications, and it failed proactively to facilitate interviews of certain China-based employees with information relevant to the offense conduct. Accordingly, the amount of the criminal monetary penalty attributable to the criminal fine reflects a 20 percent reduction off the statutory maximum fine.
+The plea agreement is subject to the approval of a federal district judge in the Northern District of California.
+BIS’s Office of Export Enforcement and the FBI investigated the case.
+Chief Counsel Ian C. Richardson, Deputy Chief Counsel Christian J. Nauvel, and Trial Attorney Emma Dinan Ellenrieder of the National Security Division’s Counterintelligence and Export Control Section, together with Assistant U.S. Attorney Eric Cheng of the National Security and Special Prosecutions Section of the U.S. Attorney’s Office for the Northern District of California, are prosecuting this case.
+
+Updated July 28, 2025
+
+Topics
+
+Export Control
+
+National Security
+
+Components
+
+Federal Bureau of Investigation (FBI)
+
+National Security Division (NSD)
+
+USAO - California, Northern
+
+Press Release Number: 25-793
+
+Related Content
+
+Press Release
+Former U.S. Government Contractor Arrested for Allegedly Leaking National Defense Information and Stealing Night Vision Goggles
+James Thomas Ashbacher, 37, of Spring Lake, North Carolina, a former U.S. government contractor, was arrested by the FBI on Tuesday for allegedly leaking national defense information by posting the information...
+
+October 30, 2026
+
+Press Release
+California Man Pleads Guilty to Attempting to Provide Material Support to the Islamic State of Iraq and al-Sham
+Ammaad Akhtar, 34, of California, pleaded guilty today to attempting to provide material support to a designated foreign terrorist organization.
+
+October 30, 2026
+
+Press Release
+Two Men Sentenced for Acting as Agents of the People’s Republic of China
+October 30, 2026
+
+-
+
+Office of Public Affairs
+U.S. Department of Justice
+950 Pennsylvania Avenue, NW
+Washington DC 20530
+
+-
+
+Office of Public Affairs Direct Line
+202-514-2007
+Department of Justice Main Switchboard
+202-514-2000
+
+-
+
+Signup for Email Updates
+Social Media
+
+-
+
+-
+
+-
+
+-
+
+-
+
+- About
+
+- Budget & Performance
+
+- Archives
+
+- FOIA
+
+- Accessibility
+
+- Legal Policies & Disclaimers
+
+- Privacy
+
+- For Employees
+
+- Office of the Inspector General
+
+- No FEAR Act Data
+
+- EEO Policy Statement
+
+- Vulnerability Disclosure
+
+- Multilingual
+
+- Vote.gov
+
+Have a question about Government Services?
+
+- Contact USA.gov
+
+Top

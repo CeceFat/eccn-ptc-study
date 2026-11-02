@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>加密 5P2 · 出口管制產品分類 自學站</title>
+<meta name="description" content="Category 5 Part 2 的讀法：5A002.a 的結構、資料機密性密碼學、described security algorithm、除外註記 a–j、密碼學註解與零組件、5A992.c 與 §740.17 的申報路徑，以及台灣 115 年版的結構差異。">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-in">
+    <a class="brand" href="index.html">出口管制產品分類<small>EAR ECCN × 台灣軍商兩用清單 · 自學站</small></a>
+    <nav class="main">
+      <a href="about.html">About</a>
+      <a href="start.html">入門</a>
+      <a href="index.html">總覽</a>
+      <a href="method.html">分類方法</a>
+      <a href="cat5p2.html">加密 5P2</a>
+      <a href="cat3.html">半導體 Cat 3</a>
+      <a href="taiwan.html">台灣制度</a>
+      <a href="cases.html">產品演練</a>
+      <a href="tech.html">技術與視同出口</a>
+      <a href="evidence.html">方法與證據</a>
+      <a href="quiz.html">自我檢測</a>
+    </nav>
+    <button class="theme-btn" data-theme-toggle aria-label="切換深淺色">☾</button>
+  </div>
+</header>
+
+<div class="wrap"><main class="page">
+
+<p class="kicker" style="margin-top:34px">加密 Category 5 Part 2</p>
+<h1>加密分類：四道關卡，一個申報義務</h1>
+<p class="lede">
+有加密功能的產品，第一站永遠是 Category 5 Part 2。判斷可以拆成四道關卡：有沒有「資料機密性密碼學」、演算法夠不夠強、
+有沒有落入除外註記、能不能靠密碼學註解（大眾市場）離開 5A002。過了關的大眾市場晶片仍然有一個常被漏掉的義務：每年 2 月 1 日前的自我分類報告。
+</p>
+
+<div class="goal">
+  <p class="kicker">讀完這頁你會</p>
+  <ul>
+    <li>用 5A002.a 的 a.1–a.4 結構，判斷一個零組件落在哪一款。</li>
+    <li>分辨「有加密」與「有資料機密性密碼學」，知道認證、完整性、DRM 不算。</li>
+    <li>用除外註記 a–j 與密碼學註解 a、b 段做初篩，知道 b.3「依客戶規格」為什麼是晶片公司的關鍵。</li>
+    <li>說出大眾市場晶片在 §740.17 的路徑與 2 月 1 日年度報告。</li>
+    <li>知道台灣 115 年版清單在結構上已和 EAR 現行版不同。</li>
+  </ul>
+</div>
+
+<h2 id="first">為什麼先看 5P2</h2>
+<div class="q" data-file="ear/774-supp-2.txt" data-cite="Supp. No. 2 to Part 774, General “Information Security” Note">“Information security” items or functions should be considered against the provisions in Category 5-Part 2, even if they are components, “software” or functions of other items.</div>
+<p>也就是說，一顆網通 SoC 即使主要功能是傳輸，只要內含加密功能，就先拿 5P2 比對；5P2 放行後，才回到 Cat 5 Part 1、Cat 3 等其他類別。</p>
+
+<h2 id="gate1">關卡一：有沒有「資料機密性密碼學」</h2>
+<div class="q" data-file="ccl/5A002.txt" data-cite="ECCN 5A002.a, Technical Note 1">For the purposes of 5A002.a, 'cryptography for data confidentiality' means “cryptography” that employs digital techniques and performs any cryptographic function other than any of the following:</div>
+<p>EAR 現行版的排除項是：認證、數位簽章、資料完整性、不可否認、DRM（含執行受版權保護的軟體）、娛樂／大眾商業廣播／醫療紀錄的加解密，以及只服務前述功能的金鑰管理：</p>
+<div class="q" data-file="ccl/5A002.txt" data-cite="ECCN 5A002.a, Technical Note 1.g">Key management in support of any function described in paragraphs 1.a to 1.f of this Technical Note paragraph 1.</div>
+<div class="infer">
+  <b>推論</b>　安全開機只做簽章驗證、韌體只做完整性檢查、HDCP 一類只為內容保護，都不構成資料機密性密碼學。真正要問的是：產品是否用加密保護「使用者資料」或「通訊內容」的機密性。
+</div>
+
+<h2 id="gate2">關卡二：演算法夠不夠強（described security algorithm）</h2>
+<div class="q" data-file="ccl/5A002.txt" data-cite="ECCN 5A002.a, Technical Note 2.a">A “symmetric algorithm” employing a key length in excess of 56 bits, not including parity bits;</div>
+<div class="q" data-file="ccl/5A002.txt" data-cite="ECCN 5A002.a, Technical Note 2.b.3">Discrete logarithms in a group other than mentioned in paragraph 2.b.2 of this Technical Note in excess of 112 bits (e.g., Diffie-Hellman over an elliptic curve); or</div>
+<div class="q" data-file="ccl/5A002.txt" data-cite="ECCN 5A002.a, Technical Note 2.c.1">Shortest vector or closest vector problems associated with lattices (e.g., NewHope, Frodo, NTRUEncrypt, Kyber, Titanium);</div>
+<p>RSA 類是 512 位元以上的因數分解；後量子演算法則不論參數，只要屬於列舉的數學問題就算。今天的 AES‑128、ECDH P‑256 都遠超門檻，所以這一關在實務上幾乎都會「通過」（也就是仍在 5A002.a 的範圍內）。</p>
+
+<h2 id="structure">5A002.a 的四款：你是哪一種東西</h2>
+<div class="tbl-wrap"><table>
+  <thead><tr><th>款</th><th>條文</th><th>晶片公司的典型對應</th></tr></thead>
+  <tbody>
+    <tr><td>a.1</td><td><span class="en" data-file="ccl/5A002.txt">Items having “information security” as a primary function;</span></td><td>加密協同處理器、安全元件、VPN 加速器</td></tr>
+    <tr><td>a.2</td><td><span class="en" data-file="ccl/5A002.txt">Digital communication or networking systems, equipment or components, not specified in paragraph 5A002.a.1;</span></td><td>含 MACsec 的 PHY、含 Wi‑Fi 加密的 SoC、PON SoC</td></tr>
+    <tr><td>a.3</td><td><span class="en" data-file="ccl/5A002.txt">Computers, other items having information storage or processing as a primary function, and components therefor, not specified in paragraphs 5A002.a.1 or .a.2;</span></td><td>自加密儲存控制器、應用處理器</td></tr>
+    <tr><td>a.4</td><td>前三款以外，加密只支援非主要功能、且由本身就會落入 5P2 的內建設備或軟體執行</td><td>內建通訊模組的家電、車用設備</td></tr>
+  </tbody>
+</table></div>
+
+<h2 id="gate3">關卡三：除外註記 Note 2（a–j）</h2>
+<div class="q" data-file="ccl/5A002.txt" data-cite="ECCN 5A002, Note 2（序言）">5A002.a does not control any of the following items, or specially designed “information security” components therefor:</div>
+<div class="tbl-wrap"><table>
+  <thead><tr><th>項</th><th>內容（摘要）</th><th>晶片公司常見的關聯</th></tr></thead>
+  <tbody>
+    <tr><td>a</td><td>智慧卡與讀寫器（限特定用途）</td><td>支付、證件晶片</td></tr>
+    <tr><td>b</td><td>專為銀行或「金錢交易」設計且限於此的密碼設備</td><td>POS、票證</td></tr>
+    <tr><td>c、e</td><td>民用行動電話；以公開標準、經客製化的民用客戶端無線設備</td><td>手機、產業用手持裝置</td></tr>
+    <tr><td>d</td><td>無端對端加密、有效距離 400 公尺以下的無線電話</td><td>DECT 一類</td></tr>
+    <tr><td>f</td><td>資訊安全功能限於無線個人區域網路（WPAN）</td><td>藍牙、類似短距連線</td></tr>
+    <tr><td>g</td><td>符合條件的民用小型 RAN 設備（0.1 W、16 使用者以下）</td><td>小型基地台</td></tr>
+    <tr><td>h</td><td>路由器、交換器、閘道器、中繼器，資訊安全只做 OAM</td><td>只有管理面加密的網通設備</td></tr>
+    <tr><td>i</td><td>通用運算設備或伺服器（符合條件者）</td><td>伺服器平台</td></tr>
+    <tr><td>j</td><td>為「互聯民用工業應用」特別設計者</td><td>IoT 感測、智慧電表</td></tr>
+  </tbody>
+</table></div>
+<div class="q" data-file="ccl/5A002.txt" data-cite="ECCN 5A002, Note 2.f">Items, where the “information security” functionality is limited to wireless “personal area network ” functionality implementing only published or commercial cryptographic standards;</div>
+<div class="flag">
+  <b>注意</b>　f 項在 2021 年 3 月就刪掉了 30／100 公尺與連線數的條件，但 BIS 的除外註記說明頁至今仍寫著舊條件；Wi‑Fi 是 WLAN，不是 WPAN，不能用 f 項。原文對照見<a href="evidence.html#warnings">品質警語 1</a>。
+</div>
+<div class="q" data-file="ear/772.1.txt" data-cite="15 CFR § 772.1 “Personal area network”, Technical Note 2">The “local area network” extends beyond the geographical area of the “personal area network”.</div>
+
+<h2 id="gate4">關卡四：密碼學註解（Note 3）——大眾市場與零組件</h2>
+<p>終端產品走 a 段（零售、使用者不能輕易改加密功能、使用者自行安裝、可提供細節）；晶片走 b 段：</p>
+<div class="q" data-file="ccl/_notes-cat5p2.txt" data-cite="Cat 5 Part 2, Note 3 (Cryptography Note) b.">Hardware components or 'executable software', of existing items described in paragraph a. of this Note, that have been designed for these existing items, and meeting all of the following: || “Information security” is not the primary function or set of functions of the component or 'executable software'; || The component or 'executable software' does not change any cryptographic functionality of the existing items, or add new cryptographic functionality to the existing items; || The feature set of the component or 'executable software' is fixed and is not designed or modified to customer specification; and</div>
+<div class="infer">
+  <b>推論</b>　對晶片公司，b.3 是最常卡住的一條：同一顆晶片若為某個客戶改了加密相關的功能集，就不再是「固定功能集」。產品線管理上，客製版與標準版的加密功能要分開記錄，否則整個料號家族的大眾市場主張都會被質疑。
+  另外，b 段只適用於「a 段所述現有產品」的零組件；目標產品本身不是大眾市場（例如電信局端設備），零組件也走不了 b 段。
+</div>
+<div class="q" data-file="ccl/_notes-cat5p2.txt" data-cite="Cat 5 Part 2, N.B. to Note 3">You must submit a classification request or self-classification report to BIS for certain mass market encryption commodities and software eligible for the Cryptography Note employing a key length greater than 64 bits for the symmetric algorithm</div>
+<p>通過密碼學註解的項目，落入 5A992.c：</p>
+<div class="q" data-file="ccl/5A992.txt" data-cite="ECCN 5A992.c">Commodities classified as mass market encryption commodities in accordance with § 740.17(b) of the EAR.</div>
+
+<h2 id="enc">§740.17：申報路徑</h2>
+<div class="tbl-wrap"><table>
+  <thead><tr><th>段</th><th>對象（摘要）</th><th>要交什麼</th></tr></thead>
+  <tbody>
+    <tr><td>(b)(1)</td><td>(b)(2)、(b)(3) 以外的項目，含大眾市場零組件</td><td>自我分類 → 每年 2 月 1 日前的自我分類報告（或改申請 CCATS）</td></tr>
+    <tr><td>(b)(2)</td><td>網路基礎設施、依客戶規格或可改動的加密、開放式密碼介面等</td><td>分類申請，30 天後可用；半年報</td></tr>
+    <tr><td>(b)(3)</td><td>非大眾市場的晶片、晶片組、電子組件、FPLD；non-standard cryptography 等</td><td>分類申請，30 天後可用</td></tr>
+  </tbody>
+</table></div>
+<div class="q" data-file="ear/740.17.txt" data-cite="15 CFR § 740.17(b)（序言）">For certain products described in paragraph (b)(1) of this section that are self-classified, a self-classification report in accordance with paragraph (e)(3) of this section is required from specified exporters, reexporters and transferors; for products described in paragraph (b)(1) of this section that are classified by BIS via a CCATS, a self-classification report is not required.</div>
+<div class="q" data-file="ear/740.17.txt" data-cite="15 CFR § 740.17(e)(3)">this reporting requirement applies to “mass market” encryption components and 'executable software' that meet the criteria of the Cryptography Note—Note 3 to Category 5—Part 2</div>
+<div class="q" data-file="ear/740.17.txt" data-cite="15 CFR § 740.17(e)(3)(i)">Your self-classification report for applicable encryption commodities, software and components exported or reexported during a calendar year (January 1 through December 31) must be received by BIS and the ENC Encryption Request Coordinator no later than February 1 the following year.</div>
+<p>報告格式在 Supp. 8 to Part 742，產品類型選項包含 WPAN、WLAN、光網路、數據機等；例如：</p>
+<div class="q" data-file="ear/742-supp-8.txt" data-cite="15 CFR 742 Supp. No. 8">(xlvii) Wireless Personal Area Networking (WPAN);</div>
+<div class="infer">
+  <b>推論</b>　大眾市場晶片的路線在 2021 年改過：之前要先申請分類、等 30 天；之後改成自我分類加年報。但 BIS 的 ENC 摘要表仍是 2017 年版，把晶片列在 (b)(3)，照表操作會多走一道程序。依現行條文，大眾市場晶片在 (b)(1)；只有非大眾市場晶片、依客戶規格客製或屬網路基礎設施的情形，才需要分類申請。
+</div>
+
+<h2 id="tw">台灣 115 年版：結構已經跟 EAR 不一樣</h2>
+<p>台灣 2026 年 2 月 11 日公告的清單，5A002 的結構已和 EAR 不同。台灣公告的修正理由是瓦聖那協議等國際規範已更新清單；EAR 到 2026 年 10 月 29 日的版本仍是舊結構（本站未收錄瓦聖那原文，無法逐字確認台灣版與瓦聖那最新版完全一致）。最明顯的是 5A002.a 的序言與技術註解 1：</p>
+<div class="pair">
+  <div><p class="lab">EAR 現行（eCFR 2026-10-29）</p>
+    <div class="q" data-file="ccl/5A002.txt" data-cite="ECCN 5A002.a">Designed or modified to use 'cryptography for data confidentiality' having a 'described security algorithm', where that cryptographic capability is usable, has been activated, or can be activated by any means other than</div></div>
+  <div><p class="lab">台灣 115-02-11 版</p>
+    <div class="q" data-file="tw/dual-use-and-military-lists-1150211.txt" data-cite="台灣清單 5A002.a">a. 設計或修改用於具‵描述安全演算法′之‵資料機密性密碼學′，如下：</div></div>
+</div>
+<p>台灣版把「未啟動、只能經安全加密啟動」移到技術註解 1.j，並把 WPAN 與銀行交易從除外註記搬進技術註解 1：</p>
+<div class="q" data-file="tw/dual-use-and-military-lists-1150211.txt" data-cite="台灣清單 5A002.a 技術註解 1.g–1.j">g. 僅實施已發布或商業加密標準的無線〝個人區域網路〞功能； || h. 專為銀行使用或貨幣交易（包括票價或信用卡功能的收集和結算）設計且限於此的加密操作； || i. 支援且限於上述a至h段所述功能和能力的密鑰管理；或 || j. 未啟動或啟用的加密功能或能力，且僅能透過安全的〝加密啟動〞方式啟動或啟用。</div>
+<p>預告時的新舊對照表把註解 2 的銀行項標為刪除：</p>
+<div class="q" data-file="tw/draft-diff-table-1141117.txt" data-cite="114-11-17 預告修正新舊版對照表，5A002.a 註解 2.b">b. 刪除；</div>
+<div class="infer">
+  <b>推論</b>　對藍牙、銀行交易這兩類，台灣新結構與 EAR 舊結構的結果相同：都不在 5A002.a。差別在說理的位置——EAR 下是「屬於 5A002.a、但被除外」，台灣下是「根本不構成資料機密性密碼學」。寫分類理由時兩邊要用各自的條號，不能把 EAR 的 Note 2.f 直接套到台灣清單。
+  兩份清單的其他逐項差異，見<a href="taiwan.html#diff">台灣制度：逐碼比對</a>。
+</div>
+
+<div class="selfcheck">
+  <p class="kicker">自我檢測</p>
+  <ol>
+    <li>一顆 Wi‑Fi 6 SoC 支援 WPA3（AES‑CCMP 128）。能用 Note 2.f 離開 5A002.a 嗎？為什麼？</li>
+    <li>同一顆 SoC 符合密碼學註解 b 段，它的 ECCN 是什麼？出貨後有什麼申報義務、期限是哪天？</li>
+    <li>你為一家電信客戶把 SoC 的加密功能集改成客戶指定的版本，分類會怎麼變？</li>
+    <li>在台灣清單下，藍牙晶片「不受 5A002 管制」的條文依據是哪一條？</li>
+  </ol>
+</div>
+
+<footer class="site">
+  <p>法規版本：美國 EAR 取自 eCFR（版本日 2026-10-29）；台灣軍商兩用清單為 115-02-11 經貿字第11550200140號公告附件。全部來源、抓取日與雜湊值見 <a href="evidence.html#sources">來源總表</a>。</p>
+  <p>個人自學整理，不是法律意見。美國聯邦政府著作屬公共領域；我國法令與公文依著作權法第 9 條不得為著作權之標的。</p>
+</footer>
+
+</main></div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

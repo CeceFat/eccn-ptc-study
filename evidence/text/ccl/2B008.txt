@@ -1,0 +1,45 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2B008；eCFR 2026-10-29〕
+
+2B008 'Compound rotary tables' and “tilting spindles”, “specially designed” for machine tools, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See also 2B998.
+
+Related Definition: N/A
+
+Items:
+
+a. [Reserved]
+
+b. [Reserved]
+
+c. 'Compound rotary tables' having all of the following:
+
+c.1. Designed for machine tools for turning, milling or grinding; and
+
+c.2. Two rotary axes designed to be coordinated simultaneously for “contouring control”.
+
+Technical Note: For the purposes of 2B008.c, a 'compound rotary table' is a table allowing the workpiece to rotate and tilt about two non-parallel axes.
+
+d. “Tilting spindles” having all of the following:
+
+d.1. Designed for machine tools for turning, milling or grinding; and
+
+d.2. Designed to be coordinated simultaneously for “contouring control”.

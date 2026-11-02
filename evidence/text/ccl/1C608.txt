@@ -1,0 +1,93 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C608；eCFR 2026-10-29〕
+
+1C608 “Energetic materials” and related commodities (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, MT, AT, UN
+
+Control(s) | Country chart(see Supp. no. 1to part 738)
+
+NS applies to entire entry | NS Column 1
+
+RS applies to entire entry | RS Column 1
+
+MT applies to 1C608.m | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+UN applies to entire entry | See § 746.1(b) of the EAR for UN controls
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $1,500
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any item in 1C608.
+
+List of Items Controlled
+
+Related Controls: (1) The EAR does not control devices or charges containing materials controlled by USML subparagraphs V(c)(6), V(h), or V(i). The USML controls devices containing such materials. (2) The USML in Categories III, IV, or V controls devices and charges in this entry if they contain materials controlled by Category V (other than slurries) and such materials can be easily extracted without destroying the device or charge. (3) See also explosives and other items enumerated in ECCNs 1A006, 1A007, 1A008, 1C011, 1C111, 1C239, and 1C992. (4) See ECCN 0A919 for foreign-made “military commodities” that incorporate more than a de minimis amount of US-origin “600 series” controlled content.
+
+Related Definitions: (1) For purposes of this entry, the term 'controlled materials' means controlled energetic materials enumerated in ECCNs 1C011, 1C111, 1C239, 1C608, or USML Category V. (2) For the purposes of this entry, the term 'propellants' means substances or mixtures that react chemically to produce large volumes of hot gases at controlled rates to perform mechanical work.
+
+Items: a. 'Single base', 'double base', and 'triple base' 'propellants' having nitrocellulose with nitrogen content greater than 12.6% in the form of either:
+
+a.1. 'Sheetstock' or 'carpet rolls'; or
+
+a.2. Grains with diameter greater than 0.10 inches.
+
+Note: This entry does not control 'propellant' grains used in shotgun shells, small arms cartridges, or rifle cartridges.
+
+Technical Notes: 1. 'Sheetstock' is 'propellant' that has been manufactured in the form of a sheet suitable for further processing.
+
+2. A 'carpet roll' is 'propellant' that has been manufactured as a sheet, often cut to a desired width, and subsequently rolled up (like a carpet).
+
+3. 'Single base' is 'propellant' which consists mostly of nitrocellulose.
+
+4. 'Double base' 'propellant' consist mostly of nitrocellulose and nitroglycerine.
+
+5. 'Triple base' consists mostly of nitrocellulose, nitroglycerine, and nitroguanidine. Such 'propellants' contain other materials, such as resins or stabilizers, that could include carbon, salts, burn rate modifiers, nitrodiphenylamine, wax, polyethylene glycol (PEG), polyglycol adipate (PGA).
+
+b. Shock tubes containing greater than 0.064 kg per meter (300 grains per foot), but not more than 0.1 kg per meter (470 grains per foot) of 'controlled materials.'
+
+c. Cartridge power devices containing greater than 0.70 kg, but not more than 1.0 kg of 'controlled materials.'
+
+d. Detonators (electric or nonelectric) and “specially designed” assemblies therefor containing greater than 0.01 kg, but not more than 0.1 kg of 'controlled materials'.
+
+e. Igniters not controlled by USML Categories III or IV that contain greater than 0.01 kg, but not more than 0.1 kg of 'controlled materials'.
+
+f. Oil well cartridges containing greater than 0.015 kg, but not more than 0.1 kg of 'controlled materials'.
+
+g. Commercial cast or pressed boosters containing greater than 1.0 kg, but not more than 5.0 kg of 'controlled materials'.
+
+h. Commercial prefabricated slurries and emulsions containing greater than 10 kg and less than or equal to thirty-five percent by weight of USML 'controlled materials'.
+
+i. [Reserved]
+
+j. “Pyrotechnic” devices “specially designed” for commercial purposes (e.g., theatrical stages, motion picture special effects, and fireworks displays), and containing greater than 3.0 kg, but not more than 5.0 kg of 'controlled materials'.
+
+k. Other commercial explosive devices or charges “specially designed” for commercial applications, not controlled by 1C608.c through .g above, containing greater than 1.0 kg, but not more than 5.0 kg of 'controlled materials'.
+
+l. Propyleneimine (2 methylaziridine) (C.A.S. #75-55-8).
+
+m. Any oxidizer or 'mixture' thereof that is a compound composed of fluorine and any of the following: other halogens, oxygen, or nitrogen.
+
+Note 1 to 1C608.m: Nitrogen trifluoride (NF3) (CAS 7783-54-2) in a gaseous state is controlled under ECCN 1C992 and not under ECCN 1C608.m.
+
+Note 2 to 1C608.m: Chlorine trifluoride (ClF3) (CAS 7790-91-2) is controlled under ECCN 1C111.a.3.f and not under ECCN 1C608.m.
+
+Note 3 to 1C608.m: Oxygen difluoride (OF2) is controlled under USML Category V.d.10 (see 22 CFR 121.1) and not under ECCN 1C608.m.
+
+Note to 1C608.l and m: If a chemical in ECCN 1C608.l or .m is incorporated into a commercial charge or device described in ECCN 1C608.c through .k or in ECCN 1C992, the classification of the commercial charge or device applies to the item.
+
+Technical Note to 1C608.m: 'Mixture' refers to a composition of two or more substances with at least one substance being enumerated in 1C011, 1C111, 1C239, 1C608, USML Category V, or elsewhere on the USML.
+
+n. Any explosives, 'propellants', oxidizers, “pyrotechnics”, fuels, binders, or additives that are “specially designed” for military application and not enumerated or otherwise described in USML Category V or elsewhere on the USML.
+
+Note 1: 1C608.n does not apply to the following “aircraft” fuels: JP-4, JP-5, and JP-8.
+
+Note 2: “Aircraft” fuels specified by 1C608.n, Note 1 are finished products, not their constituents.

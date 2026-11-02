@@ -1,0 +1,37 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1E355；eCFR 2026-10-29〕
+
+1E355 Technology for the production of Chemical Weapons Convention (CWC) Schedule 2 and 3 chemicals, as follows (see List of Items Controlled):
+
+License Requirements
+
+Reason for Control: CW, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+CW applies to entire entry. A license is required for CW reasons to CWC non-States Parties (destinations not listed in Supplement No. 2 to part 745), except for Israel and Taiwan. See § 742.18 of the EAR. The Commerce Country Chart is not designed to determine licensing requirements for items controlled for CW reasons | 
+
+AT applies to the entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Technology for the production of the following CWC Schedule 2 toxic chemicals:
+
+a.1. PFIB: 1,1,3,3,3-Pentafluoro-2-(trifluoromethyl)-1-propene (382-21-8);
+
+a.2. [Reserved]
+
+b. Technology for the production of the following CWC Schedule 3 toxic chemicals:
+
+b.1. Phosgene: Carbonyl dichloride (75-44-5);
+
+b.2. Cyanogen chloride (506-77-4);
+
+b.3. Hydrogen cyanide (74-90-8).

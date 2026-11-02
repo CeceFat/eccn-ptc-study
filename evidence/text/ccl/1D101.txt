@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1D101；eCFR 2026-10-29〕
+
+1D101 “Software” “specially designed” or modified for the operation or maintenance of commodities controlled by 1B101, 1B102, 1B115, 1B117, 1B118, or 1B119.
+
+License Requirements
+
+Reason for Control: MT, NP, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1.
+
+NP applies to “software” for the “use” of items controlled by 1B101.a | NP Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: See ECCNs 1E101 (“use”) and 1E102 (“development” and “production”) for technology for items controlled by this entry.
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.

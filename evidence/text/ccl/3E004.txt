@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 3E004；eCFR 2026-10-29〕
+
+3E004 “Technology” “required” for the slicing, grinding and polishing of 300 mm diameter silicon wafers to achieve a 'Site Front least sQuares Range' ('SFQR') less than or equal to 20 nm at any site of 26 mm x 8 mm on the front surface of the wafer and an edge exclusion less than or equal to 2 mm.
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart(See Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 1.
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: Yes
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: For the purpose of 3E004, 'Site Front least sQuares Range' ('SFQR') is the range of maximum deviation and minimum deviation from front reference plane, calculated by least square method with all front surface data including site boundary within a site.
+
+Items:
+
+The list of items controlled is contained in the ECCN heading.

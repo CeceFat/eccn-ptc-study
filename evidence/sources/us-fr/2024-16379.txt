@@ -1,0 +1,163 @@
+<html>
+<head>
+<title>Federal Register, Volume 89 Issue 143 (Thursday, July 25, 2024)</title>
+</head>
+<body><pre>
+[Federal Register Volume 89, Number 143 (Thursday, July 25, 2024)]
+[Rules and Regulations]
+[Pages 60302-60303]
+From the Federal Register Online via the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]
+[FR Doc No: 2024-16379]
+
+
+=======================================================================
+-----------------------------------------------------------------------
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Part 744
+
+[Docket No. 240722-0202]
+RIN 0694-AI06
+
+
+Standards-Related Activities and the Export Administration 
+Regulations; Corrections
+
+AGENCY: Bureau of Industry and Security, Commerce.
+
+ACTION: Correcting amendments.
+
+-----------------------------------------------------------------------
+
+SUMMARY: On July 18, 2024, the Bureau of Industry and Security 
+published an interim final rule that revised the Export Administration 
+Regulations (EAR). That rule inadvertently revised language related to 
+recent changes to the Entity List. This document corrects the 
+inadvertent revisions introduced in the July 18, 2024, rule.
+
+DATES: Effective July 25, 2024.
+
+FOR FURTHER INFORMATION CONTACT: Nancy Kook, Regulatory Policy 
+Division, Bureau of Industry and Security, Department of Commerce. 
+Phone: (202) 482-2440; Email: <a href="/cdn-cgi/l/email-protection#7e301f101d0750351111153e1c170d501a111d50191108"><span class="__cf_email__" data-cfemail="622c030c011b4c290d0d0922000b114c060d014c050d14">[email&#160;protected]</span></a>.
+
+SUPPLEMENTARY INFORMATION: On July 18, 2024, BIS published in the 
+Federal Register the interim final rule (IFR), ``Standards-Related 
+Activities and the Export Administration Regulations'' (89 FR 58265) 
+that revised parts 734, 744 and 772 of the EAR. The revisions in the 
+July 18, 2024, rule inadvertently reverted changes to part 744 that 
+were amended in a final rule that BIS published on June 18, 2024 (89 FR 
+51644). This document corrects the inadvertent revisions introduced in 
+the Federal Register on July 18, 2024, specifically to Sec. Sec.  
+744.11, 744.16, and supplement no. 4 to part 744, to reintroduce 
+language that was added in the June 18, 2024, rule that reflected the 
+addition of paragraph (f) under Sec.  744.16.
+
+List of Subjects in 15 CFR Part 744
+
+    Exports, Reporting and recordkeeping requirements, Terrorism.
+
+    Accordingly, 15 CFR 744 is corrected by making the following 
+correcting amendments:
+
+PART 744--CONTROL POLICY: END-USER AND END-USE BASED
+
+0
+1. The authority citation for part 744 continues to read as follows:
+
+    Authority: 50 U.S.C. 4801-4852; 50 U.S.C. 4601 et seq.; 50 
+U.S.C. 1701 et seq.; 22 U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 
+U.S.C. 7201 et seq.; 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 
+1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 
+608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13020, 
+61 FR 54079, 3 CFR, 1996 Comp., p. 219; E.O. 13026, 61 FR 58767, 3 
+CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., 
+p.
+
+[[Page 60303]]
+
+783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786; 3 CFR, 2022 
+Comp., p. 563; Notice of September 7, 2023, 88 FR 62439 (September 
+11, 2023); Notice of November 1, 2023, 88 FR 75475 (November 3, 
+2023).
+
+
+0
+2. Section 744.11 is amended by revising paragraph (a) introductory 
+text to read as follows:
+
+
+Sec.  744.11  License requirements that apply to entities acting 
+contrary to the national security or foreign policy interests of the 
+United States.
+
+* * * * *
+    (a) License requirement, availability of license exceptions, and 
+license application review policy. A license is required, to the extent 
+specified on the Entity List, to export, reexport, or transfer (in-
+country) any item subject to the EAR when an entity that is listed on 
+the Entity List, or any entity using an address identified on the 
+Entity List as presenting a high risk of diversion to activities of 
+concern, is a party to the transaction as described in Sec.  748.5(c) 
+through (f) of the EAR unless otherwise authorized or excluded in this 
+section. License exceptions may not be used unless authorized in the 
+Entity List entry for the entity that is party to the transaction or 
+for an address that presents a high diversion risk that is used by a 
+party to the transaction. Applications for licenses required by this 
+section will be evaluated as stated in the relevant Entity List entry, 
+in addition to any other applicable review policy stated elsewhere in 
+the EAR.
+* * * * *
+
+0
+3. Section 744.16 is amended by revising paragraph (a) to read as 
+follows:
+
+
+Sec.  744.16  Entity List.
+
+* * * * *
+    (a) License requirements. In addition to the license requirements 
+for items specified on the CCL, you may not, without a license from 
+BIS, export, reexport, or transfer (in-country) any items included in 
+the License Requirement column of an entry on the Entity List 
+(supplement no. 4 to this part) when an entity associated with that 
+entry or when any entity using an address of high diversion risk 
+associated with that entry is a party to a transaction as described in 
+Sec.  748.5(c) through (f) of the EAR. The specific license requirement 
+for each listed entity or address with high diversion risk is 
+identified in the license requirement column on the Entity List in 
+supplement no. 4 to this part.
+* * * * *
+
+0
+4. Supplement no. 4 to part 744 is amended by revising the introductory 
+text to read as follows:
+
+Supplement No. 4 to Part 744--Entity List
+
+    This supplement lists certain entities or addresses subject to 
+license requirements for specified items under this part 744 and part 
+746 of the EAR. License requirements for these entities include 
+exports, reexports, and transfers (in-country) unless otherwise stated. 
+A license is required, to the extent specified on the Entity List, to 
+export, reexport, or transfer (in-country) any item subject to the EAR 
+when an entity or a party to the transaction is operating at an address 
+that is listed on the Entity List under an address entry is a party to 
+the transaction as described in Sec.  748.5(c) through (f) of the EAR. 
+This list is revised and updated on a periodic basis in this supplement 
+by adding new or amended notifications and deleting notifications no 
+longer in effect.
+* * * * *
+
+Thea D. Rozman Kendler,
+Assistant Secretary for Export Administration.
+[FR Doc. 2024-16379 Filed 7-24-24; 8:45 am]
+BILLING CODE 3510-33-P
+
+
+</pre><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

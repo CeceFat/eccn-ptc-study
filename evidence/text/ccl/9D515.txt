@@ -1,0 +1,65 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9D515；eCFR 2026-10-29〕
+
+9D515 “Software” “specially designed” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of “spacecraft” and related commodities, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry except 9D515.x and y | NS Column 1.
+
+RS applies to entire entry except 9D515.x and y | RS Column 1.
+
+NS applies to 9D515.x | NS Column 2.
+
+RS applies to 9D515.x | RS Column 2.
+
+RS applies to 9D515.y, except to Russia for use in, with, or for the International Space Station (ISS), including launch to the ISS | China, Russia, or Venezuela (see § 742.6(a)(7)).
+
+AT applies to entire entry | AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+Special Conditions for STA
+
+STA: (1) Paragraph (c)(1) of License Exception STA (§ 740.20(c)(1) of the EAR) may not be used for 9D515.b, .d, or .e. (2) Paragraph (c)(2) of License Exception STA (§ 740.20(c)(2) of the EAR) may not be used for any “software” in 9D515.
+
+List of Items Controlled
+
+Related Controls: (1) “Software” directly related to articles described in USML Category XV is subject to the ITAR. (2) See also ECCNs 3D001, 6D001, 6D002, and 6D991 for controls of specific “software” “specially designed” for certain “space-qualified” items. (3) For “software” for items listed in 9A004.d that are incorporated into “spacecraft payloads”, see the appropriate “software” ECCN within those Categories.
+
+Related Definitions: N/A
+
+Items:
+
+a. “Software” (other than “software” controlled in paragraphs .b, .d, or .e of this entry) “specially designed” for the “development,” “production,” operation, installation, maintenance, repair, overhaul, or refurbishing of commodities controlled by ECCN 9A515 (except 9A515.d, .e, or .x) or 9B515.
+
+b. “Source code” that:
+
+b.1. Contains the algorithms or control principles (e.g., for clock management), precise orbit determination (e.g., for ephemeris or pseudo range analysis), signal construct (e.g., pseudo-random noise (PRN) anti-spoofing) “specially designed” for items controlled by ECCN 9A515;
+
+b.2. Is “specially designed” for the integration, operation, or control of items controlled by ECCN 9A515;
+
+b.3. Contains algorithms or modules “specially designed” for system, subsystem, component, part, or accessory calibration, manipulation, or control of items controlled by ECCN 9A515;
+
+b.4. Is “specially designed” for data assemblage, extrapolation, or manipulation of items controlled by ECCN 9A515;
+
+b.5. Contains the algorithms or control laws “specially designed” for attitude, position, or flight control of items controlled in ECCN 9A515; or
+
+b.6. Is “specially designed “for built-in test and diagnostics for items controlled by ECCN 9A515.
+
+c. [Reserved]
+
+d. “Software” “specially designed” for the “development,” “production,” operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.d.
+
+e. “Software” “specially designed” for the “development,” “production,” operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.e.
+
+f. through w. [Reserved]
+
+x. “Software” “specially designed” for the “development,” “production,” operation, failure analysis or anomaly resolution of commodities controlled by ECCN 9A515.x.
+
+y. Specific “software” “specially designed” for the “development,” “production,” operation, or maintenance of commodities enumerated in ECCN 9A515.y.

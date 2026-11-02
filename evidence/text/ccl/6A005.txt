@@ -1,0 +1,557 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6A005；eCFR 2026-10-29〕
+
+6A005 “Lasers”, “components” and optical equipment, as follows (see List of Items Controlled), excluding items that are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110).
+
+License Requirements
+
+Reason for Control: NS, NP, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+NP applies to lasers controlled by 6A005.a.2, a.3, a.4, b.2.b, b.3, b.4, b.6.c, c.1.b, c.2.b, d.2, d.3.c, or d.4.c that meet or exceed the technical parameters described in 6A205 | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A for NP items
+
+$3000 for all other items
+
+GBS: Neodymium-doped (other than glass) “lasers” controlled by 6A005.b.6.d.2 (except 6A005.b.6.d.2.b) that have an output wavelength exceeding 1,000 nm, but not exceeding 1,100 nm, and an average or CW output power not exceeding 2 kW, and operate in a pulse-excited, non- “Q-switched” multiple-transverse mode, or in a continuously excited, multiple-transverse mode; Dye and Liquid Lasers controlled by 6A005.c.1, c.2 and c.3, except for a pulsed single longitudinal mode oscillator having an average output power exceeding 1 W and a repetition rate exceeding 1 kHz if the “pulse duration” is less than 100 ns; CO “lasers” controlled by 6A005.d.2 having a CW maximum rated single or multimode output power not exceeding 10 kW; CO2 or CO/CO2 “lasers” controlled by 6A005.d.3 having an output wavelength in the range from 9,000 to 11,000 nm and having a pulsed output not exceeding 2 J per pulse and a maximum rated average single or multimode output power not exceeding 5 kW; and CO2 “lasers” controlled by 6A005.d.3 that operate in CW multiple-transverse mode, and having a CW output power not exceeding 15 kW.
+
+List of Items Controlled
+
+Related Controls (1) See ECCN 6D001 for “software” for items controlled under this entry. (2) See ECCNs 6E001 (“development”), 6E002 (“production”), and 6E201 (“use”) for technology for items controlled under this entry. (3) Also see ECCNs 6A205 and 6A995. (4) See ECCN 3B001 for excimer “lasers” “specially designed” for lithography equipment. (5) “Lasers” “especially designed” or prepared for use in isotope separation are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110). (6) See USML Category XII(b) and (e) for laser systems or lasers subject to the ITAR. (7) See USML Category XVIII for certain laser-based directed energy weapon systems, equipment, and components subject to the ITAR.
+
+Related Definitions: For the purposes of 6A005: (1) 'Wall-plug efficiency' is defined as the ratio of “laser” output power (or “average output power”) to total electrical input power required to operate the “laser”, including the power supply/conditioning and thermal conditioning/heat exchanger, see 6A005.a.6.b.1 and 6A005.b.6; (2) 'Non-repetitive pulsed' refers to “lasers” that produce either a single output pulse or that have a time interval between pulses exceeding one minute, see Note 2 of 6A005 and 6A005.d.6.
+
+Items:
+
+Notes: 1. Pulsed “lasers” include those that run in a continuous wave (CW) mode with pulses superimposed.
+
+2. Excimer, semiconductor, chemical, CO, CO2, and 'non-repetitive pulsed' Nd:glass “lasers” are only specified by 6A005.d.
+
+Technical Note: For the purposes of 6A005 Note 2, 'non-repetitive pulsed' refers to “lasers” that produce either a single output pulse or that have a time interval between pulses exceeding one minute.
+
+3. 6A005 includes fiber “lasers”.
+
+4. The control status of “lasers” incorporating frequency conversion (i.e., wavelength change) by means other than one “laser” pumping another “laser” is determined by applying the control parameters for both the output of the source “laser” and the frequency-converted optical output.
+
+5. 6A005 does not control “lasers” as follows:
+
+a. Ruby with output energy below 20 J;
+
+b. Nitrogen;
+
+c. Krypton.
+
+6. For the purposes of 6A005.a and 6A005.b, 'single transverse mode' refers to “lasers” with a beam profile having an M2-factor of less than 1.3, while 'multiple transverse mode' refers to “lasers” with a beam profile having an M2-factor of 1.3 or higher
+
+a. Non-“tunable” continuous wave “(CW) lasers” having any of the following:
+
+a.1. Output wavelength less than 150 nm and output power exceeding 1W;
+
+a.2. Output wavelength of 150 nm or more but not exceeding 510 nm and output power exceeding 30 W;
+
+Note: 6A005.a.2 does not control Argon “lasers” having an output power equal to or less than 50 W.
+
+a.3. Output wavelength exceeding 510 nm but not exceeding 540 nm and any of the following:
+
+a.3.a. 'Single transverse mode' output and output power exceeding 50 W; or
+
+a.3.b. 'Multiple transverse mode' output and output power exceeding 150 W;
+
+a.4. Output wavelength exceeding 540 nm but not exceeding 800 nm and output power exceeding 30 W;
+
+a.5. Output wavelength exceeding 800 nm but not exceeding 975 nm and any of the following:
+
+a.5.a. 'Single transverse mode' output and output power exceeding 50 W; or
+
+a.5.b. 'Multiple transverse mode' output and output power exceeding 80 W;
+
+a.6. Output wavelength exceeding 975 nm but not exceeding 1,150 nm and any of the following;
+
+a.6.a. 'Single transverse mode' output and any of the following:
+
+a.6.a.1. Output power exceeding 1,000 W; or
+
+a.6.a.2. Having all of the following:
+
+a.6.a.2.a. Output power exceeding 500 W; and
+
+a.6.a.2.b. Spectral bandwidth less than 40 GHz; or
+
+a.6.b. 'Multiple transverse mode' output and any of the following:
+
+a.6.b.1. 'Wall-plug efficiency' exceeding 18% and output power exceeding 1,000 W; or
+
+a.6.b.2. Output power exceeding 2 kW;
+
+Note 1: 6A005.a.6.b does not control 'multiple transverse mode', industrial “lasers” with output power exceeding 2 kW and not exceeding 6 kW with a total mass greater than 1,200 kg. For the purpose of this note, total mass includes all “components” required to operate the “laser,” e.g., “laser,” power supply, heat exchanger, but excludes external optics for beam conditioning or delivery.
+
+Note 2: 6A005.a.6.b does not apply to 'multiple transverse mode', industrial “lasers” having any of the following:
+
+a. [Reserved];
+
+b. Output power exceeding 1 kW but not exceeding 1.6 kW and having a BPP exceeding 1.25 mm·mrad;
+
+c. Output power exceeding 1.6 kW but not exceeding 2.5 kW and having a BPP exceeding 1.7 mm·mrad;
+
+d. Output power exceeding 2.5 kW but not exceeding 3.3 kW and having a BPP exceeding 2.5 mm·mrad;
+
+e. Output power exceeding 3.3 kW but not exceeding 6 kW and having a BPP exceeding 3.5 mm·mrad;
+
+f. [Reserved]
+
+g. [Reserved]
+
+h. Output power exceeding 6 kW but not exceeding 8 kW and having a BPP exceeding 12 mm·mrad; or
+
+i. Output power exceeding 8 kW but not exceeding 10 kW and having a BPP exceeding 24 mm·mrad;
+
+a.7. Output wavelength exceeding 1,150 nm but not exceeding 1,555 nm and any of the following:
+
+a.7.a. 'Single transverse mode' and output power exceeding 50 W; or
+
+a.7.b. 'Multiple transverse mode' and output power exceeding 80 W;
+
+a.8. Output wavelength exceeding 1,555 nm but not exceeding 1,850 nm and output power exceeding 1 W;
+
+a.9. Output wavelength exceeding 1,850 nm but not exceeding 2,100 nm, and any of the following:
+
+a.9.a. 'Single transverse mode' and output power exceeding 1 W; or
+
+a.9.b. 'Multiple transverse mode' output and output power exceeding 120 W; or
+
+a.10. Output wavelength exceeding 2,100 nm and output power exceeding 1 W;
+
+b. Non-“tunable” “pulsed lasers” having any of the following:
+
+b.1. Output wavelength less than 150 nm and any of the following:
+
+b.1.a. Output energy exceeding 50 mJ per pulse and “peak power” exceeding 1 W; or
+
+b.1.b. “Average output power” exceeding 1 W;
+
+b.2. Output wavelength of 150 nm or more but not exceeding 510 nm and any of the following:
+
+b.2.a. Output energy exceeding 1.5 J per pulse and “peak power” exceeding 30 W; or
+
+b.2.b. “Average output power” exceeding 30 W;
+
+Note: 6A005.b.2.b does not control Argon “lasers” having an “average output power” equal to or less than 50 W.
+
+b.3. Output wavelength exceeding 510 nm, but not exceeding 540 nm and any of the following:
+
+b.3.a. 'Single transverse mode' output and any of the following:
+
+b.3.a.1. Output energy exceeding 1.5 J per pulse and “peak power” exceeding 50 W; or
+
+b.3.a.2. “Average output power” exceeding 80 W; or
+
+b.3.b. 'Multiple transverse mode' output and any of the following:
+
+b.3.b.1. Output energy exceeding 1.5 J per pulse and “peak power” exceeding 150 W; or
+
+b.3.b.2. “Average output power” exceeding 150 W;
+
+b.4. Output wavelength exceeding 540 nm but not exceeding 800 nm and any of the following:
+
+b.4.a. “Pulse duration” less than 1 ps and any of the following:
+
+b.4.a.1. Output energy exceeding 0.005 J per pulse and “peak power” exceeding 5 GW; or
+
+b.4.a.2. “Average output power” exceeding 20 W; or
+
+b.4.b. “Pulse duration” equal to or exceeding 1 ps and any of the following:
+
+b.4.b.1. Output energy exceeding 1.5 J per pulse and “peak power” exceeding 30 W; or
+
+b.4.b.2. “Average output power” exceeding 30 W;
+
+b.5. Output wavelength exceeding 800 nm but not exceeding 975 nm and any of the following:
+
+b.5.a. “Pulse duration” less than 1ps and any of the following:
+
+b.5.a.1. Output energy exceeding 0.005 J per pulse and “peak power” exceeding 5 GW; or
+
+b.5.a.2. 'Single transverse mode' output and “average output power” exceeding 20 W;
+
+b.5.b. “Pulse duration” equal to or exceeding 1 ps and not exceeding 1 µs and any of the following:
+
+b.5.b.1. Output energy exceeding 0.5 J per pulse and “peak power” exceeding 50 W;
+
+b.5.b.2. 'Single transverse mode' output and “average output power” exceeding 20 W; or
+
+b.5.b.3. 'Multiple transverse mode' output and “average output power” exceeding 50 W; or
+
+b.5.c. “Pulse duration” exceeding 1 µs and any of the following:
+
+b.5.c.1. Output energy exceeding 2 J per pulse and “peak power” exceeding 50 W;
+
+b.5.c.2. 'Single transverse mode' output and “average output power” exceeding 50 W; or
+
+b.5.c.3. 'Multiple transverse mode' output and “average output power” exceeding 80 W.
+
+b.6. Output wavelength exceeding 975 nm but not exceeding 1,150 nm and any of the following:
+
+b.6.a. “Pulse duration” of less than 1 ps, and any of the following:
+
+b.6.a.1. Output “peak power” exceeding 2 GW per pulse;
+
+b.6.a.2. “Average output power” exceeding 30 W; or
+
+b.6.a.3. Output energy exceeding 0.002 J per pulse;
+
+b.6.b. “Pulse duration” equal to or exceeding 1 ps and less than 1 ns, and any of the following:
+
+b.6.b.1. Output “peak power” exceeding 5 GW per pulse;
+
+b.6.b.2. “Average output power” exceeding 50 W; or
+
+b.6.b.3. Output energy exceeding 0.1 J per pulse;
+
+b.6.c. “Pulse duration” equal to or exceeding 1 ns but not exceeding 1 µs and any of the following:
+
+b.6.c.1. 'Single transverse mode' output and any of the following:
+
+b.6.c.1.a. “Peak power” exceeding 100 MW;
+
+b.6.c.1.b. “Average output power” exceeding 20 W limited by design to a maximum pulse repetition frequency less than or equal to 1 kHz;
+
+b.6.c.1.c. 'Wall-plug efficiency' exceeding 12%, “average output power” exceeding 100 W and capable of operating at a pulse repetition frequency greater than 1 kHz;
+
+b.6.c.1.d. “Average output power” exceeding 150 W and capable of operating at a pulse repetition frequency greater than 1 kHz; or
+
+b.6.c.1.e. Output energy exceeding 2 J per pulse; or
+
+b.6.c.2. 'Multiple transverse mode' output and any of the following:
+
+b.6.c.2.a. “Peak power” exceeding 400 MW;
+
+b.6.c.2.b. 'Wall-plug efficiency' exceeding 18% and “average output power” exceeding 500 W;
+
+b.6.c.2.c. “Average output power” exceeding 2 kW; or
+
+b.6.c.2.d. Output energy exceeding 4 J per pulse; or
+
+b.6.d. “Pulse duration” exceeding 1 µs and any of the following:
+
+b.6.d.1. 'Single transverse mode' output and any of the following:
+
+b.6.d.1.a. “Peak power” exceeding 500 kW;
+
+b.6.d.1.b. 'Wall-plug efficiency' exceeding 12% and “average output power” exceeding 100 W; or
+
+b.6.d.1.c. “Average output power” exceeding 150 W; or
+
+b.6.d.2. 'Multiple transverse mode' output and any of the following:
+
+b.6.d.2.a. “Peak power” exceeding 1 MW;
+
+b.6.d.2.b. 'Wall-plug efficiency' exceeding 18% and “average output power” exceeding 500 W; or
+
+b.6.d.2.c. “Average output power” exceeding 2 kW;
+
+b.7. Output wavelength exceeding 1,150 nm but not exceeding 1,555 nm and any of the following:
+
+b.7.a. “Pulse duration” not exceeding 1 µs and any of the following:
+
+b.7.a.1. Output energy exceeding 0.5 J per pulse and “peak power” exceeding 50 W;
+
+b.7.a.2. 'Single transverse mode' output and “average output power” exceeding 20 W; or
+
+b.7.a.3. 'Multiple transverse mode' output and “average output power” exceeding 50 W; or
+
+b.7.b. “Pulse duration” exceeding 1 µs and any of the following:
+
+b.7.b.1. Output energy exceeding 2 J per pulse and “peak power” exceeding 50 W;
+
+b.7.b.2. 'Single transverse mode' output and “average output power” exceeding 50 W; or
+
+b.7.b.3. 'Multiple transverse mode' output and “average output power” exceeding 80 W;
+
+b.8. Output wavelength exceeding 1,555 nm but not exceeding 1,850 nm, and any of the following:
+
+b.8.a. Output energy exceeding 100 mJ per pulse and “peak power” exceeding 1 W; or
+
+b.8.b. “Average output power” exceeding 1 W;
+
+b.9. Output wavelength exceeding 1,850 nm but not exceeding 2,100 nm, and any of the following:
+
+b.9.a. 'Single transverse mode' and any of the following:
+
+b.9.a.1. Output energy exceeding 100 mJ per pulse and “peak power” exceeding 1 W; or
+
+b.9.a.2. “Average output power” exceeding 1 W;
+
+b.9.b. 'Multiple transverse mode' and any of the following:
+
+b.9.b.1. Output energy exceeding 100 mJ per pulse and “peak power” exceeding 10 kW; or
+
+b.9.b.2. “Average output power” exceeding 120 W; or
+
+b.10. Output wavelength exceeding 2,100 nm and any of the following:
+
+b.10.a. Output energy exceeding 100 mJ per pulse and “peak power” exceeding 1 W; or
+
+b.10.b. “Average output power” exceeding 1 W;
+
+c. “Tunable” lasers having any of the following:
+
+c.1. Output wavelength less than 600 nm and any of the following:
+
+c.1.a. Output energy exceeding 50 mJ per pulse and “peak power” exceeding 1 W; or
+
+c.1.b. Average or CW output power exceeding 1W;
+
+Note: 6A005.c.1 does not apply to dye “lasers” or other liquid “lasers,” having a multimode output and a wavelength of 150 nm or more but not exceeding 600 nm and all of the following:
+
+1. Output energy less than 1.5 J per pulse or a “peak power” less than 20 W; and
+
+2. Average or CW output power less than 20 W.
+
+c.2. Output wavelength of 600 nm or more but not exceeding 1,400 nm, and any of the following:
+
+c.2.a. Output energy exceeding 1 J per pulse and “peak power” exceeding 20 W; or
+
+c.2.b. Average or CW output power exceeding 20 W; or
+
+c.3. Output wavelength exceeding 1,400 nm and any of the following:
+
+c.3.a. Output energy exceeding 50 mJ per pulse and “peak power” exceeding 1 W; or
+
+c.3.b. Average or CW output power exceeding 1 W;
+
+d. Other “lasers”, not controlled by 6A005.a, 6A005.b, or 6A005.c as follows:
+
+d.1. Semiconductor “lasers” as follows:
+
+Notes: 1. 6A005.d.1 includes semiconductor “lasers” having optical output connectors (e.g., fiber optic pigtails).
+
+2. The control status of semiconductor “lasers” “specially designed” for other equipment is determined by the control status of the other equipment.
+
+d.1.a. Individual single-transverse mode semiconductor “lasers” having any of the following:
+
+d.1.a.1. Wavelength equal to or less than 1,570 nm and average or CW output power, exceeding 2.0 W; or
+
+d.1.a.2. Wavelength greater than 1,570 nm and average or CW output power, exceeding 500 mW;
+
+d.1.b. Individual 'multiple-transverse mode' semiconductor “lasers” having any of the following:
+
+d.1.b.1. Wavelength of less than 1,400 nm and average or CW output power, exceeding 25 W;
+
+d.1.b.2. Wavelength equal to or greater than 1,400 nm and less than 1,900 nm and average or CW output power, exceeding 2.5 W; or
+
+d.1.b.3. Wavelength equal to or greater than 1,900 nm and average or CW output power, exceeding 1 W;
+
+d.1.c. Individual semiconductor “laser” 'bars' having any of the following:
+
+d.1.c.1. Wavelength of less than 1,400 nm and average or CW output power, exceeding 100 W;
+
+d.1.c.2. Wavelength equal to or greater than 1,400 nm and less than 1,900 nm and average or CW output power, exceeding 25 W; or
+
+d.1.c.3. Wavelength equal to or greater than 1,900 nm and average or CW output power, exceeding 10 W;
+
+d.1.d. Semiconductor “laser” 'stacked arrays' (two dimensional arrays) having any of the following:
+
+d.1.d.1. Wavelength less than 1,400 nm and having any of the following:
+
+d.1.d.1.a. Average or CW total output power less than 3 kW and having average or CW output 'power density' greater than 500 W/cm 2;
+
+d.1.d.1.b. Average or CW total output power equal to or exceeding 3 kW but less than or equal to 5 kW, and having average or CW output 'power density' greater than 350W/cm 2;
+
+d.1.d.1.c. Average or CW total output power exceeding 5 kW;
+
+d.1.d.1.d. Peak pulsed 'power density' exceeding 2,500 W/cm 2; or
+
+Note: 6A005.d.1.d.1.d does not apply to epitaxially-fabricated monolithic devices.
+
+d.1.d.1.e. Spatially coherent average or CW total output power, greater than 150 W;
+
+d.1.d.2. Wavelength greater than or equal to 1,400 nm but less than 1,900 nm, and having any of the following:
+
+d.1.d.2.a. Average or CW total output power less than 250 W and average or CW output 'power density' greater than 150 W/cm2;
+
+d.1.d.2.b. Average or CW total output power equal to or exceeding 250 W but less than or equal to 500 W, and having average or CW output 'power density' greater than 50W/cm 2;
+
+d.1.d.2.c. Average or CW total output power exceeding 500 W;
+
+d.1.d.2.d. Peak pulsed 'power density' exceeding 500 W/cm 2; or
+
+Note: 6A005.d.1.d.2.d does not apply to epitaxially-fabricated monolithic devices.
+
+d.1.d.2.e. Spatially coherent average or CW total output power, exceeding 15 W;
+
+d.1.d.3. Wavelength greater than or equal to 1,900 nm and having any of the following:
+
+d.1.d.3.a. Average or CW output 'power density' greater than 50 W/cm 2;
+
+d.1.d.3.b. Average or CW output power greater than 10 W; or
+
+d.1.d.3.c. Spatially coherent average or CW total output power, exceeding 1.5 W; or
+
+d.1.d.4. At least one “laser” 'bar' specified by 6A005.d.1.c;
+
+Technical Note: For the purposes of 6A005.d.1.d, 'power density' means the total “laser” output power divided by the emitter surface area of the 'stacked array'.
+
+d.1.e. Semiconductor “laser” 'stacked arrays', other than those specified by 6A005.d.1.d, having all of the following:
+
+d.1.e.1. “Specially designed” or modified to be combined with other 'stacked arrays' to form a larger 'stacked array'; and
+
+d.1.e.2. Integrated connections, common for both electronics and cooling;
+
+Note 1: 'Stacked arrays', formed by combining semiconductor “laser” 'stacked arrays' specified by 6A005.d.1.e, that are not designed to be further combined or modified are specified by 6A005.d.1.d.
+
+Note 2: 'Stacked arrays', formed by combining semiconductor “laser” 'stacked arrays' specified by 6A005.d.1.e, that are designed to be further combined or modified are specified by 6A005.d.1.e.
+
+Note 3: 6A005.d.1.e does not apply to modular assemblies of single 'bars' designed to be fabricated into end to end stacked linear arrays.
+
+Technical Notes: For the purposes of 6A005.d.1.e:
+
+1. Semiconductor “lasers” are commonly called “laser” diodes.
+
+2. A 'bar' (also called a semiconductor “laser” 'bar', a “laser” diode 'bar' or diode 'bar') consists of multiple semiconductor “lasers” in a one-dimensional array.
+
+3. A 'stacked array' consists of multiple 'bars' forming a two-dimensional array of semiconductor “lasers”.
+
+d.2. Carbon monoxide (CO) “lasers” having any of the following:
+
+d.2.a. Output energy exceeding 2 J per pulse and “peak power” exceeding 5 kW; or
+
+d.2.b. Average or CW output power, exceeding 5 kW;
+
+d.3. Carbon dioxide (CO2) “lasers” having any of the following:
+
+d.3.a. CW output power exceeding 15 kW;
+
+d.3.b. Pulsed output with “pulse duration” exceeding 10 µs and any of the following:
+
+d.3.b.1. “Average output power” exceeding 10 kW; or
+
+d.3.b.2. “Peak power” exceeding 100 kW; or
+
+d.3.c. Pulsed output with a “pulse duration” equal to or less than 10 µs and any of the following:
+
+d.3.c.1. Pulse energy exceeding 5 J per pulse; or
+
+d.3.c.2. “Average output power” exceeding 2.5 kW;
+
+d.4. Excimer “lasers” having any of the following:
+
+d.4.a. Output wavelength not exceeding 150 nm and any of the following:
+
+d.4.a.1. Output energy exceeding 50 mJ per pulse; or
+
+d.4.a.2. “Average output power” exceeding 1 W;
+
+d.4.b. Output wavelength exceeding 150 nm but not exceeding 190 nm and any of the following:
+
+d.4.b.1. Output energy exceeding 1.5 J per pulse; or
+
+d.4.b.2. “Average output power” exceeding 120 W;
+
+d.4.c. Output wavelength exceeding 190 nm but not exceeding 360 nm and any of the following:
+
+d.4.c.1. Output energy exceeding 10 J per pulse; or
+
+d.4.c.2. “Average output power” exceeding 500 W; or
+
+d.4.d. Output wavelength exceeding 360 nm and any of the following:
+
+d.4.d.1. Output energy exceeding 1.5 J per pulse; or
+
+d.4.d.2. “Average output power” exceeding 30 W;
+
+Note: For excimer “lasers” “specially designed” for lithography equipment, see 3B001.
+
+d.5. “Chemical lasers” as follows:
+
+d.5.a. Hydrogen Fluoride (HF) “lasers';
+
+d.5.b. Deuterium Fluoride (DF) “lasers”;
+
+d.5.c. 'Transfer lasers' as follows:
+
+d.5.c.1. Oxygen Iodine (O2-I) “lasers”;
+
+d.5.c.2. Deuterium Fluoride-Carbon dioxide (DF-CO2) “lasers”;
+
+Technical Note: For the purposes of 6A005.d.5.c, 'transfer lasers' are “lasers” in which the lasing species are excited through the transfer of energy by collision of a non-lasing atom or molecule with a lasing atom or molecule species.
+
+d.6. 'Non-repetitive pulsed' Neodymium (Nd) glass “lasers” having any of the following:
+
+d.6.a. A “pulse duration” not exceeding 1 µs and output energy exceeding 50 J per pulse; or
+
+d.6.b. A “pulse duration” exceeding 1 µs and output energy exceeding 100 J per pulse;
+
+e. “Components” as follows:
+
+e.1. Mirrors cooled either by 'active cooling' or by heat pipe cooling;
+
+Technical Note: For the purposes of 6A005.e.1, 'active cooling' is a cooling technique for optical “components” using flowing fluids within the subsurface (nominally less than 1 mm below the optical surface) of the optical component to remove heat from the optic.
+
+e.2. Optical mirrors or transmissive or partially transmissive optical or electro-optical-”components,” other than fused tapered fiber combiners and Multi-Layer Dielectric gratings (MLDs), “specially designed” for use with controlled “lasers”;
+
+Note to 6A005.e.2: Fiber combiners and MLDs are specified by 6A005.e.3.
+
+e.3. Fiber “laser” “components” as follows:
+
+e.3.a. Multimode to multimode fused tapered fiber combiners having all of the following:
+
+e.3.a.1. An insertion loss better (less) than or equal to 0.3 dB maintained at a rated total average or CW output power (excluding output power transmitted through the single mode core if present) exceeding 1,000 W; and
+
+e.3.a.2. Number of input fibers equal to or greater than 3;
+
+e.3.b. Single mode to multimode fused tapered fiber combiners having all of the following:
+
+e.3.b.1. An insertion loss better (less) than 0.5 dB maintained at a rated total average or CW output power exceeding 4,600 W;
+
+e.3.b.2. Number of input fibers equal to or greater than 3; and
+
+e.3.b.3. Having any of the following:
+
+e.3.b.3.a. A Beam Parameter Product (BPP) measured at the output not exceeding 1.5 mm mrad for a number of input fibers less than or equal to 5; or
+
+e.3.b.3.b. A BPP measured at the output not exceeding 2.5 mm mrad for a number of input fibers greater than 5;
+
+e.3.c. MLDs having all of the following:
+
+e.3.c.1. Designed for spectral or coherent beam combination of 5 or more fiber “lasers;” and
+
+e.3.c.2. CW “Laser” Induced Damage Threshold (LIDT) greater than or equal to 10 kW/cm 2;
+
+f. Optical equipment as follows:
+
+N.B.: For shared aperture optical elements, capable of operating in “Super-High Power Laser” (“SHPL”) applications, see the U.S. Munitions List (22 CFR part 121).
+
+f.1. [Reserved]
+
+N.B.: For items previously specified by 6A005.f.1, see 6A004.f.
+
+f.2. “Laser” diagnostic equipment “specially designed” for dynamic measurement of “SHPL” system angular beam steering errors and having an angular “accuracy” of 10 µrad (microradians) or less (better);
+
+f.3. Optical equipment and “components”, “specially designed” for coherent beam combination in a phased-array “SHPL” system and having any of the following:
+
+f.3.a. An “accuracy” of 0.1 µm or less, for wavelengths greater than 1 µm; or
+
+f.3.b. An “accuracy” of λ/10 or less (better) at the designed wavelength, for wavelengths equal to or less than 1 µm;
+
+f.4. Projection telescopes “specially designed” for use with “SHPL” systems;
+
+g. 'Laser acoustic detection equipment' having all of the following:
+
+g.1. CW “laser” output power greater than or equal to 20 mW;
+
+g.2. “Laser” frequency stability equal to or better (less) than 10 MHz;
+
+g.3. “Laser” wavelengths equal to or exceeding 1,000 nm but not exceeding 2,000 nm;
+
+g.4. Optical system resolution better (less) than 1 nm; and
+
+g.5. Optical Signal to Noise ratio equal to or exceeding 10 3.
+
+Technical Note: For the purposes of 6A005.g, 'laser acoustic detection equipment' is sometimes referred to as a “Laser” Microphone or Particle Flow Detection Microphone.

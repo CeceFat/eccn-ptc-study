@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 6E201；eCFR 2026-10-29〕
+
+6E201 “Technology” according to the General Technology Note for the “use” of equipment controlled by 6A003.a.3, 6A003.a.4; 6A005.a.2, 6A005.b.2.b, 6A005.b.3, 6A005.b.4.b.2, 6A005.b.6.c, 6A005.c.1.b, 6A005.c.2.b, 6A005.d.2, 6A005.d.3.c, or 6A005.d.4.c (that meet or exceed the parameters of 6A205); 6A202, 6A203, 6A205, 6A225 or 6A226.
+
+License Requirements
+
+Reason for Control: NP, AT
+
+Control(s) | Country chart(see Supp. No. 1to part 738)
+
+NP applies to entire entry | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+ECCN Controls: This entry only controls “technology” for “lasers” in 6A005 that are controlled for NP reasons.
+
+Items: The list of items controlled is contained in the ECCN heading.

@@ -1,0 +1,31 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 7B102；eCFR 2026-10-29〕
+
+7B102 Equipment, other than those controlled by 7B002, designed or modified to characterize mirrors, for laser gyro equipment, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. Scatterometers having a threshold accuracy of 10 ppm or less (better).
+
+b. Reflectometers having a threshold accuracy of 50 ppm or less (better).
+
+c. Prolifometers having a threshold accuracy of 0.5nm (5 angstrom) or less (better).

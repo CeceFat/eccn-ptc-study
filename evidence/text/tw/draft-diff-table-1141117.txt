@@ -1,0 +1,2183 @@
+〔經濟部國際貿易署｜預告修正 新舊版對照表（114-11-17）｜抓取 2026-11-02｜https://www.trade.gov.tw/App_Ashx/File.ashx?FileID=150D3FA73F3C7061〕
+
+                     軍商兩用貨品及技術出口管制清單及一般軍用貨品清單
+                                         新、舊版修正對照與翻譯
+
+編列說明
+
+1. 軍商兩用貨品及技術出口管制清單列入第一項，一般軍用貨品清單列入第二項。
+2. 本對照表列出下列情況：
+
+   a. 中文有增/刪語詞，原意有所變動者；
+   b. 舊版無、新版新增之內容；
+   c. 舊版有、新版刪除之內容；
+3. 本對照表未列出下列情況，但已於檔案中進行修正，與現行公布英文版本一致：
+   a. 標點符號變動、專有名詞單引號或雙引號變動、CAS 編號前加註 CAS 字樣者；
+   b. 英文編輯改變，未改變原有內容意義者；
+   c. 排版方式變更，未改變原有內容意義者；
+   d. 既有版本的錯字與誤植。
+4. 為符合國際文體指南(2015年版)，英文版本以逗號分隔整數與小數，以空間分隔表明千位整數。
+
+                                                                                                         1
+目錄
+
+第一項：軍商兩用貨品及技術出口管制清單修正對照表...................................................................................................................................... 3
+第二項：一般軍用貨品清單修正對照表................................................................................................................................................................ 42
+
+                                                                                                         2
+第一項：軍商兩用貨品及技術出口管制清單修正對照表(黃色為修正差異)
+
+修正條目                現行內容                   擬修正/新增內容                 現行內容英譯                                擬修正/新增內容英譯
+
+AIP             新增                 無空氣推進系統                --                                        Air Independent Propulsion
+
+專用術語定義                             〝電荷倍增〞(第6類)是指電子影
+                                   像放大的一種形式，其定義為由於
+“Charge                            碰撞電離增益過程而產生電荷載                                                   "Charge multiplication" (6) means a form of
+                                   子。〝電荷倍增〞感測器可以採用
+                                   影像增強管、固態偵測器或〝焦平                                                  electronic image amplification defined as
+                                   面陣列〞的形式。
+multiplication                     〝高功率柴油引擎〞(第9類) 若額                                                the generation of charge carriers as a result
+                                   定轉速為2,300 r.p.m.或以上，而
+”               新增                 轉速在2,300 r.p.m.時，其特定之  --                                        of an impact ionisation gain process.
+                                   制動平均有效壓力為1.8 MPa 或以
+                                   上之柴油發動機。                                                         "Charge multiplication" sensors may take
+
+                                   刪除                                                               the form of an image intensifier tube, solid
+
+                                   3. 複合電解暨催化交換（CECE）                                               state detector or "focal plane array"
+                                   廠；
+"High                              4. 複合工業重整暨催化交換                                                   "High output diesel engines" (9) means
+outputdiesel                       （CIRCE）廠；
+engines"                           5. 雙溫氫─水交換（BHW）廠；                                                diesel engines with a specified brake mean
+
+                新增                                        --                                        effective pressure of 1,8 MPa or more at a
+
+                                                                                                    speed of 2 300 r.p.m., provided the rated
+
+                                                                                                    speed is 2 300 r.p.m. or more.
+
+“Insulation”    〝絕緣〞(第9類)係指應用於火箭推                         "Insulation" (9) is applied to the
+                進器之零件，例如殼體、噴嘴、入
+                口、殼體罩，以及包括凝固或半凝                           components of a rocket motor, i.e. the
+                固之複合橡膠片，包含絕緣或耐熱
+                材料，其亦可能併於釋放應力之防                           case, nozzle, inlets, case closures, and
+                護罩或襟翼中。
+                                                          includes cured or    semi-cured           --
+                                                          compounded rubber  sheet stock
+
+                                                          containing an insulating or refractory
+
+                                                          material. It may also be incorporated
+
+                                                          as stress relief boots or flaps.
+
+0B004.a.3       新增                                        --                                        3.Combined Electrolysis and Catalytic
+
+                                                                                                    Exchange (CECE) plants;
+
+0B004.a.4       新增                                        --                                        4.Combined Industrial Reforming and
+0B004.a.5       新增
+                                                                                                    Catalytic Exchange (CIRCE) plants;
+
+                                                          --                                        5.Bithermal Hydrogen-Water exchange
+                                                                                                    (BHW) plants;
+
+                                   3
+修正條目        現行內容                           擬修正/新增內容                                          現行內容英譯                              擬修正/新增內容英譯
+
+0B004.b.2                                                   2. 單級式，低壓(即：0.2 MPa)之  2.Single stage, low head (i.e., 0,2     2.Single stage, low head (i.e., 0,2 MPa)
+            2.單級式，低壓(即：0.2 MPa)之離心 離心風機或壓縮機，用於為硫化氫                                 MPa) centrifugal blowers or             centrifugal blowers or compressors for
+0B004.b.3   風機或壓縮機，用於為硫化 氫(H2S) (H2S)氣體循環(即氣體含有重量比                                 compressors for hydrogen sulphide       hydrogen sulphide gas circulation (i.e.,
+            氣體循環(即氣體含有重量比超過 超過70%之 H2S)，其在操作壓力大                                    gas circulation (i.e., gas containing   gas containing more than 70 % by
+            70%之 H2S)，其在操作壓力大於或 於或等於1.8 MPa 吸力時，氣體流                                more than 70 % by weight hydrogen       weight hydrogen sulphide, H2S) with a
+            等於 1.8 MPa 吸力時，氣體流通量 通量等於或大於5 m3/s，且具有使                                sulphide, H2S) with a throughput        throughput capacity greater than or
+            等於或大於 56 m3/s，且具有使用溼 用溼式 H2S 之密封設計。                                    capacity greater than or equal to 56    equal to 5 m³/s when operating at
+            式 H2S 之密封設計。                                                           m3/s when operating at pressures        pressures greater than or equal to 1,8
+                                                                                   greater than or equal to 1,8 MPa        MPa suction and having seals designed
+            3.氨-氫交換塔，其高度大於或等於         3.氨-氫交換塔，其高度大於或等                             suction and having seals designed for   for wet H2S service;
+            35 m，直徑介於 1.5 m 至 2.5m，可  於 35 m，直徑大於或等於1.5 m，                         wet H2S service;
+            在壓力大於 15 MPa 下操作；         可在壓力大於 15 MPa 下操作；                                                                   3.Ammonia-hydrogen exchange towers
+                                                                                   3.Ammonia-hydrogen exchange             greater than or equal to 35 m in height
+                                                                                   towers greater than or equal to 35 m    with diameters of 1,5 m or greater
+                                                                                   in height with diameters of 1,5 m to    capable of operating at pressures
+                                                                                   2,5 m capable of operating at           greater than 15 MPa;
+                                                                                   pressures greater than 15 MPa;
+
+            6.在氘濃度重量比等於或大於 90 %                                                    6.Infrared absorption analysers
+            時，可進行線上氫/氘比例分析之紅 6.刪除;
+            外線吸收分析儀；                                                               capable of on-linehydrogen/deuterium
+
+0B004.b.6                                                                          ratio analysis where deuterium          6.Not used;
+
+                                                                                   concentrations are equal to or greater
+
+                                                                                   than 90 %;
+
+0B004.b.8   8.完整的重水升級系統或圓柱，用          8.完整的重水升級系統，或直徑大 8.Complete heavy water upgrade                                      8.Complete heavy water finishing units,
+0B004.b.10  於將重水濃度提升至反應器等級之           於或等於0.1 m 的圓柱，用於將重水 systems, or columns therefor, for the                            upgrade systems, or columns with
+            氘濃度；                                                                                                           diameters of 0,1 m or greater therefor,
+                                                                                      upgrade of heavy water to eactor-    for the upgrade of heavy water to
+            新增                        濃度提升至反應器等級之氘濃度； grade deuterium concentration;                                       reactor-grade deuterium concentration;
+
+                                      10.專為氫同位素交換設計或製造的                                                                    10.Complete columns or towers
+                                                                                                                           specially designed or prepared for
+                                      完整的塔或柱，且具有下列所有特                                                                      hydrogen isotope exchange having all
+                                                                                                                           of the following:
+                                      性：                                                                                   1.Packed with random or structured
+                                                                                                                           wet-proofed platinised catalysts;
+                                      1.採用散裝或結構化防潮鉑催化劑                             --                                      2.Constructed of carbon steel or
+                                                                                                                           stainless steel;
+                                      進行填充；                                                                                3.Capable of operating with pressure in
+                                                                                                                           the range of 0,1 to 4 MPa; and
+                                      2.採用碳鋼或不銹鋼製成；                                                                        4.Capable of operating at temperatures
+
+                                      3.可在0.1至4MPa 的壓力範圍內運
+
+                                      轉；和
+
+                                                     4
+修正條目      現行內容                                   擬修正/新增內容                            現行內容英譯                               擬修正/新增內容英譯
+
+                                         4.能夠在 293 K (20 °C) 至 473 K (200                                           in the range of 293 K (20 °C) to 473 K
+                                         °C) 的溫度範圍內運作。                                                              (200 °C).
+
+1A003 註解  註解：1A003 不管制以銅塗佈或積             註解：1A003不管制以銅塗佈或積                 1A003 does not control manufactures      1A003 does not control manufactures
+1A202     層，且設計為生產電子印刷電路板                層，且設計為〝生產〞電子印刷電                   when coated or laminated with copper     when coated or laminated with copper
+1A225     之製品。                           路板之製品。                            and designed for the production of       and designed for the "production" of
+1B001                                                                      electronic printed circuit boards.       electronic printed circuit boards.
+
+          除 1A002 所述以外之管狀複合結             除 1A002 所述以外之薄壁管狀複合 Composite structures, other than those Composite structures, other than those
+
+          構，且具下列所有特性：                    結構，且具下列所有特性：                      specified in 1A002, in the form of specified in 1A002, in the form of thin-
+          說明：參照 9A010 及 9A110。
+          a.內徑介於 75 mm 至 400 mm 之間；      說明：參照 9A010 及 9A110。              tubes and having both of the             walled tubes and having all of the
+                                         a.內徑介於 75 mm 至 650 mm 之間；         following characteristics:               following characteristics:
+          及                              及                                 N.B. SEE ALSO 9A010 AND                  N.B. SEE ALSO 9A010 AND 9A110.
+          b.以 1C010.a.或 b.或 1C210.a.所述之                                    9A110.                                   a.An inside diameter of between 75 mm
+          任一〝纖維或絲狀材料〞製造，或
+                                         b. 厚度為 12 mm 或以下；及                a.An inside diameter of between 75       and 650 mm;
+          以 1C210.c.所述之碳預浸體材料製           c.以 1C010.a.或 b.或 1C210.a.所述之     mm and 400 mm; and                       b.A thickness of 12 mm or less; and
+          造。                             任一〝纖維或絲狀材料〞製造，或                   b.Made with any of the "fibrous or       c.Made with any of the "fibrous or
+                                                                           filamentary materials" specified in      filamentary materials" specified in
+
+                                         以 1C210.c.所述之碳預浸體材料製              1C010.a. or b. or 1C210.a. or with 1C010.a. or b. or 1C210.a. or with
+                                                                           carbon prepreg materials specified in carbon prepreg materials specified in
+                                         造。
+                                                                           1C210.c.                                 1C210.c.
+
+          為促進氫與水間之氫同位素交換反                為促進氫與水間之氫同位素交換反                   Platinized catalysts specially designed  Wet-proofed platinized catalysts
+          應而特別設計或製備之鍍鉑催化                 應而特別設計或製備之防潮鍍鉑催                   or prepared for promoting the            specially designed or prepared for
+          劑，此交換反應是為從重水中回收                化劑，此交換反應是為從水中回收                   hydrogen isotope exchange reaction       promoting the hydrogen isotope
+          氚或為製造重水。                       氚或為製造或升級重水。                       between hydrogen and water for the       exchange reaction between hydrogen
+                                                                           recovery of tritium from heavy water     and water for the recovery of tritium
+                                                                           or for the production of heavy water.    from water or for the production or
+                                                                                                                    upgrading of heavy water.
+
+          特別設計用於生產或檢測 1A002 所            特別設計用於〝生產〞〝複合材                    Equipment for the production or          Equipment designed for the
+          述〝複合材料〞結構或積層板，或                料〞結構或積層板，或〝纖維狀或                   inspection of "composite" structures     "production" of "composite" structures
+          1C010 所述〝纖維狀或絲狀材料〞             絲狀材料〞之設備，及其特別設計                   or laminates specified in 1A002 or       or laminates or "fibrous or filamentary
+          之設備，及其特別設計之零件及配                之零件及配件：                           "fibrous or filamentary materials"       materials", as follows, and specially
+          件：                                                               specified in 1C010, as follows, and      designed components and accessories
+                                                                           specially designed components and        therefor:
+                                                                           accessories therefor:
+
+                                                       5
+修正條目               現行內容                 擬修正/新增內容                             現行內容英譯                               擬修正/新增內容英譯
+
+1B001.d     d.為生產強化纖維而特別設計或改            d. 為〝生產〞1C010所述〝纖維狀 d.Equipment specially designed or               d.Equipment specially designed or
+            裝之設備，如下：                                                                                        modified for the "production" of
+                                        或絲狀材料〞而特別設計或改裝 adapted for the production of                        "fibrous or filamentary materials"
+                                                                                                            specified by 1C010, as follows:
+                                        之設備，如下：                     reinforcement fibres, as follows:
+
+1B001.e                                                             e.Equipment for producing prepregs e.Equipment specially designed or
+
+            e.以熱融法生產 1C010.e.所述之預浸 e. 特別設計或改裝以〝熱融法〞                 specified in 1C010.e. by the hot melt modified for the production of prepregs
+
+            體的設備；                       〝生產〞預浸體的設備；.                method;                                 by the 'hot melt method';
+
+1B001.e 技術                              就1B001.e.的目的，〝熱融法〞是                                                 For the purposes of 1B001.e., the 'hot
+                                        指通過施加壓力和熱量，將預先層                                                     melt method' is the process of applying
+註解          新增                          壓在載體基材（如薄膜或紙張）上 --                                                  pressure and heat to impregnate
+                                        的樹脂浸漬到〝纖維或絲狀材料〞                                                     "fibrous or filamentary materials" with
+                                        中的過程。                                                               resin that has been pre-laminated onto a
+                                                                                                            carrier substrate, such as film or paper.
+
+1B228       具下列所有特性之氫-低溫蒸餾塔：            具下列所有特性之氫-低溫蒸餾塔：            Hydrogen-cryogenic distillation         Hydrogen-cryogenic distillation
+            a.於內部溫度為 35 K(-238 °C)或以下   a.為於內部溫度 15 K(-258 °C) 至35  columns having all of the following     columns having all of the following
+            操作而設計者；                     K(-238 °C) 範圍內操作而設計者；       characteristics:                        characteristics:
+
+            b.為於內部壓力 0.5 MPa 至 5 MPa 條  b.為於內部壓力 0.1 MPa 至 1 MPa 條  a.Designed for operation with internal  a.Designed for operation with internal
+            件下操作而設計者；                   件下操作而設計者；                   temperatures of 35 K (– 238 °C) or      temperatures in the range of 15 K (-258
+                                                                    less;                                   °C) to 35 K (-238 °C);
+                                        c.由下列任一材料建構而成：
+            c.由下列任一材料建構而成：
+                                        1. 奧氏體不銹鋼；或                 b.Designed for operation at an          b.Designed for operation at internal
+            1. 國際汽車工程師協會(SAE)之 300      2. 在15 K（-258°C）至35 K（-     internal pressure of 0,5 to 5 MPa;      pressures in the range of 0,1 MPa to 1
+            系列不銹鋼，具低含硫量，且其沃             238°C）範圍內兼具低溫且與氫氣                                                   MPa;
+            斯田(austenitic)美國材料試驗學會                                  c.Constructed of either:
+
+            (ASTM)(或等效標準)之晶粒大小為 (H2)相容之同等材料；及                       1.Stainless steel of the Society of     c.Constructed of either:
+                                        d.內徑 30 cm 或以上，且‵有效長度′      Automotive Engineers International      1.Austenitic stainless steel; or
+            5 或以上者；或                                                (SAE) 300 series with low sulphur
+            2.兼具低溫且與氫氣(H2)相容之同等 為 4 m 或以上。
+                                                                    content and with an austenitic ASTM 2.Equivalent materials which are both
+            材料；及                                                    (or equivalent standard) grain size cryogenic and hydrogen (H2)-
+
+            d.內徑 30 cm 或以上，且‵有效長度′                                  number of 5 or greater; or              compatible between 15 K (-258 °C)
+
+            為 4 m 或以上。                                                                                              and 35 K(-238 °C); and
+                                                                    2.Equivalent materials which are both
+
+                                                        6
+修正條目                   現行內容              擬修正/新增內容                     現行內容英譯                                擬修正/新增內容英譯
+
+          技術註解：                  技術註解1：                     cryogenic and hydrogen (H2)-              d.With internal diameters of 30 cm or
+          在 1B228 中之‵有效長度′，指填充式  在 1B228 中之‵有效長度′，指填充式      compatible; and                           greater and 'effective lengths' of 4 m or
+          蒸餾塔之填充材料活性高度，或板        蒸餾塔之填充材料活性高度，或板                                                      greater.
+          式蒸餾塔內部接觸器板之活性高         式蒸餾塔內部接觸器板之活性高             d.With internal diameters of 30 cm or
+          度。                     度。                         greater and 'effective lengths' of 4 m    Technical Note 1:
+                                                            or greater.                               In 1B228 'effective length' means the
+                                                                                                      active height of packing material in a
+                                                            Technical Note:                           packed-type column, or the active
+                                                            In 1B228 'effective length' means the     height of internal contactor plates in a
+                                                            active height of packing material in a    plate-type column.
+                                                            packed-type column, or the active
+                                                            height of internal contactor plates in a
+                                                            plate-type column.
+
+1B228 技術註                        技術註解2：                                                               Technical Note 2:
+解2                                                                                                    Equivalent materials could include, but
+                                 同等材料可能包括但不限於以下材                                                      are not limited to the following
+                  新增                                                                                  materials:
+                                 料：                                                                   a.aluminium,
+                                                                                                      b.aluminium alloys,
+                                 a. 鋁，                      --                                        c.copper alloys,
+                                                                                                      d.nickel alloys, and
+                                 b. 鋁合金，                                                              e.titanium alloys.
+
+                                 c. 銅合金
+
+                                 d. 鎳合金，及
+
+                                 e. 鈦合金。
+
+1C011.e                          e. 五氟化碘(CAS 7783-66-6).                                              e.Iodine pentafluoride (CAS 7783-66-
+                                                                                --                    6).
+          新增
+
+1C350.90
+
+          新增                     90. 二丙胺(CAS 142-84-7).     --                                        90.Dipropylamine (CAS 142-84-7).
+
+                                                         7
+修正條目                  現行內容            擬修正/新增內容                  現行內容英譯                                                                                擬修正/新增內容英譯
+
+1C351.d.20-24                         20. 布雷維毒素；                                                                                                      20. Brevetoxins;
+                  新增                                                                                                                                  21. Gonyautoxins;
+                                      21. 剛毛毒素；                                                                                                       22. Nodularins;
+                                                                                                                                                      23. Palytoxin;
+                                      22. 結節毒素；             --                                                                                        24. Neosaxitoxin (NEO).
+
+                                      23. 巴利毒素；
+
+                                      24. 新沙門氏毒素（NEO）。
+
+2B116.a 技術                            在 2B116.a. 中，〝包含數位控制                                                                                            Technical Note:
+註解
+                                      器之振動測試系統〞是指其功能部                                                                                                 In 2B116.a., 'vibration test systems
+2B116.b .c, .d                                                                                                                                        incorporating a digital controller' are
+                新增                    分或全部由儲存的、數位編碼的電 --                                                                                              those systems, the functions of which
+
+                                      訊號自動控制的系統。                                                                                                      are, partly or entirely, automatically
+
+                                                                                                                                                      controlled by stored and digitally coded
+
+                                                                                                                                                      electrical signals.
+
+                b. 與特別設計之振動測試軟體結合 b. 與特別設計之振動測試軟體結合 b.Digital controllers, combined with b.Digital controllers, combined with
+
+                之數位控制器，具有5 kHz 以上之 之數位控制器，具有5 kHz 以上之 specially designed vibration test                                                               specially designed vibration test
+                                                                                                                 software, with a 'real-time control  software, with a 'real-time control
+                                                                                                                                                      bandwidth' greater than 5 kHz designed
+                ‵即時控制頻寬′，且設計與2B116.a. ‵即時控制頻寬′，且設計與2B116.a. bandwidth' greater than 5 kHz
+
+                所述之振動測試系統共同使用； 所述之系統共同使用；                   designed for use with vibration test for use with systems specified in
+
+                c. 具有或不具有相關放大器之振動                           systems specified in 2B116.a.;                                                            2B116.a.;
+
+                推力器(搖動單元)，能施加等於或大 c. 具有或不具有相關放大器之振動 c.Vibration thrusters (shaker units), c. Vibration thrusters (shaker units),
+                於50 kN 之力，此力係於‵無遮平檯′ 推力器(搖動單元)，能施加等於或大 with or without associated amplifiers, with or without associated amplifiers,
+
+                測量，且能使用於2B116.a.所述之振 於50 kN 之力，此力係於‵無遮平檯′ capable of imparting a force equal to                                                       capable of imparting a force equal to or
+                                                            or greater than 50 kN, measured 'bare                                                     greater than 50 kN, measured 'bare
+                動測試系統；                測量，且能使用於2B116.a.所述之系  table', and usable in vibration test                                                      table', and usable in systems specified
+                                                                                                                                                      in 2B116.a.;
+                d. 經設計為使某一系統內之複合式 統；                        systems specified in 2B116.a.;
+
+                搖動單元結合之測試物件支撐結構 d. 經設計為使某一系統內之複合式           d.Test piece support structures and                                                       d.Test piece support structures and
+                及電子單元，能提供等於或大於50 搖動單元結合之測試物件支撐結構            electronic units designed to combine                                                      electronic units designed to combine
+                kN 之有效混合力，此力係於‵無遮平 及電子單元，能提供等於或大於50         multiple shaker units in a system                                                         multiple shaker units in a system
+
+                檯′測量，且能使用於2B116.a.所述  kN 之有效混合力，此力係於‵無遮平 capable of providing an effective                                                            capable of providing an effective
+                之振動系統。
+                                      檯′測量，且能使用於2B116.a.所述  combined force equal to or greater combined force equal to or greater than
+                                                            than 50 kN, measured 'bare table', and 50 kN, measured 'bare table', and usable
+                                      之系統。
+                                                            usable in vibration systems specified in systems specified in 2B116.a.
+
+                                                            in 2B116.a.
+
+                                                        8
+修正條目                  現行內容  擬修正/新增內容                            現行內容英譯                             擬修正/新增內容英譯
+
+2B351.a                     a.為連續操作而設計，且可用於偵          a.Designed for continuous operation    a.Designed for continuous operation
+         a.為連續操作而設計，且可用於偵測 測‵最低檢出極限′小於 0.3            and usable for the detection of        and usable for the detection of chemical
+         濃度小於 0.3 mg/m3 之化學戰劑或 mg/m3 之化學戰劑或 1C350 所述  chemical warfare agents or chemicals   warfare agents or chemicals specified in
+         1C350 所述之化學品；或                               specified in 1C350, at concentrations  1C350 with a ‘minimum detection
+                            之化學品；或                    of less than 0,3 mg/m3; or             limit’ of less than 0,3 mg/m3; or
+
+2B351.a 技術                   技術註解：                    --                                     Technical Note:
+註解                          有毒氣體監測儀或監測系統的‵最                                                  The ‘minimum detection limit’ of toxic
+                            低檢出極限′是指在測量空白樣本                                                  gas monitors or moni toring systems is
+                  新增        時，能產生大於該監測儀或監測系                                                  the lowest detectable concentration of
+                            統信號三倍標準偏差的分析物濃                                                   the analyte required to produce a signal
+                            度。                                                               greater than three times the standard
+                                                                                             deviation of the toxic gas monitor’s or
+                                                                                             monitoring system’s signal when
+                                                                                             measuring a blank sample.
+
+                            在有毒氣體監測器或監測系統中，                                                  In the case of toxic gas monitors or
+                            若設有死區或程式化零點抑制，‵最                                                 monitoring systems having a deadband
+                            低檢出極限′是指能產生讀數的最低                                                 or programmed zero suppression, the
+                            氣體濃度。                                                            ‘minimum detection limit’ is the lowest
+                                                                                             detectable concentration required to
+2B910                       2B910 設計用於生產金屬或金屬                                                produce a reading.
+                  新增                                                                         2B910 Additive manufacturing
+                            合金零件的增材製造設備，以及                                                   equipment, designed to produce metal
+                                                                                             or metal alloy components, having all
+                            為其〝特別設計〞的〝零件〞，                                                   of the following, and “specially
+                                                                                             designed” “components” therefor.
+                            具有以下所有特性：
+                                                                                             a. Having at least one of the following
+                            a.至少擁有以下任一凝固源：                                                   consolidation sources:
+
+                            1. "雷射" ;                                                        a.1. “Laser” ;
+                                                                                             a.2. Electron beam; or
+                            2.電子束；或                                                          a.3. Electric arc;
+
+                            3.電弧；                     --                                     b. Having a controlled process
+                                                                                             atmosphere of any of the following:
+                            b.具備以下任一管控製程氣體：
+                                                                                             b.1. Inert gas; or
+                            1.惰性氣體；或
+
+                            2.真空（等於或小於100Pa）；
+
+                            c.以‵同軸配置′或‵旁軸配置′的形式
+
+                            存在的‵製程監測′設備，具有以下
+
+                            任一特性：
+
+                            1.峰值響應波長範圍超過380 nm但
+
+                                       9
+修正條目  現行內容         擬修正/新增內容                         現行內容英譯        擬修正/新增內容英譯
+
+            不超過14,000 nm的成像相機；                              b.2. Vacuum (equal to or less than 100
+            2.設計用於測量高於 1,273.15K                            Pa);
+            (1,000 °C) 溫度的高溫計；或
+            3.峰值響應波長範圍超過380 nm                              c. Having any of the following 'in-
+            但不超過3000 nm 的輻射計或光譜                             process monitoring' equipment in a 'co-
+            儀；及                                             axial configuration' or 'paraxial
+            d.封閉迴路控制系統，根據                                   configuration':
+            2B010.c 中規定的設計用於‵製程監
+            測′設備的回應，在製造過程中修                                 c.1. Imaging camera with a peak
+            改凝固源參數、構建路徑或設備                                  response in the wavelength range
+            設定。                                             exceeding 380 nm but not exceeding
+                                                            14,000 nm;
+            技術註解：                                           c.2. Pyrometer designed to measure
+            就 2B910 而言：                                     temperatures greater than 1,273.15K
+            1.‵製程監測′，也稱為原位製程監                               (1,000 °C); or
+            控，涉及增材製造過程的觀察和                                  c.3. Radiometer or spectrometer with a
+            測量，包括熔池的電磁或熱排                                   peak response in the wavelength range
+            放。                                              exceeding 380 nm but not exceeding
+            2. ‵同軸配置′，也稱為同軸或內嵌                              3,000 nm; and
+            配置，涉及安裝在“雷射”凝固源
+            共享的光路中的一個或多個感測                                  d. A closed loop control system
+            器。                                              designed to modify the consolidation
+            3.‵近軸配置′涉及實體安裝到或整                               source parameters, build path, or
+            合到 "雷射"、電子束或電弧凝固                                equipment settings during the build
+            源組件上的一個或多個感測器。                                  cycle in response to feedback from 'in-
+            4. 對於‵同軸配置′和‵近軸配置′，                             process monitoring' equipment .
+            感測器的視場固定到凝固源的移
+            動參考框架中，並在構建過程中                                  Technical Notes: For the purposes of
+            隨著凝固源的掃描軌跡移動。                                   2B910:
+                                                            1. 'In-process monitoring', also known
+                                                10          as in-situ process monitoring, pertains
+                                                            to the observation and measurement of
+                                                            the additive manufacturing process
+                                                            including electromagnetic, or thermal,
+                                                            emissions from the melt pool.
+
+                                                            2. 'Co-axial configuration', also known
+                                                            as on-axis or inline configuration,
+                                                            pertains to one or more sensors that are
+修正條目       現行內容  擬修正/新增內容                        現行內容英譯        擬修正/新增內容英譯
+
+2D910  新增        2D910 專門為〝開發〞或〝生                        mounted in an optical path shared by
+2E903            產〞 2B910中列明的設備而特別 --                    the “laser” consolidation source.
+                 設計或修改的〝軟體〞。
+                                                         3. 'Paraxial configuration' pertains to
+                 2E903 其他地方未指定的用於                        one or more sensors that are physically
+                                                         mounted onto or integrated into the
+                 〝開發〞或〝生產〞具有以下所                          “laser” , electron beam, or electric arc
+                                                         consolidation source component.
+                 有‵塗層系統′的〝技術〞：
+                                                         4. For both 'co-axial configuration' and
+                 a. 設計用於保護 1C007規定的陶                     'paraxial configuration', the field of
+                                                         view of the sensor(s) is fixed to the
+                 瓷〝基體〞〝複合〞材料免受腐                          moving reference frame of the
+                                                         consolidation source and moves in the
+                 蝕；及                                     same scan trajectories of the
+                                                         consolidation source throughout the
+                 b. 設計用於工作溫度超過                           build process.
+                                                         "Software", not specified elsewhere, "
+       新增        1,373.15 K (1,100 °C)。      --          specially designed " or modified for the
+                                                         "development" or "production" of
+                 技術註解：                                   equipment specified in 2B910.
+                                                         "Technology" , not specified
+                 就2E903而言，‵塗層系統′由沉積                      elsewhere, for the "development" or
+                                                         "production" of `coating systems'
+                 在基材上的一層或多層（例如，                          having all of the following:
+
+                 黏合層、中間層、面塗層）材料                          a. Designed to protect ceramic " matrix
+                                                         " " composite " materials specified by
+                 所組成。                                    1C007 from corrosion; and
+
+                                                         b. Designed to operate at temperatures
+                                                         exceeding 1,373.15 K (1,100 °C).
+
+                                                         Technical Note:
+                                                         For the purposes of 2E903, 'coating
+                                                         systems' consist of one or more layers
+                                                         (e.g., bond, interlayer, top coat) of
+                                                         material deposited on the substrate.
+
+                                         11
+修正條目               現行內容                          擬修正/新增內容                 現行內容英譯                               擬修正/新增內容英譯
+
+2E910                                     2E910 未在其他地方指定的專門                                              "Technology", not specified elsewhere,
+                                          為〝開發〞或〝生產〞 2B910 中
+               新增                         列明的設備而〝特別設計〞或修            --                                   " specially designed " or modified for
+                                          改的〝技術〞。
+                                                                                                         the "development" or "production" of
+                                          中文未變更
+                                                                                                         equipment specified in ECCN 2B910.
+                                          a.設計用於延伸〝訊號分析儀〞
+3A 註解 1        註解 1：3A001 或 3A002 中除      頻率範圍超過 110 GHz；           Note 1: The control status of        Note 1: The control status of equipment
+               3A001.a.3.至 3A001.a.10.、   b.設計用於延伸訊號產生器操作
+               3A001.a.12.至 3A001.a.14,或  範圍如下：                     equipment and components described and components described in 3A001 or
+               3A001.b.12.所述以外之設備與零件      1.超過 110 GHz；
+               管制狀況，專為其他設備所設計或            2.輸出功率大於 100              in 3A001 or 3A002, other than those 3A002, other than those described in
+               具有與其他設備相同功能特徵者，            mW(20dBm)，頻率範圍超過 43.5
+               由 其他設備之管制狀況所決定。            GHz 但                     described in 3A001.a.3. to           3A001.a.3. to 3A001.a.10., 3A001.a.12.
+                                          未超過 110 GHz；
+                                                                    3A001.a.10., or 3A001.a.12. to       to 3A001.a.14., or 3A001.b.12, which
+
+                                                                    3A001.a.14., or 3A001.b.12., which are specially designed for or which
+
+                                                                    are specially designed for or which have the same functional characteristics
+
+                                                                    have the same functional             as other equipment is determined by the
+
+                                                                    characteristics as other equipment is control status of the other equipment.
+
+                                                                    determined by the control status of
+
+                                                                    the other equipment.
+
+3A001.b.7.a-b  a.設計用於延伸〝訊號分析儀〞頻率                                    a.Designed to extend the frequency a.Designed to extend the frequency
+               範圍超過 90 GHz；
+               b.設計用於延伸訊號產生器操作範                                     range of "signal analysers" beyond 90 range of "signal analysers" beyond 110
+               圍如下：
+               1.超過 90 GHz；                                         GHz;                                 GHz;
+               2.輸出功率大於 100 mW(20dBm)，
+               頻率範圍超過 43.5 GHz 但                                    b.Designed to extend the operating b.Designed to extend the operating
+               未超過 90 GHz；
+                                                                    range of signal generators as follows: range of signal generators as follows:
+
+                                                                    1.Beyond 90 GHz;                     1.Beyond 110 GHz;
+
+                                                                    2.To an output power greater than 100 2.To an output power greater than 100
+
+                                                                    mW (20 dBm) anywhere within the mW (20 dBm) anywhere within the
+
+                                                                    frequency range exceeding 43,5 GHz frequency range exceeding 43,5 GHz
+
+                                                                    but not exceeding 90 GHz;            but not exceeding 110 GHz;
+
+3A001.b.7.c.2  2.輸出功率大於 31.62 mW(15dBm)，  2.輸出功率大於 100 mW (20       2.To an output power greater than 2.To an output power greater than 100
+3A001.b.7.c.3  頻率範圍超過 43.5 GHz 但未超過 90    dBm)，頻率範圍超過 43.5 GHz 但
+               GHz；                       未超過 110 GHz；              31,62 mW (15 dBm) anywhere within mW (20 dBm) anywhere within the
+               3.輸出功率大於 1 mW(0dBm)，頻率
+               範圍超過 90 GHz 但未超過110        3.刪除                      the frequency range exceeding 43,5 frequency range exceeding 43,5 GHz
+               GHz；或
+                                                                    GHz but not exceeding 90 GHz;        but not exceeding 110 GHz;
+
+                                                                    3.To an output power greater than 1
+
+                                                                    mW (0 dBm) anywhere within the       3.Not used;
+                                                                    frequency range exceeding 90 GHz
+
+                                                                    but not exceeding 110 GHz; or
+
+3A001.b.9. 技 就 3A001.b.9.目的：              1. 就3A001.b.9.a.目的，所述之‵開  For the purposes of 3A001.b.9.:      1.For the purposes of 3A001.b.9.a. the
+
+               1.計算 3A001.b.9.b.所述之體積，如   機時間′指的是完全關機到完全            1.To calculate the volume in         'turn-on time' refers to the time from
+
+術註解                                                                 3A001.b.9.b., the following example fully-off to fully operational, i.e., it
+
+                                          12
+修正條目                      現行內容                 擬修正/新增內容                 現行內容英譯                                擬修正/新增內容英譯
+
+             下例所示：最大評定功率20W 之管           運作狀態之時間；亦即包括微波 is provided: for a maximum rated                      includes the warm-up time of the MPM.
+             制體積為 20 W× 10 cm3/W＝200
+             cm3。                        功率模組(MPM)熱機時間。             power of 20 W, the volume would be:
+             2. 3A001.b.9.a.所述之‵開機時間′指的
+             是完全關機到完全運作狀態之時                                         20 W × 10 cm3/W = 200 cm3.                2.For the purposes of 3A001.b.9.b., the
+             間；亦即包括微波功率模組(MPM)
+             熱機時間。                       2. 就 3A001.b.9.b. 目 的 ， 計 算 2.The' turn-on time' in 3A001.b.9.a.     following example is provided to
+                                                                                                              calculate the volume: for a maximum
+                                         3A001.b.9.b. 所 述之 體 積， 如 下 refers to the time from fully-off to      rated power of 20 W, the volume would
+                                                                    fully operational, i.e., it includes the  be: 20 W × 10 cm3/W = 200 cm3.
+                                         例所示：最大評定功率20W 之            warm-up time of the MPM.
+                                         管 制 體 積 為 20 W×10 cm3/W ＝
+
+                                         200 cm3。
+
+3A002.c.2-4  2.〝訊號分析儀〞具有平均顯示雜 2.〝訊號分析儀〞具有平均顯示雜                      2."Signal analysers" having a             2."Signal analysers" having a Displayed
+
+3A002.d.1 技  訊位準(DNAL)在任何地方低於            訊位準(DNAL)在任何地方低於           Displayed Average Noise Level             Average Noise Level (DANL) less
+術註解
+             (優於)-150 dBm/Hz，其頻率超過 (優於)-160 dBm/Hz，其頻率超過            (DANL) less (better) than -150            (better) than -160 dBm/Hz anywhere
+
+                                                                    dBm/Hz anywhere within the                within the frequency range exceeding
+
+             43.5 GHz 但不超過 90 GHz；       43.5 GHz 但不超過 110 GHz；     frequency range exceeding 43,5 GHz 43,5 GHz but not exceeding 110 GHz;
+
+             3.〝訊號分析儀〞頻率超過 90            3.〝訊號分析儀〞頻率超過 110          but not exceeding 90 GHz;
+
+             GHz；                        GHz；                                                                 3."Signal analysers" having a frequency
+
+                                                                    3."Signal analysers" having a             exceeding 110 GHz;
+
+             4.〝訊號分析儀〞具有下列所有特 4.〝訊號分析儀〞具有下列所有特                      frequency exceeding 90 GHz;
+
+             性：                          性：                                                                   4."Signal analysers" having all of the
+
+             a.‵即時頻寬′超過 170 MHz；及        a.‵即時頻寬′超過 520 MHz；及       4."Signal analysers" having all of the following:
+
+                                                                    following:                                a.'Real-time bandwidth' exceeding 520
+
+             b.具下列任一特性：                  b.具下列任一特性：                 a.'Real-time bandwidth' exceeding MHz; and
+
+             1.具 100%的發現率，於間隙或訊號 1.具 100%的發現率，於間隙或訊號                170 MHz; and                              b.Having any of the following:
+
+             的開窗效應持續時間為 15 μs 或以 的開窗效應持續時間為 8 μs 或以                 b. Having any of the following:           1.100 % probability of discovery with
+
+                                                                    1.100 % probability of discovery with less than a 3 dB reduction from full
+
+             下，全振幅降低小於 3 dB；             下，全振幅降低小於 3 dB；            less than a 3 dB reduction from full amplitude due to gaps or windowing
+
+             2.具有‵頻率遮罩觸發′功能，其 100        2.具有‵頻率遮罩觸發′功能，其 100       amplitude due to gaps or windowing effects of signals having a duration of 8
+             %觸發(捕獲)訊號機率之持續時間為           %觸發(捕獲)訊號機率之持續時間
+             15 μs 或以下；                  為 8 μs 或以下；                effects of signals having a duration of μs or less; or
+
+                                                                    15 μs or less; or
+
+                                                                                                              2.A 'frequency mask trigger' function
+
+                                                                    2.A 'frequency mask trigger' function with 100 % prob ability of trigger
+
+                                                                    with 100 % probability of trigger         (capture) for signals having a duration
+
+                                                                    (capture) for signals having a duration of 8 μs or less;
+
+                                                                    of 15 μs or less;
+
+                                         技術註解：                                                                For the purposes of 3A002.d.1.a, 'pulse
+
+             新增                          就3A002.d.1.a.目的，‵脈衝持續時     --                                        duration' is defined as the time interval
+
+                                         間′定義為由脈衝波之前緣達50%                                                     from the point on the leading edge that
+
+                                                          13
+修正條目                    現行內容                     擬修正/新增內容                 現行內容英譯                                                                     擬修正/新增內容英譯
+
+3A002.d.2-6                               之一點，至脈衝波後緣達50%之一                                                                                     is 50 % of the pulse amplitude to the
+                                          點兩者其時間間隔。                                                                                            point on the trailing edge that is 50 %
+                                                                                                                                               of the pulse amplitude.
+                                                                                                              2.An output power exceeding 100
+             2.任何地方輸出功率超過 100 mW(20 2.任何地方輸出功率超過 100 mW(20 mW (20 dBm) anywhere within the                                                     2.An output power exceeding 100 mW
+                                                                                                                                               (20 dBm) anywhere within the
+             dBm)，其頻率超過 43.5 GHz          dBm)，其頻率超過 43.5 GHz             frequency range exceeding 43,5 GHz                                   frequency range exceeding 43,5 GHz
+                                                                                                                                               but not exceeding 110 GHz;
+             但不超過 90 GHz；                 但不超過 110 GHz；                   but not exceeding 90 GHz;
+                                                                                                                                               3.g.Less than 100 μs for any frequency
+                                                                                                              3.g.Less than 100 µs for any     change exceeding 5,0 GHz within the
+             3.g.在頻率超過 75 GHz，但不超過 3.g.在頻率超過 75 GHz，但不超過 frequency change exceeding 5,0 GHz                                                    frequency range exceeding 75 GHz but
+                                                                                                                                               not exceeding 110 GHz;
+             90 GHz 的條件下，頻率變化超過 110 GHz 的條件下，頻率變化超過 within the frequency range exceeding
+             5.0 GHz 時之切換時間小於 100 μs； 5.0 GHz 時之切換時間小於 100 μs； 75 GHz but not exceeding 90 GHz;                                                4.a.Less (better) than -(126 + 20log10F
+                                                                                                                                               - 20log10f) anywhere within the range
+                                                                          4.a.Less (better) than -(126 +                                       of 10 Hz ≤ F ≤ 10 kHz anywhere within
+                                                                                                                                               the frequency range exceeding 3,2 GHz
+             4.a.在頻率超過 3.2 GHz 但不超過 90 4.a.在頻率超過 3.2 GHz 但不超過 20log10F - 20log10f) anywhere                                                    but not exceeding 110 GHz; or
+                                                                                                                                               4.b.Less (better) than -(206 - 20log10f)
+             GHz，10 Hz ≤F ≤ 10 kHz 範圍之中，  110  GHz，10 Hz ≤F ≤ 10 kHz 範圍之  within the range of 10 Hz ≤ F ≤ 10                                   anywhere within the range of 10 kHz<
+                                                                          kHz anywhere within the frequency                                    F≤ 100 kHz anywhere within the
+             少於(優於) -(126+20 log10F-20    中，少於(優於) -(126+20 log10F-20 range exceeding 3,2 GHz but not                                          frequency range exceeding 3,2 GHz but
+                                                                                                                                               not exceeding 110 GHz;
+             log10f)；或                    log10f)；或                       exceeding 90 GHz; or
+                                                                          4.b.Less (better) than -(206-                                        5.d.Exceeding 5,0 GHz within the
+             4.b.在頻率超過 3.2 GHz 但不超過 90 4.b.在頻率超過 3.2 GHz 但不超過                                                                                  frequency range exceeding 75 GHz but
+                                                                          20log10f) anywhere within the range                                  not exceeding 110 GHz; or
+             GHz，10 kHz < F ≤ 100 kHz     110 GHz，10 kHz < F ≤ 100 kHz    of 10 kHz< F≤ 100 kHz anywhere
+                                                                                                                                               6.A maximum frequency exceeding 110
+             範圍之中，少於(優於) -(206-20         範圍之中，少於(優於) -(206-20            within the frequency range exceeding                                 GHz;
+
+             log10f)；或                    log10f)；或                       3,2 GHz but not exceeding 90 GHz;
+                                                                          or
+
+             5.d. 在頻率範圍超過 75 GHz 但不超      5.d. 在頻率範圍超過 75 GHz 但不超         5.d.Exceeding 5,0 GHz within the
+             過 90 GHz 情況下，超過 5.0 GHz      過 110 GHz 情況下，超過 5.0 GHz        frequency range exceeding 75 GHz
+             者；或                          者；或                             but not exceeding 90 GHz; or
+
+             6.最大頻率超過 90 GHz；             6.最大頻率超過 110 GHz；               6.A maximum frequency exceeding
+                                                                          90 GHz;
+
+3A002.d. 技   技術註解：                        技術註解：                           Technical Notes :                                                    Technical Note:
+術註解          1.就 3A002.d.目的，任意波形及函數
+             產生器之最大頻率計算，為以秒計              就 3A002.d.目的，任意波形及函數 1.For the purposes of 3A002.d., the For the purposes of 3A002.d., the
+             算之取樣率除以係數 2.5。
+                                          產生器之最大頻率計算，為以秒計 maximum frequency of an arbitrary                                                    maximum output frequency of an
+                                                                          waveform or function generator is                                    arbitrary waveform or function
+                                          算之取樣率除以係數 2.5。                  calculated by dividing the sample                                    generator is calculated by dividing the
+
+                                                                          rate, in samples/second, by a factor of sample rate, in samples/second, by a
+
+                                                               14
+修正條目                    現行內容                   擬修正/新增內容                     現行內容英譯                               擬修正/新增內容英譯
+
+3A002.e.1  2. 就 3A002.d.1.a.目的，‵脈衝持續時  1. 輸出功率超過100 mW (20 dBm)之  2,5.                                     factor of 2,5.
+           間′定義為由脈衝波之前緣達 50%之          任一處其最大操作頻率超過43.5
+           一點，至脈衝波後緣達 50%之一點           GHz 但未超過110 GHz；           2.For the purposes of 3A002.d.1.a,       1.An output power exceeding 100 mW
+           兩者其時間間隔。                                               ‘pulse duration’ is defined as the time  (20 dBm) anywhere within the
+                                                                  interval from the point on the leading   operating frequency range exceeding
+           1.輸出功率超過 31.62 mW (15 dBm)                             edge that is 50 % of the pulse           43,5 GHz but not exceeding 110 GHz;
+           之任一處其最大操作頻率超過                                          amplitude to the point on the trailing
+           43.5 GHz 但未超過 90 GHz；                                  edge that is 50 % of the pulse
+                                                                  amplitude.
+
+                                                                  1.An output power exceeding 31,62
+                                                                  mW (15 dBm) anywhere within the
+                                                                  operating frequency range exceeding
+                                                                  43,5 GHz but not exceeding 90 GHz;
+
+3A002.e.2  2.輸出功率超過 1 mW (0 dBm)之任     2.刪除；                      2.An output power exceeding 1 mW         2.Not used;
+3A901      一處其最大操作頻率超過 90 GHz 但                                   (0 dBm) anywhere within the
+           未超過 110 GHz；                3A901 3A001 未指定的電子產        operating frequency range exceeding      3A901 Electronic items, not specified
+                                       品，如下：                      90 GHz but not exceeding 110 GHz;        by ECCN 3A001, as follows：
+           新增                          a.互補金屬氧化物半導體 (CMOS)                                                 a. Complementary Metal Oxide
+                                       積體電路，未在 3A001.a.2 中指       --                                       Semiconductor (CMOS) integrated
+                                       定，設計用於在等於或低於（優                                                      circuits, not specified by 3A001.a.2,
+                                       於）4.5 K (−268.65 °C) 的環境溫                                           designed to operate at an ambient
+                                       度下運作。                                                               temperature equal to or less (better)
+                                       技術註解：就 3A901.a 而言，                                                  than 4.5 K (−268.65 °C).
+                                       CMOS 積體電路也稱為低溫
+                                       CMOS 或低溫 CMOS。                                                      Technical Note:
+                                                                                                           For the purposes of 3A901.a, CMOS
+                                       b.參數訊號放大器具有以下所有特                                                    integrated circuits are also referred to as
+                                       徵：                                                                  cryogenic CMOS or cryo-CMOS.
+
+                                       b.1.設計用於在低於 1 K (−272.15                                            b. Parametric signal amplifiers having
+                                       °C) 的環境溫度下運作；                                                       all of the following:
+
+                                       b.2.設計用於在 2 GHz 至 15 GHz                                            b.1. Designed for operation at an
+                                                                                                           ambient temperature below 1 K
+                                                                                                           (−272.15 °C);
+                                                                                                           b.2. Designed for operation at any
+
+                                       15
+修正條目                  現行內容              擬修正/新增內容                   現行內容英譯                                 擬修正/新增內容英譯
+
+                                 （含）的任何頻率下運作；和                                                      frequency from 2 GHz up to and
+                                                                                                    including 15 GHz; and
+                                 b.3.在 1 K (−272.15 °C) 下，從 2                                       b.3. A noise figure less (better) than
+                                 GHz 到 15 GHz（包括 15 GHz）                                            0.015 dB at any frequency from 2 GHz
+                                 的任何頻率下，雜訊係數均小於                                                     up to and including 15 GHz at 1 K
+                                 （優於）0.015 dB。                                                      (−272.15 °C).
+
+                                 註解：                                                                Note:
+                                 就3A901.b而言，參數訊號放大器                                                 For the purposes of 3A901.b,
+                                 包含行波參數放大器（TWPA）。                                                   parametric signal amplifiers include
+                                                                                                    Travelling Wave Parametric Amplifiers
+                                 技術註解：                                                              (TWPAs).
+                                 就3A901.b而言，參數訊號放大器
+                                 也可稱為量子限制放大器(QLA)。                                                  Technical Note:
+                                                                                                    For the purposes of 3A901.b,
+3A904                            3A904 低溫冷卻系統及零件如                                                   parametric signal amplifiers may also
+                  新增                                                                                be referred to as Quantum-limited
+                                 下：                                                                 amplifiers (QLAs).
+                                                                                                    3A904 Cryogenic cooling systems and
+                                 a.系統額定在 0.1 K (−273.05 °C)                                         components, as follows：
+                                                                                                    a. Systems rated to provide a cooling
+                                 或以下的溫度下提供大於或等於                                                     power greater than or equal to 600 µW
+                                                                                                    at or below a temperature of 0.1 K
+                                 600 µW 的冷卻功率，持續時間超                                                 (−273.05 °C) for a period of greater
+                                                                                                    than 48 hours;
+                                 過 48 小時；                      --
+                                 b.兩級脈衝管製冷機的額定溫度維                                                   b. Two-stage pulse tube cryocoolers
+                                                                                                    rated to maintain a temperature below 4
+                                 持在 4 K (−269.15 °C) 以下，並在                                          K (−269.15 °C) and provide a cooling
+                                                                                                    power greater than or equal to 1.5 W at
+                                 4.2 K (−268.95 °C) 或以下時提供                                          or below a temperature of 4.2 K
+                                                                                                    (−268.95 °C).
+                                 大於或等於 1.5 W 的冷卻功率。                                                 2.Metal Organic Chemical Vapour
+                                                                                                    Deposition (MOCVD) reactors
+3B001.a.2  2.設計用於以金屬進行化合物半導      Addition of «oxygen» to       2.Metal Organic Chemical Vapour      designed for compound semiconductor
+           體磊晶之有機金屬化學氣相沉積        compounds for equipment for   Deposition (MOCVD) reactors          epitaxial growth of material having two
+           (MOCVD)反應器，其有 2 個或以上  epitaxial                     designed for compound semicon-       or more of the following elements:
+           下列元素：鋁、鎵、銦、砷、磷、       設計用於以金屬進行化合物半導                ductor epitaxial growth of material  aluminium, gallium, indium, arsenic,
+           銻或氮；                  體磊晶之有機金屬化學氣相沉積                having two or more of the following  phosphorus, antimony, oxygen or
+                                 (MOCVD)反應器，其有2個或以             elements: aluminium, gallium,
+                                                               indium, arsenic, phosphorus,
+
+                                     16
+修正條目            現行內容                         擬修正/新增內容             現行內容英譯                        擬修正/新增內容英譯
+
+                                      上下列元素：鋁、鎵、銦、砷、 antimony, or nitrogen;                     nitrogen;
+
+                                      磷、銻、氧或氮；
+
+3B001.e 技術  1.3B001.e.1.所述‵半導體製程設備′，  1. 3B001.e.所述‵半導體製程設    1.For the purpose of 3B001.e.1.,  1.For the purposes of 3B001.e.1.,
+註解1         為提供半導體實體加工生產之模組           備′，為提供半導體實體加工〝生
+            工具，其具有不同功能，如沉積、           產〞之模組工具，其具有不同功          'semiconductor process tools' refers to 'semiconductor process tools' refers to
+            植入或熱處理等。                  能，如沉積、植入或熱處理等。
+                                                              modular tools that provide physical modular tools that provide physical
+
+                                                              processes for semiconductor       processes for semiconductor
+
+                                                              production that are functionally  "production" that are functionally
+
+                                                              different, such as deposition, implant different, such as deposition, implant or
+
+                                                              or thermal processing.            thermal processing.
+
+3B001.q                               3B001                                                     3B001
+                                                                                                q. " EUV " masks and " EUV
+                                      q.為積體電路設計的〝EUV〞光罩                                         "reticles, designed for integrated
+                                                                                                circuits, not specified by 3B001.g, and
+                                      和〝EUV〞倍縮式光罩，未由                                            having a mask " substrate blank
+                                                                                                "specified by 3B001.j;
+                                      3B001.g指定，並具有由3B001.j指
+
+            新增                        定的光罩〝基板毛坯〞；             --
+
+                                      技術註解：就 3B001.q 而言，安
+
+                                      裝有薄膜的光罩版或倍縮式光罩                                            Technical Notes:
+                                      被視為光罩版和倍縮式光罩。                                             For the purposes of 3B001.q, masks or
+
+                                                                                                reticles with a mounted pellicle are
+
+3B903                                 3B903 掃描電子顯微鏡（SEM）                                        considered masks and reticles.
+                                      設備，專為成像半導體設備或積                                            3B903 Scanning Electron Microscope
+                                      體電路而設計，具下列所有特                                             (SEM) equipment designed for imaging
+                                      性：                                                        semiconductor devices or integrated
+                                                                                                circuits.
+
+                                      a.載物台放置精度小於（優於）30                                         a. Stage placement accuracy less
+                                      nm；                                                       (better) than 30 nm;
+                                      b.使用雷射干涉測量法進行載物台                                          b. Stage positioning measurement
+
+            新增                        定位測量；                                                     performed using laser interferometry;
+                                      c.基於雷射干涉儀長度測量的視場 --                                       c. Position calibration within a field-of-
+                                      （FOV）內位置校準；                                               view (FOV) based on laser
+                                      d.擷取並儲存大於2 x 10 8 像素的                                     interferometer length-scale
+                                      影像；                                                       measurement;
+                                      e.垂直和水平方向FOV重疊小於                                          d. Collection and storage of images
+                                      5%；                                                       having more than 2 x 10 8 pixels;
+                                      f. FOV拼接重疊小於50 nm；和                                       e. FOV overlap of less than 5 percent in
+                                      g.加速電壓超過21 kV。                                            vertical and horizontal directions;
+                                                                                                f. Stitching overlap of FOV less than 50
+                                                                                                nm; and
+
+                                                       17
+修正條目                  現行內容      擬修正/新增內容                   現行內容英譯                               擬修正/新增內容英譯
+
+                                                                                         g. Accelerating voltage more than 21
+
+                                註解1：                                                     kV.
+
+                                3B903 包括專為晶片設計恢復而                                        Note 1:
+                                設計的 SEM 設備。                                              3B903 includes SEM equipment
+
+                                註解2：                                                     designed for chip design recovery.
+
+                                3B903 不適用於設計用於接受半                                        Note 2:
+                                導體設備和材料國際 (SEMI) 標準                                      3B903 does not apply to SEM
+
+                                晶圓載體的 SEM 設備，例如 200                                      equipment designed to accept a
+
+                                毫米或更大的前開口統一 Pod                                          Semiconductor Equipment and
+                                (FOUP)。                                                  Materials International (SEMI) standard
+                                                                                         wafer carrier, such as a 200 mm or
+
+                                                                                         larger Front Opening Unified Pod
+
+                                                                                         (FOUP).
+
+3B904                           3B904 低溫晶圓探測“設備”，具下                                      3B904 Cryogenic wafer probing
+
+       新增                       列所有特性：                                                   “equipment” , having all of the
+                                a.設計用於在低於或等於 4.5 K                                       following：
+                                (−268.65 °C) 的溫度下測試裝置； --                                a. Designed to test devices at
+                                和                                                        temperatures less than or equal to 4.5 K
+                                b.設計用於容納直徑大於或等於                                          (−268.65 °C); and
+                                100 毫米的晶圓。                                               b. Designed to accommodate wafer
+                                                                                         diameters greater than or equal to 100
+
+                                                                                         mm.
+
+3C001 說明                        說明：                                                      N.B.:
+                  新增
+                                對於具有富含同位素的矽或鍺同 --                                        For materials having layers of
+                                位素層的材料，請參閱 3C907。                                        isotopically enriched Silicon or
+                                                                                         Germanium isotopes, see 3C907.
+
+3C003  a.純度(金屬為基準)優於 99.999 %之  a. 純度(金屬為基準)大於(優於) a.Organo-metallic compounds of        a.Organo-metallic compounds of
+       鋁、鎵或銦之有機金屬化合物；
+       b.純度(無機元素為基準) 優於 99.999  99.999 %之鋁、鎵或銦之有機金屬 aluminium, gallium or indium, having aluminium, gallium or indium, having a
+       %之有機砷化物、有機銻化物、及
+       有機磷化物。                   化合物；                 a purity (metal basis) better than  purity (metal basis) greater (better) than
+
+                                b. 純度(無機元素為基準) 大於(優 99,999 %;                            99,999 %;
+
+                                於) 99.999 %之有機砷化物、有機 b.Organo-arsenic, organo-antimony b.Organo-arsenic, organo-antimony and
+                                銻化物、及有機磷化物。
+                                                     and organo-phosphorus compounds, organo-phosphorus compounds, having
+
+                                                     having a purity (inorganic element a purity (inorganic element basis)
+
+                                                     basis) better than 99,999 %.        greater (better) than 99,999 %.
+
+                                             18
+修正條目                  現行內容          擬修正/新增內容                 現行內容英譯                             擬修正/新增內容英譯
+
+3C004  純度優於 99.999 %之磷、砷、或銻  純度大於(優於) 99.999 %之磷、  Hydrides of phosphorus, arsenic or     Hydrides of phosphorus, arsenic or
+       之氫化物，包括被惰性氣體或氫氣       砷、或銻之氫化物，包括被惰性        antimony, having a purity better than  antimony, having a purity greater
+       稀釋者。                  氣體或氫氣稀釋者。             99,999 %, even diluted in inert gases  (better) than 99,999 %, even diluted in
+                                                   or hydrogen.                           inert gases or hydrogen.
+
+3C907                        3C907具有至少一個以下任一外延                                            3C907 Epitaxial materials consisting of
+                             生長層的「基板」組成的外延材                                               a “substrate” having at least one
+       新增                    料：                                                           epitaxially grown layer of any of the
+                             a. 矽同位素雜質少於 0.08% 的矽                                         following：
+3C908                        同位素，而非矽-28 或矽-30；或                                           a. Silicon having an isotopic impurity
+                  新增         b. 鍺的同位素雜質少於 0.08%，但 --                                      less than 0.08% of silicon isotopes
+                             不包括鍺-70、鍺-72、鍺-74 或鍺-                                        other than silicon-28 or silicon-30; or
+3C909                        76。                                                          b. Germanium having an isotopic
+                  新增                                                                      impurity less than 0.08% of germanium
+                             3C908 含有下列物質的矽或鍺的                                            isotopes other than germanium-70,
+                             氟化物、氫化物、氯化物：                                                 germanium-72, germanium-74, or
+                             a. 矽同位素雜質少於 0.08% 的矽                                         germanium-76.
+                             同位素，而非矽-28 或矽-30；或                                           3C908 Fluorides, hydrides, chlorides,
+                             b. 鍺的同位素雜質少於 0.08%，但 --                                      of silicon or germanium, containing any
+                             不包括鍺-70、鍺-72、鍺-74 或鍺-                                        of the following
+                             76。                                                          a. Silicon having an isotopic impurity
+                                                                                          less than 0.08% of silicon isotopes
+                             3C909 矽、氧化矽、鍺或氧化                                             other than silicon-28 or silicon-30; or
+                             鍺，具下列任一特性：                                                   b. Germanium having an isotopic
+                             a. 矽同位素雜質少於 0.08% 的矽                                         impurity less than 0.08% of germanium
+                             同位素，而非矽-28 或矽-30；或                                           isotopes other than germanium-70,
+                             b. 鍺的同位素雜質少於 0.08%，但 --                                      germanium-72, germanium-74, or
+                             不包括鍺-70、鍺-72、鍺-74 或鍺-                                        germanium-76.
+                             76。                                                          3C909 Silicon, silicon oxides,
+                             註解：                                                          germanium or germanium oxides,
+                             3C909 包括「基材」、塊、錠、                                            containing any of the following
+                                                                                          a. Silicon having an isotopic impurity
+                                                                                          less than 0.08% of silicon isotopes
+                                                                                          other than silicon-28 or silicon-30; or
+                                                                                          b. Germanium having an isotopic
+                                                                                          impurity less than 0.08% of germanium
+                                                                                          isotopes other than germanium-70,
+                                                                                          germanium-72, germanium-74, or
+                                                                                          germanium-76.
+
+                             19
+修正條目       現行內容         擬修正/新增內容               現行內容英譯        擬修正/新增內容英譯
+
+                 晶錠和預製件。                               Note:
+                                                       3C909 includes “substrates” , lumps,
+                 說明：                                   ingots, boules and preforms.
+                 對於具有富含同位素的矽 (Si) 或
+                 鍺 (Ge) 同位素層的材料，請參閱                    N.B.:
+                 3C907。                                For materials having layers of
+                                                       isotopically enriched silicon (Si) or
+3D901            未在其他地方指定，〝特別設                         germanium (Ge) isotopes, see 3C907.
+                 計〞或修改用於管控 3A901.b、                    "Software", not specified elsewhere,
+       新增        3B903 或 3B904 項目的〝開發〞 --              ‘‘specially designed’’ or modified for
+                 或〝生產〞之〝軟體〞。                           the "development","production" of
+3D907                                                  items controlled in 3A901.b, 3B903, or
+                 〝軟體〞，設計用於從掃描電子                        3B904.
+       新增        顯微鏡（SEM）影像中提取
+                 〝GDSII〞或對應標準的佈局數 --                   "Software" designed to extract " GDSII
+3E901            據，並執行層對層分割，產生多                        " or equivalent standard layout data and
+                 層〝GDSII〞資料或電路網表。                      perform layer-to- layer alignment from
+       新增        〝技術〞，根據一般技術註解，                        SEM images, and generate multi-layer
+                 用於 3A901、3A904、3B903、                 " GDSII " data or the circuit netlist..
+3E905            3B904、3C907、3C908 或 3C909 --
+                 所控制項目的〝開發〞或〝生                         "Technology" according to the General
+       新增        產〞。                                   Technology Note for the "development"
+                 〝技術〞，根據一般技術註解，                        or "production" of items controlled by
+                 用於使用〝環繞閘極場效電晶體                        3A901, 3A904, 3B903, 3B904, 3C907,
+                 （GAAFET）〞建構的積體電路 --                   3C908, or 3C909.
+                 或設備的〝開發〞或〝生產〞。
+                                                       "Technology" according to the General
+4A906            量子電腦及相關〝電子組件〞及                        Technology Note for the "development"
+                                                       or "production" of integrated circuits
+                 〝零件〞：                                 or devices, using " Gate all-around
+                                                       Field-Effect Transistor " ( " GAAFET
+       新增        a.量子電腦，如下：            --              ") structures.
+                 1.支援 34 個或更多但少於 100                   Quantum computers and related
+                                                       "electronic assemblies," and
+                 個，‵完全控制′、‵連接′和‵運作′‵物                  "components" therefor.
+
+                 理量子位元′的量子電腦，且‵C-                      a. Quantum computers, as follows:
+                                                       1. Quantum computers supporting 34 or
+                                                       more, but fewer than 100, 'fully
+
+                        20
+修正條目  現行內容         擬修正/新增內容                         現行內容英譯        擬修正/新增內容英譯
+
+            NOT 錯誤′小於或等於 10−4；                              controlled', 'connected' and 'working'
+            2.支援 100 個或更多但少於 200                            'physical qubits', and having a 'C-NOT
+            個，‵完全控制′、‵連接′和‵運作′‵物                            error' of less than or equal to 10−4;
+            理量子位元′的量子電腦，且‵C-                                2. Quantum computers supporting 100
+            NOT 錯誤′小於或等於 10−3；                              or more, but fewer than 200, 'fully
+            3.支援 200 個或更多但少於 350                            controlled', 'connected' and 'working'
+            個，‵完全控制′、‵連接′和‵運作′‵物                            'physical qubits', and having a 'C-NOT
+            理量子位元′的量子電腦，且‵C-                                error' of less than or equal to 10−3;
+            NOT 錯誤′小於或等於 2 × 10−3；                          3. Quantum computers supporting 200
+            4.支援 350 個或更多但少於 500                            or more, but fewer than 350, 'fully
+            個，‵完全控制′、‵連接′和‵運作′‵物                            controlled', 'connected' and 'working'
+            理量子位元′的量子電腦，且‵C-                                'physical qubits', and having a 'C-NOT
+            NOT 錯誤′小於或等於 3 × 10−3；                          error' of less than or equal to 2 × 10−3;
+            5.支援 500 個或更多但少於 700                            4. Quantum computers supporting 350
+            個，‵完全控制′、‵連接′和‵運作′‵物                            or more, but fewer than 500, 'fully
+            理量子位元′的量子電腦，且‵C-                                controlled', 'connected' and 'working'
+            NOT 錯誤′小於或等於 4 × 10−3；                          'physical qubits', and having a 'C-NOT
+            6.支援 700 個或更多但少於 1,100                          error' of less than or equal to 3 × 10−3;
+            個，‵完全控制′、‵連接′和‵運作′‵物                            5. Quantum computers supporting 500
+            理量子位元′的量子電腦，且‵C-                                or more, but fewer than 700, 'fully
+            NOT 錯誤′小於或等於 5 × 10−3；                          controlled', 'connected' and 'working'
+            7.支援 1,100 個或更多但少於                              'physical qubits', and having a 'C-NOT
+            2,000 個，‵完全控制′、‵連接′和‵運                          error' of less than or equal to 4 × 10−3;
+            作′‵物理量子位元′的量子電腦，且                               6. Quantum computers supporting 700
+            ‵C-NOT 錯誤′小於或等於 6 ×                             or more, but fewer than 1,100, 'fully
+            10−3；                                           controlled', 'connected' and 'working'
+            8.支援 2000 個或更多‵完全控制′、                           'physical qubits', and having a 'C-NOT
+            ‵連接′和‵運作′‵物理量子位元′的量                             error' of less than or equal to 5 × 10−3;
+            子電腦；                                            7. Quantum computers supporting
+            b.為4A906.a規定的專案〝特別設                             1,100 or more, but fewer than 2,000,
+            計〞的量子位元設備和量子位元                                  'fully controlled', 'connected' and
+            電路；                                             'working' 'physical qubits', and having a
+            c.為4A906.a規定的專案〝特別設                             'C-NOT error' of less than or equal to 6
+            計〞的量子控制元件和量子測量                                  × 10−3;
+                                                            8. Quantum computers supporting
+                                                21          2,000 or more 'fully controlled',
+                                                            'connected' and 'working' 'physical
+                                                            qubits';
+修正條目  現行內容         擬修正/新增內容                         現行內容英譯        擬修正/新增內容英譯
+
+            裝置；                                             b. Qubit devices and qubit circuits,
+            註解1：                                            containing or supporting arrays of
+            4A906適用於電路模型（或基於閘                               'physical qubits', and " specially
+            的）和單向（或基於測量的）量                                  designed " for items specified by
+            子電腦。本項目不適用於絕熱                                   4A906.a;
+            （或退火）量子電腦。
+            註解2：                                            c. Quantum control components and
+            4A906 指定的項目不一定實際上                               quantum measurement devices, "
+            包含任何量子位元。例如，基於                                  specially designed " for items specified
+            光子方案的量子電腦不會永久包                                  by 4A906.a;
+            含可識別為量子位元的實體項
+            目。相反，光子量子位元是在電                                  Note 1:
+            腦運行時產生的，然後被丟棄。                                  4A906 applies to circuit model (or gate-
+            註解3：                                            based) and one-way (or measurement-
+            4A906.b 指定的項目包括半導體、                             based) quantum computers. This entry
+            超導和光子量子位元晶片和晶片                                  does not apply to adiabatic (or
+            陣列；表面離子阱陣列；其他量                                  annealing) quantum computers.
+            子位元限制技術；以及這些項目
+            之間的連貫互連。                                        Note 2:
+            註解4：                                            Items specified by 4A906 may not
+            4A906.c 適用於設計用於校準、初                             necessarily physically contain any
+            始化、操作或測量量子電腦的常                                  qubits. For example, quantum
+            駐量子位元的物品。                                       computers based on photonic schemes
+                                                            do not permanently contain a physical
+            技術註解：                                           item that can be identified as a qubit.
+            就 4A906 而言：                                     Instead, the photonic qubits are
+            1. ‵物理量子位元′是一種兩級量子                              generated while the computer is
+            系統，用於透過未糾錯的操作和                                  operating and then later discarded.
+            測量來表示量子邏輯的基本單
+            位。 ‵物理量子位元′與邏輯量子位                               Note 3:
+            元的差別在於，邏輯量子位元是                                  Items specified by 4A906.b include
+            由許多‵物理量子位元′組成的糾錯                                semiconductor, superconducting, and
+            量子位元。                                           photonic qubit chips and chip arrays;
+            2. ‵完全控制′意味著‵物理量子位                              surface ion trap arrays; other qubit
+                                                            confinement technologies; and coherent
+                                                22          interconnects between such items.
+
+                                                            Note 4:
+                                                            4A906.c applies to items designed for
+修正條目  現行內容         擬修正/新增內容                         現行內容英譯        擬修正/新增內容英譯
+
+            元′可以根據需要進行校準、初始                                 calibrating, initializing, manipulating or
+            化、閘控和讀出。                                        measuring the resident qubits of a
+            3. ‵連接′意味著可以在任意一對可                              quantum computer.
+            用‵運作′‵物理量子位元′之間執行
+            雙量子位元閘操作。這並不一定                                  Technical Notes:
+            需要全面的連結。
+            4. ‵運作′是指‵物理量子位元′依據                             For the purposes of 4A906:
+            量子位元操作保真度的系統規格
+            執行通用量子計算工作。                                     1. A 'physical qubit' is a two-level
+            5.支援34個或更多‵完全控制′、‵連                             quantum system used to represent the
+            接′、‵運作′‵物理量子位元′是指量                              elementary unit of quantum logic by
+            子電腦限制、控制、測量和處理                                  means of manipulations and
+            34個或更多‵物理量子位元′所體現                               measurements that are not error
+            的量子資訊的能力。                                       corrected. 'Physical qubits' are
+            6. ‵C-NOT 錯誤′是最近鄰的兩個                            distinguished from logical qubits, in
+            ‵物理量子位元′受控非 (C-NOT) 閘                           that logical qubits are error-corrected
+            的平均物理閘錯誤。                                       qubits comprised of many 'physical
+                                                            qubits'.
+                                                23
+                                                            2. 'Fully controlled' means the 'physical
+                                                            qubit' can be calibrated, initialized,
+                                                            gated, and read out, as necessary.
+
+                                                            3. 'Connected' means that two-qubit
+                                                            gate operations can be performed
+                                                            between any arbitrary pair of the
+                                                            available 'working' 'physical qubits'.
+                                                            This does not necessarily entail all-to-
+                                                            all connectivity.
+                                                            4. 'Working' means that the 'physical
+                                                            qubit' performs universal quantum
+                                                            computational work according to the
+                                                            system specifications for qubit
+                                                            operational fidelity.
+
+                                                            5. Supporting 34 or more 'fully
+                                                            controlled', 'connected', 'working'
+                                                            'physical qubits' refers to the capability
+                                                            of a quantum computer to confine,
+修正條目         現行內容                     擬修正/新增內容                      現行內容英譯                                擬修正/新增內容英譯
+
+                                                                                                    control, measure and process the
+                                                                                                    quantum information embodied in 34 or
+                                                                                                    more 'physical qubits'.
+
+4D906        新增                       特別設計或修改用於〝開發〞                                                 6. 'C-NOT error' is the average physical
+4E906                                 或〝生產〞4A906.b 或 4A906.c --                                     gate error for the nearest-neighbor two-
+5A001.b.2.b  新增                       管控的商品的〝軟體〞。                                                   'physical qubit' Controlled-NOT (C-
+                                                                                                    NOT) gates.
+5A101 註解     b.合併一線性功率放大器結構，在         〝技術〞依照一般技術註解，                                                 "Software" "specially designed" or
+             以下條件，可同時支援多重訊號：          如下：                                                           modified for the "development" or
+             頻率範圍 1.5 MHz 或以上，但小於     a.用於〝開發〞或〝生產〞                                                 "production" of commodities controlled
+             30 MHz，輸出功率1 kW 或以上時；    4A906.b、4A906.c 或 4D906 管 --                                  by 4A906.b or 4A906.c.
+             或當頻率範圍 30 MHz 或以上，但不     控商品的〝技術〞；
+             超過 87.5MHz，輸出功率 250 W 或                                                                "Technology" according to the General
+             以上時，以上〝瞬時頻寬〞超過一                                                                        Technology Note as follows
+             個倍頻或以上，且輸出諧波與失真                                                                        a. "Technology" for the "development"
+             度優於- 80 dB；                                                                            or "production" of items controlled by
+             5A101 不管制下列各項：                                                                         4A906.b, 4A906.c, or 4D906;
+             a.為載人航空器或衛星而設計或修改
+             之設備；                     b. 〝使用〞4D906 管控〝軟                                             b. "Technology" for "use" of "software"
+             b.為陸地或海洋用途而設計或修改         體〞的〝技術〞。                                                      controlled by 4D906.
+
+                                                            b.Incorporating a linear power          b.Incorporating a linear power amplifier
+                                                                                                    configuration having a capability to
+                                      合併一線性功率放大器結構，在以 amplifier configuration having a              support multiple signals simul
+                                                            capability to support multiple signals  taneously at an output power of 1 kW
+                                      下條件，可同時支援多重訊號：頻       simultaneously at an output power of    or more in the frequency range of 1,5
+                                      率範圍1.5 MHz或以上，但小於30   1 kW or more in the frequency range     MHz or more but less than 30 MHz, or
+                                                                                                    250 W or more in the frequency range
+                                      MHz，輸出功率1 kW或以上時； of 1,5 MHz or more but less than 30         of 30 MHz or more but not exceeding
+                                                                                                    87,5 MHz, over an "instantaneous
+                                      或當頻率範圍30 MHz或以上，但 MHz, or 250 W or more in the                bandwidth" of one octave or more and
+                                                                                                    with an output harmonic and distortion
+                                      不超過87.5 MHz，輸出功率250 W frequency range of 30 MHz or more       content of less(better) than -80 dB;
+
+                                      或以上時，以上〝瞬時頻寬〞超過 but not exceeding 87,5 MHz, over an
+                                      一個倍頻或以上，且輸出諧波與失 "instantaneous bandwidth" of one
+                                                            octave or more and with an output
+                                      真度小於(優於)- 80 dB；      harmonic and distortion content of
+
+                                                            better than -80 dB;
+
+                                      5A101不管制下列各項：         5A101 does not control:                 5A101 does not control:
+
+                                      a. 為載人航空器或衛星而設計或修 a.Equipment designed or modified for a.Equipment designed or modified for
+
+                                      改之設備；                 manned aircraft or satellites;          manned aircraft or satellites;
+
+                                      b. 為陸地或海洋用途而設計或修改
+                                                                                    b.Ground based equipment designed b.Ground based equipment designed or
+
+                                                        24
+修正條目       現行內容                               擬修正/新增內容                    現行內容英譯                                擬修正/新增內容英譯
+
+           之地面設備；                      之地面設備；                   or modified for terrestrial or marine     modified for terrestrial or marine
+                                       c. 為商業、民間或‵生命安全′(如資      applications;                             applications;
+           c.為商業、民間或‵生命安全′(如資料         料完整性、飛航安全)之導航衛星
+                                       系統服務而設計之設備；
+           完整性、飛航安全)之 GNSS 服務而                                  c.Equipment designed for                  c.Equipment designed for commercial,
+                                       e. 5D001.a.或5D001.c.所述之  commercial, civil or ‘Safety of Life’     civil or ‘Safety of Life’ (e.g. data
+           設計之設備；                      外，特別設計或修改用於執法目           (e.g. data integrity, flight safety)      integrity, flight safety) navigation
+                                       的的監視或分析之〝軟體〞，提           GNSS services;                            satellite systems services;
+                                       供下列所有者：
+5D001.e    e.5D001.a.或 5D001.c.所述之外，特                           e."Software", other than that specified e."Software", other than that specified
+5D001.e.2  別設計或修改用於執法部門監視或             中文不變更
+           分析之〝軟體〞，提供下列所有                                       in 5D001.a. or 5D001.c., specially in 5D001.a. or 5D001.c., specially
+           者：                          a.設計或修改用於具‵描述安全演算法′
+                                       之‵資料機密性密碼學′，如下：          designed or modified for monitoring designed or modified for monitoring or
+           2.依據搜尋通訊內容或元資料或
+           5D001.e.1 所述之搜尋之結果，映射       g. 僅實施已發布或商業加密標準         or analysis by law enforcement,           analysis for law enforcement purposes,
+           關係網路或追蹤個別目標的移動。             的無線〝個人區域網路〞功能；
+                                       h. 專為銀行使用或貨幣交易（包         providing all of the following:           providing all of the following:
+                                       括票價或信用卡功能的收集和結
+                                       算）設計且限於此的加密操作；           2.Mapping of the relational network       2.Mapping of the relational network or
+                                       i. 支援且限於上述a至h段所述功        or tracking the movement of targeted      tracking the movement or location of
+                                       能和能力的密鑰管理；或              individuals based on the results of       targeted individuals based on the results
+                                       j. 未啟動或啟用的加密功能或能         searches on content of                    of searches on content of
+                                       力，且僅能透過安全的〝加密啟           communication or metadata or              communication or metadata or searches
+                                       動〞方式啟動或啟用。               searches as described in 5D001.e.1.       as described in 5D001.e.1.
+                                       說明：有關‵加密啟動令牌′項
+5A002.a                                目，參見5A002.b、5D002.b及     a.Designed or modified to use
+
+           a.設計或修改用於具‵描述安全演算法′之                                 ‘cryptography for data confidentiality’   a.Designed or modified to use 'cryptography
+           ‵資料機密性密碼學′，其密碼功能可經由                                  having a ‘described security algorithm’,  for data confiden tiality' having a 'described
+           安全〝密碼啟用〞之外之任何方式進行                                    where that cryptographic capability is    security algorithm', as follows:
+           使用、已啟用或能夠啟用，如下：                                      usable, has been activated, or can be
+
+                                                                activated by any means other than secure
+
+                                                                "cryptographic activation", as follows:
+
+5A002.a 技術 g.支援 a.到 f.描述中任何功能之關鍵管                               g.Key management in support of any        g.Wireless "personal area network"
+                    理。
+                                                                function described in paragraph a. to f. functionality imple menting only published
+註解 .g
+         .h                                                     above.                                    or commercial cryptographic standards;
+         .i
+         .j                                                                                               h.Cryptographic operations specially
+         說明                                                                                               designed for and limited to banking use or
+                                                                                                          money transactions, including the collection
+                                                                                                          and settlement of fares or credit functions;
+                                                                                                          i.Key management in support of and limited
+                                                                                                          to functions and capabilities described in
+                                                                                                          paragraph a. to h. above; or
+                                                                                                          j.Cryptographic functions or capabilities
+                                                                                                          that have not been activated or enabled, and
+                                                                                                          can only be activated or enabled by means
+
+                                       25
+修正條目               現行內容                              擬修正/新增內容                  現行內容英譯                                  擬修正/新增內容英譯
+
+                                              5E002.b。                                                           of secure "cryptographic acti vation".
+
+                                                                                                                 N.B. For 'cryptographic activation token'
+                                                                                                                 items, see 5A002.b., 5D002.b. and 5E002.b.
+
+5A002.a 註解                                                         b.Cryptographic equipment specially
+                                                                   designed and limited for banking use or
+2.b         b. 特別設計且限用於銀行業務或‵貨幣交                                   'money transactions';
+
+            易′之密碼設備；
+
+            技術註解：                             b. 刪除；               Technical Note:                               b.Not used;
+
+            5A002.a.註解2. b.中之‵貨幣交易′包括費                             For the purposes of 5A002.a. Note b.,
+
+            用的收取與結算，或信貸功能。料。                                       'money transactions' includes the
+
+                                                                   collection and settlement of fares or credit
+
+                                                                   functions.
+
+5A002.a 註解                                    e. 為民用設計的可攜式或行動無線電                                                 e.Portable or mobile radiotelephones and
+
+2.e                                           話及類似客戶端無線設備，經特定民     e.Portable or mobile radiotelephones and      similar client wireless devices, designed for
+                                              用產業應用客製化，且符合以下所有     similar client wireless devices for civil     civil use, that have been customised for a
+                    e.民用之可攜式或行動是無線電電話與        特性：                  use, that implement only published or         specific civil industry application meeting
+                    類似客戶無線設備，其僅使用公開或商                              commercial cryptographic standards            all of the following:
+                    業用密碼標準(除了反盜版功能可能未被        1.非客製化的設備符合加密註解（第5   (except for anti-piracy functions, which
+                    公布)，且符合密碼學註解中 a.2.至 a.4.  類 – 第2部分中的註解3）的規定；   may be non- published) and also meet the      1.The non-customised devices satisfy the
+                    項規定 (第 5 類第 2 部分註解 3)，其為  2.非客製化設備的「資料保密加密」具   provisions of paragraphs a.2. to a.4. of the  provisions of the Cryptography Note (Note
+                    指定之民用工業應用客製，而不影響其         有「所述安全演算法」，不受客製化     Cryptography Note (Note 3 in Category 5,      3 in Category 5 – Part 2); and
+                    在未客製之前裝置之密碼功能；
+                                              影響，並且僅實施已發布或商業的密     Part 2), that have been customised for a      2.The 'cryptography for data confidentiality'
+                                              碼標準；                 specific civil industry application with      having a 'described security algorithm' of
+                                                                   features that do not affect the               the non-customised devices is not affected
+                                                                   cryptographic functionality of these          by the customisation, and implements only
+                                                                   original non-customised devices;              published or commercial cryptographic
+
+                                                                                                                 standards;
+
+5A002.a 註解                                                         f.Items, where the "information security"
+
+                                                                   functionality is limited to wireless
+
+2.f         f.項目之〝資訊安全〞功能僅限於無線                                     "personal area network" functionality,
+
+            〝個人區域網路〞的功能，僅能使用公                 f. 刪除；               implementing only published or                f.Not used;
+                                                                   commercial cryptographic standards;
+
+            開或商業密碼標準；
+
+                                                                   1.Implement only published or
+                                                                   commercial cryptographic standards; and
+
+                                                               26
+修正條目           現行內容                      擬修正/新增內容              現行內容英譯                                     擬修正/新增內容英譯
+
+                                                               2.The cryptographic capability is limited
+
+                                                               to a nominal operating range not
+
+                                                               exceeding 30 metres according to the
+
+                                                               manufacturer’s specifications, or not
+
+                                                               exceeding 100 metres according to the
+
+                                                               manufacturer’s specifications for
+
+                                                               equipment that cannot interconnect with
+
+                                                               more than seven devices;
+
+5A002.a 註解     g.設計為民用之行動無線電存取網路         g.設計為民用之行動無線電存取網路 g.Mobile telecommunications Radio              g.Mobile telecommunications Radio Access
+2.g            (RAN)設備，同時符合密碼學註解之 a.2.
+               至 a.4.(第 5 類第 2 部分註解 3)之  (RAN)設備，同時符合密碼學註解之 Access Network (RAN) equipment                Network (RAN) equipment designed for
+               條文，具有 RF 輸出功率限制為 0.1 W
+               (20 dBm)或以下，及 16 戶或以下之同時  a.2.至a.4.(第 5 類第 2 部分註解 3)之條 designed for civil use, which also meet the civil use, which also meet the provisions of
+               上線用戶；
+                                         文，具有RF輸出功率限制為 0.1 W (20 provisions of paragraphs a.2. to a.4. of the paragraphs a.2. to a.4. of the Cryptography
+
+                                         dBm)或以下，及 32 戶或以下之同時 Cryptography Note (Note 3 in Category 5, Note (Note 3 in Category 5, Part 2), having
+
+                                         上線用戶；                 Part 2), having an RF output power         an RF output power limited to 0,1W (20
+
+                                                               limited to 0,1W (20 dBm) or less, and dBm) or less, and supporting 32 or fewer
+
+                                                               supporting 16 or fewer concurrent users. concurrent users;
+
+6A001.a.1.d    d.設計作為水面艦艇或水底載具定          d. 設計作為水面艦艇或可潛水載      d.Acoustic systems and equipment,          d.Acoustic systems and equipment,
+               位之聲學系統與配備，且具下列所           具定位之聲學系統與配備，且具        designed to determine the position of      designed to determine the position of
+               有特性，以及為其特別設計之零            下列所有特性，以及為其特別設        surface vessels or underwater vehicles     surface vessels or submersible vehicles
+               件：                        計之零件：                 and having all the following, and          and having all the following, and
+                                                               specially designed components              specially designed components
+                                                               therefor:                                  therefor:
+
+6A001.a.1.d    6A001.a.1.d.包括：            6A001.a.1.d.包括：      6A001.a.1.d. includes:                     6A001.a.1.d. includes:
+註解             a.使用同調〝訊號處理〞的設備在 2         a. 使用同調〝訊號處理〞的設備
+               個或以上標幟與水面艦艇或水底載            在2個或以上標幟與水面艦艇或可      a.Equipment using coherent "signal         a.Equipment using coherent "signal
+6A001.a.2.a.4  具內之水中聽音器單元之間；              潛水載具內之水中聽音器單元之       processing" between two or more            processing" between two or more
+6A001.a.2.a.6                             間；                   beacons and the hydrophone unit            beacons and the hydrophone unit
+6A001.a.2.b    4.於任何深度且無加速補償下，‵水                               carried by the surface vessel or           carried by the surface vessel or
+               中聽音器靈敏度′高於-180 dB；         4. 於任何深度且無加速補償下，     underwater vehicle;                        submersible vehicle;
+                                          ‵水中聽音器靈敏度′大於(優於) -
+               6.設計在水深超過 1,000 公尺下操       180 dB；              4.A 'hydrophone sensitivity' better        4.A 'hydrophone sensitivity' greater
+               作，‵水中聽音器靈敏度′在 4 kHz 以      6. 設計在水深超過1,000公尺下操  than -180 dB at any depth with no          (better) than -180 dB at any depth with
+               下優於-230 dB；                作，‵水中聽音器靈敏度′在4 kHz   acceleration compensation;                 no acceleration compensation;
+               b.拖曳式水中聽音器陣列，具有下           以下大於(優於) -230 dB；
+                                                               6.Designed for operation at depths         6.Designed for operation at depths
+                                         b.拖曳式水中聽音器陣列，具有下      exceeding 1 000m and having a              exceeding 1 000 m and having a
+                                                               'hydrophone sensitivity' better than –     'hydrophone sensitivity' greater (better)
+                                                               230dB below 4kHz;                          than -230 dB below 4 kHz;
+
+                                                               b.Towed acoustic hydrophone arrays         b.Towed acoustic hydrophone arrays
+
+                                                   27
+修正條目          現行內容             擬修正/新增內容                           現行內容英譯                               擬修正/新增內容英譯
+
+技術註解  列任一功能：                   列任一功能：                   having any of the following:             having any of the following:
+
+      技術註解：                    技術註解：                    Technical Note:                          Technical Note:
+
+      就 6A001.a.2.b.目的，水中聽音器陣 就 6A001.a.2.b.目的，水中聽音器陣
+
+      列包由許多水中聽音器組成，其提 列包由許多水中聽音器組成，其提                   For the purposes of 6A001.a.2.b.,        For the purposes of 6A001.a.2.b.,
+                                                        hydrophone arrays consist of a           hydrophone arrays consist of a number
+      供多個聲音輸出頻道。               供多個聲音輸出頻道。               number of hydrophones providing          of hydrophones providing multiple
+                                                        multiple acoustic output channels.       acoustic output channels.
+      1.水中聽音器群組間距小於 12.5 公 1.水中聽音器群組間距小於 12.5 公
+
+      尺，或可修改成小於 12.5公尺； 尺，或可修改成小於 12.5公尺；
+
+      2.設計或‵可修改′成使用於水深超過 2.設計或‵可修改′成使用於水深超過             1.Hydrophone group spacing of less 1.Hydrophone group spacing of less
+
+      35 公尺；                   35 公尺；                   than 12,5 m or 'able to be modified' to than 12,5 m or 'able to be modified' to
+
+                                                        have hydrophone group spacing of have hydrophone group spacing of less
+
+      技術註解：                    3.6A001.a.2.d.所述之艏向感測器；  less than 12,5 m;                        than 12,5 m;
+
+      就 6A001.a.2.b.2.目的，在     4.縱向增強之排列管；              2.Designed or 'able to be modified' to 2.Designed or 'able to be modified' to
+                                                        operate at depths exceeding 35 m; operate at depths exceeding 35 m;
+      6A001.a.2.b.1.和 2.中的‵可修改′係 5.組合陣列之直徑小於 40 mm；
+
+      指，容許線路或連接線變動的配置 6.刪除；
+
+      方式，以更改水中聽音器群組間距 7.6A001.a.2.a.所述之水中聽音器特           Technical Note:                          3.Heading sensors specified in
+
+      或操作之水深極限，這些配置方式 性；或                               For the purposes of 6A001.a.2.b.2., 6A001.a.2.d.;
+
+                                                        'able to be modified' in 6A001.a.2.b.1.
+
+      包括：線路數目中有超過 10 %的備 8.6A001.a.2.g.所述基於加速度計之        and 2. means having provisions to 4.Longitudinally reinforced array
+
+      用線路，水中聽音器群組間距調整 水中聲學感測器。                          allow a change of the wiring or          hoses;
+
+      區塊或可調式內部水深極限裝置，          技術註解：                    interconnections to alter hydrophone
+      或可控制一組以上之水中聽音器群          就 6A001.a.2.b.目的，‵可修改′係
+      組。                       指，容許線路或連接線變動的配           group spacing or operating depth         5.An assembled array of less than 40
+      3.6A001.a.2.d.所述之艏向感測器；  置方式，以更改水中聽音器群組
+      4.縱向增強之排列管；              間距或操作之水深極限，這些配           limits. These provisions are: spare mm in diameter;
+      5.組合陣列之直徑小於 40 mm；       置方式包括：線路數目中有超過
+      6.刪除；                    10 %的備用線路，水中聽音器群         wiring exceeding 10 % of the number
+      7.6A001.a.2.a.所述之水中聽音器特  組間距調整區塊或可調式內部水
+      性；或                      深極限裝置，或可控制一組以上           of wires, hydrophone group spacing
+                               之水中聽音器群組。
+                                                        adjustment blocks or internal depth 6.Not used;
+
+                                                        limiting devices that are adjustable or
+
+                                                        that control more than one               7.Hydrophone characteristics specified
+
+                                                        hydrophone group.                        in 6A001.a.2.a.; or
+
+      8.6A001.a.2.g.所述基於加速度計之                           3.Heading sensors specified in           8.Accelerometer-based hydro-acoustic
+                                                        6A001.a.2.d.;                            sensors specified in 6A001.a.2.g.;
+      水中聲學感測器。                                                                                   6A001a. 2. b. 8.
+                                                        4.Longitudinally reinforced array
+                                                        hoses;                                   Technical Note:
+
+                                                        5.An assembled array of less than 40 For the purposes of 6A001.a.2.b., 'able
+
+                                            28
+修正條目         現行內容                                  擬修正/新增內容                      現行內容英譯                             擬修正/新增內容英譯
+
+6A001.a.2.d.1 1.〝準確度〞優於 0.5°；及              1. 〝準確度〞小於(優於)             mm in diameter;                        to be modified' means having
+                                            0.5°；及                                                            provisions to allow a change of the
+                                            2. 整體‵加速度靈敏度′大於(優於)        6.Not used;                            wiring or interconnections to alter
+                                            48 dB(以1,000 mV rms每1 g為基                                         hydrophone group spacing or operating
+                                            準)                         7.Hydrophone characteristics           depth limits. These provisions are:
+                                            b. 具有小於 (優於)速度之1 %的速       specified in 6A001.a.2.a.; or          spare wiring exceeding 10 % of the
+                                            度〝準確度(或稱〝精度〞)〞；                                                   number of wires, hydrophone group
+                                            2. 都卜勒聲納記錄設備具有小於           8.Accelerometer-based hydro-           spacing adjustment blocks or internal
+                                            (優於)速度之1 %的速度〝準確度          acoustic sensors specified in          depth limiting devices that are
+                                            (或稱〝精度〞)〞；                 6A001.a.2.g.;                          adjustable or that control more than one
+                                                                                                              hydrophone group.
+                                                                       1.An "accuracy" of better than 0,5°;
+                                                                       and                                    1.An "accuracy" of less (better) than
+                                                                                                              0,5°; and
+
+6A001.a.2.g.2 2.整體‵加速度靈敏度′優於 48 dB(以                                   2.Having an overall 'acceleration      2.Having an overall 'acceleration
+                  1,000 mV rms 每 1 g 為基準)；                             sensitivity' better than 48 dB         sensitivity' greater (better) than 48 dB
+                                                                       (reference 1 000 mV rms per 1g);       (reference 1 000 mV rms per 1g);
+
+6A001.b.1.b  b.具有優於速度之 1 %的速度〝準確                                       b.Having speed "accuracy" better than b.Having speed "accuracy" less (better)
+6A001.b.2    度(或稱〝精度〞)〞；
+             2.都卜勒聲納記錄設備具有優於速                                          1 % of speed;                          than 1 % of speed;
+             度之 1 %的速度〝準確度(或稱〝精
+             度〞)〞；                                                     2.Doppler-velocity sonar log           2.Doppler-velocity sonar log equipment
+                                                                       equipment having speed "accuracy"      having speed "accuracy" less (better)
+                                                                       better than 1 % of speed.              than 1 % of speed.
+
+6A002.a.2 技                                                            Technical Note:
+術註解
+             技術註解：                                                     For the purposes of 6A002.a.2.,
+             就 6A002.a.2.目的，‵電子倍增′為電
+             子影像增強形式，定義為由碰撞電                                           'charge multiplication' is a form of
+             離子增益程序導致電子載體產生。
+             ‵電子倍增′感測器可採取的形式為影                                         electronic image amplification and is
+             像增強管、固態偵測器或〝焦面陣
+             列〞。                            刪除6A002.a.2技術註解            defined as the generation of charge    --
+                                                                       carriers as a result of an impact
+                                            b.除微通道板外，為達〝電子倍
+                                            增〞特別設計或改裝之電子感測             ionization gain process. 'Charge
+                                            裝置，其非合併像素間距為 500
+                                                                       multiplication' sensors may take the
+
+                                                                       form of an image intensifier tube,
+
+                                                                       solid state detector or "focal plane
+
+                                                                       array".
+
+6A002.a.2.a.2. b.除微通道板外，為達‵電子倍增′特                                      b.An electron sensing device with a b.An electron sensing device with a
+                                                                       non-binned pixel pitch of 500 μm or non-binned pixel pitch of 500 μm or
+b            別設計或改裝之電子感測裝置，其                                           less, specially designed or modified to less, specially designed or modified to
+
+                                            29
+修正條目                  現行內容                   擬修正/新增內容              現行內容英譯                             擬修正/新增內容英譯
+
+               非合併像素間距為 500 µm 或以     µ m或以下；及           achieve 'charge multiplication' other  achieve "charge multiplication" other
+                                                         than by a microchannel plate; and      than by a microchannel plate; and
+               下；及                    b. 除微通道板外，為達〝電子倍
+                                      增〞特別設計或改裝之電子感測
+                  b.除微通道板外，為達‵電子倍增′特  裝置，其非合併像素間距為500    b.An electron sensing device with a b.An electron sensing device with a
+6A002.a.2.b.2.                        µ m或以下；及           non-binned pixel pitch of 500 μm or non-binned pixel pitch of 500 μm or
+                                      2. 除微通道板外，為達〝電子倍   less, specially designed or modified to less, specially designed or modified to
+                  別設計或改裝之電子感測裝置，其     增〞特別設計或改裝之電子感測     achieve 'charge multiplication' other achieve "charge multiplication" other
+                                      裝置，其非合併像素間距為500    than by a microchannel plate; and than by a microchannel plate; and
+b              非合併像素間距為 500 µm 或以     µm或以下；
+                                      c. 特別設計或改造之〝焦面陣
+               下；及                    列〞，為達〝電子倍增〞，且其
+                                      設計極限為具最高〝輻射靈敏
+6A002.a.2.c.2  2. 除微通道板外，為達‵電子倍增′特    度〞10 mA/W或以下，在波長超  2.An electron sensing device with a 2.An electron sensing device with a
+               別設計或改裝之電子感測裝置，其        過760 nm，具有下列所有特性：
+               非合併像素間距為 500 µm 或以下；                      non-binned pixel pitch of 500 μm or non-binned pixel pitch of 500 μm or
+                                      刪除6A002.a.3 技術註解
+                                                         less, specially designed or modified to less, specially designed or modified to
+                                      b. 特別設計或改裝為達〝電子倍
+                                      增〞且最高〝輻射靈敏度〞超過     achieve 'charge multiplication' other achieve "charge multiplication" other
+                                      10 mA/W；
+                                      b. 特別設計或改裝為達〝電子倍   than by a microchannel plate;          than by a microchannel plate;
+                                      增〞且最高〝輻射靈敏度〞超過
+6A002.a.3 註    c.特別設計或改造之〝焦面陣列〞，      10 mA/W；           c."Focal plane arrays" specially       c."Focal plane arrays" specially
+解2c            為達‵電子倍增′，且其設計極限為具
+               最高〝輻射靈敏度〞10 mA/W 或以                       designed or modified to achieve        designed or modified to achieve
+               下，在波長超過 760 nm，具有下列
+               所有特性：                                     'charge multiplication' and limited by "charge multiplication" and limited by
+
+                                                         design to have a maximum "radiant design to have a maximum "radiant
+
+                                                         sensitivity" of 10 mA/W or less for sensitivity" of 10 mA/W or less for
+
+                                                         wavelengths exceeding 760 nm,          wavelengths exceeding 760 nm, having
+
+                                                         having all of the following:           all of the following:
+
+6A002.a.3 技                                              Technical Note:
+術註解
+               技術註解：                                     'Charge multiplication' is a form of
+               ‵電子倍增′為電子影像增強形式，定                         electronic image amplification and is  --
+               義為由碰撞電離子增益程序導致電                           defined as the generation of charge
+               子載體產生。‵電子倍增′感測器可採                         carriers as a result of an impact      b.Specially designed or modified to
+               取的形式為影像增強管、固態偵測                           ionization gain process. 'Charge       achieve "charge multiplication" and
+               器或〝焦面陣列〞。                                 multiplication' sensors may take the   having a maximum "radiant sensitivity"
+                                                         form of an image intensifier tube,     exceeding 10 mA/W;
+                  b.特別設計或改裝為達‵電子倍增′且                     solid state detector or "focal plane   b.Specially designed or modified to
+6A002.a.3.a.2.                                           array".                                achieve "charge multiplication" and
+                                                         b.Specially designed or modified to    having a maximum "radiant sensitivity"
+                  最高〝輻射靈敏度〞超過 10                         achieve 'charge multiplication' and    exceeding 10 mA/W;
+                                                         having a maximum "radiant
+b              mA/W；                                     sensitivity" exceeding 10 mA/W;
+                                                         b.Specially designed or modified to
+                  b.特別設計或改裝為達‵電子倍增′且                     achieve 'charge multiplication' and
+6A002.a.3.b.2.                                           having a maximum "radiant
+                                                         sensitivity" exceeding 10 mA/W;
+                  最高〝輻射靈敏度〞超過 10
+
+b              mA/W；
+
+                                      30
+修正條目                  現行內容                   擬修正/新增內容                 現行內容英譯                               擬修正/新增內容英譯
+
+6A002.b 註解 註解：6A002.b.1.不管制尖峰反應在      註解：6A002.b.1.不管制尖峰反應  Note: 6A002.b.1. does not control Note: 6A002.b.1. does not control
+                  波長範圍超過 300 nm，但不超過  在波長範圍超過300 nm，但不超
+                                      過900 nm之〝單頻譜影像感應      "monospectral imaging sensors" with "monospectral imaging sensors" with a
+                                      器〞，且只納入下列任一項非
+             900 nm 之〝單頻譜影像感應器〞，      〝太空級〞偵測器或非〝太空         a peak response in the wavelength peak response in the wavelength range
+                                      級〞〝焦面陣列〞：
+                                      1. 非為達〝電子倍增〞而設計或      range exceeding 300 nm but not          exceeding 300 nm but not exceeding
+                                      改裝之電荷耦合元件(CCD)；或
+             且只納入下列任一項非〝太空級〞          2. 非為達〝電子倍增〞而設計或      exceeding 900 nm and only               900 nm and only incorporating any of
+                                      改裝之互補金屬氧化半導體
+             偵測器或非〝太空級〞〝焦面陣           (CMOS)元件。             incorporating any of the following the following non–"space- qualified"
+
+             列〞：                      3. 電子式高速掃描攝影機時間解      non–"space- qualified" detectors or detectors or non–"space-qualified"
+                                      析度小於(優於)50 ns；
+                                                            non–"space-qualified" "focal plane "focal plane arrays":
+                                      a. 波長大於1 μm時，其〝準確度
+             1.非為達‵電子倍增′而設計或改裝之       (或稱〝精度〞)〞等於或小於(優      arrays":
+                                      於) 0.1μm；
+             電荷耦合元件                                         Note:                                   Note:
+                                      2. 〝雷射〞頻率穩定度等於或小
+             (CCD)；或                  於(優於)10 MHz；          1.Charge Coupled Devices (CCD) not 1.Charge Coupled Devices (CCD) not
+                                      4. 光學系統解析度小於(優於)1
+                                      mm；及                  designed or modified to achieve         designed or modified to achieve
+                                      〝磁力計〞及其子系統，如下：
+             2. 非為達‵電子倍增′而設計或改裝之      1. 〝磁力計〞使用〝超導〞        'charge multiplication'; or             "charge multiplication"; or
+                                      (SQUID) 〝技術〞，且具下列任
+             互補金屬氧化半導體(CMOS)元件。       一特性：                  2.Complementary Metal Oxide             2.Complementary Metal Oxide
+                                      a. 設計作為靜態操作之SQUID系    Semiconductor (CMOS) devices not        Semiconductor (CMOS) devices not
+6A003.a.3    3.電子式高速掃描攝影機時間解析         統，於無特殊設計之消減行動雜        designed or modified to achieve         designed or modified to achieve
+6A005.f.3.a  度優於 50 ns；               訊子系統下，其‵靈敏度′在每        'charge multiplication'.                "charge multiplication".
+                                                                                                    3.Electronic streak cameras having
+6A005.g.2    a.波長大於 1 μm 時，其〝準確度(或                          3.Electronic streak cameras having      temporal resolution less (better) than 50
+6A005.g.4    稱〝精度〞)〞等於或小於                                   temporal resolution better than 50 ns;  ns;
+6A006.a.-c   0.1μm；
+             2.〝雷射〞頻率穩定度等於或優於                               a.An "accuracy" of 0,1 μm or less, for  a.An "accuracy" of 0,1 μm or less
+             (小於)10 MHz；                                    wavelengths greater than 1 μm; or       (better), for wavelengths greater than 1
+             4.光學系統解析度優於(小於)1 mm；                                                                   μm; or
+             及
+                                                            2."Laser" frequency stability equal to 2."Laser" frequency stability equal to or
+             〝磁力計〞及其子系統，如下：
+             1. 〝磁力計〞使用〝超導〞                                 or better (less) than 10 MHz;           less (better) than 10 MHz;
+             (SQUID) 〝技術〞，且具下列任一
+             特性：                                            4.Optical system resolution better      4.Optical system resolution less (better)
+             a. 設計作為靜態操作之 SQUID 系                           (less) than 1 nm; and                   than 1 nm; and
+             統，於無特殊設計之消減行動雜訊
+                                                            a."Magnetometers" and subsystems as a."Magnetometers" and subsystems as
+
+                                                            follows:                                follows:
+
+                                                            1."Magnetometers" using                 1."Magnetometers" using
+                                                            "superconductive" (SQUID)               "superconductive" (SQUID)
+                                                            "technology" and having any of the      "technology" and having any of the
+                                                            following:                              following:
+
+                                                            a.SQUID systems designed for            a.SQUID systems designed for
+
+                                      31
+修正條目               現行內容               擬修正/新增內容        現行內容英譯                                 擬修正/新增內容英譯
+
+      子系統下，其‵靈敏度′在每赫茲          赫茲頻率下，等於或小於(優於)        stationary operation, without specially stationary operation, without specially
+      頻率下，等於或小於(優於)每平方         每平方根赫茲50 fT (rms)；或
+      根赫茲50 fT (rms)；或                                designed subsystems designed to        designed subsystems designed to
+                               b. SQUID系統行動磁力計之‵靈
+      b. SQUID 系統行動磁力計之‵靈敏     敏度′在每赫茲頻率下，小於(優        reduce in-motion noise, and having a reduce in-motion noise, and having a
+      度′在每赫茲頻率下，小於(優於)         於)每平方根赫茲20 pT (rms)，
+      每平方根赫茲20 pT (rms)，且特別    且特別設計為消減行動雜訊；          'sensitivity' equal to or lower (better) 'sensitivity' equal to or less (better) than
+      設計為消減行動雜訊；
+                               2. 〝磁力計〞使用光學致動或核       than 50 fT (rms) per square root Hz at 50 fT (rms) per square root Hz at a
+      2. 〝磁力計〞使用光學致動或核進        進動(質子/ Overhauser) 〝技
+      動(質子/ Overhauser) 〝技術〞，  術〞，其‵靈敏度′在每赫茲頻         a frequency of 1 Hz; or                frequency of 1 Hz; or
+      其‵靈敏度′在每赫茲頻率下，小          率下，小於(優於)每平方根赫茲
+      於(優於)每平方根赫茲20            20 pT(rms)；            b.SQUID systems having an in-          b.SQUID systems having an in-motion-
+      pT(rms)；                                        motion-magnetometer 'sensitivity'      magnetometer 'sensitivity' less (better)
+                               3. 〝磁力計〞使用磁通閘〝技        lower (better) than 20 pT (rms) per    than 20 pT (rms) per square root Hz at a
+      3. 〝磁力計〞使用磁通閘〝技          術〞，其‵靈敏度′在每赫茲頻         square root Hz at a frequency of 1 Hz  frequency of 1 Hz and specially
+      術〞，其‵靈敏度′在每赫茲頻率          率下，小於(優於)每平方根赫茲        and specially designed to reduce in-   designed to reduce in-motion noise;
+      下，小於(優於)每平方根赫茲10 pT      10 pT (rms)；           motion noise;
+      (rms)；                                                                                 2."Magnetometers" using optically
+                               4. 感應線圈式〝磁力計〞，其        2."Magnetometers" using optically      pumped or nuclear precession
+      4. 感應線圈式〝磁力計〞，其‵靈        ‵靈敏度′小於(優於)下列任一        pumped or nuclear precession           (proton/Overhauser) "technology"
+      敏度′小於(優於)下列任一者：          者：                     (proton/Overhauser) "technology"       having a 'sensitivity' less (better) than
+      a. 頻率小於1 Hz 時，每平方根赫茲                            having a 'sensitivity' lower (better)  20 pT (rms) per square root Hz at a
+      0.05 nT (rms)；           a. 頻率小於1 Hz時，每平方根赫     than 20 pT (rms) per square root Hz    frequency of 1 Hz;
+      b. 頻率為1 Hz 或以上，但不超過10    茲0.05 nT (rms)；        at a frequency of 1 Hz;
+      Hz，每平方根赫茲1×10-3 nT       b. 頻率為1 Hz或以上，但不超過                                            3."Magnetometers" using fluxgate
+      (rms)；或                  10 Hz，每平方根赫茲1×10-3 nT  3."Magnetometers" using fluxgate       "technology" having a 'sensitivity' equal
+      c. 頻率超過10 Hz 時，每平方根赫     (rms)；或                "technology" having a 'sensitivity'    to or less (better) than 10 pT (rms) per
+                               c. 頻率超過10 Hz時，每平方根     equal to or lower (better) than 10 pT  square root Hz at a frequency of 1 Hz;
+                               赫茲1×10-4 nT (rms)；     (rms) per square root Hz at a
+                               5. 光纖〝磁力計〞之‵靈敏度′       frequency of 1 Hz;                     4.Induction coil "magnetometers"
+                               小於(優於)每平方根赫茲1 nT                                              having a 'sensitivity' less (better) than
+                               (rms)；                 4.Induction coil "magnetometers"       any of the following:
+                                                      having a 'sensitivity' lower (better)
+                                                      than any of the following:             a.0,05 nT (rms) per square root Hz at
+                                                                                             frequencies of less than 1 Hz;
+                                                      a.0,05 nT (rms) per square root Hz at
+                                                      frequencies of less than 1 Hz;         b.1 × 10–3 nT (rms) per square root Hz
+                                                                                             at frequencies of 1 Hz or more but not
+                                                      b.1 × 10–3 nT (rms) per square root    exceeding 10 Hz; or
+                                                      Hz at frequencies of 1 Hz or more but
+                                                      not exceeding 10 Hz; or                c.1 × 10–4 nT (rms) per square root Hz
+                                                                                             at frequencies exceeding 10 Hz;
+                                                      c.1 × 10–4 nT (rms) per square root    5.Fibre optic "magnetometers" having a
+
+                               32
+修正條目               現行內容                   擬修正/新增內容                 現行內容英譯                           擬修正/新增內容英譯
+
+           茲1×10-4 nT (rms)；       b. 水下電場感測器，其‵靈敏       Hz at frequencies exceeding 10 Hz; 'sensitivity' less (better) than 1 nT (rms)
+                                   度′在1 Hz測量時，小於(優於)
+           5. 光纖〝磁力計〞之‵靈敏度′低       每公尺每平方根赫茲 8           5.Fibre optic "magnetometers" having per square root Hz;
+                                   nanovolt。
+           於(優於)每平方根赫茲1 nT         c. 〝磁梯度計〞，如下：         a 'sensitivity' lower (better) than 1 nT
+                                   1. 使用多個6A006.a.所述〝磁力
+                                   計〞之〝磁梯度計〞；            (rms) per square root Hz;                 b.Underwater electric field sensors
+                                   2. 光纖〝固有磁梯度計〞, 其磁
+           (rms)；                  場梯度之‵靈敏度′小於(優於)                                                 having a 'sensitivity' less (better) than 8
+                                   每平方根赫茲0.3 nT/m rms；
+           b. 水下電場感測器，其‵靈敏度′       3. 使用光纖技術以外〝技術〞之      b.Underwater electric field sensors nanovolt per metre per square root Hz
+                                   〝固有磁梯度計〞，其磁場梯度
+           在1 Hz 測量時，小於(優於)每公尺     之‵靈敏度′小於(優於)每平方       having a 'sensitivity' lower (better) when measured at 1 Hz;
+                                   根赫茲0.015 nT/m rms；
+                                                         than 8 nanovolt per metre per square
+
+           每平方根赫茲 8 nanovolt。                            root Hz when measured at 1 Hz;            c."Magnetic gradiometers" as follows:
+
+           c. 〝磁梯度計〞，如下：                                 c."Magnetic gradiometers" as follows: 1."Magnetic gradiometers" using
+
+           1. 使用多個6A006.a.所述〝磁力                                                                    multiple "magnetometers" specified in
+
+           計〞之〝磁梯度計〞；                                    1."Magnetic gradiometers" using           6A006.a.;
+
+           2. 光纖〝固有磁梯度計〞, 其磁場                            multiple "magnetometers" specified
+
+           梯度之‵靈敏度′低於(優於)每平                              in 6A006.a.;                              2.Fibre optic "intrinsic magnetic
+
+                                                                                                   gradiometers" having a magnetic
+
+           方根赫茲0.3 nT/m rms；                             2.Fibre optic "intrinsic magnetic         gradient field 'sensitivity' less (better)
+
+           3. 使用光纖技術以外〝技術〞之                              gradiometers" having a magnetic           than 0,3 nT/m rms per square root Hz;
+
+           〝固有磁梯度計〞，其磁場梯度之                               gradient field 'sensitivity' lower
+
+                                                         (better) than 0,3 nT/m rms per square 3."Intrinsic magnetic gradiometers",
+
+           ‵靈敏度′低於(優於)每平方根赫                              root Hz;                                  using "technology" other than fibre-
+
+           茲0.015 nT/m rms；                                                                        optic "technology", having a magnetic
+
+                                                         3."Intrinsic magnetic gradiometers", gradient field 'sensitivity' less (better)
+
+                                                         using "technology" other than fibre- than 0,015 nT/m rms per square root
+
+                                                         optic "technology", having a magnetic Hz;
+
+                                                         gradient field 'sensitivity' lower
+
+                                                         (better) than 0,015 nT/m rms per
+
+                                                         square root Hz;
+
+6B004.a    a.測量絕對反射度之設備，其〝準確       a. 測量絕對反射度之設備，其 a.Equipment for measuring absolute              a.Equipment for measuring absolute
+           度(或稱〝精度〞)〞為反射值的                                                                         reflectance to an "accuracy" of equal to
+6C005.b.2  0.1 %或更優者；              〝準確度(或稱〝精度〞)〞為反射 reflectance to an "accuracy" of equal          or less (better) than 0,1 % of the
+技術註解                                                                                               reflectance value;
+           技術註解：                   值的小於(優於) 0.1 %；       to or better than 0,1 % of the
+           1.就6C005目的，核心之‵數值孔徑                           reflectance value;                        Note:
+           ‵(‵NA′)以光纖的發射波長量測。                                                                      6C005.b. includes fibres assembled
+           2. 6C005.b.包括光纖有裝配端帽者。  註解：                                                             with end caps.
+                                                                                                   Technical Note:
+                                   6C005.b.包括光纖有裝配端帽者。 Technical Notes:                            For the purposes of 6C005.b., the core
+
+                                   技術註解：                 1.For the purposes of 6C005.b.1.b.,
+
+                                   就6C005目的，核心之‵數值孔徑 the core 'Numerical Aperture' ('NA')
+
+                                                    33
+修正條目       現行內容                         擬修正/新增內容                   現行內容英譯                                    擬修正/新增內容英譯
+
+                                        ‵(‵NA′)以光纖的發射波長量測。 is measured at the emission wave-                 'Numerical Aperture' ('NA') is
+                                                                                      lengths of the fibre.  measured at the emission wavelengths
+
+                                                                                                             of the fibre.
+
+                                                              2.6C005.b. includes fibres assembled
+
+                                                              with end caps.
+
+6E003.a.2  2. 光學製造〝技術〞，用單點鑽石            2. 光學製造〝技術〞，用單點鑽 2."Technology" for the fabrication of               2."Technology" for the fabrication of
+           旋轉技術，在超過 0.5 m2 之非                                                                                optics using single point diamond
+7A 說明      平面表面上，用單點鑽石旋轉技               石旋轉技術，在超過0.5 m2之非平 optics using single point diamond                 turning techniques to produce surface
+7A003.b    術，產生〝準確度〞優於 10 nm rms                                                                             finish "accuracies" of less (better) than
+技術註解       的表面；                         面表面上，用單點鑽石旋轉技         turning techniques to produce surface          10 nm rms on non-planar surfaces
+                                                                                                             exceeding 0,5 m2;
+           說明：水下載具之自動駕駛，參照              術，產生〝準確度〞小於(優於)10     finish
+           第 8 類。雷達參照第 6 類。             nm rms的表面；            "accuracies" of better than 10 nm rms
+                                                              on non-planar surfaces exceeding 0,5
+           技術註解：
+           在7A003.b.指一系統，其將‵慣性測                               m2;
+           量設備或系統′及‵位置輔助參考′建立
+           於同一單元中(即嵌入式)以實現增進            說明：可潛水載具之自動駕駛，        N.B For automatic pilots for                   N.B. For automatic pilots for
+           性能。                          參照第8類。雷達參照第6類。        underwater vehicles, see Category 8.           submersible vehicles, see Category 8.
+                                                              For radar, see Category 6.                     For radar, see Category 6.
+                                        註解：                   Technical Note:
+
+                                        7A003.b.指其將‵慣性測量設備或                                                  Note:
+                                                                                                             7A003.b. refers to systems in which
+                                        系統′及‵位置輔助參考′建立於同一 For the purposes of 7A003.b., this                 'inertial measurement equipment or
+                                                              entry refers to systems in which               systems' and other inde pendent
+                                        單元中(即嵌入式) 的系統，以實      'inertial measurement equipment or             'positional aiding references' are built
+                                        現增進性能。                systems' and other independent                 into a single unit (i.e., embedded) in
+                                                                                                             order to achieve improved performance.
+                                                              'positional aiding references' are built
+
+                                                              into a single unit (i.e., embedded) in
+
+                                                              order to achieve improved
+
+                                                              performance.
+
+7A105 註解   註解：7A105.b.2.及 7A105.b.3.不管  註解：                   Note: 7A105.b.2. and 7A105.b.3. do Note:
+           制為商業、民用或‵人命安全′(例如
+           資料完整性、飛行安全)用途之‵衛星            1.7A105.b.2.及 7A105.b.3.不管制 not control equipment designed for       1. 7A105.b.2. and 7A105.b.3. do not
+           導航系統′服務而設計之設備。                                                                                    control equipment designed for
+                                        為商業、民用或‵人命安全′(例如資 commercial, civil or 'Safety of Life'              commercial, civil or Safety of Life
+                                                              (e.g., data integrity, flight safety)          (e.g., data integrity, flight safety)
+                                        料完整性、飛行安全)用途之‵衛星      'navigation satellite system' services.        navigation satellite system services.
+                                        導航系統′服務而設計之設備。
+
+           技術註解：                        2.7A105 中之‵衛星導航系統′包括  Technical Note:
+           7A105 中之‵衛星導航系統′包括全球         全球衛星導航系統(GNSS，例如
+           衛星導航系統(GNSS，例如 GPS、          GPS、GLONASS、Galileo或  In 7A105, 'navigation satellite system' 2.In 7A105, navigation satellite system
+           GLONASS、Galileo 或 BeiDou)與區  BeiDou)與區域衛星導航系統
+           域衛星導航系統(RNSS，例如              (RNSS，例如NavIC、QZSS)。  includes Global Navigation Satellite include Global Navi gation Satellite
+
+                                                              Systems (GNSS; e.g. GPS,                       Systems (GNSS; e.g., GPS,
+
+                                                              GLONASS, Galileo or BeiDou) and GLONASS, Galileo or BeiDou) and
+
+                                                              Regional Navigation Satellite                  Regional Navigation Satellite Systems
+
+                                                              Systems (RNSS; e.g. NavIC, QZSS). (RNSS; e.g., NavIC, QZSS).
+
+                                                  34
+修正條目         現行內容                             擬修正/新增內容              現行內容英譯                               擬修正/新增內容英譯
+
+             NavIC、QZSS)。
+
+8A002.a.4                                                   Technical Note:
+8A002.d.1
+8A002.o      技術註解：                                          For the purposes of 8A002.a.4., this
+             就 8A002.a.4.目的，不因 8C001 所述
+             輸出‵複合泡材′仍在製程中未達最後                              entry should not be defeated by the
+             零件形式，而不受管制。
+                                         技術註解刪除             export of 'syntactic foam' specified in  --
+                                                            8C001 when an intermediate stage of
+
+                                                            manufacture has been performed and
+
+                                                            it is not yet in the final component
+
+                                                            form.;
+
+             1.特別設計或改裝用於遙控操作水            1. 特別設計或改裝用於遙控操作   d.Underwater vision systems              1.Specially designed or modified for
+             下載具；或                       可潛水載具；或            specially designed or modified for       remote operation with a submersible
+                                                            remote operation with an underwater      vehicle; and
+             o.推進器、動力傳輸系統、發電系            o. 推進器、動力傳輸系統、發電   vehicle, employing techniques to
+             統及噪音抑減系統，如下：                系統及噪音抑減系統及相關設      minimise the effects of back scatter     o.Propellers, power transmission
+                                         備，如下：              and including range-gated illumi-        systems, power generation systems and
+                                                            nators or "laser" systems;               noise reduction systems and related
+                                                            o.Propellers, power transmission         equipment, as follows:
+                                                            systems, power generation systems
+                                                            and noise reduction systems, as
+                                                            follows:
+
+8A002.o.2.d  d.包含〝複合〞材料零件，能傳輸 d. 採用〝複合〞材料軸的電力傳輸 d.Power transmission shaft systems d.Power transmission systems
+8A002.o.3
+9A006.a      大於 2 MW 之動力傳輸軸系統；           系統，設計用於傳輸超過10兆瓦的 incorporating "composite" material         incorporating "composite" shafts and
+                                                            components and capable of                designed to transmit power exceeding
+                                         功率；                                                         10 MW;
+                                                            transmitting more than 2 MW;
+
+             3.設計用於排水量達 1,000 噸或以上       3. 設計用於排水量達1,000噸或以 3.Noise reduction systems designed      3.Noise reduction systems and related
+             船舶之噪音抑制系統，如下：               上船舶之噪音抑制系統及相關設 for use on vessels of 1 000 tonnes           equipment, designed for use on vessels
+                                                                                                     of 1 000 tonnes displacement or more,
+                                         備，如下：              displacement or more, as follows:        as follows:
+
+             a.特別設計用於太空載具，能限制低           a. 設計用於能限制低溫流體損耗   a.Cryogenic refrigerators,               a.Cryogenic refrigerators, flightweight
+             溫流體損耗每年低於 30 %之低溫冷          每年低於30 %之低溫冷凍機、飛   flightweight dewars, cryogenic heat      dewars, cryogenic heat pipes or
+             凍機、飛行用真空瓶(杜爾瓶)、低溫           行用真空瓶(杜爾瓶)、低溫熱管或   pipes or cryogenic systems, specially    cryogenic systems, designed to restrict
+             熱管或低溫系統；                    低溫系統；              designed for use in space vehicles and   cryogenic fluid losses to less than 30 %
+                                                            capable of restricting cryogenic fluid   per year;
+                                                            losses to less than 30 % per year;
+
+                                                        35
+修正條目          現行內容                  擬修正/新增內容                      現行內容英譯                                  擬修正/新增內容英譯
+
+9A006.b   b.低溫容器或封閉迴路冷凍系統能          b. 低溫容器或封閉循環冷凍系統， b.Cryogenic containers or closed- b.Cryogenic containers or closed-cycle
+          提供 100 K (-173 °C)或以下溫度予
+                                    設計用於維持或產生低於或等於 cycle refrigeration systems, capable refrigeration systems, designed to
+                                                          of providing temperatures of 100 K (– maintain or produce temperatures less
+          持續飛行速度超過 3 馬赫之〝航空         100 K（-173.15°C）的溫度。  173 °C) or less for "aircraft" capable than or equal to 100 K (– 173,15 °C);
+
+          器〞、發射載具或〝太空載具〞；                                 of sustained flight at speeds
+
+                                                          exceeding Mach 3, launch vehicles or
+
+                                                          "spacecraft";
+
+9A108.a                             說明：                                                            N.B. For insulation material in bulk or
+說明,註解                               對於散裝或片狀絕緣材料，另請                                                 sheet form, SEE ALSO 9C108.
+
+                                    參閱 9C108。
+
+                                                                                                   Note:
+
+                                    註解：                                                            In 9A108, insulation intended to be
+
+          新增                        在9A108中，應用於火箭發動機組     --                                       applied to the components of a rocket
+                                    件的絕緣材料（即外殼、噴嘴入                                                 motor, i.e. the case, nozzle inlets, case
+                                                                                                   closures, includes cured or semi-cured
+                                    口、外殼封蓋），包括含有絕緣                                                 compounded rubber components
+                                                                                                   comprising sheet stock containing an
+                                    或耐火材料的固化或半固化複合
+
+                                    橡膠組件，這些組件為薄片材料                                                 insulating or refractory material. It may
+
+                                    形式。該絕緣材料亦可作為應力                                                 also be incorporated as stress relief
+
+                                    釋放套或襟翼被納入。                                                     boots or flaps.
+
+9A121     技術註解：                     註解：                   Technical Note:                          Note:
+技術註解      9A121 所述之節間連接器，尚包含                                                                       In 9A121, interstage electrical
+          安裝於〝飛彈〞、太空發射載具或           在9A121中，節間電連接器亦包括 Interstage connectors referred to in         connectors also include electrical
+9B009 註解  探空火箭及其發射酬載裝置之間                                                                           connectors installed between the
+9B010     者。                        安裝於〝飛彈〞、太空發射載具 9A121 also include electrical                   "missile", space launch vehicle or
+9B105 註解  說明：9B009 不管制生產粉末之工                                                                       sounding rocket and their payload.
+          具。                        或探空火箭與其酬載之間的電連 connectors installed between the
+
+          為生產 9A012 所述項目而特別設計       接器。                   "missile", space launch vehicle or
+          之設備。                                            sounding rocket and their payload.
+
+          註解：                       註解：9B009不管制〝生產〞粉末 Note: 9B009 does not control tooling Note: 9B009 does not control tooling
+          9B105 不管制速度 3 馬赫或以下之      之工具。
+          風洞，其‵測試段尺寸′等於或小於                                for the production of powder.            for the "production" of powder.
+          250 mm。
+                                    為〝生產〞9A012所述項目而特別 Equipment specially designed for the         Equipment specially designed for the
+                                                                                                   "production" of items specified in
+                                    設計之設備。                production of items specified in         9A012.
+                                                                                                   Notes:
+                                                          9A012.                                   1.9B105 includes wind tunnels and
+                                                                                                   shock tunnels for the study of airflow
+                                    註解：                   Note: 9B105 does not control wind-       over objects.
+
+                                    1. 9B105所述之‵空氣動力測試設 tunnels for speeds of Mach 3 or less       2.9B105 does not control wind-tunnels
+
+                                    施′包括風洞與震波風洞，用於氣 with dimension of the 'test cross
+                                                          section size' equal to or less than 250
+                                    流通過物體之研究。             mm.
+
+                                                36
+修正條目          現行內容                擬修正/新增內容                  現行內容英譯                               擬修正/新增內容英譯
+
+          技術註解：                   2.9B105不管制速度3馬赫或以下    Technical Notes:                         for speeds of Mach 3 or less with
+          1.9B105 所述之‵空氣動力測試設施′   之風洞，其‵測試段尺寸′等於或小      1.In 9B105 'aerodynamic test             dimension of the 'test cross section size'
+          包括風洞與震波風洞，用於氣流通         於250 mm。              facilities' includes wind tunnels and    equal to or less than 250 mm.
+          過物體之研究。                                       shock tunnels for the study of airflow
+          2.9B105 註解所述之‵測試段尺寸′指
+          ‵測試段′之最大處，如圓形之直徑，       技術註解：                 over objects.                            Technical Notes:
+          或正方形之邊，或矩形之最長邊，         1. 9B105註解所述之‵測試段尺寸′                                           1.In Note to 9B105, 'test cross section
+          或是橢圓形之主軸。               指‵測試段′之最大處，如圓形之直      2.In Note to 9B105, 'test cross section  size' means the diameter of the circle,
+                                  徑，或正方形之邊，或矩形之最        size' means the diameter of the circle,  or the side of the square, or the longest
+                                                        or the side of the square, or the        side of the rectangle, or the major axis
+
+                                  長邊，或是橢圓形之主軸。‵測試 longest side of the rectangle, or the of the ellipse at the largest 'test cross
+                                  段′為與氣流方向垂直之部分。 major axis of the ellipse at the largest section' location. 'Test cross section' is
+
+                                                                                'test cross section' location. 'Test cross the section perpendicular to the flow
+
+          ‵測試段′為與氣流方向垂直之部分。       2. 於9B105中，‵飛彈′係指射程或  section' is the section perpendicular to direction.
+          3.於 9B105 中，‵飛彈′係指射程或航  航程超過300 km之完整火箭系統     the flow direction.
+          程超過 300 km 之完整火箭系統及無    及無人飛行載具系統。
+          人飛行載具系統。                                                                                      2.In 9B105 'missile' means complete
+                                                        3.In 9B105 'missile' means complete rocket systems and unmanned aerial
+
+                                                        rocket systems and unmanned aerial vehicle systems capable of a range
+
+                                                        vehicle systems capable of a range exceeding 300 km.
+
+                                                        exceeding 300 km.
+
+9B107 註解                          註解：                   Technical Notes:                         Notes:
+                                                                                                 1.9B107 includes plasma arc jet
+          技術註解：                   1. 9B107包括電漿電弧噴射設施與 1.'Aerothermodynamic test facilities'      facilities and plasma wind tunnels for
+          1.‵航空熱力學測試設施′包括電漿電                                                                     the study of thermal and mechanical
+          弧噴射設施與電漿風洞，用於研究         電漿風洞，用於研究氣流對物件 include plasma arc jet facilities and           effects of airflow on objects.
+          氣流對物件的熱和機械影響。                                 plasma wind tunnels for the study of
+          2.9B107 所述之‵飛彈′係指射程或航   的熱和機械影響。              thermal and mechanical effects of        2.In 9B107 'missile' means complete
+          程超過 300 km 之完整火箭系統及無    2. 9B107所述之‵飛彈′係指射程或  airflow on objects.                      rocket systems and unmanned aerial
+          人飛行載具系統。                                                                               vehicle systems capable of a range
+                                  航程超過300 km之完整火箭系統                                              exceeding 300 km.
+
+                                  及無人飛行載具系統。            2.In 9B107 'missile' means complete      Note:
+
+                                                        rocket systems and unmanned aerial
+
+                                                        vehicle systems capable of a range
+
+                                                        exceeding 300 km.
+
+9C108 註解                          註解：
+
+                                  在9C108中，絕緣材料用於火箭發                                              In 9C108, insulation intended to be
+                                                                                                 applied to the components of a rocket
+                                  動機組件（如外殼、噴嘴入口、                                                 motor, i.e. the case, nozzle inlets, case
+                                                                                                 closures, includes cured or semi-cured
+          新增                      外殼封蓋），包括含有絕緣或耐        --                                       compounded rubber sheet stock
+                                  火材料的固化或半固化橡膠片                                                  containing an insulating or refractory
+                                                                                                 material. It may also be incorporated as
+                                  材。它也可能作為9A108中規定的
+
+                                  應力釋放套或襟翼被納入。
+
+                                                                                                 stress relief boots or flaps specified in
+
+                                                37
+修正條目        現行內容                        擬修正/新增內容                                                            現行內容英譯                                         擬修正/新增內容英譯
+
+                                                                                                                                                     9A108.
+
+9D004.b 註解 註解：                          註解：                                                                 9D004.b. does not control software 9D004.b. does not control software for
+                  9D004.b.不管制用於操作測試設施或
+                                        9D004.b.不管制用於操作測試設施 for operation of the test facility or                                                    operation of the test facility or operator
+                                                                                                                                                     safety (e.g. overspeed shutdown, fire
+            操作者安全(例如超速停機、火災偵            或操作者安全(例如超速停機、火 operator safety (e.g. overspeed                                                              detection and suppression), or
+                                                                                                            shutdown, fire detection and             "production", repair or maintenance
+            測與抑制)之軟體，或生產、維修或            災偵測與抑制)之軟體，或〝生                                                      suppression), or production, repair or   acceptance-testing limited to deter
+                                        產〞、維修或維護僅限於確認受                                                      maintenance acceptance-testing           mining if the item has been properly
+            維護僅限於確認受測項目正確組裝
+                                        測項目正確組裝或維修之軟體。 limited to determining if the item has
+            或維修之軟體。
+                                                                                                            been properly assembled or repaired. assembled or repaired.
+
+9E003.f     f.為〝生產〞特別設計用於高輸出柴           f. 為〝生產〞特別設計用於〝高功 f."Technology" "required" for the                                                          f."Technology" "required" for the
+            油發動機之零件所〝必要〞之
+                                        率柴油發動機〞之零件所〝必 "production" of specially designed "production" of specially designed
+
+            〝技術〞如下：                     要〞之〝技術〞如下：                                                          components for high output diesel        components for "high output diesel
+                                                                                                            engines, as follows:                     engines", as follows:
+
+9E003.g     g. 為〝開發〞或〝生產〞‵高功率柴          g. 為〝開發〞或〝生產〞〝高功率                                                   g."Technology" "required" for the        g."Technology" "required" for the
+            油發動機′所〝必要〞之〝技術〞，            柴油發動機〞所〝必要〞之〝技                                                      "development" or "production" of         "development" or "production" of "high
+            該發動機係以固態、氣相或液膜(或            術〞，該發動機係以固態、氣相或                                                     'high output diesel engines' for solid,  output diesel engines" for solid, gas
+            以前述各種組合)用於汽缸壁潤滑，            液膜(或以前述各種組合)用於汽缸                                                    gas phase or liquid film (or             phase or liquid film (or combinations
+            容許操作溫度超過 723 K (450 °C)，    壁潤滑，容許操作溫度超過723 K                                                   combinations thereof) cylinder wall      thereof) cylinder wall lubrication and
+            溫度係於活塞頂環移行至最頂端之             (450 °C)，溫度係於活塞頂環移行                                                 lubrication and permitting operation     permitting operation to temperatures
+            氣缸壁測得。                      至最頂端之氣缸壁測得。                                                         to temperatures exceeding 723 K (450     exceeding 723 K (450 °C), measured on
+                                                                                                            °C), measured on the cylinder wall at    the cylinder wall at the top limit of
+                                                                                                            the top limit of travel of the top ring  travel of the top ring of the piston;
+                                                                                                            of the piston;
+
+9E003.g 技術                              (移至定義)                                                              Technical Note:                          New Definition
+註解
+            技術註解：                       〝高功率柴油發動機〞(第9類)：                                                    For the purposes of 9E003.g.,'high       "High output diesel engines" (9) means
+            ‵高功率柴油發動機′：若額定轉速為           若額定轉速為2,300 r.p.m.或以上，                                              output diesel engines' are diesel        diesel engines with a specified brake
+            2,300 r.p.m.或以上，而轉速在2,300   而轉速在2,300 r.p.m.時，其特定之                                              engines with a specified brake mean      mean effective pressure of 1,8 MPa or
+            r.p.m.時，其特定之制動平均有效壓         制動平均有效壓力為1.8 MPa或以                                                  effective pressure of 1,8 MPa or more    more at a speed of 2 300 r.p.m.,
+            力為1.8 MPa 或以上之柴油發動機。        上之柴油發動機。                                                            at a speed of 2 300 r.p.m., provided     provided the rated speed is 2 300 r.p.m.
+                                                                                                            the rated speed is 2 300 r.p.m. or       or more.
+                                                                                                            more.
+
+第二項：一般軍用貨品清單修正對照表
+
+                                                                                                        38
+修正條目                現行內容  擬修正/新增內容                       現行內容英譯                                    擬修正/新增內容英譯
+
+  ML8   k. N-吡咯酮；1-甲基-2-吡咯酮(CAS k. 1-甲基-2-吡咯酮(N-甲基-2-吡咯  k. N-pyrrolidinone; 1-methyl-2-     k. 1-methyl-2-pyrrolidinone (N-
+ 註解1                                                     pyrrolidinone (CAS 872-50-4);       methyl-2-pyrrolidinone) (CAS 872-50-
+        872-50-4)；        酮)(CAS 872-50-4)；                                                  4);
+    k.
+        為軍用而特別設計或改裝之〝航空 為軍用而特別設計或改裝之〝航空 ML10. "Aircraft", "lighter-than-air                  ML10. "Aircraft", "lighter-than-air
+ML10.                                                                                        vehicles", "Unmanned Aerial
+   .g   器〞、〝比空氣輕載具〞、〝無人 器〞、〝比空氣輕載具〞、〝無人飛 vehicles", "Unmanned Aerial                         Vehicles" ("UAVs"), aero-engines,
+    .j                                                                                       "sub-orbital craft" and "aircraft"
+        飛行載具〞(〝UAVs〞)、航空發動 行載具〞(〝UAVs〞)、航空發動 Vehicles" ("UAVs"), aero-engines                equipment, related equipment, and
+註解1.c                                                                                        components, as follows, specially
+註解2.a   機及〝航空器〞設備、相關設備及 機、〝次軌道飛行器〞及〝航空器〞 and "aircraft" equipment, related                   designed or modified for military use:
+ 註解3
+ 註解4    零件，如下：            設備、相關設備及零件，如下：                 equipment, and components, as       g. Aircrew life support equipment,
+                                                         follows, specially designed or      aircrew safety equipment and other
+                                                                                             devices for emergency escape, not
+        g. 非屬 ML10.a.之機組人員生命維 g. 非屬 ML10.a.之機組人員生命維持 modified for military use:              specified in ML10.a., designed for
+                                                                                             "aircraft" specified by ML10.a. or
+        持設備、安全設備與其他緊急狀況 設備、安全設備與其他緊急狀況逃離 g. Aircrew life support equipment,                  "sub-orbital craft" specified in
+                                                                                             ML10.j.;
+        逃離使用之裝置，其設計用於     使用之裝置，其設計用於 ML10.a.所 aircrew safety equipment and other
+                                                                                             j. "Sub-orbital craft" and related
+        ML10.a.所述之〝航空器〞者； 述之〝航空器〞者或 ML10.j 所述的 devices for emergency escape, not             equipment, as follows, and specially
+                                                                                             designed or modified components
+                          〝次軌道飛行器〞；                      specified in ML10.a., designed for  therefor:
+                                                                                             1."Sub-orbital craft";
+                                                         "aircraft" specified by ML10.a.;    2.Launch equipment, recovery
+                                                                                             equipment and ground support
+                          j. 〝次軌道飛行器〞及相關設備，以                                                 equipment;
+                          及為其特別設計或改裝的零件，如                                                    3.Equipment designed for command or
+                          下：                                                                 control.
+                          1.“次軌道飛行器”；
+                          2. 發射設備、回收設備及地面支援設
+                          備；
+                          3. 用於指揮或控制的設備。
+
+                                                         c. Certified for civil use by civil c. Certified for civil use by civil
+
+                                             39
+修正條目              現行內容                    擬修正/新增內容                 現行內容英譯                                                 擬修正/新增內容英譯
+
+      c. 已獲得1個或以上歐盟會員國或          c. 已獲得1個或以上瓦聖那協議會員       aviation authorities of one or more                       aviation authorities of one or more
+      瓦聖那協議會員國之民航機構認證            國之民航機構認證作為民用者。           EU Member States or Wassenaar                             Wassenaar Arrangement Participating
+      作為民用者。                                              Arrangement Participating States.                         States.
+
+      a. 為軍用而設計或改裝之航空發動                                   a. Aero-engines designed or                               a. Aero-engines designed or modified
+      機，且已獲得1個或以上歐盟會員                                                                                               for military use which have been
+      國或瓦聖那協議會員國之民航機構            a. 為軍用而設計或改裝之航空發動 modified for military use which                                  certified by civil aviation authorities of
+      認證為〝民用航空器〞用途，或為                                                                                               one or more Wassenaar Arrangement
+      其特別設計之零件；                  機，且已獲得1個或以上瓦聖那協議 have been certified by civil aviation                             Participating States for use in "civil
+                                                          authorities of one or more EU                             aircraft", or specially designed
+      註解3：就 ML10.a. 及 ML10.d. 目  會員國之民航機構認證為〝民用航空         Member States or Wassenaar                                components therefor;
+      的，為非軍用之〝航空器〞或改裝
+      為軍用之航空發動機而特別設計之            器〞用途，或為其特別設計之零件； Arrangement Participating States for                              Note 3 For the purposes of ML10.a.,
+      零件及相關設備，僅適用於作為軍                                                                                               ML10.d. and ML10.j., specially
+      事用途而需要改裝之軍用零件及軍                                     use in "civil aircraft", or specially                     designed components and related
+      用相關設備。                                                                                                        equipment for non-military "aircraft",
+                                                          designed components therefor;                             aero-engines or "sub-orbital craft"
+                                                                                                                    modified for military use applies only
+                                 註解3：就 ML10.a.、ML10.d. 及  Note 3 For the purposes of ML10.a.                        to those military components and to
+                                                          and ML10.d., specially designed                           military related equipment required for
+                                                                                                                    the modification to military use.
+                                 ML10.j.目的，為非軍用之〝航空 components and related equipment
+
+                                 器〞或改裝為軍用之航空發動機或 for non-military "aircraft" or aero-
+
+                                 〝次軌道飛行器〞而特別設計之零件 engines modified for military use
+
+                                 及相關設備，僅適用於作為軍事用途 applies only to those military
+
+                                 而需要改裝之軍用零件及軍用相關設 components and to military related
+                                                          equipment required for the
+                                 備。                       modification to military use.
+
+      註解4：就 ML10.a.目的，軍事用途       註解4：就 ML10.a. 和 ML10.j.目的， Note 4 For the purposes of ML10.a.,                     Note 4 For the purposes of ML10.a.
+      包括：戰鬥、軍事偵察、突擊、軍            軍事用途包括：戰鬥、軍事偵察、突 military use includes: combat,                                    and ML10.j., military use includes:
+      事訓練、後勤補給、運輸及空投部                                                                                               combat, military reconnaissance,
+      隊或軍事設備。                    擊、軍事訓練、後勤補給、運輸及空 military reconnaissance, assault,                                 assault, military training, logistics
+      註解5：ML10.a.不管制〝航空器〞                                                                                           support, and transporting and
+      或〝比空氣輕載具〞具下列所有特            投部隊或軍事設備。                military training, logistics support,                     airdropping troops or military
+      性：                                                                                                            equipment.
+      a.第一次生產於1946年之前；           註解5：ML10.a.不管制〝航空器〞或 and transporting and airdropping
+                                 〝比空氣輕載具〞具下列所有特性： troops or military equipment.
+
+                                 a.第一次生產於1946年之前；
+                                                                                  Note 5 ML10.a. does not apply to
+
+                                 b.未包含一般軍用貨品清單管制之項 "aircraft" or "lighter-than-air-
+
+                                            40
+修正條目                 現行內容         擬修正/新增內容             現行內容英譯                                擬修正/新增內容英譯
+
+         b.未包含一般軍用貨品清單管制之         目，除非該項目符合1個或以上瓦聖 vehicles" that meet all of the      Note 5 ML10.a. does not apply to
+         項目，除非該項目符合1個或以上                                                               "aircraft" or "lighter-than-air vehicles"
+         歐盟會員國或瓦聖那協議會員國民          那協議會員國民航機構之安全與適航 following:                          that meet all of the following:
+         航機構之安全與適航標準；及
+                                  標準；及                                                 a. Were first manufactured before
+                                                                                       1946;
+                                                a. Were first manufactured before
+                                                                                       b. Do not incorporate items specified
+                                                1946;                                  by the Common Military List, unless
+                                                                                       the items are required to meet safety or
+                                                b. Do not incorporate items specified  airworthiness standards of civil
+                                                by the Common Military List,           aviation authorities of one or more
+                                                unless the items are required to meet  Wassenaar Arrangement Participating
+                                                safety or airworthiness standards of   States; and
+                                                civil aviation authorities of one or
+                                                more EU Member States or
+                                                Wassenaar Arrangement
+                                                Participating States; and
+
+         註解：ML18.a.及 ML18.b.包括下列                Note ML18.a. and ML18.b. include
+                                                the following equipment:
+         設備：                                    a. Continuous nitrators;
+
+         a. 連續式硝化器；
+
+         b. 具下列任一特性之離心測試儀器                      b. Centrifugal testing apparatus or
+                                                equipment having any of the
+         或設備：                                   following:
+
+         1. 由單個或多個總額定馬力大於
+
+ML18.註解  298 kW(400 hp)之馬達驅動；     刪除註解          1. Driven by a motor or motors         --
+         2. 酬載能力達113 kg 或以上；或
+
+         3. 酬載91 kg 或以上之離心加速能                   having a total rated horsepower of
+
+         力達8 g 或以上；                             more than 298 kW (400 hp);
+
+         c. 壓榨脫水機(脫水壓機)；                        2. Capable of carrying a payload of
+                                                113 kg or more; or
+         d. 特別設計或改裝為軍用〝炸藥〞
+
+         擠出成形之螺旋擠壓機；
+
+         e. 將擠出之〝推進劑〞切成一定尺                      3. Capable of exerting a centrifugal
+
+                                            41
+修正條目       現行內容                    擬修正/新增內容               現行內容英譯                        擬修正/新增內容英譯
+
+      寸之切割機；                                     acceleration of 8 g or more on a
+                                                 payload of 91 kg or more;
+      f. 直徑1.85 m 或以上，生產能量逾
+                                                 c. Dehydration presses;
+      227 kg 之顛動筒；
+                                                 d. Screw extruders specially
+      g. 用於固體〝推進劑〞之連續式攪                          designed or modified for military
+                                                 "explosive" extrusion;
+      拌機；
+                                                 e. Cutting machines for the sizing
+      h. 用於軍用〝炸藥〞成分研磨之流                          of extruded "propellants";
+
+      體能研磨機；                                     f. Sweetie barrels (tumblers) 1,85 m
+                                                 or more in diameter and having over
+      i. 能將 ML8.c.8.所述之金屬粉體做                     227 kg product capacity;
+
+      成均勻粒子球形之設備；
+
+      j. 用於 ML8.c.3.所述之材料進行轉
+
+      換之對流變換器。
+
+                                                 g. Continuous mixers for solid
+                                                 "propellants";
+
+                                                 h. Fluid energy mills for grinding or
+                                                 milling the ingredients of military
+                                                 "explosives";
+
+                                                 i. Equipment to achieve both
+                                                 sphericity and uniform particle size
+                                                 in metal powder listed in ML8.c.8.;
+
+ML19  a. 為摧毀目標或迫使其任務中止而 a. ML19.f.未列明的〝雷射〞‵武器系   j. Convection current converters for
+  .a                                             the conversion of materials listed in
+  .b  特別設計之‵雷射′系統；            統′；                ML8.c.3.
+  .c
+      b. 能摧毀目標或迫使其任務中止之 b. 粒子束‵武器系統′；            a. "Laser" systems specially designed a. "Laser" 'weapon systems' not
+                                                 for destruction or effecting mission- specified by ML19.f.;
+                                                 abort of a target;
+
+                                             42
+修正條目                  現行內容        擬修正/新增內容          現行內容英譯                               擬修正/新增內容英譯
+
+技術註解.(新   粒子束系統；             c. 高功率射頻(RF) ‵武器系統′；                                        b. Particle beam 'weapon systems';
+      增)  c. 能摧毀目標或迫使其任務中止之
+          高功率射頻(RF)系統；                              b. Particle beam systems capable of
+
+                                                    destruction or effecting mission-    c. High power Radio-Frequency (RF)
+
+                             技術註解：                  abort of a target;                   'weapon systems';
+
+                             就 ML19. 目的，‵武器系統′的設計目
+
+                             的是損害、摧毀目標或導致目標任務 c. High power Radio-Frequency              Technical Note
+
+                             中止。                    (RF) systems capable of destruction For the purposes of ML19., 'weapon
+                                                    or effecting mission-abort of a target; systems' are designed to damage,
+
+                                                                                         destroy or effect mission abort of a
+
+                                                                                         target.
+
+                                            43
+

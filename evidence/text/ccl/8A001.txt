@@ -1,0 +1,87 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 8A001；eCFR 2026-10-29〕
+
+8A001 Submersible vehicles and surface vessels, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, AT
+
+Control(s) | Country chart (see supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+AT applies to entire entry | AT Column 1
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $5000; N/A for 8A001.b and .c.1
+
+GBS: N/A
+
+Special Conditions for STA
+
+STA: License Exception STA may not be used to ship any commodity in 8A001.b, 8A001.c or 8A001.d to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled
+
+Related Controls: For the control status of equipment for submersible vehicles, see: Category 6 for sensors; Categories 7 and 8 for navigation equipment; Category 8A for underwater equipment.
+
+Related Definitions: N/A
+
+Items:
+
+a. Manned, tethered submersible vehicles designed to operate at depths exceeding 1,000 m;
+
+b. Manned, untethered submersible vehicles having any of the following:
+
+b.1. Designed to 'operate autonomously' and having a lifting capacity of all the following:
+
+b.1.a. 10% or more of their weight in air; and
+
+b.1.b. 15 kN or more;
+
+b.2. Designed to operate at depths exceeding 1,000 m; or
+
+b.3. Having all of the following:
+
+b.3.a. Designed to continuously 'operate autonomously' for 10 hours or more; and
+
+b.3.b. 'Range' of 25 nautical miles or more;
+
+Technical Notes: 1. For the purposes of 8A001.b, 'operate autonomously' means fully submerged, without snorkel, all systems working and cruising at minimum speed at which the submersible can safely control its depth dynamically by using its depth planes only, with no need for a support vessel or support base on the surface, sea-bed or shore, and containing a propulsion system for submerged or surface use.
+
+2. For the purposes of 8A001.b, 'range' means half the maximum distance a submersible vehicle can 'operate autonomously'.
+
+c. Unmanned submersible vehicles as follows:
+
+c.1. Unmanned submersible vehicles having any of the following:
+
+c.1.a. Designed for deciding a course relative to any geographical reference without real-time human assistance;
+
+c.1.b. Acoustic data or command link; or
+
+c.1.c. Wireless optical data or command link exceeding 1,000 m;
+
+c.2. Unmanned, submersible vehicles, not specified in 8A001.c.1, having all of the following:
+
+c.2.a. Designed to operate with a tether;
+
+c.2.b. Designed to operate at depths exceeding 1,000 m; and
+
+c.2.c. Having any of the following:
+
+c.2.c.1. Designed for self-propelled maneuver using propulsion motors or thrusters specified by 8A002.a.2; or
+
+c.2.c.2. Fiber optic data link;
+
+d. [Reserved]
+
+e. Ocean salvage systems with a lifting capacity exceeding 5 MN for salvaging objects from depths exceeding 250 m and having any of the following:
+
+e.1. Dynamic positioning systems capable of position keeping within 20 m of a given point provided by the navigation system; or
+
+e.2. Seafloor navigation and navigation integration systems, for depths exceeding 1,000 m and with positioning “accuracies” to within 10 m of a predetermined point.

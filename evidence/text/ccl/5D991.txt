@@ -1,0 +1,25 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 5D991；eCFR 2026-10-29〕
+
+5D991 “Software” “specially designed” or modified for the “development,” “production” or “use” of equipment controlled by 5A991 and 5B991, and dynamic adaptive routing software as described as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: N/A
+
+Related Definitions: N/A
+
+Items: a. “Software”, other than in machine-executable form, “specially designed” for “dynamic adaptive routing”.
+
+b. [Reserved]

@@ -1,0 +1,11 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 9A011；eCFR 2026-10-29〕
+
+9A011 Ramjet, scramjet or 'combined cycle engines', and “specially designed” “parts” and “components” therefor. (These items are “subject to the ITAR.” See 22 CFR parts 120 through 130.)
+
+Technical Note: For the purposes of 9A011, 'combined cycle engines' combine two or more of the following types of engines:
+
+—Gas turbine engine (turbojet, turboprop and turbofan);
+
+—Ramjet or scramjet;
+
+—Rocket motor or engine (liquid/gel/solid-propellant and hybrid).

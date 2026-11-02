@@ -1,0 +1,113 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1A004；eCFR 2026-10-29〕
+
+1A004 Protective and detection equipment and “components”, not “specially designed” for military use, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, CB, RS, AT
+
+Control(s) | Country chart (see Supp. No. 1 to part 738)
+
+NS applies to entire entry | NS Column 2
+
+CB applies to chemical detection systems and dedicated detectors therefor, in 1A004.c, that also have the technical characteristic | CB Column 2
+
+RS apply to 1A004.d | RS Column 2
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: Yes for 1A004.a, .b, and .c.2.
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 1A995, 2B351, and 2B352. (2) See ECCN 1D003 for “software” “specially designed” or modified to enable equipment to perform the functions of equipment controlled under section 1A004.c (Nuclear, biological, and chemical (NBC) detection systems). (3) See ECCN 1E002.g for control libraries (parametric technical databases) “specially designed” or modified to enable equipment to perform the functions of equipment controlled under 1A004.c (Nuclear, biological, and chemical (NBC) detection systems). (4) Chemical and biological protective and detection equipment specifically designed, developed, modified, configured, or adapted for military applications is “subject to the ITAR” (see 22 CFR parts 120 through 130, including USML Category XIV(f)), as is commercial equipment that incorporates “parts” or “components” controlled under that category except for domestic preparedness devices for individual protection that integrate “components” and “parts” identified in USML Category XIV(f)(4) when such “parts” or “components” are: Integral to the device; inseparable from the device; and incapable of replacement without compromising the effectiveness of the device, in which case the equipment is subject to the export licensing jurisdiction of the Department of Commerce under ECCN 1A004. (5) This entry does not control radionuclides incorporated in equipment listed in this entry—such materials are subject to the licensing jurisdiction of the Nuclear Regulatory Commission (See 10 CFR part 110).
+
+Related Definitions: (1) 'Biological agents' means: pathogens or toxins, selected or modified (such as altering purity, shelf life, virulence, dissemination characteristics, or resistance to UV radiation) to produce casualties in humans or animals, degrade equipment or damage crops or the environment. (2) 'Riot control agents' are substances which, under the expected conditions of use for riot control purposes, produce rapidly in humans sensory irritation or disabling physical effects which disappear within a short time following termination of exposure. (Tear gases are a subset of 'riot control agents.')
+
+Items:
+
+a. Full face masks, filter canisters and decontamination equipment therefor, designed or modified for defense against any of the following, and “specially designed” “components” therefor:
+
+Note: 1A004.a includes Powered Air Purifying Respirators (PAPR) that are designed or modified for defense against agents or materials, listed in 1A004.a.
+
+Technical Notes: For the purposes of 1A004.a:
+
+1. Full face masks are also known as gas masks.
+
+2. Filter canisters include filter cartridges.
+
+a.1. 'Biological agents';
+
+a.2. 'Radioactive materials';
+
+a.3. Chemical warfare (CW) agents; or
+
+a.4. 'Riot control agents', as follows:
+
+a.4.a. α-Bromobenzeneacetonitrile, (Bromobenzyl cyanide) (CA) (CAS 5798-79-8);
+
+a.4.b. [(2-chlorophenyl) methylene] propanedinitrile, (o-Chlorobenzylidenemalononitrile) (CS) (CAS 2698-41-1);
+
+a.4.c. 2-Chloro-1-phenylethanone, Phenylacyl chloride (ω-chloroacetophenone) (CN) (CAS 532-27-4);
+
+a.4.d. Dibenz-(b,f)-1,4-oxazephine, (CR) (CAS 257-07-8);
+
+a.4.e. 10-Chloro-5, 10-dihydrophenarsazine, (Phenarsazine chloride), (Adamsite), (DM) (CAS 578-94-9);
+
+a.4.f. N-Nonanoylmorpholine, (MPA) (CAS 5299-64-9);
+
+b. Protective suits, gloves and shoes, “specially designed” or modified for defense against any of the following:
+
+b.1. 'Biological agents';
+
+b.2. 'Radioactive materials'; or
+
+b.3. Chemical warfare (CW) agents;
+
+c. Detection systems, “specially designed” or modified for detection or identification of any of the following, and “specially designed” “components” therefor:
+
+c.1. 'Biological agents';
+
+c.2. 'Radioactive materials'; or
+
+c.3. Chemical warfare (CW) agents;
+
+d. Electronic equipment designed for automatically detecting or identifying the presence of “explosives” (as listed in the annex at the end of Category 1) residues and utilizing 'trace detection' techniques (e.g., surface acoustic wave, ion mobility spectrometry, differential mobility spectrometry, mass spectrometry).
+
+Technical Note: For the purposes of 1A004.d, 'trace detection' is defined as the capability to detect less than 1 ppm vapor, or 1 mg solid or liquid.
+
+Note 1: 1A004.d does not apply to equipment “specially designed” for laboratory use.
+
+Note 2: 1A004.d does not apply to non-contact walk-through security portals.
+
+Note: 1A004 does not control: a. Personal radiation monitoring dosimeters;
+
+b. Occupational health or safety equipment limited by design or function to protect against hazards specific to residential safety or civil industries, including:
+
+1. Mining;
+
+2. Quarrying;
+
+3. Agriculture;
+
+4. Pharmaceutical;
+
+5. Medical;
+
+6. Veterinary;
+
+7. Environmental;
+
+8. Waste management;
+
+9. Food industry.
+
+Technical Notes: 1. 1A004 includes equipment, “components” that have been 'identified,' successfully tested to national standards or otherwise proven effective, for the detection of or defense against 'radioactive materials' 'biological agents,' chemical warfare agents, 'simulants' or “riot control agents,” even if such equipment or “components” are used in civil industries such as mining, quarrying, agriculture, pharmaceuticals, medical, veterinary, environmental, waste management, or the food industry.
+
+2. 'Simulant': A substance or material that is used in place of toxic agent (chemical or biological) in training, research, testing or evaluation.
+
+3. For the purposes of 1A004, 'radioactive materials' are those selected or modified to increase their effectiveness in producing casualties in humans or animals, degrading equipment or damaging crops or the environment.

@@ -1,0 +1,33 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 7A116；eCFR 2026-10-29〕
+
+7A116 Flight control systems and “parts” and “components”, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: MT, AT
+
+Control(s) | Country chart(see Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See 9A610.r. and 9A610.s. for items designed or modified for military UAVs. (2) See USML Category IV for items “specially designed” for use in rockets or missiles that are “subject to the ITAR.”
+
+Related Definitions: N/A
+
+Items: a. Pneumatic, hydraulic, mechanical, electro-optical, or electromechanical flight control systems (including fly-by-wire and fly-by-light systems) designed or modified for UAVs capable of delivering at least 500 kilograms of payload to a range of at least 300 km, other than those controlled by either USML paragraph VIII(a) or ECCN 9A610.a;
+
+b. Attitude control equipment designed or modified for UAVs capable of delivering at least 500 kilograms of payload to a range of at least 300 km, other than those controlled by either USML paragraph VIII(a) or ECCN 9A610.a;
+
+c. Flight control servo valves designed of modified for the systems in 7A116.a. or 7A116.b, and designed or modified to operate in a vibration environment greater than 10 g rms over the entire range between 20Hz and 2 kHz.
+
+Note: This entry includes the systems, equipment and valves designed or modified to enable operation of manned aircraft as unmanned aerial vehicles.

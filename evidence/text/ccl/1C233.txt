@@ -1,0 +1,29 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 1C233；eCFR 2026-10-29〕
+
+1C233 Lithium enriched in the lithium-6 ( 6 Li) isotope to greater than its natural isotopic abundance, and products or devices containing enriched lithium, as follows: elemental lithium, alloys, compounds, mixtures containing lithium, manufactures thereof, and waste or scrap of any of the foregoing.
+
+License Requirements
+
+Reason for Control: NP, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+NP applies to entire entry | NP Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+LVS: N/A
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: (1) See ECCNs 1E001 (“development” and “production”) and 1E201 (“use”) for technology for items controlled by this entry. (2) See ECCN 1B233 for lithium isotope separation facilities or plants, and equipment therefor. (3) Certain facilities or plants for the separation of lithium isotopes are subject to the export licensing authority of the Nuclear Regulatory Commission (see 10 CFR part 110).
+
+Related Definitions: The natural isotopic abundance of lithium-6 is approximately 6.5 weight percent (7.5 atom percent).
+
+ECCN Controls: This entry does not control thermoluminescent dosimeters.
+
+Items: The list of items controlled is contained in the ECCN heading.

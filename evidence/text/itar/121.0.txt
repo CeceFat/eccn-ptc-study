@@ -1,0 +1,73 @@
+〔22 CFR § 121.0；eCFR 2026-10-29〕
+
+§ 121.0 United States Munitions List description and definitions.
+
+For a description of the U.S. Munitions List and its designations, including the use of asterisks and the parenthetical “(MT)”, see § 120.10 of this subchapter. Within this part, the following definitions apply:
+
+ASE means Aircraft Survivability Equipment.
+
+CCL. See Commerce Control List.
+
+Commerce Control List means the Commerce Control List in 15 CFR part 774, supplement no. 1.
+
+Department of Defense means the U.S. Department of Defense.
+
+DoD. See Department of Defense.
+
+EAR means the Export Administration Regulations in 15 CFR parts 730 through 774.
+
+ECCN means Export Control Classification Number, the alphanumeric designation used on the CCL. See definition at 15 CFR part 772.
+
+Foreign advanced military aircraft means an aircraft that is all of the following:
+
+(1) Non-U.S.-origin, including foreign derivatives of U.S.-origin aircraft;
+
+(2) In development, or entering production, after 2023; and
+
+(3) Has one or more of the following advanced military capabilities:
+
+(i) An Active Electronically Scanned Array (AESA) fire control radar;
+
+(ii) Integrated signature management;
+
+(iii) Integrated electronic warfare systems; or
+
+(iv) The ability to engage targets beyond visual range (BVR).
+
+Gross weight rating means the maximum operating weight, or displacement, of the conveyance, including the fully configured weight of all fuel, fluids (excluding wet ballast open to the operating environment), payloads, other deployables or expendables (e.g., countermeasures, other autonomous commodities, and torpedoes), and cargo.
+
+Secured ASE means a system or equipment that meets all of the following conditions:
+
+(1) Is one of the following defense articles designed for the purpose of aircraft survivability:
+
+(i) Directed/directional infrared countermeasures (DIRCM) systems; or
+
+(ii) Infrared or ultraviolet missile warning systems necessary for the operation of DIRCM;
+
+(2) Is incorporated into an aircraft; and
+
+(3) Employs anti-tamper measures to deter, delay, and detect access to, or exploitation of, critical system components and software.
+
+Survivability-enhanced aircraft means a manned aircraft meeting all of the following criteria:
+
+(1) Prior to the modifications described in paragraph (2) of this definition, was an aircraft in production that:
+
+(i) Is not described on the USML;
+
+(ii) Is described only in ECCN 9A991.b; and
+
+(iii) Was issued either:
+
+(A) A type certificate by the U.S. Federal Aviation Administration as a transport airplane or small commuter airplane, or
+
+(B) An equivalent certification by the civil aviation authorities of one or more North Atlantic Treaty Organization member states or major non-NATO allies;
+
+(2) Has been modified to facilitate the incorporation of one or more items of secured ASE as defined in this section;
+
+(3) But for the modifications performed to incorporate secured ASE, would not be described in paragraph (a)(8) of USML Category VIII; and
+
+(4) Is not described in any USML paragraph other than paragraph (a)(8) of USML Category VIII.
+
+USML means the United States Munitions List in § 121.1.
+
+[90 FR 5601, Jan. 17, 2025, as amended at 90 FR 41784, Aug. 27, 2025; 91 FR 55461, Aug. 28, 2026]

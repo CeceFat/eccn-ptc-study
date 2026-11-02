@@ -1,0 +1,259 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 2B350；eCFR 2026-10-29〕
+
+2B350 Chemical manufacturing facilities and equipment, except valves controlled by 2A226, as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: CB, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+CB applies to entire entry | CB Column 2
+
+AT applies to entire entry | AT Column 1
+
+License Requirement Note: This ECCN does not control equipment that is both: (1) “Specially Designed” for use in civil applications e.g., food processing, pulp and paper processing, or water purification) and (2) inappropriate, by the nature of its design, for use in storing, processing, producing or conducting and controlling the flow of the chemical weapons precursors controlled by 1C350.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+LVS: $2,000 for all Country Group B destinations, except those also listed under Country Group D:3 (see Supplement No. 1 to part 740 of the EAR).
+
+GBS: N/A
+
+List of Items Controlled
+
+Related Controls: See also ECCNs 2A226, 2A992, 2A993, 2B231, and 2B999.
+
+Related Definitions: For purposes of this entry the term 'chemical warfare agents' includes those agents “subject to the ITAR” (see 22 CFR parts 120 through 130).
+
+Items: a. Reaction vessels, reactors and prefabricated repair assemblies therefor, as follows:
+
+a.1. Reaction vessels or reactors, with or without agitators, with total internal (geometric) volume greater than 0.1 m 3 (100 liters) and less than 20 m 3 (20,000 liters), where all surfaces that come in direct contact with the chemical(s) being processed or contained are made from any of the following materials:
+
+a.1.a Alloys with more than 25% nickel and 20% chromium by weight;
+
+a.1.b. Nickel or alloys with more than 40% nickel by weight;
+
+a.1.c. Fluoropolymers (polymeric or elastomeric materials with more than 35% fluorine by weight);
+
+a.1.d. Glass (including vitrified or enameled coating or glass lining);
+
+a.1.e. Tantalum or tantalum alloys;
+
+a.1.f. Titanium or titanium alloys;
+
+a.1.g. Zirconium or zirconium alloys; or
+
+a.1.h. Niobium (columbium) or niobium alloys;
+
+a.2. Prefabricated repair assemblies, and their specially designed components, that:
+
+a.2.a. Are designed for mechanical attachment to glass-lined reaction vessels or reactors described in 2B350.a.1; and
+
+a.2.b. Have metallic surfaces that are made from tantalum or tantalum alloys and come in direct contact with the chemical(s) being processed.
+
+b. Agitators designed for use in reaction vessels or reactors described in 2B350.a.1, and impellers, blades or shafts designed for such agitators, where all surfaces that come in direct contact with the chemical(s) being processed or contained are made from any of the following materials:
+
+b.1. Alloys with more than 25% nickel and 20% chromium by weight;
+
+b.2. Nickel or alloys with more than 40% nickel by weight;
+
+b.3. Fluoropolymers (polymeric or elastomeric materials with more than 35% fluorine by weight);
+
+b.4. Glass (including vitrified or enameled coatings or glass lining);
+
+b.5. Tantalum or tantalum alloys;
+
+b.6. Titanium or titanium alloys;
+
+b.7. Zirconium or zirconium alloys; or
+
+b.8. Niobium (columbium) or niobium alloys.
+
+c. Storage tanks, containers, receivers and prefabricated repair assemblies therefor, as follows:
+
+c.1. Storage tanks, containers or receivers with a total internal (geometric) volume greater than 0.1 m 3 (100 liters) where all surfaces that come in direct contact with the chemical(s) being processed or contained are made from any of the following materials:
+
+c.1.a. Alloys with more than 25% nickel and 20% chromium by weight;
+
+c.1.b. Nickel or alloys with more than 40% nickel by weight;
+
+c.1.c. Fluoropolymers (polymeric or elastomeric materials with more than 35% fluorine by weight);
+
+c.1.d. Glass (including vitrified or enameled coatings or glass lining);
+
+c.1.e. Tantalum or tantalum alloys;
+
+c.1.f. Titanium or titanium alloys;
+
+c.1.g. Zirconium or zirconium alloys; or
+
+c.1.h. Niobium (columbium) or niobium alloys;
+
+c.2. Prefabricated repair assemblies, and their specially designed components, that:
+
+c.2.a. Are designed for mechanical attachment to glass-lined storage tanks, containers or receivers described in 2B350.c.1; and
+
+c.2.b. Have metallic surfaces that are made from tantalum or tantalum alloys and come in direct contact with the chemical(s) being processed.
+
+d. Heat exchangers or condensers with a heat transfer surface area of less than 20 m 2, but greater than 0.15 m 2, and tubes, plates, coils or blocks (cores) designed for such heat exchangers or condensers, where all surfaces that come in direct contact with the chemical(s) being processed are made from any of the following materials:
+
+d.1. Alloys with more than 25% nickel and 20% chromium by weight;
+
+d.2. Nickel or alloys with more than 40% nickel by weight;
+
+d.3. Fluoropolymers (polymeric or elastomeric materials with more than 35% fluorine by weight);
+
+d.4. Glass (including vitrified or enameled coatings or glass lining);
+
+d.5. Tantalum or tantalum alloys;
+
+d.6. Titanium or titanium alloys;
+
+d.7. Zirconium or zirconium alloys;
+
+d.8. Niobium (columbium) or niobium alloys;
+
+d.9. Graphite or carbon-graphite;
+
+d.10. Silicon carbide; or
+
+d.11. Titanium carbide.
+
+e. Distillation or absorption columns of internal diameter greater than 0.1 m, and liquid distributors, vapor distributors or liquid collectors designed for such distillation or absorption columns, where all surfaces that come in direct contact with the chemical(s) being processed are made from any of the following materials:
+
+e.1. Alloys with more than 25% nickel and 20% chromium by weight;
+
+e.2. Nickel or alloys with more than 40% nickel by weight;
+
+e.3. Fluoropolymers (polymeric or elastomeric materials with more than 35% fluorine by weight);
+
+e.4. Glass (including vitrified or enameled coatings or glass lining);
+
+e.5. Tantalum or tantalum alloys;
+
+e.6. Titanium or titanium alloys;
+
+e.7. Zirconium or zirconium alloys;
+
+e.8. Niobium (columbium) or niobium alloys; or
+
+e.9. Graphite or carbon-graphite.
+
+f. Remotely operated filling equipment in which all surfaces that come in direct contact with the chemical(s) being processed are made from any of the following materials:
+
+f.1. Alloys with more than 25% nickel and 20% chromium by weight; or
+
+f.2. Nickel or alloys with more than 40% nickel by weight.
+
+g. Valves, as follows:
+
+g.1. Valves having both of the following characteristics:
+
+g.1.a. A nominal size greater than 1.0 cm ( 3/8 in.); and
+
+g.1.b. All surfaces that come in direct contact with the chemical(s) being produced, processed, or contained are made from materials identified in Technical Note 1 to 2B350.g.
+
+g.2. Valves, except for valves controlled by 2B350.g.1, having all of the following characteristics:
+
+g.2.a. A nominal size equal to or greater than 2.54 cm (1 inch) and equal to or less than 10.16 cm (4 inches);
+
+g.2.b. Casings (valve bodies) or preformed casing liners controlled by 2B350.g.3, in which all surfaces that come in direct contact with the chemical(s) being produced, processed, or contained are made from materials identified in Technical Note 1 to 2B350.g; and
+
+g.2.c. A closure element designed to be interchangeable.
+
+g.3. Casings (valve bodies) and preformed casing liners having both of the following characteristics:
+
+g.3.a. Designed for valves in 2B350.g.1 or .g.2; and
+
+g.3.b. All surfaces that come in direct contact with the chemical(s) being produced, processed, or contained are made from materials identified in Technical Note 1 to 2B350.g.
+
+Technical Note 1 to 2B350.g: All surfaces of the valves controlled by 2B350.g.1, and the casings (valve bodies) and preformed casing liners controlled by 2B350.g.3, that come in direct contact with the chemical(s) being produced, processed, or contained are made from the following materials:
+
+a. Alloys with more than 25% nickel and 20% chromium by weight;
+
+b. Nickel or alloys with more than 40% nickel by weight;
+
+c. Fluoropolymers (polymeric or elastomeric materials with more than 35% fluorine by weight);
+
+d. Glass (including vitrified or enameled coating or glass lining);
+
+e. Tantalum or tantalum alloys;
+
+f. Titanium or titanium alloys;
+
+g. Zirconium or zirconium alloys;
+
+h. Niobium (columbium) or niobium alloys; or
+
+i. Ceramic materials, as follows:
+
+i.1. Silicon carbide with a purity of 80% or more by weight;
+
+i.2. Aluminum oxide (alumina) with a purity of 99.9% or more by weight; or
+
+i.3. Zirconium oxide (zirconia).
+
+Technical Note 2 to 2B350.g: The 'nominal size' is defined as the smaller of the inlet and outlet port diameters.
+
+h. Multi-walled piping incorporating a leak detection port, in which all surfaces that come in direct contact with the chemical(s) being processed or contained are made from any of the following materials:
+
+h.1. Alloys with more than 25% nickel and 20% chromium by weight;
+
+h.2. Nickel or alloys with more than 40% nickel by weight;
+
+h.3. Fluoropolymers (polymeric or elastomeric materials with more than 35% fluorine by weight);
+
+h.4. Glass (including vitrified or enameled coatings or glass lining);
+
+h.5. Tantalum or tantalum alloys;
+
+h.6. Titanium or titanium alloys;
+
+h.7. Zirconium or zirconium alloys;
+
+h.8. Niobium (columbium) or niobium alloys; or
+
+h.9. Graphite or carbon-graphite.
+
+i. Multiple-seal and seal-less pumps with manufacturer's specified maximum flow-rate greater than 0.6 m 3/hour (600 liters/hour), or vacuum pumps with manufacturer's specified maximum flow-rate greater than 5 m 3/hour (5,000 liters/hour) (under standard temperature (273 K (0 °C)) and pressure (101.3 kPa) conditions), and casings (pump bodies), preformed casing liners, impellers, rotors or jet pump nozzles designed for such pumps, in which all surfaces that come into direct contact with the chemical(s) being processed are made from any of the following materials:
+
+i.1. Alloys with more than 25% nickel and 20% chromium by weight;
+
+i.2. Nickel or alloys with more than 40% nickel by weight;
+
+i.3. Fluoropolymers (polymeric or elastomeric materials with more than 35% fluorine by weight);
+
+i.4. Glass (including vitrified or enameled coatings or glass lining);
+
+i.5. Tantalum or tantalum alloys;
+
+i.6. Titanium or titanium alloys;
+
+i.7. Zirconium or zirconium alloys;
+
+i.8. Niobium (columbium) or niobium alloys.
+
+i.9. Graphite or carbon-graphite;
+
+i.10. Ceramics; or
+
+i.11. Ferrosilicon (high silicon iron alloys).
+
+Technical Note to 2B350.i: The seals referred to in 2B350.i come into direct contact with the chemical(s) being processed (or are designed to do so), and provide a sealing function where a rotary or reciprocating drive shaft passes through a pump body.
+
+j. Incinerators designed to destroy chemical warfare agents, chemical weapons precursors controlled by 1C350, or chemical munitions having “specially designed” waste supply systems, special handling facilities and an average combustion chamber temperature greater than 1000 °C in which all surfaces in the waste supply system that come into direct contact with the waste products are made from or lined with any of the following materials:
+
+j.1. Alloys with more than 25% nickel and 20% chromium by weight;
+
+j.2. Nickel or alloys with more than 40% nickel by weight; or
+
+j.3. Ceramics.
+
+Technical Note 1: Carbon-graphite is a composition consisting primarily of graphite and amorphous carbon, in which the graphite is 8 percent or more by weight of the composition.
+
+Technical Note 2: For the items listed in 2B350, the term 'alloy,' when not accompanied by a specific elemental concentration, is understood as identifying those alloys where the identified metal is present in a higher percentage by weight than any other element.
+
+Technical Note 3: The materials used for gaskets, packing, seals, screws or washers, or other materials performing a sealing function, do not determine the control status of the items in this ECCN, provided that such components are designed to be interchangeable.
+
+Note: See Categories V and XIV of the United States Munitions List for all chemicals that are “subject to the ITAR” (see 22 CFR parts 120 through 130).

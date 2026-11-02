@@ -1,0 +1,172 @@
+〔U.S. BIS｜Cat. 5, Part 2 Quick Reference Guide｜抓取 2026-11-02｜https://www.bis.gov/media/documents/new-version2-cat-5-part-2-quick-reference-guide-july-2017.pdf〕
+
+                    Quick Reference Guide
+   Category 5 Part 2 - Information Security: ECCN 5X
+
+A          “END ITEMS,” “EQUIPMENT,” “ACCESSORIES,” “ATTACHMENTS,”
+
+           “PARTS,” “COMPONENTS,” AND “SYSTEMS”
+
+I. CRYPTOGRAPHIC “INFORMATION SECURITY”
+
+5A002  NS  “Information security” systems, equipment and “components”
+       AT       .a – Designed or modified to use 'cryptography for data confidentiality'
+
+       EI  having 'in excess of 56 bits of symmetric cryptographic strength key
+
+           length, or equivalent', where that cryptographic capability is usable
+
+           without "cryptographic activation" or has been activated, as follows:
+
+           o a.1 Items having "information security" as a primary function;
+
+           o a.2 Digital communication or networking systems, equipment or
+
+           components, not specified in paragraph 5A002.a.1.;
+
+           o a.3 Computers, other items having information storage or
+
+           processing as a primary function, and components therefor, not
+
+           specified in paragraphs 5A002.a.1. or 5A002.a.2.;
+
+           N.B. For operating systems, see also 5D002.a.1. and
+
+           5D002.c.1.
+
+           o a.4 - Items, not specified in paragraphs 5A002.a.1. to a.3., where
+
+           the 'cryptography for data confidentiality' having 'in excess of 56
+
+           bits of symmetric cryptographic strength key length, or
+
+           equivalent' meets all of the following:
+                a. It supports a non-primary function of the item; and
+                b. It is performed by incorporated equipment or
+
+           "software" that would, as a standalone item, be specified
+
+           by ECCNs 5A002, 5A003, 5A004, 5B002 or 5D002..
+
+            .b – designed/modified to enable, by means of “cryptographic
+
+           activation,” an item to achieve/exceed the controlled performance levels
+
+               for functionality specified by 5A002.a that would not otherwise be met.
+            .c – designed/modified to use or perform “quantum cryptography”
+
+               (Quantum Key Distribution - QKD)
+            .d – designed/modified to use cryptographic techniques to generate
+
+           channelizing codes, scrambling codes or network identification codes,
+
+           for systems using ultra-wideband modulation techniques and having a
+
+               bandwidth >500 MHz; or “fractional bandwidth” of 20% or more
+            .e – designed/modified to use cryptographic techniques to generate the
+
+           spreading code for “spread spectrum” systems, not controlled in
+
+           5A002.d, including the hopping code for “frequency hopping” systems.
+
+5A992 AT Equipment not controlled by 5A002
+
+                         .c – Commodities classified Mass Market – 740.17(b)
+
+II. NON-CRYPTOGRAPHIC “INFORMATION SECURITY”
+
+5A003 NS “Systems’ “equipment” and “components,” for non-cryptographic “information
+       AT security”
+                  .a – Communications cable systems designed/modified using
+
+           mechanical, electrical or electronic means to detect surreptitious
+
+               intrusion (See Note re: physical layer security)
+            .b – “Specially designed” or modified to reduce the compromising
+
+           emanations of information-bearing signals beyond what is necessary for
+
+           health, safety or electromagnetic interference standards.
+
+III. DEFEATING, WEAKENING OR BYPASSING “INFORMATION SECURITY”
+
+5A004  NS  “Systems,” “equipment” and “components” for defeating, weakening or
+       AT  bypassing “information security”
+
+       EI   .a – Designed /modified to perform ‘cryptanalytic functions’ including
+
+           by means of reverse engineering
+
+B          TEST, INSPECTION AND “PRODUCTION EQUIPMENT”
+
+5B002  NS  “Information Security” test, inspection and “production” equipment
+       AT       .a – Equipment “specially designed” for the “development” or
+
+           “production” of equipment controlled by 5A002, 5A003, 5A004 or
+
+               5B002.b;
+            .b – Measuring equipment “specially designed” to evaluate and validate
+
+           the “information security” functions of equipment or “software”
+
+           controlled by 5A002, 5A003 or 5A004, or 5D002.a or 5D002.c
+
+           respectively
+
+C                        “MATERIAL” – [RESERVED]
+
+D                        “SOFTWARE”
+
+5D002  NS  “Software”
+       AT       .a – “Software” “specially designed” or modified for the
+
+       EI  “development,” “production” or “use” of a.1 - equipment specified by
+
+           5A002 or “software” specified by 5D002 c.1; a.2 – equipment specified
+
+           by 5A003 or “software” specified by 5D002 c.2; a.3 equipment
+
+               specified by 5A004 or “software” specified by 5D002 c.3.
+            .b – “Software” designed or modified to enable, by means of
+
+           “cryptographic activation”, an item to meet the criteria for functionality
+
+               specified by 5A002.a, that would not otherwise be met;
+            .c – “Software” having the characteristics, or performing or simulating
+
+           the functions of c.1 - the equipment controlled by 5A002.a, .c. .d or .e; ,
+
+           c.2 – the equipment controlled by 5A003; c.3 - equipment specified by
+
+           5A004.
+
+           Note: does not apply to “software” limited to tasks of “OAM”
+
+           implementing only published or commercial cryptographic standards
+
+5D992 AT “Information Security” “software” not controlled by 5D002
+
+                         .c – Commodities classified Mass Market – 740.17(b)
+
+E                        “TECHNOLOGY”
+
+5E002  NS  “Technology”
+       AT       .a – “Technology” according to the General Technology Note for the
+
+       EI  “development,” “production” or “use” of equipment or “software”
+
+           controlled by 5A002, 5A003, 5A004 or 5B002, or 5D002.a or 5D002.c
+                            respectively
+                         .b – “Technology” to enable, by means of “cryptographic activation,”
+
+                            an item to achieve/exceed the controlled performance levels for
+
+                            functionality specified by 5A002.a that would not otherwise be met.
+
+5E992 AT “Information Security” “technology” according to the General Technology
+
+                   Note, not controlled by 5E002
+                         .b – “Technology” for the “use’ of Mass Market commodities or
+
+                            “software” controlled by 5A992.c or 5D992.c respectively
+

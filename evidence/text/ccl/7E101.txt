@@ -1,0 +1,27 @@
+〔15 CFR Part 774, Supp. No. 1, ECCN 7E101；eCFR 2026-10-29〕
+
+7E101 “Technology,” according to the General Technology Note for the “use” of equipment controlled by 7A001 to 7A006, 7A101 to 7A107, 7A115 to 7A117, 7B001, 7B002, 7B003, 7B101, 7B102, 7B103, or 7D101 to 7D103 for MT reasons.
+
+License Requirements
+
+Reason for Control: MT, RS, AT
+
+Control(s) | Country Chart (See Supp. No. 1 to part 738)
+
+MT applies to entire entry | MT Column 1
+
+RS applies to “technology” required for the use of inertial navigation systems, or inertial equipment, or “specially designed” “parts” and “components” therefor, “specially designed” for 9A991.b aircraft | RS Column 1
+
+AT applies to entire entry | AT Column 1
+
+List Based License Exceptions (See Part 740 for a description of all license exceptions)
+
+TSR: N/A
+
+List of Items Controlled
+
+Related Controls: The “technology” related to 7A003.b, 7A005, 7A103.b, 7A105, 7A106, 7A115, 7A116, 7A117, 7B103, software specified in the Related Controls paragraph of ECCN 7D101, 7D102.a, or 7D103 is “subject to the ITAR” (see 22 CFR parts 120 through 130).
+
+Related Definitions: N/A
+
+Items: The list of items controlled is contained in the ECCN heading.
